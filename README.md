@@ -1,7 +1,4 @@
-# zf8-Qk4x-71Lm-3Pd8-Vb26
+# Zygor Forever
 
-Build output for the **Master Farmer** launcher - do not edit by hand.
-The files are Prometheus (Bot preset) encoded build output.
-
-Loaded in game by the Master Farmer launcher (Sylvanas), which reads
-`manifest.lua` and downloads every listed file into memory.
+Encoded distribution of version 1.2.6 for Master Farmer card 8 (Forever).
+Branch: sentinel-nav. Readable development source is maintained separately.
