@@ -1,1 +1,320 @@
-return(function(...)local Y={"$<ohQm.=";"$DaIW834G+_";":LT2Wmie3DYpc/b+U","$T<:9`.?^!R",":tRR6RHjd/ypBOk8ywKxD37atblDLsDUn8w1mndCE";"$l3B&;!lK6p";"$?KL](CY%W!-<",":pO3QeiZzwupqZPPegSslVhV7Gsq1BIUAAUpC/bwHOLQHhu6tpzxaMTI20h4J2Q8FacIpTb6qAujuot==";":+zCEkd3n1AV=","$CaY**","$CNfk?RiOI$4:3$4DRkT@R\\E,*\\M6k3kR&\"J@MFj\"Kh(9PB9tkI@+s@6)$I9A,9:HWn)CjXA!rOoV%Sd^r@jQM!*n)*qB5e;R:m#Z%IiQa_lNtd";"$)6U=a",":+qNGXMF3/XU=";"$Ku\'%p#U,EgYD]#QTqF?Ua*cJW]VO,M5<=MGs\'QaFj,CrNi_O=W%CiL;B^6Sn4EtMgsm[jh#lP/69su\"SHLi#[HoJ",":6v/Gt+Pr",":RwiESX94LtK=","$2n`,R\"T";"$R`Z[9@a%8?([i7C>#-o5iK";"$iqGQi*&)tPW`ePP#c",":BneXcW+qRr6e4p0yDG==";":4zEdlDr=";":dWohUNp=","$/6/aZCMCi$*?9$3";"$,Q","$EWJEV=1pnF!V";"$Vu^uqAOY>%",":MftawAR0","$[!K%.Ut","$ee>1.co.\'?f6kr@";":Gb8zAltL";"$T!6cWP.Rpo";"$@F","$%-sjm<]","$b5g/\\D0;fB#_Ep)GB:gR66","$hTSL7H=fhJ";"$sr8M.u\\NF";":wA==";":knPf1JUA79XgNvdB","$QF";":j7HZq360u7U=";"$oe`Y\\Tk^2%";":juHJu/Z=";":7pYHrpVKEHa=","$73<01Cd><;";":yt==",":n9n=";":5Tzjp5J=";":PrxVY60CbSu=",":pnwENt==";"$rVl/LD1^";"$eQpl=(q(pfZ8</5%&soPK1Z";"$&!","$lf9_p2n9h";"$@A^,q&;.",":wbhQHnD5fgZ=",":axj8aV3PiRa=";":dld9Pd/6eNquT0iA5B00P1+7btjU0f9A";"$3d[6X2A]>/",":uvka6nPxWxr45bcfl+n3StYA4l8WHBMCsDkN60dm";":8Z/Byjozwpt=","$-h:Ato[b+S";"$",":HPdYMKw47qt=",":sV7LaG3mLRbSrCm=";"$u#";"$#bG.PrkSPGc4CkK?e<G.QcP";":IidALPiHUgjf3anoLz1uZ6AvYNFCO5aMUc/orFtwWDuaiKX9ufa5E0R0E6kkLn+79R0yZlL69B2If/Vq9eva2EZF1Qsrx26Pe9AdJX9y7r5dy2uqOFlaryd+FoRKeG==";"$_%rj3)$Ss/BB:($abf/b)\\XHp\'?lV<%U]Z4d<As?%ipu(Mf@dr*tpD";"$-PN:m";":QxLpFqpj";":+HyQf9lSbdwZqG==",":xlqWwiy9cMn=";"$7Y",":fElueDA=";"$fK#[";":oA==","$]M_2O";":Z7/VKMesxkyoiYlJ6qhMSpvI";":VY7CHlo+E34uiW/OeA==",":BQ3RP1t=",":7S6F5E8hBcTFdFH59j1c4NDJ17P8KebhM1eu3pbnuEJ=";":Z8xvmrz93W3DaG==";":IUxgO7mI";":yp==",":tuKYfia=","$ugV*Xt_";"$InN#7bN;,[";"$j?",":WRyYhLea";"$W@PQUeXg";"$Mc\")rZDM7",":OsGmKerKMxND";"$t.H(%Ep*","$eK";":hkOCcNqv";"$`Zl0e#@",":uhep+kOY0vn=";":hCoG16VHWwLdJkSsQS9MEXH5Lqq/wYXkPlDGaZHq";":HcsW1B+hOnJ=",":lkClUt==";"$Xn";":zff67Bu=";"$3jq&=f=+","$c/geR)hKke!`";":asxayXLyIx16YGipuTVRp9xDjff5","$m>OTVJ6S";":eSbdGroYmxg=";":RtHIU24RaSn=","$-rjn+";":4wxT0wCHNDAnT9HxoDjtCni0kHiK9lifDRECOwTQ";":99WL6u0Q5CEHQKjqCp==";":J6Wldv6YpwcqU9eo";":AIo4";"$[bh,a)DN<5";":EPn4+IXytOXP";"$Ci(ld\"C",":P2x2UQH0ScOfcdqL2TK=","$t)lQ","$$Pds%";":cGTrYegCHBFJyYG2MUKPBDn=";":ZxAA38B/rOp=",":/G==",":htC/QbrjkK0d12he7Y17Jz9wbWZpX53D","$R<r<N<4dR7VF";"$?mLBr9YC",":42LguXm1h8r=";"$9t_l";"$(*_)_eY";"$Bni2m,FK)m:Zc]/*Y/*igb@[R9mGZpt<S_","$sr8oN9*C!k-72l",":BJFRUoCBwysbFWe3";":fjOtIwV=","$2<;\\Df,JV";"$l<5",":3G==",":6A==",":twyl13lK+ln=";":2gZ4ONr=",":BrSpuOS3ahu=";":gEHYfPTb",":Ufy/f4MQK/r=","$d0)iUnt";":DEFTGMAv2tA=";"$4Ne_`P0tcE";":oG1tbuqMjFr=",":wDvvAYeYy2A=","$*at1ND>YOT>F4?ftUaJ#o=";"$[,5H"}local function E(w)return Y[w+(660312+-653006)]end for w,H in ipairs({{-279503+279504;4065586431%(4141519431%(16492984-(-987736)))};{((((((575351-(-242229))+-2019525)-(-628058))+146245)+538223)+89464600)%4478759,-787486-(-787611)},{-373464+373590;(756017+-1369772)+613903}})do while H[650251-650250]<H[(-387894+(-130169+(-121035+-314794)))+(1427374-473480)]do Y[H[354867+(406993+-761859)]],Y[H[301338-301336]],H[(-395252-433700)-(-943219+(-680879+795145))],H[(43133264762%385137305)%2321357]=Y[H[1139028722%6622260]],Y[H[-288390-(-288391)]],H[(1982718-1029671)+-953046]+3144112471%13379202,H[-744652-(-744654)]-1029164313%11695049 end end do local w=table.insert local H=string.char local a=string.sub local J=table.concat local j=string.len local U={["6"]=(-58599+195243337)%2144887,r=2341469751%10790183;I=1669334812%7553551,V=2818662531%12870605,p=969414-969398,d=366957-366898,["1"]=1124825575%(836848+9030043);n=718921-(558187-(-160678));h=2937136378%12445493,f=2067013829%15087692;J=826002+-825998;T=131424-131363;["4"]=126539841%(1275110372%(538363+12314911));Q=445360-445310;H=(894874+-1462047)+567178,["5"]=-561859+(7038+3651946168%14843054),A=(237626+-348129)+110535,e=740561-740527;C=-515492+515505;P=(1097706437-(-359629))%4692590,["+"]=(-50541+58171)-7611,y=75680-75618;i=51525+-51483;m=226096-226036;["8"]=-745446+279630779%((1141830012-(-92527-151213))%13326795),s=269127634%15831035;E=782852-782814;S=-658319-(-658377),["7"]=775370+(-87606-687709);R=741221-741174,B=207131+((-910111+1633674)-930663),G=((432110+346855)+-1431772)-(-652855);M=-999346-(-999356);D=(630757701-(-20694))%8884202,["0"]=1429404902%9221967;b=49195681%647311;t=23213+(-317756+(-1018733+400231388%4155397));["3"]=-372625+372668,["/"]=-275137-(-275166);j=-889786+889794;["2"]=48237015%9647396,["9"]=423430-423408;w=114583+-114529,o=-465416-(-465423),a=955787+-955743;W=(-199191+-440284)-(-639526),Y=373005+-372959,X=781638174%5353686;l=-79227+79230;v=(109207+657728)-(-60531+(433335-(-394104))),x=2742597037%14586836-271855;N=232767297%12250909;q=-19558-(530036+-549609);c=(69466083973%798529004)%7770486,z=1192731931%6854781;k=421528+-421519;L=(887972673-563046)%7273849,u=1072749840%9247843,F=-524772+524783,U=1873198228%8362492;O=599100670%7123355-738848;K=732130736%5014594,g=1220486428%12204864;Z=(15955+-201143)+185212}local D=Y local z=type local P={h=-575633+575685,V=-463464-(-463472),E=906828+-906790;["@"]=810131417%8101314,["$"]=-963082-(-963155);Y=2528066105%9875258;n=(81418993701%775452070)%(-1004022+12880613);M=181072437%(1840300977%10632098),F=576335271%3256131,P=(-230996+(7568-1987))-(-225495),["%"]=364402-364392;["7"]=-811263+811316,["!"]=409608678%(5528631-(814747-(-212690))),["5"]=-158702+158714,i=854123+-854088;["."]=(373344243-219762)%7614784;[":"]=1291893858%11852237,p=-332445-(593697-3296780460%14519182);C=1113327114%12796863,["^"]=-149972-(-149985),[")"]=-1041896+(1010760-(688474-719678)),L=-582156-(-582214),Z=465312+(-827532+362267);["<"]=-9982+9996,k=1835037261%7489948,O=((817437105-24908)-(-298977-286402))%8702101,["8"]=-278628-(-278668);["2"]=14194+-14125;["1"]=-771897-(-771980),["\""]=281144-(-697198+773964091)%12077903;b=79907-79848,r=-591074-(-591129);["["]=-495097+495147;["9"]=7534879%(-141199+584425);a=-701375-(-701378),d=548116574%11419094,A=-1028103+1028130;l=(19379228196%843190520-(-579670))%6636931;U=1040630-1040588;f=808629+-808550;D=-668474-((-145165-691230)-(-904978+737124));[";"]=782723-782653;R=3162215271%16384535,X=888998-888991;q=-168955-(-168976),["\'"]=-270445+270522,W=(801504101-(-647131))%3133403,["`"]=1356915568%8324635,T=228701-228696;["="]=(479726+-851982)-(221963+-594267);["?"]=1027585+(-289231+((-4683-(-240265))-(1005332+(533225-564702))));N=-278867-(-278927);["&"]=72058888%8006541;["#"]=81444-81405;e=-124439+(-216179-(-340689)),["*"]=(-190967+1037781651%15477531)-((215668-(-253481-164867))-37943);["/"]=(380383495427%2736665816-(-3265))%((16487875-(-410175))-970471),["3"]=3246456431%(1451930873%26131655),["0"]=3329218288%(17755466-(1296273-270547)),c=-755213+755285;Q=(263876-504168)+240318;I=-714188-(-714234),o=-821981-(-822037);["]"]=778289+-778223,H=((472688-511910)-(-676391))-637154,["4"]=45943959%685730,J=-1006142+1006218,B=-806289+806309,["("]=-925411-(-925420),["6"]=623392-623392;G=-612681+2649473681%12435967,S=496514-496473,[","]=-28787-(-28832),t=1883916998%12643738,s=2571049391%14861557;["\\"]=337411246%14058801;j=1433545542%15414468,g=-788587+788665,["+"]=635112-635101;m=(-221069-(-840154))-619011;K=(14111-(2082923-(388177+650726)))-(-1029911),_=1223809905%14744697;[">"]=251732+-251671;["-"]=-1011745+1011776;u=-957527-(-1274797-(-317238))}local y=math.floor for b=754005+-754004,#D,-905669+905670 do local m=D[b]if z(m)=="string"then local z=a(m,356201+(-799174-(-442974)),968447+(-378899+-589547))if z==":"then m=a(m,399002231%((214003975134%1019136449)%9828723))local z=j(m)local P={}local x=-967751-(-967752)local q=-1026535-(-1026535)local F=80253854%2588834 while x<=z do local J=a(m,x,x)local j=U[J]if j then q=q+j*((795064178%8027436-347950)^((993586083%14611560-F)))F=F+((-509727-((795481+-1782196)+1022085))-(-545098))if F==-883492-(-883496)then F=-502607+2376910887%(-902403+13409815)local a=y(q/(-240892+306428))local J=y((q%(-582495+(-18127-(-666158))))/(294422986%(890148499%(4837808212%21851539)-(-319106))))local j=q%(521239936%2505960)w(P,H(a,J,j))q=652862+((-847938-((-104574+-260427)+-111290))+-281215)end elseif J=="="then w(P,H(y(q/(805269+-739733))))if x>=z or a(m,x+(-38984-(787933-826918)),x+((-1937286-(-964880))-(-972407)))~="="then w(P,H(y((q%((524034798460%(622490714389%3705390911))%15413328))/((30512696014%136866939)%854902))))end break end x=x+(497541-497540)end D[b]=J(P)elseif z=="$"then m=a(m,(-435730-(-677368))+-241636)local U=j(m)local z={}local x=(593953+2969418894)%15967811 while x<=U do local J=(U-x)+(7002234360%(350080949-(-362544)))%2604606 local j=J>=616106+(-1248589-(-632488))and(746355-461484)-284866 or J local D=3942617560%(7218752020%30009110)local b=j>(-1012843+(-149374+784541625))%9004361 for w=(299723+2267100945)%(-58292+10226008),-66633+66637,(1396273326%10654007+-447596)-150812 do local H if w<j then local J=a(m,x+w,x+w)H=P[J]if not H then b=false break end else H=976618-976534 end D=D*(32704135%218027)+H end if b then local a=y(D/(4835663816%21904030))%(-613840+614096)local J=y(D/(-195107+260643))%(-1042444+1042700)local U=y(D/(649191+(-491318+-157617)))%(-919077-(-1326143-(-406810)))local P=D%((753130+224632)-977506)if j==828950+(-518228+-310717)then w(z,H(a,J,U,P))elseif j==-411884-(-411888)then w(z,H(a,J,U))elseif j==408393+(-1053302-(-644912))then w(z,H(a,J))elseif j==506160-(207140+299018)then w(z,H(a))end end x=x+j end D[b]=J(z)end end end end local p,v do local w=math[E(762384-769573)]local H=20515-20515 local a={}local J=table[E(1123243279%(3060976374%12255806)-288235)]local j=math[E(-151574-(-144331))]local U={}local D=string[E((-2711-507180806%(5610561-(-80292)))-(-690340))]local z=290524-290522 for w=309755-309754,46126+-45870,37302353%2194256 do U[w]=w end repeat local H=w(692143705%(11470568-(-889141)),#U)local j=J(U,H)a[j]=D(j-(52838-52837))until#U==-561945-(33741-595686)local P={}local function y()if#P==-528032+528032 then H=((H*(587770+-587697)+((244612+-1127787)+33758282192924)))%(35184372946904-858072)repeat z=(z*(1853810220%((192412+3322070258)%14466395)))%(37118961%488404)until z~=(-411971+70430)+341542 local w=z%(584177486%4636329)local a=(-303796+308781159%(857061+(1040850+14337739)))-((z-w))/(-910150+910182)local J=(j(H/(((1940487457%13380057+168401)+-818802)+(-53038-(-324249)))^a)%(-572577+4295539873))/(213018952%8520758)^w local U=j((J%((-324969+268103)+56867))*(4295370201-402905))+j(J)local D=U%(974292-908756)local y=((U-D))/(4664-(-60872))P={D%(-14124+14380),((D-D%(242305858%(132222+5502792))))/((-1043731+3497065951)%((277119697831%2827901427)%19159059)),y%((514030387-(-875249))%4680958);((y-y%((-115877+-357525)+473658)))/(156538649%(-81566+14312329))}end local w=#P local a=P[w]P[w]=nil return a end local b={}v=setmetatable({},{[E(-750047-(939686+-1682440))]=b;[E(969917+-977116)]=nil})function p(w,J)local j=b if(j[J])then return J else P={}local U=a H=J%((389435+(((-574380-48054)+178587527696%(185128792956%949452116))%(3469425-(-367736))+35184372016140))-637485)z=J%(-797466-(-797721))+(-667089-((483224+(-1038241-(-449667)))-561741))local D=#w j[J]=E(-864275-(-857008))local b=-35949-(-36189)local m=E(-923115-(-915848))for H=221823-(-203930+425752),D,899682-899681 do b=(((string[E(931199-938419)](w,H)+y())+b))%(536185-535929)m=m..U[b+325914625%4526592]end j[J]=m end return J end end local w=require(v[p(E((139296-(-693384))+-839892),37139+20802789075078)])local H=require(v[p(E(456603-1328956327%6919232),(16507220483244-439782)-78693)])local a={}local J=(1179079212-528924)%14030357 local j=355179505%2383755 local U=461955-461935 local D=952723+(-1324901-(-372181))local z=-951923+952823 local P=(-166334+671351715)%5118707-634764 local y=-692295+692295 local b={}local function m(w)local H,a=pcall(w)if H then return a end return nil end local function x(w)local H,a=pcall(require,w)if H and type(a)==v[p(E(665221+-672422),750429+18400157018467)]then return a end return nil end local function q(w)local H=package[v[p(E((-619689+330346)-(-282103)),419262+33549151515343)]][w]if type(H)==v[p(E((-9504+93829378339%(74244568153%629327061))%10656395+((-212854-(-687877))-530207)),15170626082702-812994)]then return H end return nil end local function F(w,...)local H=string[v[p(E(-90234-(-83011)),(1360853-(-331620+1155735))+10468314286367)]](w,...)pcall(function()(require(v[p(E(109680+-116939),11834764606170-(600668+-890488))]))[v[p(E(-825688-(-818490)),1022598+(281600+19019878052897))]](v[p(E(-949077+941829),(1042819+24171707572692)-(-757800+514765))]..H)end)local a=x(v[p(E((649770+-809973)-(409615+-562561)),869714+5865060144247)])if a and type(a[v[p(E(-672418-(-665247)),-492907+17571276012056)]])==v[p(E(883446-890731),1502837869766-(-767825))]then a[v[p(E(-758152-(-750872)),-420060+30476556307003)]](v[p(E(-400987+393792),16091276258117-947659)],H)end end local function O()if m(function()return core[v[p(E(590061-597336),279529+13286171081930)]][v[p(E(((268075+-740863)+-228166)-(-693730)),22475273262462-910799)]]()end)==true then return true end local w=x(v[p(E(126928+-134207),34462080574603-808079)])if w then if type(w[v[p(E(174539-181701),-211828+(11847828571386-505795))]])==v[p(E(575802-583073),15541516710748-(-980298))]and w[v[p(E(-577491+(-114384+(-673143+2849283465)%15311428)),18574207922463-100030)]]()==true then return true end if type(w[v[p(E(661019-668215),30208684812893-((-228722+((-955926+1770458)+-1521516))+(307368-310057)))]])==v[p(E(970068+-977240),(-1247142-(-613339))+26670405039626)]and w[v[p(E(843225-(-275736+1126199)),16641349499894-(-439527))]]()==true then return true end end local H=m(function()return core[v[p(E(3143880459%12674582-591349),879266+(889298+28939435758241))]][v[p(E(781832+-789038),25830884806928-97855)]]()end)if type(H)==v[p(E(-204543-(-197241)),28221664385656-685671)]and H>1026780+-1026780 then return true end local a=q(v[p(E(-124396+117096),929180+32929485533189)])if a and(type(a[v[p(E(-768450+761187),-695953+10405715823563)]])==v[p(E(539929+-547132),335095+27745703232477)]and a[v[p(E(-856293+(845678-(-3364))),6519367288036-183427)]]())then return true end return false end local function h(w)local H=m(function()return w:get_position()end)if not H then return end local a=((m(function()return w:get_rotation()end)or(((503500+-1384552)+1393413)+99994)-612355))+math[v[p(E(-675327-(-315608+-352436)),((116317284-((201178+202911)-(-115293)))%5437626-644820)+20420639782827)]]local J=x(v[p(E(124466+-131738),(-325746+(10670834925923-317337))-888478)])local j=x(v[p(E(-778819-(-771631)),34983812083801-589018)])if not J or not j or type(j[v[p(E(-533096-(-525857)),-200677+(((1314449935-(-951949))%10276445+1062733227032)-(-698249)))]])~=v[p(E(-435667-(-428459)),((879286+((91574-764907)+588749))-138658)+34881284595024)]then return end local D=J[v[p(E(576195+-583449),-1028363+(29007992456748-(-363825)))]](H[v[p(E(941939-949167),(695678+25336342217836)-(-829539))]]+math[v[p(E(870610-877791),371421+16709115638731)]](a)*U,H[v[p(E(-524611-(-517306)),(-1332474-(-903282))+24915497616366)]]+math[v[p(E((69393+-461313)+384704),7.2245771799199e+14%3127522599784)]](a)*U,H[v[p(E(867091+-874336),28493500485867-(-829450))]])if type(j[v[p(E(-291530+284362),(-993711+5928278206616)-(-549965))]])==v[p(E(1003452-1010682),-357686+19207686266029)]then j[v[p(E(847239-854423),11182568040611-876775)]]()end j[v[p(E(-178359+171060),26232768717592-(-978879))]](D,true)end local function T()local w=x(v[p(E(-785232+778030),29608833059993-(-435425))])if w and type(w[v[p(E(-769761+762532),73515491784597%(18378876205050-728104))]])==v[p(E(-248134+753271761%5053898),(-821256+27271809009354)%(6817954245094-301662))]then w[v[p(E(-885259-(-878007)),25855255383604-814697)]]()end end local function Q(w,a)local j={}for w=128157-128156,#b,411342+-411341 do if(a-b[w])<z then j[#j+(-499063-(729598+-1228662))]=b[w]end end j[#j+(146975065%1432448+-865368)]=a b=j F(v[p(E((487588+-11948)-482902),951959+18797458960934)],math[v[p(E(-360967+(-37457+2915944147)%15185172),-669070+9895934535109)]](J/(95785-(1138932-(1575308-532101)))),#b,math[v[p(E(-109998-(-102838)),617616+(28467972714121-603476))]](z/((818037+31163077429%224313596)%2938298)))pcall(function()core[v[p(E(67254-74458),984327+33668370380336)]][v[p(E(702540+-709757),(-742551+657733)+613898289479)]]()end)pcall(function()core[v[p(E(-265542-(-258308)),(-1012451+598660)+23279410043290)]][v[p(E(83797-91062),19815559699136-138866)]]()end)pcall(function()core[v[p(E(-628942-(-621709)),-711841+12931287902069)]][v[p(E((502986-(-195556))+((-1948013-(517743+-777675))-(-565234+-417058))),33703511653924-(-489205))]]()end)H[v[p(E(407805-414963),-971489+7051186285220)]]()local U=x(v[p(E(-838507-(-831261)),64284243182683%3781426589739)])if U and type(U[v[p(E(-416471-(-409244)),25194099434185-(-246333))]])==v[p(E(322060+-329341),127032008448-(-231729))]then pcall(U[v[p(E(-494280+487083),((-244183+2273105593%13445323)+-1124808)+25892368801144)]])end local P=x(v[p(E(-796281+789005),127173+24773398503002)])if P and type(P[v[p(E((-88331-396341)-(-477423)),(-256305+(50409+-523375))+34239394191939)]])==v[p(E(-894518+887249),-965194+32103456797529)]then pcall(P[v[p(E(-72926-(-65682)),-876740+22823932001368)]])end local y=x(v[p(E(558928+(543186+(((-651501+-1893743)-(-553763))-(-882198)))),(((-195733+83627)+27682972990981)-(-183162))-(-936356))])if y and type(y[v[p(E((-496641+-188154)-(-589043+-88588)),2399449666552-281659)]])==v[p(E(-901349+894076),22011221427682-(-843003))]then pcall(y[v[p(E(1013278+(60319+-1080784)),-138600+21536259065949)]])end local m=q(v[p(E((368809+-549028)-(-173005)),20517330207041-(-781069))])if m and type(m[v[p(E(290303-297585),82872+5704467873366)]])==v[p(E(936719-943884),3164362330427-136989)]then pcall(m[v[p(E((-296444+789285109%((68964-(-26239))+15368526))-345645),688648+7192132351967)]])end local O=q(v[p(E((501754+-549169)+40237),28376436157442-(-180002-300514))])if O and type(O[v[p(E(390812-397994),(-972766+823848)+13120305504797)]])==v[p(E(-64235+57013),-1016294+19607305726356)]then pcall(O[v[p(E(1018491-(2073131-1047345)),21057040306561-187169)]])end if#b>=D*(-17126-(-17128))then F(v[p(E(244559-((-1041260-(-367465+(((345037+246243)+-1380387)+301192)))-(-378050-59562))),(34206289432238-425167)-(-500726))],#b,math[v[p(E(-357357-(-350144)),(20074233201600-(1295301-441761))-(-282210))]](z/(-564745+564805)))b={}T()return end h(w)H[v[p(E(106330-113596),-238074+3927103807309)]](v[p(E(-896066-(-888845)),-883914+(-443583+1577183748625))],v[p(E(((-859222+2368237)-940029)-576247),34281709839781-(-517052))])end local B=-568162-(-575110)local i=356935968%1450958 local Z=425278+(43993-2610071118%13662837)local t=-918313-(-3540+-914785)local C=-671110-(-671110)local G=nil local f=239806+(796139-1035945)local function e()local w=q(v[p(E((404453+199963807%868881)-532921),4376826846352-(-865127))])if w and(type(w[v[p(E(-877264+870027),27522+27849873434508)]])==v[p(E(356149-363328),13126999730486-840048732%6408491)]and w[v[p(E(-234157-(-226853)),14406370116258-(-430483))]]())then return true end local H=x(v[p(E(-775815+768573),983337+12729139195549)])return H and(type(H[v[p(E(-350427-(-343177)),(-1298374-(-927774))+4092919340179)]])==v[p(E(-882241-(-875026)),(-847618+811522)+17117878437089)]and H[v[p(E(1025299-(1251485-218968)),272142139%(708146278%5385776)+35172775796147)]]()==true)end local function g(H)local a=m(function()return w[v[p(E(317308-324518),8097738087893-35070)]](B)end)if not a then return false,v[p(E(2406295379%(-744696+13208165)+-853140),28534232099638-(-671922+1028693))]end if m(function()return a:in_inventory()end)~=true then return false,v[p(E((1680746751%13128786-464184)+921698610%(650157+8564881)),(572523+-245942)+17114871097757)]end if m(function()return a:cooldown_up()end)==false then local w=m(function()return a:cooldown_remains()end)return false,string[v[p(E(482477+(904165+(-1639832-((620500+-1037206)+170682)))),3535775891618-78233)]](v[p(E(305515+-312734),32153696494069-(-396887))],tostring(w and math[v[p(E(1021228+-1028515),(269314+(21093782629508-250079))-1868001090%12288905)]](w)or v[p(E(-362649+355352),34224686080161-1015982)]))end local J=x(v[p(E(43476-50770),(728463+6390746082964)-529558)])if J and type(J[v[p(E(990626935%13376355-783939),367859+((29494817900403-258341)-988773))]])==v[p(E(-95452-(-88262)),12841435443443-(-447051))]then J[v[p(E(658396-(-224264-(-889846))),757083+15037219525478)]]()end local j=m(function()return(require(v[p(E(-457597+450339),(((-1830507-(369159+-1252578))+1623731)+13314996924108)-(995880-731915))]))[v[p(E(26406-33695),31932517467986-111932)]](B)end)==true return j,j and nil or v[p(E(-273661-(-266461)),(4601830636%39009781)%4710262+13347665268501)]end local function r(w,a)if a<f then local a=x(v[p(E(47662+-54836),2815249503426-(-334590-(-1830164-(464660+-1503539))))])local J=a and(type(a[v[p(E(((642530+-380450)+-679861)-(-410576)),8803508516657-491172)]])==v[p(E(1034719-1041896),13246439648213-922839)]and a[v[p(E((195375+-378182)-(-1114313-(-938731))),21028294202490-391627)]](w)>30180400%15090200)if J or m(function()return w:is_in_combat()end)==true then f=(71696+(4990396-696764))%2182664 C,G=(-23936-329767)-(677425-1031128),nil return false end local j=x(v[p(E((808814+-207070)+-609042),-147353+24205520974388)])if j and type(j[v[p(E(640723-647908),-484102+8763416763393)]])==v[p(E(352456-359759),10592743693375-205091)]then j[v[p(E(516591+-523859),28118895531629-(-576232))]]()end H[v[p(E(134258+-141450),-107297+22314346407794)]](v[p(E((-453499+981965)-535698),(-341121+14019988753919)-(-739984))],v[p(E(799481+-806657),8156928301902-255859)])return true end local J=m(function()return w:is_in_combat()end)==true local j=m(function()return w:is_dead()or w:is_ghost()end)==true local U=m(function()return w:is_indoors()end)==true if J or j or not U or not e()then C,G=167236-167236,nil return false end local D=m(function()return w:get_position()end)if not D then return false end if C==972590801%10687811 or not G then C,G=a,{[v[p(E(-378770-(-687468-(-928850+612860))),-152696+((1688008049-508049)%12878131+8156473409593))]]=D[v[p(E(410845+-418129),-824206+(30764707554412-640457))]],[v[p(E(754096+(-1374537-(-613188))),1080848391037-(((115252668-(-679772))-476071)%3173642-671903))]]=D[v[p(E(63447+-70724),8918434074180-990787)]]}return false end local z,P=D[v[p(E(60377+-67612),6239932352489-(-925208))]]-G[v[p(E(577854-585118),1295482182%9958077+31230536508535)]],D[v[p(E((-28335+-191224)-(-212365)),965900+10528008284258)]]-G[v[p(E(840679+-847935),((-1704772-(-1017181))-(510716165%6993260-434947))+16011659701391)]]if z*z+P*P>=Z*Z then C,G=a,{[v[p(E(-190143-(-182936)),15155549556694-(-652124))]]=D[v[p(E(-681665+674424),560009256%(-148008+2825588)+12448666448202)]],[v[p(E(203993942%3981086-965749),19418429857556-636064)]]=D[v[p(E(134688+-141978),13100453721372-864700)]]}return false end if(a-C)<i then return false end C,G=-592669-(-592669),nil local y,b=g(w)if y then F(v[p(E(690328-430607703%(2234511286%(14696414-567019))),1011771+11268085748578)],math[v[p(E(-378736+(-149984-(-521529))),191517+11796527042298)]](i/(157706-157646)))f=a+t H[v[p(E((308551-(768937-176170))-(-277033)),474770+2809052304338)]](v[p(E((549412-(284550+29341))-242807),-1041924+18283684090550)],v[p(E(-912414+905144),-426182+15401620636491)])return true end F(v[p(E((-864553-4516)-(-861899)),473848+26289827369856)],math[v[p(E(-425924+(1153092-(-12083-(-746506)))),-327931+17916595652816)]](i/(-332581-(-332641))),tostring(b))h(w)return true end function a.tick(H)if not H then return false end local a=w[v[p(E(559866+-567077),21230557047014-(-1798648-(-901146)))]]()local U=x(v[p(E(172816-180104),32987136901601-(-6492))])if U and(U[v[p(E((-1531007-(-845172))-(-678626)),-934291+14598094071463)]]and U[v[p(E(534147+-541310),2653295647826-(-804895))]]())then P,y,C,G=-553765+553765,a,1132940880%((317561808%110561959)%21830396-(-20314)),nil return false end if r(H,a)then return true end if O()then if P==(161483-(-761039))+-922522 or(a-y)>j then P=a end y=a if(a-P)>=J then P=1017531-1017531 Q(H,a)return true end elseif P~=-963449+963449 and(a-y)>j then P=31538+-31538 end return false end function a.reset()P,y=418986-418986,-121685+121685 C,G,f=962817+(-99747-(-624026+(-153982+1641078))),nil,868743+-868743 end return a end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- NPC-stuck watchdog
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- WHY NOT A GAME RELOAD
+--   The Sylvanas API has no way to reload the UI or restart the client - no
+--   reload, restart, logout, macro or console command, and no plugin reload.
+--   So this does what a reload would do for the BOT: throw away every piece
+--   of NPC-interaction state it holds and walk away from the NPC.
+--
+-- STUCK MEANS
+--   Continuously "at an NPC" for STUCK_AFTER seconds: an NPC window open
+--   (gossip, merchant, trainer, quest dialog), a vendor trip under way, or the
+--   quest engine working an accept / turn in / talk goal. A gap shorter than
+--   GAP_FORGIVE does not restart the clock - dialogs flicker between frames.
+--
+-- RECOVERY
+--   Close the gossip, quest and loot frames; clear the target; reset the
+--   vendor, trainer, loot and quest-dialog state; count the current quest
+--   goal as done so it is not walked straight back into; walk WALK_AWAY
+--   yards off (which also makes the game close a merchant or trainer
+--   window). If that happens MAX_RECOVERIES times inside RECOVERY_WINDOW,
+--   the bot is stopped instead of looping, and the log says why.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local state = require("state")
+
+local watchdog = {}
+
+local STUCK_AFTER = 300.0     -- 5 minutes
+local GAP_FORGIVE = 10.0      -- seconds not at an NPC before the clock resets
+local WALK_AWAY = 20
+local MAX_RECOVERIES = 3
+local RECOVERY_WINDOW = 900.0 -- 15 minutes
+
+local since = 0               -- when the current NPC stretch began
+local last_seen = 0           -- last tick that looked like an NPC interaction
+local recoveries = {}         -- times of recent recoveries
+
+local function safe(fn)
+    local ok, res = pcall(fn)
+    if ok then
+        return res
+    end
+    return nil
+end
+
+local function req(name)
+    local ok, mod = pcall(require, name)
+    if ok and type(mod) == "table" then
+        return mod
+    end
+    return nil
+end
+
+--- A module only if something already loaded it. The quest pack is loaded
+--- lazily; requiring it from here in grind mode would load it for nothing.
+local function loaded(name)
+    local m = package.loaded[name]
+    if type(m) == "table" then
+        return m
+    end
+    return nil
+end
+
+local function log(fmt, ...)
+    local text = string.format(fmt, ...)
+    pcall(function() require("actlog").console_warn("[Master Farmer - Zygor Forever] " .. text) end)
+    local elog = req("errorlog")
+    if elog and type(elog.warn) == "function" then
+        elog.warn("%s", text)
+    end
+end
+
+--- Does this tick look like the bot is at an NPC?
+local function at_npc()
+    if safe(function() return core.quests.is_gossip_frame_shown() end) == true then
+        return true
+    end
+    local vendor = req("vendor")
+    if vendor then
+        if type(vendor.merchant_open) == "function" and vendor.merchant_open() == true then
+            return true
+        end
+        if type(vendor.is_busy) == "function" and vendor.is_busy() == true then
+            return true
+        end
+    end
+    local n = safe(function() return core.quests.get_num_trainer_services() end)
+    if type(n) == "number" and n > 0 then
+        return true
+    end
+    local quest = loaded("quest/engine")
+    if quest and type(quest.in_npc_interaction) == "function" and quest.in_npc_interaction() then
+        return true
+    end
+    return false
+end
+
+local function walk_away(player)
+    local me = safe(function() return player:get_position() end)
+    if not me then
+        return
+    end
+    local ang = (safe(function() return player:get_rotation() end) or 0) + math.pi
+    local vec3 = req("common/geometry/vector_3")
+    local movement = req("movement")
+    if not vec3 or not movement or type(movement.nav_to) ~= "function" then
+        return
+    end
+    local spot = vec3.new(me.x + math.cos(ang) * WALK_AWAY, me.y + math.sin(ang) * WALK_AWAY, me.z)
+    if type(movement.nav_stop) == "function" then
+        movement.nav_stop()
+    end
+    movement.nav_to(spot, true)
+end
+
+local function stop_bot()
+    local gui = req("gui")
+    if gui and type(gui.stop) == "function" then
+        gui.stop()
+    end
+end
+
+local function recover(player, now)
+    -- Forget recoveries older than the window, then count this one.
+    local keep = {}
+    for i = 1, #recoveries do
+        if (now - recoveries[i]) < RECOVERY_WINDOW then
+            keep[#keep + 1] = recoveries[i]
+        end
+    end
+    keep[#keep + 1] = now
+    recoveries = keep
+
+    log("Stuck at an NPC for %d minutes - resetting NPC state and walking away (%d in the last %d min).",
+        math.floor(STUCK_AFTER / 60), #recoveries, math.floor(RECOVERY_WINDOW / 60))
+
+    pcall(function() core.quests.close_gossip() end)
+    pcall(function() core.quests.close_quest() end)
+    pcall(function() core.input.close_loot() end)
+    state.reset_target()
+
+    local vendor = req("vendor")
+    if vendor and type(vendor.reset) == "function" then pcall(vendor.reset) end
+    local trainer = req("trainer")
+    if trainer and type(trainer.reset) == "function" then pcall(trainer.reset) end
+    local loot = req("loot")
+    if loot and type(loot.reset) == "function" then pcall(loot.reset) end
+    local npc = loaded("quest/npc")
+    if npc and type(npc.close) == "function" then pcall(npc.close) end
+    local quest = loaded("quest/engine")
+    if quest and type(quest.skip_current_goal) == "function" then pcall(quest.skip_current_goal) end
+
+    -- 1.2.48: the first MAX_RECOVERIES resets already skipped the goal and walked away; stopping the whole bot there ended the
+    -- session (log 14:50, 4 stops). It now takes twice as many resets inside the window before the bot stops.
+    if #recoveries >= MAX_RECOVERIES * 2 then
+        log("Stuck at an NPC %d times in %d minutes - stopping the bot.",
+            #recoveries, math.floor(RECOVERY_WINDOW / 60))
+        recoveries = {}
+        stop_bot()
+        return
+    end
+    walk_away(player)
+    state.set_note("Watchdog", "Was stuck at an NPC - reset and walked away")
+end
+
+-- ----------------------------------------------------------------------------
+-- STUCK TRAVELLING -> HEARTHSTONE (2.45.0)
+-- ----------------------------------------------------------------------------
+-- Travelling (the quest engine walking to a waypoint, or navigation moving
+-- the character) for TRAVEL_STUCK seconds without getting TRAVEL_PROGRESS
+-- yards from where the stretch began. Fights, rests, loot and NPC visits are
+-- not travel and restart the clock. The fix is Hearthstone 6948: stop, cast
+-- (10 s), and hold every tick for HEARTH_HOLD so nothing moves the character
+-- and cancels it; the guide re-routes from home. With the stone on cooldown
+-- or missing, log it, walk off 20 yd to try another line, and start again.
+local HEARTHSTONE = 6948
+local TRAVEL_STUCK = 300.0
+local TRAVEL_PROGRESS = 20
+local HEARTH_HOLD = 12.0
+local travel_since = 0
+local travel_anchor = nil
+local hearth_until = 0
+
+local function travelling()
+    local quest = loaded("quest/engine")
+    if quest and type(quest.in_travel) == "function" and quest.in_travel() then
+        return true
+    end
+    local movement = req("movement")
+    return movement and type(movement.is_navigating) == "function" and movement.is_navigating() == true
+end
+
+local function use_hearthstone(player)
+    local item = safe(function() return izi.item(HEARTHSTONE) end)
+    if not item then
+        return false, "no hearthstone API"
+    end
+    if safe(function() return item:in_inventory() end) ~= true then
+        return false, "Hearthstone is not in the bags"
+    end
+    if safe(function() return item:cooldown_up() end) == false then
+        local left = safe(function() return item:cooldown_remains() end)
+        return false, string.format("Hearthstone on cooldown (%s s)", tostring(left and math.floor(left) or "?"))
+    end
+    local movement = req("movement")
+    if movement and type(movement.nav_stop) == "function" then
+        movement.nav_stop()
+    end
+    -- 2.312.0: core.input.use_item, not izi's use_self
+    local ok = safe(function() return require("spellcheck").use_item(HEARTHSTONE) end) == true
+    return ok, ok and nil or "Hearthstone use was refused"
+end
+
+local function travel_tick(player, now)
+    -- A hearth cast in progress: stand still until it has had time to land.
+    if now < hearth_until then
+        -- A fight ends the hold (2.217.0): it claimed the tick for 12 s ahead
+        -- of everything, so the bot stood still while something hit it. Combat
+        -- breaks the cast anyway; the stuck timer below starts over.
+        local targeting = req("targeting")
+        local attacked = targeting and type(targeting.attackers) == "function"
+            and targeting.attackers(player) > 0
+        if attacked or safe(function() return player:is_in_combat() end) == true then
+            hearth_until = 0
+            travel_since, travel_anchor = 0, nil
+            return false
+        end
+        local movement = req("movement")
+        if movement and type(movement.nav_stop) == "function" then
+            movement.nav_stop()
+        end
+        state.set_note("Watchdog", "Hearthstone - stuck travelling")
+        return true
+    end
+    local in_combat = safe(function() return player:is_in_combat() end) == true
+    -- 1.7.21 (user: outdoors, alive or dead, the outdoor unstick is the only
+    -- stuck logic; log 17:04 tried the Hearthstone as a ghost): indoors and
+    -- alive only
+    local dead = safe(function() return player:is_dead() or player:is_ghost() end) == true
+    local indoors = safe(function() return player:is_indoors() end) == true
+    if in_combat or dead or not indoors or not travelling() then
+        travel_since, travel_anchor = 0, nil
+        return false
+    end
+    local pos = safe(function() return player:get_position() end)
+    if not pos then
+        return false
+    end
+    if travel_since == 0 or not travel_anchor then
+        travel_since, travel_anchor = now, { x = pos.x, y = pos.y }
+        return false
+    end
+    local dx, dy = pos.x - travel_anchor.x, pos.y - travel_anchor.y
+    if dx * dx + dy * dy >= TRAVEL_PROGRESS * TRAVEL_PROGRESS then
+        travel_since, travel_anchor = now, { x = pos.x, y = pos.y }
+        return false
+    end
+    if (now - travel_since) < TRAVEL_STUCK then
+        return false
+    end
+    travel_since, travel_anchor = 0, nil
+    local ok, why = use_hearthstone(player)
+    if ok then
+        log("Stuck travelling to a waypoint for %d minutes - using the Hearthstone.", math.floor(TRAVEL_STUCK / 60))
+        hearth_until = now + HEARTH_HOLD
+        state.set_note("Watchdog", "Hearthstone - stuck travelling")
+        return true
+    end
+    log("Stuck travelling to a waypoint for %d minutes, and %s - walking off to try another line.",
+        math.floor(TRAVEL_STUCK / 60), tostring(why))
+    walk_away(player)
+    return true
+end
+
+--- Called once per bot tick while the bot is running.
+function watchdog.tick(player)
+    if not player then
+        return false
+    end
+    local now = izi.now()
+    local movement = req("movement")
+    if movement and movement.transport_blocked and movement.transport_blocked() then
+        since, last_seen, travel_since, travel_anchor = 0, now, 0, nil
+        return false
+    end
+    if travel_tick(player, now) then
+        return true
+    end
+    if at_npc() then
+        if since == 0 or (now - last_seen) > GAP_FORGIVE then
+            since = now
+        end
+        last_seen = now
+        if (now - since) >= STUCK_AFTER then
+            since = 0
+            recover(player, now)
+            return true
+        end
+    elseif since ~= 0 and (now - last_seen) > GAP_FORGIVE then
+        since = 0
+    end
+    return false
+end
+
+--- Forget the current stretch (bot stopped or restarted).
+function watchdog.reset()
+    since, last_seen = 0, 0
+    travel_since, travel_anchor, hearth_until = 0, nil, 0
+end
+
+return watchdog

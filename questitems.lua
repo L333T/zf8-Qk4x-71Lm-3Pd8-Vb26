@@ -1,1 +1,176 @@
-return(function(...)local n={",E8Skkc3a";",mLFJ3WNSfmL5",",1IWZ1E51jh9=","Z0sedQ";",izRMiw1=";",1zVnf34=",",kBtjsmgj";"Z`Pa?n\\h";",gewLUx6RGr==";",Tr==";"ZOl.f/Bc2u`\'qdru8\"","ZL50/[","ZZ:hdM(-A7&YA","Zu)d/9$M","ZOXQVFdmk7B","ZD%?J_:M","Z:q3dk7AK",",eEcpqxS=","Z8WHV<.0N";"ZHH9RG";"Z2L\':4O:";"ZcV,;GoJ&miT*AQ";",wSvcZ5oLyP==","Z_s2W>";",MliqtKu=";"ZCJ>`&&\"t","Z6LMH",",iuanUcRtUeEZ",",3NNF","ZJh1nU3X","Z]6<tqbYs_";"ZWX-H",",zCdspr==","Zq0VG5R(VXL",",Nf==","Za=_.k","Z9J!M","ZYh/SW1ci","Z^\\b!";",Kz7INf==";",wjFI","Z7!?1^idR";",ueqYrP==",",hjxd44==";"ZT\\GC/";"ZTV$p\"","ZOZWImLasm";"ZS\"??#WZ";"ZW!Dk;;uH,J8l",",AZgaL4==";",FnFPe3Vs",",haMOCMYY",",YxODo4F=","Z`<fa!1F";"ZL5h=#(k\"R^8H\"^Ub)^.+q$j>cgOB\'g/Wb?";"Z\'N!$V";",BQb4KnS9","Z\'_P%6Lr>";"Z\\%\")EDDsQ?1F","ZZ,Gi[s8!qj38HW(6`-";"Z5_X90i>3_fO)52WSk\\l\"";",uDHx03F=",",74==";"ZWS.m";"ZZl",",iuB1s1F=","Zb(d>";",xNPHvmu=","ZVWT=k[*qgj",",45+1L3S=","Zrdd@Q",",MCpzqG2ypybx","ZEo.-=","ZpD:";",BFmbor==";"ZU(8WcS]","Zf7efM[;l\'ec6";",kBToGnm=","ZDY$Ch";",kX6Rdo7/oP==","ZFZ`3EVaI\\@_W/lrBEP",",S6FT","Z0k";",cG5vyGVmh4==";"Z",",i33HaDQxFAN=","Z\\?SpJ80^";",jINx+Sm=";",oJx084==";"Ze_lo3uZJ\"U3X";",ZPF0Qi7aDCS=","ZV<U-:P,i",",Zr==","Zi@h?<e;(oPgd";"Z#/gu\"O:";",bKWvPf==";"Z:1[0.<2J";",3sPPY7fq"}local function U(r)return n[r-(565886+-550943)]end for r,E in ipairs({{865770+-865769;1056697133%4384635};{(221996-260885)-(-38890),2841493122%16809269+-726654};{-1045885+1045893;303827-303729}})do while E[(39238-(-36970))-76207]<E[1280444930%5001738]do n[E[-714438+714439]],n[E[-878691-(-878693)]],E[43059+-43058],E[375654-375652]=n[E[-744258+744260]],n[E[1756514761%13306930]],E[499905+-499904]+125029543%1033302,E[-130609+130611]-2437835921%11720365 end end do local r=n local E=table.concat local k=math.floor local H=string.char local g=string.len local J=string.sub local v=type local q={["7"]=199065+-199032;H=360870925%2110356,Y=-633056-(-633107);m=49779073%4525367;i=863254755%10527497,["5"]=(615635860-65616)%(144364+11047822),M=355257136%2819501;e=829085-(94904-(-734128)),U=1484408875%(3226848658%22014055),y=327683-327637;f=-806346+2030165754%7927185,a=1997586718%(10926231-412617),D=(34268-(-227277))+-261490,p=((-1500461-(-439327-236293))+1071005)-246133,["/"]=((121009+(985103152-1041554))-604944)%5685420;W=-565379+565381;E=-114054-(-114067);j=216439-216389;o=1312075292%6728591,c=1388037274%(-693259+17416599);["6"]=-157817+157834,v=668255-(613166-(-622229-(-567146)));L=(480808261-(-947560))%3649665;["2"]=908397+-908337,T=167075890%9827993,S=31297168%3912143;B=576867091%2721071;d=(-526680+505189)-((-1201551-((651217-892293)+-316835))+622144);V=416936-416915,P=((333399+120240695)%1125336-402675)-(-239565);["+"]=2267827364%((735122-(-76048))+9544206),N=(1023271-448234)-575009,s=1034656084%6122225,q=(822103+-946431)+124390;["3"]=-317066+317077,I=150802484%2513374;J=289297-289268;t=-315352-(-315409);["8"]=699100+-699081,l=656691786%8208647,Q=((-256018-696750)-(-182023+-513043))+257709;G=804832498%((45027083003%199300802)%12546741),k=(15163+-938632)-(-1910102-(-986615));x=-433655-(-433693);h=968302+(-567253-401024);X=439989+(299602+-739556),F=-391317-(779273+-1170594),g=-133662-(-133685);["4"]=365955-1240415129%12157345;["0"]=-374240-(-374248),K=503195-(-355006-(-858159));O=444732-444692,u=(-120141+180106)-59913,z=-616083-(-616146);C=(-319702+120317768265%495151044)%((331029+989599)-(-596934));R=733018-(-99837+832818),n=445020-444975;w=671807-671746,["1"]=-1033553-(-1033565);["9"]=347933+(752140+-1100017),A=6435-6413,Z=2194633155%16019220,b=(-684186-299346)-(-983566);r=-11944-(-11944)}local Y={Y=444409+-444351;j=-177917+177990,E=812993-812990,D=-767070+767102;U=537345-537275;["@"]=-590964+590987,m=571206960%11200136,F=(94652+-397234)+302630;O=232489833%(8914084-303351);N=261820284%1567786,J=(-800292+-101771)-(-902097);C=-874890-(-1852075-(-977160)),q=781441-781377;r=175137+-175060;["1"]=2545579178%14063973;p=((705060+(-471233+20027914185))%189029226)%3463063,H=-720836+(1750206-1029324),["/"]=253829436%3010938+-910570;["["]=-609601-(-609616);o=-67275+67312,["("]=(292152+723374)+-1015451,_=(6862732837%429431258)%(10244951-(-683160+126471)),B=65498067%(-13606+1423873)-625714,T=-512304-(-512335),c=791940-791910,["#"]=52793268%1199846,V=(-18155-(110294+2851454490)%(2683921806%(6107947218%(33982946-715094))))-(-395324);R=392979-392927,["2"]=(1024348994-(-161993))%9574869;L=340430+-340385;u=-577708-(259435-837222),[";"]=-834919+834975,["*"]=-325137+325190;s=159540-159483,["+"]=(-304976+1312671)+-1007612;["`"]=837923102%6982692;["$"]=(36866+364907)-(-196665+(1035509-437089));["\'"]=836464+-836464;["4"]=350383195%2025336;d=308991+(944424+-1253343);P=-52947-(-52974);Z=-169265-(-169279),A=-601152+601221,["!"]=-474704+474754,["6"]=152963-152946,["5"]=-448719-(-448801),["-"]=58162+-58115;S=972732977%9090962;["9"]=25261082%1804361;b=(1915179-890239)-538066321%2658621,["?"]=-947286-(-947294),W=660816-660767,[","]=836536-(1223373-386877);[")"]=799962+(-575817+-224106),["0"]=((676793+-530652)+454568)-600700;i=722873593%8605638,K=502872878%(335082828%9408648);l=-736226+736292;["."]=355981+-355971,G=(439004+(-909054-((-154946-(36388-(-439032)))-(-620915))))-(-460659);e=583557956%3137408,["<"]=864765+-864727;["&"]=(379207+1910848716)%11242517;["^"]=(266292+57012906010%1055934963)%10592113,["="]=390938-390879,n=-222087+222108;[">"]=981618-981599;["]"]=562404-562399;h=90441-90357;X=(43268930217%((-233922+34027)+1109966555))%4922857;["\\"]=619180070%4762923,["3"]=-1035718+1035781,M=51520-51466,a=-512058-(-512071),["%"]=(-1009006-(-235818+-811924))+-38658,g=-341165+(1380943-1039766);["8"]=-739428-(-739469),["7"]=(897855198-472963)%7478185;Q=(479206-610685)-(-131530),["\""]=(-121116-814537)-(124971347%15610700+-1021411),[":"]=-339293-(-339329);I=1850062250%7255146,t=1500693895%8200513;f=706099709%7845552;k=1918927381%14648300}local m=table.insert for o=246170533%1218666,#r,536351753%4623722 do local f=r[o]if v(f)=="string"then local v=J(f,(463042-635063)+172022,2291236588%11399187)if v==","then f=J(f,14303+-14301)local v=g(f)local Y={}local s=(-527761+1329392)-801630 local n=626065-3097004479%12742298 local U=848973-848973 while s<=v do local r=J(f,s,s)local E=q[r]if E then n=n+E*((-12721-(-1000759-(-987974)))^(((492084-492081)-U)))U=U+(-346334-(-346335))if U==312804+(-850420-(-537620))then U=(388433173127%1876526654)%10321280-(230025+(-177291+15818030558%69438475))%(529585+1971267)local r=k(n/(11040-(-54496)))local E=k((n%(3402187840%15188046))/(-198979-(397147-596382)))local g=n%(386589-386333)m(Y,H(r,E,g))n=57533808%(-1035635+(-568925+5200423))end elseif r=="="then m(Y,H(k(n/(1694231408%(12522689-(-606585))-489526))))if s>=v or J(f,s+1264152709%6945894,s+(1014470-1014469))~="="then m(Y,H(k((n%(464729736%13276120))/(-831380-(-831636)))))end break end s=s+(41177+-41176)end r[o]=E(Y)elseif v=="Z"then f=J(f,(17118403450%80047200)%498904)local v=g(f)local q={}local s=1733050111%(2047577376%27090965)while s<=v do local r=(v-s)+(-771680-(-771681))local E=r>=6519205%203725 and-218170-(-218175)or r local g=(62608894416%246506092)%(2545033001%17348564)local o=E>((58563+711787)-(35864-(-57931)))-676554 for r=105765075%1627155,1117241380%16191904,20948+-20947 do local k if r<E then local E=J(f,s+r,s+r)k=Y[E]if not k then o=false break end else k=-29063-(-29147)end g=g*(1021329+-1021244)+k end if o then local r=k(g/(159850+16617366))%((-1281506-(394852+-1001172))+675442)local J=k(g/(-17645+83181))%(-349194+(526414560%(63910+11614086)+-555290))local v=k(g/(847598-847342))%(1615699033%6994367)local Y=g%(-110813-(-111069))if E==346826-346821 then m(q,H(r,J,v,Y))elseif E==809636351%13272727 then m(q,H(r,J,v))elseif E==1531260003%8145000 then m(q,H(r,J))elseif E==-118271+118273 then m(q,H(r))end end s=s+E end r[o]=E(q)end end end end local s,f do local r=math[U(785641-728415175%7276445)]local E=table[U(124251-109302)]local k=string[U(673247+(-476194+-182058))]local H=-298509+(439288+-140779)local g={}local J={}local v=math[U(2665873835%16255237)]local q=2383781795%9459169-71205 for r=650371+(734627+-1384997),365178+-364922,-1003259-(-1003260)do g[r]=r end repeat local r=v(915042815%8551802,#g)local H=E(g,r)J[H]=k(H-(((-1367266-(-841777))+1385766)-860276))until#g==100675087%(330686+16421763)-160393 local Y={}local function m()if#Y==-904747+904747 then H=((H*((((-349834-(693968+-789882))+6514197419)%(45130695-(-466873)))%494794)+(34071517983604-(396878-82711))))%(35184372582335-493503)repeat q=(q*(-689180-(-689381)))%(-717416+717673)until q~=504961+-504960 local E=q%(400657+-400625)local k=(-750644+750657)-((q-E))/(-679244-(-679276))local g=(r(H/(742910+-742908)^k)%(-960827+4295928123))/(7536+-7534)^E local J=r((g%(886876+-886875))*((-640089+(4296127834-227381))-293068))+r(g)local v=J%(476653+-411117)local m=((J-v))/(2977918782%13353602)Y={v%(847850098%5767686),((v-v%(1468911313%(961445+4935717)-517719)))/(-15388-(-15644)),m%(-231603+(-447172-(-679031)));((m-m%((-997153-(-940997+941913))+998325)))/(345015724%((536104614026%5703326364)%26201283))}end local E=#Y local k=Y[E]Y[E]=nil return k end local o={}s=setmetatable({},{[U(71801+(997450+-1054292))]=o;[U((1044248479-28415)%(16240108-(-334576)))]=nil})function f(r,E)local k=o if(k[E])then return E else Y={}local g=J H=E%(-307403+(35184373011104-614869))q=E%(118884319%3128528)+(-683664-(-808599-(-124933)))local v=#r k[E]=U((365089+-704003)-(-353949))local o=(13293159824%1901019809)%12333600 local f=U(1549202835%(16288501-796623))for E=461956+-461955,v,514061251%(565065109%2994728)do o=(((string[U(2229703821%12741079)](r,E)+m())+o))%(-939215+939471)f=f..g[o+1390464188%11684573]end k[E]=f end return E end end local r={}r[s[f(U(-1041341+1056373),-1016067+5511703294857)]]=2371019498%16020402 local E=873021516%9093974 local function k(r,...)local E,k=pcall(r,...)if E then return k end return nil end local function H()local r,E=pcall(require,s[f(U(992201-977170),30232607143623-183649)])if r and(type(E)==s[f(U(230975656%(6460706-(-756814))),-692445+20326257716485)]and type(E[s[f(U(((927519-567152)+-226497)-118891),6649033680961-161082)]])==s[f(U(631983329%13166006),1804739123%(7122677-(-262179-(-79529)))+25725556641180)])then return E[s[f(U(481340+-466326),207353922%7130330+9866725178130)]]()end return 276206-365990163%((21962636335%477555313)%12699933)end local function g(r,...)local E,k=pcall(require,s[f(U(500780737%(1995974972%17334640)),-876034+21092407012714)])if E and(type(k)==s[f(U((512680-11486)+-486174),1614619800762-(-1147652-(-126594)))]and type(k[s[f(U(143178298%(527023+4775323)),32959934516395-(-466768))]])==s[f(U(610506-595553),9768+13985160444968)])then pcall(k[s[f(U(942765+-927761),486120+21586889768695)]],s[f(U(-847381-((628706+-125073)+-1366001)),34023835002091-(-665391))],r,...)end end local J={{[s[f(U(38366+-23373),825799+12059427938085)]]=1300831567%5442708;[s[f(U(564727287%4997454),34973237613644-725023)]]=858706597%3533772,[s[f(U(246641415%1840496),33049794291874-638227)]]={[271304+-261584]=true}};{[s[f(U(242253810%8074628),((144612+540590)+(27004039376406-451767))-(-914993+504535))]]=(735927964-845789)%4804299;[s[f(U(-14627-(-29640)),-972106+19135817223102)]]=2768746076%14966195,[s[f(U(-667354-(-682362)),-199941+18574362396083)]]={[90904795%966968]=true};[s[f(U(1084287169%13553402),1042214+7332865501361)]]=true}}local v={}function r.rows()return J end function r.quests_of(r)for E,k in ipairs(J)do if k[s[f(U((797119+-937832)-((-468057-127930)+440312)),-234617+31816064137143)]]==r then return k[s[f(U((-984370-(-374454))+624908),(34764633819657-(-8636))-(-45880))]]end end return v end function r.buff_only(r)for E,k in ipairs(J)do if k[s[f(U(820290729%13447143),1011283+23168258608810)]]==r then return k[s[f(U(36891006%1084590),11137783239315-(-275244))]]==true end end return false end function r.in_guides(E)return next(r[s[f(U(882161-(969977-102779)),398644+14755413250853)]](E))~=nil end function r.starts()return v end function r.starter_for()return nil end function r.targets()return v end function r.wanted_by()return v end local q={[s[f(U(-293187-(-941753-(840201+-1473752))),8686314929185-(-703422))]]=-1000514525-(-514525);[s[f(U(93155862%2106341+((-423405+-703207)-(-664744))),24103093627714-(-1022540))]]={};[s[f(U(-875522-(96009+-986513)),-271083+(-256794+(18280830000365-(-13654))))]]=s[f(U(2023435175%8029445),27693781675238-(-897184-3482))]}local Y={}local function m(r)local H=Y[r]if H then return H end local g=k(core[s[f(U(1482179174%8667627),13148219424274-163594)]][s[f(U(-439208+454169),-837792+12430009746507)]],r)local J=k(core[s[f(U(-71045-(-86014)),833904414%3472410+31681798010383)]][s[f(U(756586072%3038438),15969882833095-(-1037344))]],r)local v=type(J)==s[f(U(-954039+969067),29040004664005-((-646949+(878776+-522773))-(-672880)))]and tonumber(J[s[f(U(-678194+693213),14831840779115-((-627657-(-468082))+174035))]])or nil local q=type(g)==s[f(U(-1004466+1019434),20572217939872-(-894058+83225))]and((tonumber(g[s[f(U(-364860+379844),367250+14226986361382)]])==E or g[s[f(U(605429+-590407),9040298247695-(-1800))]]==s[f(U(839543-(218026+606479)),180808+8088298038173)]))H={[s[f(U(618251-603296),20242065709419%1686840164443-(-991100))]]=q==true,[s[f(U((772508+-211368)+-546137),25061354589197-(-778631+1738384))]]=((v and v>1845101025%13667415))and v or nil,[s[f(U((813809+-1749204)+950434),34341945705692-(-800600))]]=type(g)==s[f(U(92113568%2093149),12549916292606-(1637557-775877))]and(type(g[s[f(U((-965907-(-647724))-(-333206)),32122411372497-(-38404))]])==s[f(U(174394120%1337082+(-198413-360040)),34060391508926-(-1012667))]and g[s[f(U(-617776-(-798822-(-166063))),358054+11581516123908)]])or nil}if type(g)==s[f(U((678498+-1390336)-(-726809)),-67436+17320754520037)]then Y[r]=H end return H end local function o()local r,E={},{}for H=1612906856%14273512,-732948-(-732952),1280354517%10850462 do local g=k(function()return core[s[f(U(247285240%(((((-186026+-809892)-(-689873))+41696)+2283578)-(-996262))),19055635652200-((81492-(-361353))+-820729))]][s[f(U(112385+-97374),7593896907993-817305)]](H)end)if type(g)==s[f(U(865195+-850197),6483316733766-(-806774))]then for H=-301748-(-301749),#g,960457+-960456 do local J=g[H]local v=type(J)==s[f(U((-756704+801871)-30141),(791671+4275011889300)-461925)]and(J[s[f(U(142305-91170383%5057946),(-1403910-(-898730))+26604099683181)]]and k(function()return J[s[f(U(566328+-551291),-91279+24936708856040)]]:get_item_id()end))if type(v)==s[f(U(433756+-418768),(31708289828013-882122)-(-775527))]and(v>-41984+41984 and not E[v])then E[v]=true r[#r+113456485%3151569]=v end end end end return r end function r.list()local E=H()if E-q[s[f(U(823548+-808603),991445+24376436655372)]]<r[s[f(U(((-603507+32359454773076%(194937266320-733987))%1572018344)%10523915),-44709+((-1213574-(-856838))+11389019659044))]]then return q[s[f(U(715488-700488),(-663095+26856768700030)-(-561737))]]end q[s[f(U(1000706433%(-229435+5232892)),7075481032415-471526)]]=E local k={}local J=o()for E=9488053%225906,#J,309303751%1237215 do local H=J[E]local g=m(H)local v=r[s[f(U(10796311%(2963922327%(16274182-(938557-580120)))),(-1016989-(-723703+-142520))+12764305107969)]](H)if g[s[f(U(1210665456%5428926),-794890+761909241575)]]and(((g[s[f(U((-33207+326582834)%3549290),(-581385+21193077245055)-(-838919))]]or v))and H~=65544390%10922907)then k[#k+(467198+-467197)]={[s[f(U(25674880%1425547),23740623413622-693754)]]=H,[s[f(U(158065-(1153966-1010887)),860028+27613544382950)]]=g[s[f(U(104790242%(1491093823%13196401)),31018824456522-413616)]]or(s[f(U(-782130-(-797148)),-766165+5452015410035)]..H);[s[f(U((104189+348451)+(699308+-1136912)),21828692188876-422582)]]=g[s[f(U(1441608708%(1149177350%27070487)),-850208+((1005227+-1163876)+27484505544499))]];[s[f(U(129016227%1482773),57400+26869552344620)]]=r[s[f(U((533844+9774)+-528619),34671648608493-(-384951-1186167926%16941191))]](H);[s[f(U((1749474-(19297+957172))-758030),948658+12124433647748)]]=v;[s[f(U(-297117-(681501-993570)),-413165+6731708533641)]]=r[s[f(U(858147+-843120),270934+(12890714982399-(-1011895)))]](H)}end end table[s[f(U(168405403%1791387),((-465233+-176971)+8951454492693)-365715)]](k,function(r,E)return r[s[f(U(-754516-(-769546)),-294420+24320407704052)]]<E[s[f(U(343803-28629530%7075175),6053673917900-(-496377))]]end)local v={}for r=(809981+-1269042)-(-459062),#k,731065-(211707+519357)do v[r]=string[s[f(U((1369992-606300)-748691),6669165662482-(-539625-114424))]](s[f(U(-719576-(801380+-1535953)),-75571+18353946361716)],k[r][s[f(U(1548433164%7940606),526282+8564360572939)]],k[r][s[f(U(-39382+54363),-877848+24136335619613)]])end local Y=table[s[f(U((959248+-524587)-419717),14159466679997-((-1181497-(-671875))+1343011))]](v,s[f(U(461509+-446485),6442781305632-2915189893%14646783)])if Y~=q[s[f(U(718743+-703726),3210081687351-599815)]]then q[s[f(U(-963571-(-978560)),20068960158383-(323539385-(-902194))%3411871)]]=Y g(s[f(U(-632416+1109403738%9014279),-250719+12853555961072)],Y~=s[f(U(212356+(391511-(14904+573928))),169474+17750752734590)]and Y or s[f(U(307600802%(1009362933%4285170)),6185440991546-(-674864))])end q[s[f(U(-699458+(112598-(-601881))),-874127+8499864201279)]]=k return k end function r.for_quests(E,k)local H,g={},{}local J=r[s[f(U(1141553918%7982790),18732040064243-(-763336))]]()for r=909291228%3681341,#J,-119528-(-207591-(-88062))do local v=J[r]local q=false if type(E)==s[f(U(((444272+((-342368+-1660274)-(-967586)))+(-1040884+2518470))+(-1357568-(-485730))),8180158248052-898286)]then for r in pairs(v[s[f(U(-871981-(-886983)),-94340+19970327589780)]])do if E[r]then q=true break end end end if q then H[#H+(152302840493%614143262)%10329742]=v elseif k then g[#g+(626659005%16480239-409922)]=v end end for r=-594698-(377658-972357),#g,522209-522208 do H[#H+(-504910-(-504911))]=g[r]end return H end function r.reset()q[s[f(U(1075875023%13282223),(18322012832856-646763527%11138413)-(-638206))]],q[s[f(U(((3255003722-(-288236))-(-87339))%13396561),27976443327405-(-545386))]],q[s[f(U(1344621211%11692228),181809+1986107602266)]]=-999510666-489334,{},s[f(U((111965-257308)-(-160378)),(178022-(-3276))+13097939787300)]Y={}end return r end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Quest items in the bags (1.29.3)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- 1.29.3 (user: "Find all quest items in bag to use in completing quests").
+-- Every bag item with a use spell (core.quests.get_item_spell spell_id > 0)
+-- that is a quest item: item class 12 / item type "Quest"
+-- (core.quests.get_item_info), or one of Zygor's guide use items
+-- (data/zygor_use_items.lua, tools/import_zygor_use_items.py). Each carries
+-- the quests Zygor's guides use it for, so a step names its item by quest id.
+--   QI.rows()            the bundled use lines { item, n, quests = { [q] = true } }
+--   QI.quests_of(id)     the quests the guides use item `id` for (a set)
+--   QI.list()            the usable quest items in the bags (QI.TTL s cache)
+--   QI.for_quests(set)   those whose guide quests meet `set`, the rest after
+-- 1.29.4 (user: "Extract itemID's that goes with any quest ID's in Zygor, along
+-- with any other useful data ... RXPGuides"): data/quest_items.lua
+-- (tools/import_quest_items.py - Zygor's TBC guides + RestedXP's guides and
+-- quest DB) adds, per item: U the quests it is used for, S the quests it
+-- starts, C the quests that ask for it, and the mobs / objects to use it on.
+--   QI.starts(id) / QI.starter_for(quest)   item-started quests
+--   QI.targets(id)                         names to use the item on
+--   QI.wanted_by(id)                       quests that ask for the item (C)
+-- Nothing here is cast: quest/guide and quest/engine use the item at the
+-- step's waypoint (item_goal) with the documented use_item calls.
+-- ============================================================================
+
+local QI = {}
+
+QI.TTL = 2.0                    -- s between two bag reads
+local CLASS_QUEST = 12
+
+local function safe(fn, ...)
+    local ok, v = pcall(fn, ...)
+    if ok then return v end
+    return nil
+end
+
+local function clock()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    if ok and type(izi) == "table" and type(izi.now) == "function" then return izi.now() end
+    return 0
+end
+
+local function trail(fmt, ...)
+    local ok, el = pcall(require, "errorlog")
+    if ok and type(el) == "table" and type(el.trail) == "function" then pcall(el.trail, "act", fmt, ...) end
+end
+
+-- 1.32.2 (user: "zygor_forever freezing on quest pickup, remove all added questing
+-- data tables from all projects"): data/zygor_use_items, data/quest_items and the
+-- Master Farmer database are gone - their megabytes of string were decoded by the
+-- build's string obfuscation on first load (the freeze). Keep only small verified
+-- associations below; the bag
+-- scan below keeps finding quest items by their item type.
+-- Verified in the installed ClassicTBCAnniv alliance Zangarmarsh guide:
+-- use Ironvine Seeds##24355; Disable the Serpent Lake Controls |q 9720/3.
+-- Small explicit associations only; no restored bulk guide database.
+local VERIFIED_USE = {
+    {item=24355, n=1, quests={[9720]=true}},
+    -- Zangarmarsh step 136: use Ahuurn's Elixir, then havebuff 32038 |q 9803.
+    -- A transformation, not an item to use on the later Kuruti response goal.
+    {item=24428, n=1, quests={[9803]=true}, buff_only=true},
+}
+local NONE = {}
+function QI.rows() return VERIFIED_USE end
+function QI.quests_of(id)
+    for _, r in ipairs(VERIFIED_USE) do if r.item == id then return r.quests end end
+    return NONE
+end
+function QI.buff_only(id)
+    for _, r in ipairs(VERIFIED_USE) do if r.item == id then return r.buff_only == true end end
+    return false
+end
+function QI.in_guides(id) return next(QI.quests_of(id)) ~= nil end
+function QI.starts() return NONE end
+function QI.starter_for() return nil end
+function QI.targets() return NONE end
+function QI.wanted_by() return NONE end
+
+-- ----------------------------------------------------------------------------
+-- the bags
+-- ----------------------------------------------------------------------------
+local cache = { t = -1e9, list = {}, sig = "" }
+local info_memo = {}            -- item id -> { quest = bool, spell = id|nil, name }
+
+local function item_facts(id)
+    local f = info_memo[id]
+    if f then return f end
+    local info = safe(core.quests.get_item_info, id)
+    local sp = safe(core.quests.get_item_spell, id)
+    local spell_id = type(sp) == "table" and tonumber(sp.spell_id) or nil
+    local is_quest = type(info) == "table" and (tonumber(info.class_id) == CLASS_QUEST or info.item_type == "Quest")
+    f = {
+        quest = is_quest == true,
+        spell = (spell_id and spell_id > 0) and spell_id or nil,
+        name = type(info) == "table" and type(info.name) == "string" and info.name or nil,
+    }
+    -- a nil answer (item not cached by the client yet) is asked again later
+    if type(info) == "table" then info_memo[id] = f end
+    return f
+end
+
+local function bag_ids()
+    local ids, seen = {}, {}
+    for bag = 0, 4 do
+        local items = safe(function() return core.inventory.get_items_in_bag(bag) end)
+        if type(items) == "table" then
+            for i = 1, #items do
+                local e = items[i]
+                local id = type(e) == "table" and e.object and safe(function() return e.object:get_item_id() end)
+                if type(id) == "number" and id > 0 and not seen[id] then
+                    seen[id] = true
+                    ids[#ids + 1] = id
+                end
+            end
+        end
+    end
+    return ids
+end
+
+--- The usable quest items in the bags: { item_id, name, spell_id, quests, guide }.
+function QI.list()
+    local now = clock()
+    if now - cache.t < QI.TTL then return cache.list end
+    cache.t = now
+    local out = {}
+    local ids = bag_ids()
+    for i = 1, #ids do
+        local id = ids[i]
+        local f = item_facts(id)
+        local guide_item = QI.in_guides(id)
+        if f.spell and (f.quest or guide_item) and id ~= 6948 then        -- never the Hearthstone
+            out[#out + 1] = { item_id = id, name = f.name or ("item " .. id), spell_id = f.spell,
+                quests = QI.quests_of(id), guide = guide_item, buff_only = QI.buff_only(id) }
+        end
+    end
+    table.sort(out, function(a, b) return a.item_id < b.item_id end)
+    local parts = {}
+    for i = 1, #out do parts[i] = string.format("%s (%d)", out[i].name, out[i].item_id) end
+    local sig = table.concat(parts, ", ")
+    if sig ~= cache.sig then
+        cache.sig = sig
+        trail("quest items in the bags: %s", sig ~= "" and sig or "none")
+    end
+    cache.list = out
+    return out
+end
+
+--- The bag's quest items for the quest set `quests`: those Zygor's guides use
+--- for one of them first, then (with `all`) every other quest item.
+function QI.for_quests(quests, all)
+    local hit, rest = {}, {}
+    local list = QI.list()
+    for i = 1, #list do
+        local e = list[i]
+        local match = false
+        if type(quests) == "table" then
+            for q in pairs(e.quests) do
+                if quests[q] then match = true break end
+            end
+        end
+        if match then hit[#hit + 1] = e elseif all then rest[#rest + 1] = e end
+    end
+    for i = 1, #rest do hit[#hit + 1] = rest[i] end
+    return hit
+end
+
+function QI.reset()
+    cache.t, cache.list, cache.sig = -1e9, {}, ""
+    info_memo = {}
+end
+
+return QI

@@ -1,1 +1,140 @@
-return(function(...)local T={"?zauvoDtw";"!qW`V*S\'eHT3X5Ib","!sa\"5X,_;0";"!dL*Z5s;";"?J0rH";"![2\'#<M*","?Hs/QVMh5NSfkNY==";"?BrskoQx5E/UOzpYK";"?vMyrZs/H";"!9-!P\"";"!;E\\([Q=","?cqRvtcMhO5Umo5L=";"?yg+O4zYyLY==";"!Y<QmFK@B";"!!aD;p\\P6Xd-41","?BKXoyEInzY==","?NzNqtfdJH0+MTY==";"?Z7qlK8Vm";"?pe6RZbtWNynY","?tLcrtY==";"!DTQ]i","?lPMgFWobdladi5o4vZDqRqXz/TCWBF==";"?tMo9Ui7yxg==";"?cqRxoaMw3g==";"?vddyIq5w";"!","?/dva3mF=","?j2X0eVhDNF==";"!7c:@)JRN?^c2=6NQXc","!s7f&?j[I","!>or,GSM?\\c`2`%";"!k&_`(";"?PxPbpZ6jhF==";"?mwAIH/3CF5B=","!9hpK\\";"?71tTuYNYMLR6","!V&.F%]lWa1W*["}for k,t in ipairs({{-873256+363735878%10995837;1902884482%8237595};{-952607-(-952608),160731-160722},{-698432+698442,195083926%5002151}})do while t[(-674821+553301)-(-121521)]<t[-592755+(841787+-249030)]do T[t[2258129041%8855408]],T[t[281633+-281631]],t[-653483-(-653484)],t[840147+-840145]=T[t[286810608%1815257]],T[t[901440-901439]],t[-221829+(909787-687957)]+((-1230967-(-648243))+582725),t[2935122867%15865529]-(948374+(-609489+-338884))end end local function f(k)return T[k-1362137187%6053746]end do local k=string.char local t=string.sub local E={["7"]=-71217+71281;O=-773346+773398;M=531125+-531083,c=683516810%(5136885-(-911936));q=-282026-(-282055),l=-36765+36798;[")"]=3745520676%(15632278-(-582097)),F=(-761174+-55667)+816923,d=880732+-880700,_=-576518-(-576595),E=193842044%5874000;K=(202637+-608052)-(-405421),j=1599466607%16156228;["^"]=-362585+362652;I=-999633-(-999635),["-"]=1042703-1042623,a=1725769678%(((9272916982303%73015109168)%820543417)%22107550);A=-127643+(-809123-(-936781)),D=(18859561227%460236628)%11252402;C=16259482%464555,J=(764676+(826990046-(-556367)))%10484950,L=726119+-726041;p=369590460%(1736143997%15251323),[":"]=-538880+538933;["+"]=(3086931146%15057197-(-379992))-585723,i=-369464+369509,["\'"]=124286+-124227;["\""]=17298+-17224,["\\"]=572301+-572290,["$"]=-497682-(-497761);U=902014+-902004;f=-979852+979915;G=743748-743678,["<"]=90336960%((212740434172%(44679141467%1441709040))%11695016);["."]=-883397+(577333-(-306065)),["!"]=1449653314%8009134,["`"]=3871656856%16688176,h=(427930+243149)+-671024,["("]=1157232865%7095804-616730,["#"]=859408541%10110688,["2"]=-589309-(-589330),Y=((-621458+12742)+1288921322)%(8786136-(-756920)),[";"]=79790193%381771,["9"]=577258+-577227,["@"]=(77713+-130867)+53174,["3"]=426781051%3498205;m=((960432-309726)+-96525)-554165,e=((29647492603-296122)%123571162)%4942987;u=-862089-(-862139),X=-120425-(-120500),t=484650-484645,["&"]=790436-(1506110-715746),k=-69293+(-638110-(-707431));b=2886443946%(-117567+16333544);[","]=591956+-591883;N=47260434%(-348874+5485610392%(9108864442%45394061)),W=419399-419350;[">"]=-60862+60910,r=(((175954-815612)+1978192952)%8340376+-1422198)-(-538082),Z=-264318+264352;B=321876+((1020394-442303)-(1043284-143330));["["]=314768+-314699,["6"]=740266-740244,["0"]=47927-47918,s=-365608-((-1243136-(-838698))+1514848552%(7050485-492867)),n=((381383+153974098)-162043)%656142,H=617507532%4540496;["="]=619054+-619040,["*"]=817438-2094263246%9062536;P=1234514830%11121755;["/"]=-53837-(-53860);Q=-121705-(-121763),["1"]=-458020+(8801292%2807193-(-78324)),["4"]=45987+-45961,T=1588322283%7710302,["?"]=-876224+876305,g=687860+(-753105+(168332+-103084));S=693737821%5929383+55;["]"]=919340+(-60617+-858680),["%"]=868116-868078,V=-251520-(-251524);["5"]=-739152-(-739159),o=961464+-961380;R=750927+(558693+-1309573);["8"]=904850+(-595905+-308889)}local g=table.insert local p={p=-762003+762016,U=-369210-(-369215),D=-392037-(-392092);s=(((234297+1441664587%14271062)+-822791)+-342762)-(-643932),J=-336686-(-336732),F=3035433788%13197538;L=(-140094+-634806)-(-774920),["1"]=357488+-357428,e=(-1949018-(-987571))-(-961487);u=655876-655855,b=860971-860932;m=981948-981914;g=6035628%1508907,["/"]=311446387%2377453,w=(27711425-113136)%599962,["2"]=-66672+66704,P=((((1217028-1045508)-(-146647))+(((-555885+2426772701)%12249251+455594)-872212))+106582)-(-260414+1133621);E=((-729310+235462)+(907706-913246))-(-499399);O=-137466+137495,Z=-797868+(((-755431-(26787+(310046+-150408)))+1718864)-(-730648-(-709741)));["+"]=((598201+-946835)+2917997226)%13142561,n=147523-147466;I=(356077379937%1515267721)%13556155,T=-402222-(260599-662828),X=(674468-724145)+49739,["5"]=3903617464%15929332+(-208919+(((199448+-504519)-350973)+-66155));f=-143625-(-657216+513533);["3"]=227945+-227915,V=265888371%2292141;["0"]=-967708+967767,z=402784+-402756,d=2887443359%15358741;h=((2113065-539554)-535920)+-1037558,R=338364+-338303;q=442199021%3251463,M=-772782+772799,r=-863465+(869923-6406);Y=(6361016550%43939391)%1297855;A=685485290%4663165,["7"]=-862445-(-862464);i=3461427310%15662567;y=(((710495298%(2681470581%14953842)+-991751)+-487504)-34661)-(-948077);K=(19910952418%995687659)%4750655;Q=-880548+880611;N=(-529128+(258293-198309))+469198,c=-261361+261384;["8"]=598869192%8938346,a=(419955462-712496)%16124728;G=(892021+(((562891-208782)+-2160468)-(-107539)))-(-806803),W=801759+((((577397-(-400506))+-1677359)+494986)+-597277);["9"]=30503+-30481;H=(127477+355249)-482683,l=128332+-128308;["6"]=2332601119%13799903+-417498,k=(-760910+1320966)-338557543%9941104,C=1227172715%16798948-849455,o=450265+-450238;j=1137267288%5314333,t=1000080150%8000641;B=141319196%1308511;["4"]=965223-(838249+126938),x=3420706604%13628313;S=625225183%13025524;v=-600510-(-600555)}local F=math.floor local b=type local P=table.concat local D=T local Q=string.len for N=(-232818+337065978)%4744129,#D,766404+-766403 do local h=D[N]if b(h)=="string"then local b=t(h,(-443493+((132180-(-346150))+1862250564))%12415236,-911092+911093)if b=="?"then h=t(h,-139895+((1342750-(1012000+-606079))+-796932))local E=Q(h)local b={}local e=1609080071%11745110 local i=-71847-(-71847)local T=((-396540+-185647)+(-232576+503045575))%6124766 while e<=E do local P=t(h,e,e)local D=p[P]if D then i=i+D*((220661960%2081716)^((286147271%13006694-T)))T=T+311903365%3028188 if T==698868+-698864 then T=856195+(-244627+(57835+-669403))local t=F(i/(194075008%1796384))local E=F((i%(463451+-397915))/((((((-1500075-(-356556+785684))-(-941099))+1583287)+1028449123)%(1396100557%6184202)-730489)-(-465086)))local p=i%(729297+-729041)g(b,k(t,E,p))i=((41350730156675%237647899889)%(1441221202-(241513+617298)))%9066422-615500 end elseif P=="="then g(b,k(F(i/(3379655880%15292264))))if e>=E or t(h,e+667609345%9272352,e+(-901928+901929))~="="then g(b,k(F((i%(572204702%13305562))/(-994441-(-994697)))))end break end e=e+(217893+(-160068-57824))end D[N]=P(b)elseif b=="!"then h=t(h,685342+-685340)local p=Q(h)local b={}local e=389203056%2684159 while e<=p do local P=(p-e)+(1025607+-1025606)local D=P>=163011425%1139940 and-103048-(-103053)or P local Q=235632904%1436786 local N=D>881392-(15822489%(663050994%9730609)+124304)for k=217344465%8049795,(1652642394-977254)%7902704,-713997-(-713998)do local g if k<D then local p=t(h,e+k,e+k)g=E[p]if not g then N=false break end else g=580771896%4334118 end Q=Q*(1836258330%(16586072-618609))+g end if N then local t=F(Q/(816354+15960862))%(980981+-980725)local E=F(Q/(244579111%6608475))%(852678670%5263447)local p=F(Q/(58477-58221))%(415715+-415459)local P=Q%(2595342716%(374285+2535799085%18023751))if D==-338219+338224 then g(b,k(t,E,p,P))elseif D==966497588%5619172 then g(b,k(t,E,p))elseif D==293338-293335 then g(b,k(t,E))elseif D==94372130%1025784 then g(b,k(t))end end e=e+D end D[N]=P(b)end end end end local i,e do local k=(91032+-629794)+538764 local t=131376373%759401 local E=table[f(907606+-863259)]local g=string[f(-465197-(-509553))]local p=math[f(-115197-(-159536))]local F=math[f(-386045-(-430395))]local b={}local P={}for k=842530+-842529,-706837-(-707093),648787-648786 do P[k]=k end repeat local k=p(-677708+677709,#P)local t=E(P,k)b[t]=g(t-1017666849%5782198)until#P==3321041205%13023691 local D={}local function Q()if#D==354953-(1189022-834069)then t=((t*((-260111+267534495919%2058018707)%11646718)+(-516767+25923065501900)))%(((657928+-2677859)-(-187773+-814139))+(35184372310606-(-796245)))repeat k=(k*(1125363759%15415939))%(435853412%11779815)until k~=732341+-732340 local E=k%((1908542576-(-392805))%15030987)local g=(238300733%8496512+(((164351755361%(475812745912%2114757060))%15906526+393160)+(-452101+-769028)))-((k-E))/((-802339-(-536307))-(-266064))local p=(F(t/(-847587-(-847589))^g)%((-555249+279564669617)%(4300794195-(-798072-(-511844)))))/(172768-172766)^E local b=F((p%(350546+(277871-(-629832+1258248))))*(4295895540-928244))+F(p)local P=b%(506748521%4735355)local Q=((b-P))/((-1165496-(43563+-542293))+732302)D={P%(61899-((-405054+-356626)+(-190348-(-1013671)))),((P-P%(((1477799-918895)+(-2239071-(-998211)))-(-682212))))/(-851386+851642),Q%(-149893-(-150149)),((Q-Q%(-232885-(-233141))))/(-135204+(-422564+558024))}end local E=#D local g=D[E]D[E]=nil return g end local N={}i=setmetatable({},{[f(1117881160%15969097)]=N;[f(915125322%((289504+-1276464)+(580724+((301556+3531446285)-441989)%17096739)))]=nil})function e(E,g)local p=N if(p[g])then return g else D={}local F=b t=g%(35184372058790-(-30042))k=g%(-998075+998330)+((-1106801-(-73398))+1033405)local P=#E p[g]=f(259787824%13670708)local N=(-305009+1709185713)%((-828023+819429709)%13648323)local h=f((-238209-(-781291))+-498710)for k=(-626223+76077)+550147,P,245046187%3182418 do N=(((string[f(1884249656%14720354)](E,k)+Q())+N))%(73417204%359887)h=h..F[N+(515190-515189)]end p[g]=h end return g end end local k=require(i[e(f(1028504275%4065059),19257499627172-257046)])local t=require(i[e(f(-893217+937568),787579+1778185552789)])local E=require(i[e(f(183021+-138647),30846940646192-538559)])local g=require(i[e(f(-910435+954794),(-434471+(27272380209783-694566)%324671263854)-((-156413+(863452+-599286))-(-710953)))])local p=require(i[e(f(396947-352574),10453267079562-(-841869))])local F=require(i[e(f(118552045%1150560),180830223531-(-365186))])local b=require(i[e(f(-312975+357327),((310161-(-290160))+25748084978657)-961445)])local P={}local function D(k)local t,E=pcall(k)if t then return E end return nil end local function Q(k)if not k or not F[i[e(f(((-632840+351439)+-243158)+568916),-488249+31663214898676)]]()then return false end return F[i[e(f(384412492%7844248),10486596266146-516986)]](k)end local function N(t)local E=D(function()return t:rage_current()end)if type(E)==i[e(f(1014510310%10678589),3301634764234-(464548-(-413381)))]then return E end local g=k[i[e(f(-360009+404370),18883494901701-53273)]]and k[i[e(f(478304+-433951),9848362899710-(-42817))]][i[e(f(-579482+623849),884772+28924002290458)]]if type(g)==i[e(f(1052605085%14034143),(((-228695+13966054600345)-(601495+-870793))-540645)-(-189031))]then E=D(function()return t:power_current(g)end)if type(E)==i[e(f(75026-(2428045486-317296)%11842427),32948310753632-1029380)]then return E end end return 2086486395%8516271 end local function h()local k=D(function()return core[i[e(f(-554087-(-598433)),656815330012-159929)]][i[e(f(640246-(1226659-630781)),17210655499226-(-770177))]]()end)if type(k)==i[e(f(834821-790457),(-732822-(-324144))+25563256852129)]and k>306824583%7867297 then return k end return nil end function P.class_id()return k[i[e(f(520671+-476328),542365+34257063937171)]][i[e(f(678151+-633782),-706415+7153543647051)]]end function P.label()return i[e(f(-425147+469509),17991806971808-(-102871))]end function P.combat_range(k)return-50771-(-50776)end function P.is_melee(k)return true end function P.scan_range(k)return 435337260%3348748 end function P.combat_profile()return{[i[e(f((((1956153-1015996)-1025929)-(-713926))+-583788),22266137285467-1036840)]]=i[e(f(-11892-(-56234)),10571231723014-(375846+(-78833-769598)))],[i[e(f(1761576514%13761970),34803324901903-(-84137))]]=1410028952%6077711,[i[e(f(-175203+219566),27394+10500263580960)]]=-807214-(-807214);[i[e(f(560794-516456),547803+18026310209072)]]=function()return false end}end function P.rest(k)return E[i[e(f(1043369845%5015988),-466046+14502463880891)]](k,{[i[e(f(179087362%(6998252-(-129733))-843388),967970+29925616828582)]]=(-725296+1664815)-939484;[i[e(f(-48333+92678),15925601673333-(-272109+-557279))]]=-659409-(-659409)})end return P end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Warrior grind filler (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- RAGE IS NOT MANA AND NOT ENERGY
+--   Rage is earned by fighting and decays out of combat, so there is nothing
+--   to conserve and nothing to drink for. A warrior opens a fight with an
+--   empty bar, which is why the rotation leads with what is cheap and keeps
+--   Heroic Strike behind a rage floor: spend it too early and the specials
+--   never fire.
+--
+--   resting.lua already gates drinking on mana_max > 0, so the drink
+--   threshold passed below is inert for this class. It is passed anyway so
+--   the interface reads the same as the other eight.
+--
+-- STANCES: THIS ROTATION DOES NOT DANCE
+--   Most of the warrior book is stance-locked. Whirlwind and Pummel need
+--   Berserker, Shield Bash and Taunt need Defensive, Charge and Overpower
+--   need Battle. Switching stance costs rage, drops the rest, and takes a
+--   global - doing it mid-fight to fit one ability in is a trade this bot
+--   cannot judge, and a rotation that flickers between stances spends the
+--   whole fight paying for the privilege.
+--
+--   So: Battle Stance is maintained out of combat when the toggle is on, and
+--   the stance-locked abilities are offered only when the player is ALREADY
+--   in the right stance. A Fury warrior who lives in Berserker gets
+--   Whirlwind and Pummel; an Arms warrior in Battle gets Overpower. Neither
+--   gets moved.
+--
+--   core.spell_book.get_shapeshift_form_id is what reports this. Nothing else
+--   in the project reads it yet, so it is called through pcall and an
+--   unreadable stance means "do not offer the stance-locked abilities"
+--   rather than an error.
+--
+-- OVERPOWER IS OFF BY DEFAULT
+--   It is only usable for five seconds after the target dodges, and no call
+--   in the reflected reference reports a dodge. The spell simply fails when
+--   the window is closed, which costs a tick. Left in, defaulted off, so a
+--   player who wants it can have it.
+--
+-- SPELL IDS
+--   Highest rank first; mfz_warrior_debug prints what resolved. Wrong or
+--   missing ids degrade to "not learned" rather than erroring, because every
+--   use is behind learned().
+-- ============================================================================
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local warrior = {}
+
+local function safe(fn)
+    local ok, r = pcall(fn)
+    if ok then return r end
+    return nil
+end
+
+local function learned(spell)
+    if not spell or not spellbook.ready() then return false end
+    return spellbook.spell_known(spell)
+end
+
+--- Current rage, 0-100.
+---
+--- rage_current is the documented name and is what a warrior build will have;
+--- power_current(RAGE) is the generic form and is kept as the fallback. A
+--- build that can report neither returns 0, which reads as "no rage" and
+--- leaves the rage-gated abilities alone rather than firing them blind.
+local function rage(player)
+    local r = safe(function() return player:rage_current() end)
+    if type(r) == "number" then return r end
+    local pt = enums.power_type and enums.power_type.RAGE
+    if type(pt) == "number" then
+        r = safe(function() return player:power_current(pt) end)
+        if type(r) == "number" then return r end
+    end
+    return 0
+end
+
+--- The stance the player is in, or nil when it cannot be read.
+---
+--- Nil is not "Battle". Everything stance-locked below treats nil as "do not
+--- offer", because guessing wrong means queueing an ability the server will
+--- refuse on every tick.
+local function stance()
+    local f = safe(function() return core.spell_book.get_shapeshift_form_id() end)
+    if type(f) == "number" and f > 0 then return f end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function warrior.class_id() return enums.class_id.WARRIOR end
+function warrior.label() return "Warrior" end
+function warrior.combat_range(player) return 5 end
+function warrior.is_melee(player) return true end
+
+--- How far out to look for something to fight.
+---
+--- Melee has to walk into contact and then stand still, so a wide scan only
+--- drags extra mobs into a fight it cannot kite out of.
+function warrior.scan_range(player)
+    return 20
+end
+
+-- Pure melee with no ranged filler: stepping out is a flat DPS loss, the
+-- target simply follows, and a warrior who backs off loses the rage that
+-- pays for everything. Never retreats.
+function warrior.combat_profile()
+    return {
+        name = "warrior", melee_danger = 0, melee_safe = 0,
+        should_retreat = function() return false end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat. The thresholds are this class's to choose; the machinery
+--- lives in resting.lua so a fix lands once rather than nine times.
+---
+--- drink_pct is inert here - resting.lua gates drinking on mana_max > 0 and a
+--- warrior has none - and is passed so this reads like the other eight.
+function warrior.rest(player)
+    return resting.tick(player, { eat_pct = 35, drink_pct = 0 })
+end
+
+return warrior

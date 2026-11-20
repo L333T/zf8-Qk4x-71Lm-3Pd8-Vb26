@@ -1,1 +1,3495 @@
-return(function(...)local JF={"2DPaFNM==","yZ(Xkm%5";"yLaTJgAI4F","2uobkDRKq";"2acygPFi=","ym#ZIe";"2my/bufw=","yDZQ,-lqe";"yNb8cU@R>1","2YAPjKFM=","2IUx=";"y/-)%4Rt&J3";"yAS9N","24LILl56VBHPB";"2stk6","21OI5DbhNDiiqLkdL","2HH7+V1hG";"y2.\\6ihE\'","2pro1";"yD;Yd,^^";"yA[S,G";"y4m0M;=9JR","ykeE","y?hnCf";"27463WN4NHG7W";"2ORubwK==";"yss5n[","yse^!","2b/UN2cZ57kuCjhsd","yWWm)k^[W","2k0==","2Ze31vI==","yE.3>";"ymD$Nr?\'XQ`R$LqD";"yJV>m<)/k_u_KO","y-GLfVT[","yW]tAsW%mCJK4N";"2StLj8xFNqwAD7I==";"yFr_>0!BD6C8\\.","2MmnDVhsAKe0=","2fReEoPKaXZq=";"2iK8Q6Zpsr4bO","2Wbjx9K==";"y*.Hj?bJCF";"yV/[q","2PJCOHMqwNOrWPLsFHgYm4Hn=","2MqTP90==","23z+pn05/N85jDs+eLEw=";"2fQu5H0==";"2wOyTcK==";"2mbrM","2VUJKaW6Babq5UA2=";"yNK!aU:7W","2Bf0S4EKd";"y`N","2O9p+W0==","2P/r5MDx=","2IQZJL+WjNM==";"ynRK";"2KDPkqpeHr5uU";"2hgls","yuSP^(e[","y?pD$","yog?!ge3gQ9.1$";"2lVXV+oj=";"2gBNZhZn=","ykP:?TWK(7dg!>k";"2x8bvb0zF/vOl3TpT";"2C1d2xK==";"y9DPlM89JWh]emZf";"y#h[&";"2NBfgL9+=","2qM==";"yeZ";"yRL","y7(?6u1rhG","2rwtWpIipjpq=";"yt@";"2LKcO";"yDtHZr";"2047MU8vNG3/kRVn7woyCEqS2lK==","2nEpZXpEFnM==","yt;&.5TG@&L/:kY-lB#g";"2nssfaM==";"2lK==","yB+ElfBh","2ffS62g23iphfMV1g","21ulFFt9=";"2VPNT";"yYQ\'lR","26EQgrCa0ZdkH","25vn=";"y>pLHo\'Z2H","yK^8&.CK.a","24xJ+XI==";"y)KKR","2Mbjt","2cI9D";"2JVAZOVzBARPGOA9Y","2Po5oIBEp7g/wFNQ=","2cJSA+lQ=","yld[`d]H";"yjH@+pe9BZ";"yO44,B";"y,b\"#u6Uf)oS>";"yuBgQ";"2Qd9KYSsy","yXX80<";"yIt)<";"y&3tIg:?$-","y7^%ej,?1V","y=c9li?#jsODOpBLr33*NiH]8tmrf;%tlOM>/#\"6OqhjAP$aSq%)W/;jhOOn\"qIFMZ\'E;;2ba\'C0lb?=(j\"IVHEbgbe+05J!NgX8rtKn?C[V#T*\'4L^K$XgrG?(jYr\'KTXulRPW)98R1I].QM","y(aUJ";"yt&#75[%1";"2pExPPUkyqZ32pub1X/bC","yq8b@G","2CXkIg7b+","2u/TG3K00rSZmLK==";"y)S(c:o3`q:S!7";"2YB2UsxE/UDB7oHm0v3SqRM==";"yg1Nqiba";"yBY";"24M==";"2z0zJ6a0=","2oMEgfaq=","2bvJcRL+=";"yi:%uXi0brh";"2tF5WkuCkkI==","2NWC0CyQ=";"yXddE","2W2MT+iiTP/eHQY1voBz=";"2MVZ8VkK=";"2Ouz=";"yup^om!EGZV]9\'6W";"2Xdy530TNU0QtVI==","yuI\'K";"2ukaW2K==","yOG:bjJ=";"27UmesPzZNK==";"2wZhz7I==";"2MsEhh52pykzEEsOsgSJ461n=","2uIBpE0==";"2z+GZIdCW4QK=","2jPo0","ya+/SL\'\'S";"yF?7Cl$4SN","2UZKfoJ3jyLqs6f9cOM==","yulr+E.If","y$KKKO$:","2JzSsxM==";"2fB9mRTpj8MeVy7x=","y:s-Q\'MV";"y.YUC2","yYR+tqVKX>5+2e";"ygn.9+Lt`F";"2c0==","2csp/MzHbQBw6","2YwcABneSfUh=";"y7Si<DSDL]uErn;$7G\"","2or0=";"2PHLo","y5^","2ecNp3HLt","2zjqr";"2g3DNSrKi","y;F?V]2$","yp(EU7[uju600mJ%h>D";"21ALru/9=","2J7qKPMz=","2xUM=","yMtDS";"27BHqwysd";"y6+C#;";"2nSr540==";"2qOBs","yZ?0<";"2qri=";"2WXMBzI==";"2c7mG80==","yoLEoP*4CQ>\\\"UE","yc%lEK11";"2q+mhqSpQ80==","2tXIVEfoA";"yogrD3XO","yCe.OMt\"cao]/\'Db","y[7\\h!";"y?oTO3a(fDl?@";"25M==";"y\\+";"y0lpN1is","y,s^q","yZWfY4bH","yO4<M9.A&";"2bI==";"2gClK7u2=";"2Q09sTM==";"y38f+So@";"24vSm";"y#k^4UP@";"yl?E:","yPDX$KnS";"yMjHT;M,";"yKj+ms-Dk";"2BkRbxI==","yLund(";"2CUZkphz=","2Lih5dJz=";"2bSxncSmwIuk7rE0VT7M=","yp\'G(5@f;@;s,6","y%-?";"y\\1R+O6O","y>%X0";"2adP6iJPEm5I=";"yN.Vb7","24I==";"y+ds6<","yR^+C";"2tK==";"ysD,Z_A,";"yk$";"2B9x9eM==";"2ev4zqBgstFI=";"2uVj53I==","yKgcr","2HcdiQG8cuM==","2OaQndUx=","y]?";"y-E=7B!@t","2Bwq=";"21nlshSdLrOjwW4gPEB5EwcHqi5wkkzM=","y:qRk","2FV5IQvtr";"yUh9lM";"yg%?";"2QVk4";"29NeLethf6I==";"2zdWnkNoS2xhtKEBJS0==","2XHLFSZh=";"yX[3AO;5`";"ylN]CeDN";"y-&^qH";"yu)Yi";"2D3Gs4QblBwR6PXGdrBUzqf7CjsagcDHNZKv4RaEM1NS2IKvzYLeyOSPclcmGNptRzAMLWarnAsRGS3MTeZCTLeah0D345VVWDXcaKgbAiRJkURx=","yh)>Tj#V";"2j5feVp8u","2pB9myK==";"yiIk@","y>GKQb(,=";"2uSlQ3I/TtI==","yXin4l","y:l\"6AUr2B%";"y[J\\a%!f[","20a1N","2v+D0ZYx3AQQ9qhplwI==","y/5\"#6V3G";"yq(dOd!6u4N","ykK\"W8BN_S";"y^@>+;(>C\'0g1j66","2BClXmj2=";"2lnTQ00==","2mT+OV80MRTEEXiDfdK==","y!E;95k;%";"20FajLM==";"2fgFu";"2vdAtgM==";"2zbvMi62LeM==","2De9eJhMlHNICiyi6sWQ=","2dMOvHoU0czYqP+z=";"yG@";"2Nhh=","2VwAZUO2=";"yXa","yrZpo)UG","23byjV/j=","y*2P","2rMWKVC2V","y,CRPOl\'Wt^";"2QlQpHCP6Z0HCbThUm0==","y\'lN";"yPL$";"2K0==";"2zc/iAm9=","y8B&";"2jI==";"2+Nhg","y.Rh?;=lEQtr.QZc";"y[>Gc.","y)F3O/u&H";"2JeG1409=";"yJJXMV","2VR9vzMqsS0==";"yRc4][","2BD4D5Z9=","yrh","2tZcE44Tm";"y5%a)QfLg","2L/eLxVwjGs+=","yZ:","2yIvVT0==";"y4=r+<lO","yR,+$","2a7IuuI==";"y7bVl";"2xdMfI4Cs","y*(]\"C";"2FoLwBzI=","y1]3XdFOM6","y#SitI";"2KA0mIEUM","yDMK","y;iKXu";"261AmjRz=","yh]";"25FAhQxiu";"ylS^QdEY06)A!3G%,AtmA>u_%%@$S\';_qP(;[f1f2R>8nT%)m4M0aY%ZP.Bsh8f7+g;PT7Jq]XtH!)tK?Vg)23%_#af8:m)sO;<7fs\\+4Ouhr;tWPn7TRsImh[hbU\\_1g%8d9^6h@kujZ(;[f\\]J!u*X.#dmSN4]BoU-&Ad`-8:;Jhmi!cJ.paN";"y;Ud6";"2Zbmowz3QQhdZ";"y9O]","26a3D";"2GZgDOj9W1BM=";"y=K/;f0Z";"2ZK==","2X/0GUihdPun=","yDF)FK@Y[N:t0nJ-V5pY^7\"$lA:d;:Q7)a+BXZLom8m7hN\\e7a";"2THryeK==";"y>^","y5<Ag`FN","2jpDxDx0=";"2iw386fQ=","2ECq=";"29X6P2YS31EJRJls+N/E9oKCublIGBScSmknKudN5risHxjtL/0NCtWe32f7JX24O10hjy9IFN3ElZzWxfpFiz5FWee0tzC4Pl8nkHTgNESsR5vGCwRv7tnFuuoHe+KPNL/3AzdbKsiWlM4soKtQoafWcUOWybWH3rpzMPVYWNMvvu1U+2c4/TnugZ5KfVcBZZqrR0YGgPcjiH/LT6ZtoXU2uhpX3VI==","yZM7.k[nP","29K==","2VaZtFirafR9hhzn=";"2CZb5xK1N","yL*@MAXa";"2+IQzDPVLnZQW","yjn1b^a98&uP>g\\","y+;iC\"C;72Q3TW";"2oqHx","260125lrX","2srQ=";"y,N^pHQgf";"2YxGZ";"2C+/3","y;!J57*-uZAY\\`T";"yXP@ED","yja#Ze.1Z";"2L0==";"2PTrstfI=";"27M==","yMGFuWpurhQlT,h0sXm\"3Q$Ei!b@=!?7H3gp8E?A(gj/?!a=YP5X?::D?@pgQ.9o1g]84Ar5XW!DA=","23G5V";"yZ_4.","2JpAtUs0IM6Rj";"y5O=LYBs";"232FMq8xH","25PTLaKQow0==";"yKeRN";"y.gK/ZE)";"2PthtJyz=","22xehcox=","2AgDG6M==","y:bn","2SUlLt0==","2dMkwYM==","2866saURN","y$4dW3gs";"2QJymhyx=";"24USfSjd8J0==";"27pduvRH1";"2fJpSTN+=","2XJJCRI==","2nI==";"yP(t\'37f`?$EP","yjIL(mRL";"yFLDf<RL","2akDNRmCf";"2PwvICINJnK==";"2oybdKu0=","2P9Cw","y)YFW1(O","2dIQ=","y-G;0;KO@D";"2b0WPrVHLvM==","y!.s?33j$&@Yn#k","2Put/j0==";"y?s-o//J&J>YL","y$jUV]7C7At3>QJG<P";"ycPIQ";"2KeVOylx=","2K/cUG1rNchIkRKQjMWlOkMFZW3Fxxnm3lOI=";"y7)pM>W,2u*9IA3&";"2OPPIzhnCSQ//Mdq=";"2v/GGn0==","y)hm$^1*Ql%LN","28YazyEYOq8rtcAbs5Iv1He9BTI3gGVY3g+mGZ+S2bvtaw991oM==","2TUbSDI==";"yro%2+","2B/IV8Dasq/n=";"yTS`[=U^h!-@^he_";"2XNlfUfwsNCQB","2sK==";"2tIh=","28EpR8U1Ko4I=";"2KNNzna3ShM==","2zI==","2xFCu+p6LJpaVKWvQRM==","ybUMGf]?","21w4UqM==","yi&Kd9daY%0>46\\-";"2gvVZ","y1b";"yXrU3VSJdl:","2ujWCGEc9arIH3K==","2TQDIxyq=";"yTI`G";"yZ,Z";"y>:)/P1C<W","2EVG0gSM=","yB!<cMW+99,DJA(C[TlY\"4kO/b","y9TR6\\&Ddhu[:","y$de","2csogT4Mp2N7X";"2UI==","y`,X9j]Gd*a";"2onc9vaSkqdJ6XN8BuiVlh4fK6e3AgG6CQ2pBoJpWIuLGOJNrebtOGlw+100whCjZUV7nXqLA";"y8-t:!","yaDBZ2m7\"hZlH`8Q";"288gfxRj=";"2w5yyXp2=";"yBOA8`Z<[cC";"y1TVAMajJl/h,O";"y,qM@";"2M0KQ";"yKmjiEMsT";"y$O]i17V";"y,\\XEa6U";"2aeyvbZZRK0==";"yO0+","y`>cV";"2vkcIUhw=","yLgo3lU.@&Ao0kp(","2DkHS","2uWmzocmz","yL._Wk","2zxHGBMsepAYl";"2ofya5vGPWM9oiM==","ya\"9uf9t";"2b5AOhvPYqon=","2xOzltM==","y\\o.:1`X2G9","2Ajj=";"y3mP/.),L,JO%XC<:\">HGZQ`hGl(c>D,0`\'+#W?`_6V\'o3!nAW0mHGK`Dk4-FacHh8epJaa])(TkgTr\"K?N#t";"y#sH:p#1\'";"2x/AfWQsU/guv","2n0==","2W0SZY0ct","yiAI4S3hNN","2WFboePGNKUhK3t+=";"yKCrp9QN","yC?","ye^NM4","2/QtKRJ9KcH6Uh762Q6SyADqAk5YDxVFDvp/pnvHArqOLjSRejzBmQY1DqO4QwQnjosfLH45TuU9j24IYIbcicjkV64k4GZfwgl0=";"2Dh84qK==";"2bv66g1v0R1LL";"2MasD0owF";"yN`pta,9-Vi";"2UfX19ODAdKky664sGbUTdALBQ9gGZg5rM8yY6NRv75NyJQZ/xAC/c4pzZ4xqdU1q8sxnfbYIxdq6I1+3hVSNKOZ/rEqUYK+U9ZIA5X3Z5xoi39zriAt8/6LHHjltPBeHP28s","yDmd!?";"2xU10jW2=";"yrj&4qlXTk";"ySN\"!";"2bM==","2d3RA";"y^U6ZIB?7TJ_+YO>-Tc\\RG779*8RWGV9\'T6XRKjNZt8D]PeZL:P\'M8d=:W4q$]cO\"XnT6*3>X7LIRWEbQM`f86/<s";"yc\\WdpB2I^o";"y>e#dE>1";"y!H,E";"yKF:d^X^A5>","2iYj=","y9$76sUp/W_";"2ALz=","25OM=";"yk<Z";"2KbPr3Mw=","2WK==";"yRufUrlQW";"yAj+9WG<1?Vc=";"yef!Y8Quo";"2g7Ecr4xFcM==";"26xJ6L4QwJ0==","28qGJQbq=","y\'`qCiprOm>S19#UlE!tm\'1";"2XXLBDL9=","y=G*r\'XO";"y;0!j-","2SI4TRK==";"y8nW5";"yqVe_e","2wC5m6GxDqOpPII==","2gAo4As9/";"22+C8","yqsAWc^TXGqVo:hC";"268v9BLpGZz0Qachy";"ys;2W%&^","yjQUl\\<aNi2J_986?0c8MhfrBAfsO`-6%\",>6K5Os9s-b$47?Ua8tp[=6u+2#lmNT5<KY=cSf3GW]E=H","2gtjmwrGrA5mlNjmH5czC";"yDrWf","y[(&N-`G","yuC#Q:g!f-JQ\"c-\'qe:SG/sFcC19#YKmd!J#XXVrn!Mkf#(Zd)UDARVdoZNJ\\ecAfm;/-$_JeJKZo(c3<<)";"yM;+#?","2z0==";"y;H$p>&7:Cn","ykP`RN";"y,<TJiOA\\","2RMKh";"2m+avCdoo";"2+0xguxM8v9M=";"2d74jM+R4YjNi";"y58Z@.#=";"yuX<+=VP","2ZdmaThQ=";"2YiZM";"yg9WWI$5","yI<9\\[Vt","y![X,8","y35s?_5?`!+I+";"y4+#`Y","y8!dHPM,";"2ksXOP4By";"y)Yo&kmgAe\"-@d\'T","2kpB8y0dw";"ymb0UH[W6";"2v/nEbiI0Lqh2hWM=","y9?3P/kogKf:1";"2rNI2W8PwKXTuxWC6sR3p";"y0Xc","2AYzJ","2yhojsQ+=";"29/+f+Bha";"2uHKE9QctkM==","2d4kmgGf0ARQ5AG2=";"yecGGcX0GN","yNs=tGL.h","y>1";"yK*hnoMV","2Dw+=";"yfp3nb?f)OZN.";"2XRS+4EK=";"22Jq=";"ygSt(JoMI2O=^_pj!L";"2ioQIy+I=";"yIT5*d";"2BsWgIdrM","y!Z`h3d\\r>","20cDGG58wazO+hM==","y@\'\"TdLN";"yS_H(FA1P","2Kigz689=","2kbWBgPQM","yr7[%h<P","y)GoF";"2vozOkJPiU0==";"y^1","y!UGP";"ypeZ-[@gKb";"yU_Sac:bVn";"2d0/xx1ZuC4KFYkz=","2hJyi3Ci=";"2WgNi";"yUj>j#gh";"yVD/#rbq_WP","y*(8YIXa","26SacEy6ToxXq2iz=","2tUzUwI==";"2PY4YyvXAgIo14Ikw","yRI.2M;aJ";"2WdP6";"y&UX";"2cVSg","2jyulUfCg";"y_TjeQ","ySBfX-[dX)[";"2EYqHZI==","2j6pGwuj=","2tI==";"y4^XY";"2bmFBBI==","2pI==";"yZm/","yFG","2H4FO3WI=","ytE7EU^(o";"y9\\-<=j\'n@grI8a","yDKIh;l>Oq","2qK1rXI==","2eF+RFCoQ";"2AtjM","y;!-bf`.1";"2/qQk";"yh!G3Jo:]H?Wo*r+#d\"\"g;LB]!l<=a(Mn`PI:[l^5&I@a<*9=C&2(SN,Oa76]A6!!4Caf8J2!^3UL-[\\8.lnp*6tMqs!1DFLmN\"])\'iSZ5s];<_3AP$W\'hg<r.5CCW$gkEuOJ(N";"2i1ZmuK==";"yc,","2P3Qn","2rnHh02dRueyvBfho6k9h";"y.F:S=";"y()Yr1g9^>","2E6v6";"y8SfYbT5Uaid`H(O";"yF4\\^<1jK,71WK:I","2TWxXwF6bAFz=","2Lv+bOC+=";"yE4W/aBY","y^rW;/","y3(#%e","21abf","y3cMdUBh","yam2","y\\,";"yUBsFc`Bu","2rENdVEXP30==";"yt2pAKd%";"yF5A!OuQ<peK%q12","ymmDYSEo/E4";"yT\'d/odhWoTWZ";"2aObYCI==","2yNbHfRz=","2Cmj6CDi=","2FrWSz/0hu0==","y4(\\5","2WAwUHu9P";"y@kQSfuUK+e.\'Id<";"21h5s6Pg9";"2cce2vX2C";"yo&","yJF_DW";"2Kdm9j1EfsYqgWC+=";"2XPicoF4muZU0do8862nsVXpjPd2ahVbK7RLrfwe7ShEZ4kl/iNUSZqqsrQ/nW4vXg/wt02mRIR3ojW8YbbEiJSAzoj+yhH4pW2JY3Qk7Q/vtXHqT";"2Mufrw/wC";"2GdpQj0==","2xPi3LM==","2ddU1","2L9voVrCiSK==","y^$2+_N\'q","2uij=","2mulqyeps5M==","21ddf","y>:=";"y+U_rl%Z?";"y3S?0";"yU5RCr><pT-/f`/O","yKY8\"M";"y9`4,f","2yK==","2H38x";"yfSBm`@G6+","yVlUaN<)","yM;kC@;HuL=&E4r";"yg9X9D","yY;)dED1?;OCBR%J";"y*ZL";"2U4cK";"2HyztU1ZGWLQ=";"yPA\"";"y?,_.R?etI0\\A5/AC$`7NlO";"2244BHXNgZK==";"2uwKbW0==";"2ZEKdSIbo";"yp($d(DN";"ymcT/ho&","26fiShP2=","yXRK","y!6\'Xk6JANoo@","y2q-I01s-,<!kmiceR";"yb!ona";"y,kZ:Cq;","2Z0==","2Le9iPCqUbaht","21EbepajyAX0=";"2Z2fZ6w+=","2q3oJz2M=";"yroqA";"2+9dRTI==";"20bw=";"2qu1CQN9gqIK=";"2RWAeOBSe","y`_D5-9dFd","y;Cae","y>ZW";"2r0YCQudk/Sk6";"2rFLMpIKpePhFL76nZH3Sn3iNq0y1pemEt/4hWUBEkK==","2Bvi=";"2P+Oh","2m+I=","yX2KZ,#a)E-hY5D*","y5LH","yX()","yt_,0VY\\:\"";"yP\\&7I,!\\","y^eeUl";"ynbp7+","2y74ad70CiK==";"y.mMuJ;1T?";"yY@enhA=","2H0==";"ycL-\']bGh9uV:c-4IZ46b9<A!=UbZi3:$Sb1F`R:cS8d5_*:D(9L4c^6d#Kh2?d\'hUsuZnpuV,HKc\\kg\"!BU#\'suUtCCa";"24tAU5DW3ov73tWgL179m";"ySokKcIn","2tDw=";"yCEXd]XU";"y40qZ:/:+saM,";"yW^lD#cf?","2T5RTcS2XuBmox7q=","2cnRnhrK=","272EiCzyNvBz=","25NK=";"2UIVjbHygZbZh";"2k6Uoch9q";"yh-VC)4(;@","2pVs9iK==","2TPgWR7IxtpakB0AaeCOF0wND";"y*&uT?TZ";"2Tgzq7I==","2emuHC9z=";"y^QEnG7&@3T";"ynP!X";"2gkjKz1oiHK==";"ycFP#IoJj6","yJo;s`<L","y;s]OOPp.2\'","yU?Ec-Q%tI\"`o1O","yP.";"yTn5a89M-","2AKsJVNz=","2nsXRz0==";"y?LKq:G@";"27WQvII==";"2+b9wQ0wdLmOpoYO077j=","2vtA/4Gh=";"2SGPwMk+4xM==","2C0+oJXtBcCbq","y:$-<-6H";"y8el","2hueM";"yXt/27347A\"uo3->";"2DanMA3K=","2WSi=","2e2jfHfVylK==","2V4Bj3O4hG9EU/wbI";"yj,pn-iY";"2LareliYUbMM=";"2i3odD2+ooK==";"2Bem2B4C/Nsih","y\']nN","y%aW0+nOn";"2DjXZX6+=";"y$>WDd4WA";"y&JL$Tp50kC.Dn(-?__R0jRA\\KoS3IP7/EM6b,Z\"%`^iEo&Ii5\'4(^U9hAq923YqBB21ppA%joB@","2MlBllklwoK==","y.1%c","2RtnIjk6mgOyQ77vhxjia9iADCnCP","yfsU";"2Qh0SLEKhDHkjC8rIcPx6wtMngEBFaRVfCaUyflvjuPjbmshdnDBNvDYZJJQzQSQswPGdhijKe1CF19k1nx/qgXvD7rCYZCxuytTcpi4hMd08ATgzotP04sXj9AQAo0evN5XXb9pFJtymMosOAFOEH66pd/SDfIsisU7HKcBKEnGr","y.l","2s0==";"yqN;";"yCY+","2tJ7+","yW[","2aFy5/PeODHH2j4DZXZH0";"ydh)n^";"2EUMx2K==","29M==","y6%<D","2xFrPS1DhYM==";"yQu^*Q0Z","2MM==","2rmrI";"yh1\"";"2Rs4R64M7sM==";"y\'fPO\"cjK";"yr+uaB";"2ay0Tjsx=","y`GSn`I51";"yU,f";"2pcBSzi0h";"2bYP0";"ycZ<paPJb";"2Pwhh","yA_S\"Z,Xg#","2r8aUTD6MKmw8ZfTVO0==","2wX1FiKcTjGwuWSH6+gELpyf29WZpAvOvmgULCKWs7IkOYHUw8AHeyJpLWJVqPrcoR0Wh9I+idBtd/oEV39hK";"y8cPH=`l8bP";"y4UDHo";"y93f!u`o5b_C5<","y:*\"h";"2e6kgE0==","2G0dk","2SmY6ZK==";"2UN4J","yLSJ\"lO@";"274W7dI==","yDDUP.0\\]8cpTJi2).$=\\@/Fu\"$WQ0Z?X\\%iI^39X:lQe%Yc,Am\\U/$bOt#Rj2G@CQiYHakIAo#^Yf5&&2h";"yqF=p_u-M:W";"y%F/X8P*","y%Vpp+n\'#\"L";"27f+xIk+=","yC+4-VO*","2ANC/t4VI","yKjo4J9Sn";"2536E","y2pd[O[RA[","ySuj0\"I=";"2qHFhr7u4x+w/G14llK==";"26Pxg";"yq,EAcFG";"yTOY.","2l5pxloj=","yMLJKA=ZJ4Raf<";"2hzIcSmc92gKbLM3pAI==","28MjE8qLaDI==";"yCZdS)a@_n[","y[Lg";"yg,9uVWZ","2f7EyiaOGXy+6rBi3IfI=","y.nUQ","y)s,S;BmJ/D$ZPcb";"yi]&(?rj(`";"2oxn=","2D6xhNgC5MK==","2xDBl6+K=";"2fIH+5qVT";"yba","22Ahp1Waf54XNyM==";"2WM==";"2G6youoPE";"2V7K11fh=";"2y4P12kh=","24GCZ";"2zLWCNVnF","2c11Q";"yk]8)EL/C";"yB!5hn>4Xb";"2Pm1XgI==","yb10$";"yORX3","2ZIVCIUzqSK==","ybN]7)Qe-!","2jkIQoZ+=","yUDlu";"ylrJQ,FG";"y3Qeoeao","2w0UfXM==";"y9Z&BeQM@";"2mP+/","yg[W!]Gl#hN";"yQWL\"CuQ9?","26cYY60==","2Y9krzq5AgGoIttdb700UZqfCG9Z48H0Ul3PyCkepDMEvOZwei3Br","2eXp+XY0=";"2pd82Ons6","yuG[Q","2L7G/ZI795HaGh7Ej6SrX";"y4n,DS;Yt";"2PwSv70==","2xmsh+I==";"2Nu5DtrM=","yWRR#lsM=_","2gnFpqI==";"2VFqf","240==","2pns+8Z1k1cjml1N//jrk";"2VWDKsI==","2TBI0","yV8jH@aN";"yr$","2Cx+=","2NkQG";"2YrM4VHrD";"2YF7ev/rD77tYj0KAT++v40==";"yI8@?uK;C";"yoGhtD@dfAo";"y0iKFWNIE";"2v5BwlP0=","2UYSVxGfw";"22MUKp0h=";"y*5YQ5\'<d/0)Q","2v0==";"yon=sToA<";"y-PiB","2CeIFBlZZ","2zxz48qK=","2SI==";"2cyz1NfSf","y9+L\"\"A,,`iA:*q7(<.UU:=i/i[Ji6Fj):dK$IIY(";"yX\\b";"2vu0=";"y4M`i[I=","yT7Z*\\";"2bwq=","y8.E<&[;gP","2cK9=";"y:bZ","yI%d8BTJ0","y#F\'?Rn%0j","2nlnBRhz=","y((3H)pA=^";"y-%qi,E*i","2Sky56eoq";"23AayncxfOI==","2PoRijHh=","2XcdCFQtgbI==";"yJs[H\'$c`";"yQiDfQGNP";"y1#3\"?g:b\\","yE-X";"y4*mOW\'P.[k";"2Khn=";"y/H#IP_6qU5","ys`t";"yENbV\\XN=uo2*]tII7798l+CSaqlq7WhQ*Ya4?<(;J>k(bS:*f3lFL;)0R]#[r.#l`QkB5PfK\\Q(dl-.a5L4Ir[\\JC]*H","2NgG3x8qp","yJuN\\n";"20F3E";"yoHm^4";"2V/6fJrNK";"2EI==","y>?A;","2zQf1gb+Spu+=";"2hGtGIK==","yO1%S","y8joI";"yE]^q","yP`UKgV\'!$j&&m!<bO)jdj/f4","2dRM+2j+Qkfp3LzR0qeQ=";"2ujQSk8i=","yG=ii\"Xs=";"yVton97YJ";"yrqu^H","2aqw=","29KKTHH01g9K=";"yXU";"2MRyA/Wn=","yd&7!(@l";"2HkWu/m+mFylGdzYcpyYRxh9P/GttJ3DeiaRD8g7FuCaZoL2c8UgA6fkAmIoWAHBUylrgl9+=","2q/ibX0==";"y3h9)h/[","2FDrIV9pZjK==","2Xfgv/uNAYI==";"2xeXew0==";"2PLj=","yjsJ]UA45","ymS%h2M,<";"yZQ*F_P.";"y=alIL\'[$a\"","22FIj";"y45$R","2SuwYrBj=";"2D0==","2/I2=";"y6j2`:","2B/FKuoTy","yM:LL3","2qpYs/Th=";"2Mmw=","ycV","2HM==","2RIHKxM0=";"2PAb+C3h=","yJOCuI@UoY\'sRX:BTu(";"2T80vzSSyVlw=";"yn5","2QTQ=","yE7D+2";"yo\\`j1,@\\ni+$_-f:3PMTAcJ+E0qHkmn\"[oaOmn3bF0fakaRs-UqqhEP\'V0","y(D$[hS^";"yMc[br!k?!d&SK8O>F:Q)7Nd5Nm2d6N\\*3-95\")dD!^EWp]j2Csa1Pgd&H#A!AB#O7UG.^O;?Y6\\7BHX`&nQ;sV\"c7U-5OtV!VF\'qi]8G&*2iLWp$ucEaUTi";"2dWZH","yNVD";"2LBnOIcLwBh+=";"yPQ$4f","2JfSD";"2mPU78fn=";"223vqrQx=","2rud3sRw=","2uFxcGK==","yWS(+s.>0dL","y97EmE.l","28chKC0==";"yt.";"y2A\'I";"y[72A_aN";"20RkEEOFkkGz=","yAZ[Y:)G","2JqlLS/0C";"ysjiYJ%D$&<<lp-?P$Q";"2iqOCKQh=","ytd%Eqo@";"yDjBH#Z=G","yWeuRV`G";"yMJ5TR+r8O]","y:2O2<M\"s","2ecnXBnr1E0==","y5ls3q3#qeNWR";"24keQtW8UKyh=";"yt8X&dB,CmB?bLT`","yUG";"yMN1K-Q:H";"2Dtc2";"yJX-)E";"y,>o","yWF0Uqp:p8F";"2YCwPHohW";"2G57K","2nAWo";"yqZ";"ykfk@L`d?2";"ybSPqZlk16","y[luu";"2NoPTGux=";"yjHA9;(@u","2JK==";"yR_&\"","2DdtuDood0oh=","2eOm1zo4i1gi4","2l1KarUiuS/pd","yJ+";"yLfYc";"2eErqAW+=";"ykXJil","2lbUmF0l6","y>]u8]_?%VfFpT";"2oUIoAI==","yARhb";"y!L";"2NGZmw64f6Kx=";"2hk8+69BF8Tn=";"yqK5";"2u1HIbawEqGiuMfAoR9l07WqFmygGXfhdnSA8ePaWr8n0Ku74Eqp8EOM2VD2kdaQBLvT/anNbjrh5gJau","ynTSBU]8s;=$5\'m";"2r4Q3zkvC";"yA(L12jK-0","yN8R","2F3rdmPh=";"y,PaEsa&R9hE^6n";"2j54qV0==","y>&cZ6ijp(N";"27K==","yLs$tGXH","2mEqF","2fZWNI0==","2AI==","y^Keh(";"27uHLo8OFhvtAVBYxu9QR";"23Ez=";"yQ#H","27wr8VM==","2eVBolgQ=";"22g+CYrXwiK==";"ybOEdcLN","22TFzlRKz";"2oEeA3PdU+mi=";"y8GIBdGj","2CHHaTooxn/pN","yZQ3g)ShM","yIRb3N,K-_";"2F57Fgh9=","2LOmdZM==","yE8PB7@/L";"y6S6","y`S@tg","y64UW","yK?Y&>aB7P0X]?.oZI</a\\b\\J*$=4[2sd(LbGh9\\+h>KEl","2FmAveCljnM==","yoXG%@oH@","yYkV";"2MGNwVWaa","2Ey8w70==";"2CfSTg3434yh=","ycBipE<YPu,UPs61Ffms!8FF9g1pZnS?K!:1*`Tilga\\sEb@]H(9s+\"a7GuI\\#K&M-L.m4)";"yJ=7;";"2EA8+8wQ=","y[5<EN^>^";"y;:";"2znhDfCvC";"y9+T4_M,","2sxiZEhb0yK==";"y7m$sT.fU","ye!&g4bO";"2UkpqPYHgQK==","y6q\\<BUq!";"2jG8yw4X5NRq=","2Pqx5vNy9S0==","2A2n/lGWe","2/IvdeLzunUda","ycRm$-iG,uNMom/n";"2xfG1pI==";"2V9g8APx=","y,/lMSF=EUS";"2nM==","y6O";"2xb1+HM==";"ydk$\\<";"2D73xASqhOTBuW458","y?*","2OU5UxujFUe+=";"y\'Rd8H`nJM";"yENuqrYP";"2Rzd+","yMQ8b4","2y0==","2FugkEK==";"yGITM";"yK^k9[W#\'H!uNRWX";"y^q2cKZ,;O2","2l4+Wh+mi";"y\'V\\f&gD\")g5LU";"2+hBF","yA-:&-W!e1","yKQ2*R";"2YoTDqLq=";"2FI==","2jdh=","y]YY(Nao","2rx6vimqYovEGbYRQFEaa10==";"26hFZa5V2O8mkqI==";"2Ve5jXPaT";"2SyPmMAIW";"2xAmlu/18";"24dFw6M==";"2YCvI","2fbx68Exc","2hAJMmNW7woF0HojY";"y5\\\"9\"";"2f4l/";"2oKEBjAq=";"2GDVpPZ0V","y+ij&","23bJj43HUOK==";"yji-V+V?H","y!^:UqO*";"2XktHOCx=","yu!r";"yC\"3he";"22iHqP60=","y3Kf.","y52j%","2yI==","2EROKAeNl+i52i00=";"2oM==";"yFN","2m7yb81DpCfv7bqDhKbI=";"2GVj6c+j=";"2x59jivmzCI==";"y!b[Lk8Q*neb)2Da`2@OS7+cmPR5%(5=ob(kkjL[.\'$9dEY=_HLTd1GA;N6?>:\\sqXeQ-eDM).:i5L$^$`5%FhXojAX0uB:*4ZIcW`q,.!IFC&K4ld0ln/6GOba[cf%d;Y&h/XHa^1pS&o,/F@;\\Z","2PwrSCM==","2dB5QXsqwDOLm3qJJ";"2O7f+QzLDaK==";"2jSxmxI==","2xJr54mz=","2aK==";"yCH","29BUi77q=","yG1(Y-#4+";"yeY/Z";"y<#E7>A,";"ytLX3R","y6Nll=tL:U","2KI==";"2Vhjs0KFx80/Y5I==";"20Soz","2NaOn";"25XbNigcQBaWnshMsmboXp2QOTnvqiM==","yE@j>$$9h";"y!&=]Gl-YRsJr.^?WhZ\"AA35g+,X_L3S<5?4!``q<?>=u_h[cH`dABQ&+Ip;KrM\\g=*=)\'_nS","y[l5aUXU";"2oSO4KIM=";"y[h>hU%5";"2c9D385G9oK==","yT?fZH8FK*4S8u";"y,Mfp=S5AL6";"2C9+i","yX(Zs9\'KBqjj]]p6+!Mg";"2byeR";"yO@";"y,f*6.*fX_l","y0Z";"25cgXI0==";"2QQi=","yA0I6";"25kx26MhwqmK=","2DvgxJIrY3YHHqPCHhzHvBnB3kRkCKHZ7Hqb0hk8Ho/h7y5Zd3B3ezltJGppj9Cnk4Yd0PiM3AwF0avlEypgWXYPN3Uh=";"2j8q=","25QdD";"2cfS+Cs7KO/bc3En=";"y?![\\";"2GI==","2Q640Yaq=";"yfr0`\"cD:","y[:","y)]srE8h";"24sQ=";"2Lw3d9quF7n4me9wfNcf1eQyIGRGmlmJTnAHAl5ijTeMkybN1VyYYUxPURBj3qmOJGTtNHCmalmjFheWP4xS77p7LPaDAZ/kgasfai2NI4GN2";"ypj]ZaX/B";"yLF\";t;5","yc\\:WcSBo@","yeUR<YLo";"2yM==","2L0q=","2NdhLXkwe2k1h","2woyc5V96";"yD^b0[p.";"2A0==";"2wJ7NK0==";"yYIIg&b#U";"20Aj+SK==","2WcK940K=","yr%","y<QF(&n+h","2DM==","2Ic7o","2SIPndJic";"26Hkn","yD!i";"2Ip+33yJ1une7LI==";"yDPXI3lO","y^5;g>","yRP";"yq.t__>OeJH_6B";"28aXlRb+=","yB$PT(a?,6s=j89qJI;Zh>L[lAMoNPb;aT/F-@rJj@,j*QQ#*7>WmU39.m/+TC\"H]%/GkXR:q(gru>QjY[iH_2Qe(1Li)(tbL>a-kN&]*=W;Nm","2TI==","2TyABmI==";"yBW>u";"y2LpXa0+YGtsdao&";"y7CBJsXlEo.";"2LW+rHM==";"y/7\\j=/[","29loX","ysZrO^";"2pn0+0WYBdmK/wVNVSI==","29lwWj0==";"yhJR.EbO","ynX<k","20M==","24NETeR8F3pvvmK==","204k1XaM=";"2rbh6NNysqQ0=";"y%-H9";"y>Wm0OT[";"ytn)PHlKt=J","2WyovYdPuWM==","2Nsh8SEh=";"2oez=";"yq&26d^\'\"t";"26iP3","2GJVKsP0S";"yF*t5/","y:S,1-9imX","y]rme4>j92]/a(kK^;E#","y_A3^i";"2XrvsXUtW","ya`pO3sK";"2xeNiyK==";"yho-";"29xYrC0==","yst,4#1l;=BO@";"yu`G\'E$]","yg/&nL","2DM9hKucPm9+=";"2cTVyZDsV4etOCDRIoh5cnOV4D7+xeDjep+eICP6HmW5q9SiWEGk/0g6YzOPOA7BO/XfMb8yWBc9ovp5uLwiuVbWO2p9dQf0QSb4bgVh5HXUSEjgyTKMVtl2h0Jec";"y<dFk";"2Tke5mdmB+ZAI6K==";"y[JO_m";"2qI==","yB0b:/2RM4-","yOkt@kbW\\";"y(m8;";"20zM=";"yf,\\pmUt,s","2q+vrfK==";"y-C6u,Klm0f","2tCLqaK==";"y43ceXU2CZQkgFB\'?BP8\\mAd@\'GT,gN=NV@sr1N^-aZl;S&e>)t32dnUBJL0","ye$c)","2TlzY","2z68EA/C+GcXGAW2=";"yKAWq25ec5n","2bH57d1n=","2RMh=","ya,mE16U","y]KZn";"yJk%k";"yYdD9FqZ";"yU>/_K\\=","21l6cOM==","2zXd+7Ri=","2PK==","ychQ3s45*b`9P";"y5Hs7r1Wb7c";"2WZngwdDv1I==","yO.";"ysd`t&2h","yP*","2S3E5uAd8TI==","2WVDAZK==";"y1\'_!,F@,";"y%hn3","2xJ4rLlM=","y*!EO2FG0W";"2ZjqmftpWMJLMUK==","yIn";"y/R";"2Yc5zl80=";"yg*U*S_dlo","2iRtqTNfw0XQ=";"25VZ8KXjP","ys9F","2Vk/G";"2in/5flTWEM==";"ys1c1Hd/U";"y+5";"2xIj=";"28WmYFjDWLI==","2rVbt2IWWYnGo20==","2K7prvOq=","2dPZTuXpSsznSyNMx","2+VkKZ4z=","22zMLj7ZJYz6Hp0==","2/pt3Z7j=","248rS8fwYHzEU";"y&8uY!EL";"2+zAnMNe8";"2Xu8Ytjq=","y<\'p(mlH";"2QmhKU1q=";"y77M","y:p;@c";"2A+AgLI==";"2w3I=";"28arU5uwEEJmfukT915RMXM==";"ytf=\\`@Wb";"2qZ/fYrGL","yq-n]","ye_o,4";"y6E]WV>f*m";"2nKHGpj0r","yT=a>c7(t";"y`4@<Ih]","2Cf0=","2s1mG8K2=";"y-V-a#";"2QK==";"yE9DCU";"2OtMjmaM=";"2GlgO7boWee0=","yme;lYYP";"yim;8>a^]","2fxUee7UyUI==","2neuVIDK2p9gMV8K=","2HlDR4i9=";"2AJjTrxq=";"2r0/F";"2gBoS";"2cypXfT2=";"26ALZ+AhrFK==";"26eh=","2DywHtfw=","yk6;\\@e?>";"2QI==","2cCZdq/f6";"2G+VpflSFKI==";"yC<[Vf";"2GQyM/s4T7v+=","2+2gxD9EL","yOKa0C","yXla9A7*DdE=q[qM=qr";"2CwmvBI==","2EpJWYfB9";"yT:EC\\J,J\"*mQ";"2m/NhTPn=";"2+JVJkK==";"y>Z]$/;A^Y","2o3Hc7SXid0Kf","yIY4\\*eS7","2Q0H0YINjEK==","2RQZOLM==","2e1OacM==";"27+4swuI=";"y%I=fB","ycuhMX","yl>?Tgq;";"y2ja$\'";"yUegVb";"2qPHsdBkfRa40","2PD2=","yO$>u)@^";"2KRh=";"2YF8H","yA,R\\>7pX","y*=LmCo.","2LrB68SmsGDeoD+Fk","yBX+NM9`_0mrj[";"y2\'s%l\\;[H98$","2gZueVK0=","y<L";"2Et8fZN+=","2zZ4zwtzr12qfn19=";"yEo#L","2JMxIeK==";"yUP%#BG@";"26YzPgGeYsNgz8M==";"2qxsc+RfKmM==","2vd2VoFqyayWrGXw=";"2bnzvFM==";"2v4TIOWw=";"y/;!8G2+7l(\\-3Q1";"yr\"C(";"2R0==","yLed[";"yWXiI","2+XSmEUZraAw0r8Q=","y%DZB[","y(H","2wdZFCM==";"23gDafzNmxAI=";"yk!MAMJNZilK@","2alBwC8T8pI==","27TCCD24B";"y_B66<";"y^lP.2\'Gchm","20B6zni9=";"y^Wr\\\\:*D22","y#%`)glO";"y6*hPjbHk*Me=utj";"y9toQ1Y68","ylj;V`P9)B3`X)$gmG","2HK==";"yc\"jIS#HA[T,i?i";"2rUR7ueWqXOw=";"2q77V";"2wBQ=";"2OoJvyyyX60tIUouHD0==","2o+qz8mvqiI==","yfK<7WXqB","2k4b9qZ+DWxw9N6pq9hCPb2U/TDtuLxQDvHL+HVDTJJvSsd8y2ZW1pipLNM==";"2e8t2";"yiY","y2n@^>Ca";"2Ks0=","ydO8(X";"yWZ";"yRt","yRF6&kr%","2QiAokizu";"yA\\VFR";"yXgWZ@%n^";"2gXOHJI==","2E+m3","2Runj33ms4XugSAu8FM==","yq/C?=ZjOb)SP9dI,qaXt]\";gHY-S`b4+%2GYaZ=8C=e]6,1=S.nLq`>^5ZcXG*^^8b_`U?*I57SK>O:)=3@S1,)1?jGb;_VZ@GVq#QIS9I?A#&=(l&!+ffUYE^JgT%T)So:D<r,27-=2/%UZemT2e","21Tu7vUi=";"2kT+/";"2tjUW";"y4%-RFBY","yR`P+2?*";"yG@P5;KN*","2wZk1zK==";"y4prU5";"y[7?+";"2udPb5nsHhFI=","y_=jp4LThq@qZ","2a/n=","2GGqzz0==";"23V1jQmnR";"yYH#u6","21XnclWClYG6l","23GKppNK=";"2OUIiesxrMWU10T/eee24ZqCuaK==";"y`\'\'Qt\\57K","y=H9?)";"yI^K]nLK(","2NK==","22t+UaRh=","y-^p:\"gM!oXGi]";"y$Pc%","y\\2R[$la","y+\'VKt@l";"2nVhH2vEbabcsA/BMmyNA";"2Xlyq","2NPK1xPT6PQr48lmN","2iZzyeDS+og80kauZ";"y3R","2Em7i","yU9)h[Tm;";"y/#2Z2-N[AQT>&_ZpG9Qpdc325X,\",]1J?ei1#OgI(C)!h?g&3tbh)/ZTSZW/&KRdLu5-[Q72uW/LNAi0sD`,.<mibZ","2618xrtz=","2pQPUSK==","21K==";"2Nb/mSaI=";"2bB1b1sWm";"2PZrQH5Q=";"2gSEl4dn=";"2KLNTklw=";"y@9&*I+8NpI";"y#Q\"rl*O";"25yB7";"y)otQK","20DQ7XhOH";"236NmTCS3HI==";"yF4\"S,kBn","yFceK(,Cbk","278scEzYTSI==","2Erak7Pcq9hvrZ5z2BFMTsBKb+tivemjPnnUHKB8OT9FezkKxvF5OBIOT3jCFxVGjkoc6c9SYCYN6F98IWM==";"yL!8-G7Td#96a";"yGO>";"yrM2MF&VJ","yqN-^<8aqm*hO\'","2Uap89qw=";"2RB20PuCiC0==","2Q20oR9w=";"y%bD%";"2mf2HkX9h";"2N99=","2ign8","2YLHOkI==";"ypS]Yo";"2f8myWGcS6BKoaV7nQhJjqAWlIpUOLvvNvqH7WB4fmK6p+oVByChZOdOWJpASw9fkOAA9e9pfbT6ZOjSCV8yF0/I57QyG82h=","2Z/t1NI==","2VJU/","y5WKGVEZI","y&3C=\"l:/";"2ZHSpE0I=";"2T6GvSf0/KOYHMK==","yK@","yEga";"2eI==","yteBSanTk.jVo%*Igs","y?@","y>>";"y$6hojbeIN";"24SH8sAs+VIU5","y.7bQBt:i";"yU]cu-In","y.^";"y/l%.i6\\O2","2WV5vLZ+iXAgB","2MMn=","yJmFu\"Z]","2Ad8NfI==","ymE:D","2e6KUHM==";"2hlvdh0==","2LyOoQxi=";"y[FePrnS";"2tpD7K9dlbGy4oJHLfM==","yM)P+\"@-(","yYKsP`K@";"2dUYvR1GajB7F2GQ=";"y?\\1_2(dG","yha-:bZ\"6nfm[7mB\'4AXU!6C$XrD`n\"E+DB,s)5g)#S@VD`N><0;5@a7#.;\'Rt$2&i1&B$571S\\h>/ptF3ru2B\\oX","2hM==";"2lPSMZW8/9I==";"2atnvfx2aP9wg2opaaifvUhz9j9t5","y7),csMIXb\'K&";"yT;","2dKn=";"y@5it";"y33RS?_+m]m2@%KS&\'_kARrDe%XRJfP/6$?[FqR]H5SuW01\'edt%_U.:";"2862qu9FHjmjY56EKxWTg6zM59txJ+OVHuuJsLQ192XLPUP5P+iMf5T92DMStCG0dUrCjH8ex0TfGboxDIK==";"2zemlN8FEPI==","yl5?\\kboTVojE5";"2v9bNJ09DFI==","2a50d";"yPXab9","yEq=Y#","y<inic,P";"2n75O";"yCc)-g&Tl!8rLbO!^l";"y=:","2tNHY+Nkc","yi:5b@_R";"2dM==","y3Irirq[";"2p52gPYUfuFq=","2epHNOmA3GlI=";"2vCFaMV0=","2LKMHofSu";"2sXxXk8Om","y+gAf)","yeE7=RghjK\"*m&nO";"24UZ7M6MF/Vi=";"2Cei82qcU";"2upwc";"210==";"y4+RW%$KkF:ih";"2qS4kZqEdLADQHUz=";"y)qSC?OlJ","y,QC>%][Ig%84V,";"y7Yd.%i1XQ";"25lRsSrnyn0==";"y/l*T5>^","2uO6rj0V6CV9xVAj=","27ngR2SoL";"2UPkAPE1q","2cU1xDVj=";"y=DP<L5h?J9%&SH";"yqeXT)W52";"2obLxehvwiVQCZJBWzI==";"yQLJ/>2[8i\\\'JtT3";"y6Y>N";"y>]#sF";"y<(<Z","yW\'WI";"2aP9Z";"2eDF+3I==";"2vVPE","2AmjQ8CRLha+=","25sQiNWxM","y>>MIe6TCJ","22OUUxK==","y7G[[MVpt","260==","2lCI4sJhh";"y%?oPa,9Ll","2JM==";"y1VaO\'P[5t","2N0==";"ya4fl@\'eA[(\\;hL!AH+E1c9?]HVhG4E1^bCQ-B+P@$oDM5[PVH,us+\'(7BV_fT&;O[qKk,0RsEgVmiEE\"cY`9,\';htT)3Hsr/4ti_j)3nFt#Z!.q0rqjq06ih)_ocCn\']*AL)@il*np1=Y7Q\"OG`5[40&F^","yTk^\'p`Q6N","y8knN$WT8N<c)>5F","yD`Hhs";"yepiI","2VW0=";"y\\=";"2WWidzbQ=";"yk;t9F";"2Vb/cwnNwKLKgLQRdrA7c","y]Pe[";"y&>$","yM-VS;AUNMMZd=X=/7Fb43mmii0!rIZ^fDU[-!g3i>;V^br4t2$=BoT$\\/&g2#bXQRbF#X?tB(@TXLpQS59MBS-pI7/Lp<);RG$$6&>@o1uGn+\'T\',b?E0tN","2dB+=","yR()#Q4<R";"yqY`!8?@","20tm8nc4MFAq=","25FQwzM==";"2UK==","yB>X[PaboE";"y1j5>h7=","2ncF2FGx=";"y8@nr+tX_W<FN";"2TiIs53kaC6NAEM==","2nk+0EgjvfM==";"2F4xrEcM+","y5co8,UN";"2oJUxh0==","ybbaLhQ(UO\\","2dqTyqv+=","2MDB6qOl/vSTrUsBoK62ITiq=";"yE$qs","2V0==";"yIS1","2b8IpGI1w+FdaKEj=";"2jSy7";"yQ.lT7:1","y%7:8","yTo(9Ds?R","2S4Ma","29CbS","yVD:.>&^";"2AY+XAs877msU","2qujEIvjwIp6b","2KppLWmwD1FtCHEf2iFeODKNEOChso9qUrTENg2hEbP2V2OhPMWsS/xt2+idp1flvLF2swV4LB9lsUgX1zM==","2/f+P";"2Pq9wGJdf","y\',35";"yh4b(","25FwCW0==","2ZtCFFn1kHmi=";"2ipAw","2W43A6M==","2uZshM2n=";"y<6YG;c_[&";"2aM==","2qnHt8n2=","ypG<Q/;^<e\"O6/","2n5mjs0Q=","2bzGD/xK2rH5d7gh=";"y4RTAm(;V";"2gT9oSjQ=";"y2h","2LHos";"y\'jQ=L";"2YCpo3Si=";"y#[HUC`IfV","yZaOVuY\'A";"ye[","y$7.MqMV","y5tU0or:<","2axEKzD58ihTOQ0==","yegQ@","2Qv6//jDBSM==","2SHqa7lWs","2ThZAeK==","y_CYEh\\)h";"y4MnJS";"2h/F3rYyM5dwfOMhSXJt2uxul1/O1uYjf3DLX","yQY65Jt@","yp@","2tRb81p+aJ79HOkX2";"223Bzk9srZM==","2w2j=","2nU8KMu0SQK==","yC4(QR";"221BNZI==";"2/gJuoK==","y/0iYWai*-Y1!a(a","yoM_#sEL";"y(9_T;/[","2WIt0n9iT70==";"yEI6;ZO*";"ykeq-","2YAuRESX+D4Yle0==";"y_nN&;O/E?&&g\"%RqZ","ySV?B";"yG4XKR6Ien;p@";"y&$/J#N-U";"yF^ib$e7*","ylrc^`";"yao","2HPI=";"2gWwjm+und2Cs7PCz","y;o0PhZVC?u";"2ApJGMM==";"2ZZaEXdbb";"2srdU","2uIW1","yC2$e","yQrb3t#9&\'","y@^";"y$[C`Ejn:","26SbKxEYd1I==";"y[TeJ9*iS8dT`c";"2PI==";"2u8rA";"y#h7V.c=u<+Bh";"266wgukO9JI==";"2dQz2uCz=","y>G1\\R","2dZYrVVFAU8q=";"2YrM=","2ytlA1bzMyvTVt0==";"2gsNAGAM=";"2fd35r5+Ik0==","23or3Q0==";"2uuQreTe/jW9ws6eJj0==";"ynKd";"yAq)[0:Jmh^JMNK(`U7a_5:\"\'6jhikE48248iKa5.Eu;5GGh_r<2@)\\_VmXi]@GGsG)p,j8DTG8S`8UiWINtJ?n)eF>GcskU2*N+t[?^+PmIfCKRBWjKo6u<4e\"^2X#WtPMpI=Jmm--eR/L?4t1.Cu5jn]42cqSjq!/OMsV/VE";"yDFUVThGq*=NBSL-8Ge";"2ghfzhM==","yM^b:)Q7N";"y\'q$]","y3Z";"26JyFp0==","yLV\'[d","2y2uNeJwcAiI=","y*<,54Yl6_8I-OOF","y*k>","2Xdrl","2shw=","2h5G2WxJizM==","y2$";"2C/b9ipiH","ya:g#=5B)r2:1","yZ[R8";"294oIZ9Qriqq=";"yQG","yj2h:Y1rV","y/M^2-";"y788\\bh^;:+";"2GiwF3BjPnnj=","2C7uCZgw=";"2zHW31M==","2plGGhvx=";"2bvo5+j6L";"2zM==","yOV<m";"yg>l","2810xB46l","yVP-K`psh%aXo*X5E?b6;Y/\"gf*$lKAIWUf-FA-]=@YK`R5HPRR","2bA27y7GlVvJUz6W9ZlW4fh+=","2jzvaBO918M==","2P3ZWAcM=";"yd%mVu";"y>VV/";"y&5Gq";"ya<iK\"7m9A","2oYcN+34CQ+F+zOG4";"22A9V5K+=","2omHF";"yg]GR\\%=CqE#*q=;";"yTlu\\lst";"y#2rT?Y:AdldTcU7]_0","yh1*gWRP","2hXbzwK3cUI==","yqJ`<hb:lUt^Wa";"yDu%";"23uICrM3hJR7q8aM=","2Gj2G6LdH0MjLa8sZ3gQ7bvQBPZBATrhCvp+J+M==";"2BfbVS5wD";"y.qk<h#PE","y!g?5ot.","22AXju8K=","2r1K=","20pvMZWw=","yQ)0MU@1";"2GMVg","292SmmiGP";"2EM==","yAi$SL+n:A","2jkAyPmB7","2JuQFwBCvVlJ9MJ2=","ypTE-\':R9>";"2OPaM";"y#1ep","yDp1a-";"yF)Lk<*Ja6p*7UU";"2ExuVW3Q=","2sWLmVM==";"2wodROBGL","2cIL8";"2RI==","2C1c7eSI=";"2MfCILgUZOWI4wINflu+=";"2ixlZ";"y7>t\\","ya$NLR<.;fJO.";"y8+cn1\\,","2MaG2hpI=","yZ<fH<8Td3c","ya9)%u[V,8";"yGH-nJi5\'&";"y0PO","2swSkyz+r","ylLr";"2Sa+pQx+7";"y(FFY7\'\'","ye+jj>-6Jgq";"2fzJ40Ll9CVM=","28V5nNZO0gdi=","2TftnsXiLAUh=","yt*lMCYZ(","2bT0dJi8Tb3jY400=","2JWgFIK==","y*9<Q";"yD_Q";"y$$h","2QZWbJjBD90==";"28U9pGTZnQVcYUwKX";"2TaoD9ESLWI==";"yZJ0Ki";"yn0(./qmdFg*qtU","2TK==","y%*FRT51","2dmSRZM==","y:Ct1?5Y_";"yD\'!UR/R%f9b7FS]nB/i9Q;OQ&I\"ES4&WH-0EjtL8<_f6g2\"-\"0\\U9ZsI]N<eOHp*slB[.0*JmKD3=*(bc[#H!Z;:_h\',kN[uEfj+PMC^J%&^5\\1_W.@79Ji.lSNXSclH-p<pS[9,ff)L*PoK%CJl";"yB0>>-)&bK";"2v+2=","24CRXm3MP0hPopqn=","2rK==","2xLUA","2asQs","29/QHNMKP","y&^";"yeTCpJMI\'uarAuplA,g";"20cqPGK==";"2mI==";"yod-K/1/oT[";"2YJsZkM==";"2/hdL4J4XpVeryM==","2m4X3x+upMMi=";"ygc\\g%D3G!X+kTI","yg@%f/","y63>67Q2M5FF6S><u$<F@AT7IN\\FsolB2I:W+`89j^c7!9U5ZTUVhN/r4E099eW*W,FAMY=%qIKi";"2ZM==","2Mch=";"2elhjpTDWn7j=";"2zDZu9JyV","y51";"y.&lB7Sh2%,]Xu","2W4JPtNPoUM==","yU$tg)eZ","yt>0m","yU)J.";"2MksfPDx=","yG&Lq*Y&>";"yTU<6","2hy4G/Yj=","2kgmCjq9=";"2vLuJEAwQYM==","ypVb)pg$","2RM==","y:L5(TRL";"2QDoCwRQ=","ysMo_(5:8V";"ygOlt1915";"2fR7XbbV8";"yX(9d=";"2NLFh";"2oRfm","2gDdRlKw=";"2K+GHySq=";"yr\"Y[4YA.$q/iG";"2ZHmHcW+d8O6K7I==";"2NbVE79maQBjx";"2bWpen0yUTUXVKK==","yqu[WGA,","2I1eeEHjuTM==";"ys8S,M%@u^`","yWP$8$0hdK","2bsuR1lb4Hth=","2L08SAhhS";"2h9hJ","2LEyFRI==","yOhCl*[G4O\'","2X59Dj7uVd5903ZLBkhsoHOw=";"y%DkYG9L","y,=t7T#V";"yCtK";"y?/-D=_A+;qgbhZ","y7oPX0-c\\S&VL","2M8n=","2pAyOIVAw4Pkmntw=","25uco","ysp:%*_e^Dj";"y?CHnu","yYP","ygiIoRQdam:)^FWK]e6S";"22wI51pGH7rND","20Fd85vli";"2VIg/TuI=";"2rI==","2IIPm";"y\'R>R","2KvYWcydaPM==";"yguL7Hl=/!;","2ul9v";"yDqaFc";"2+0==","yKN-L\'";"2VQqt";"yJ]&1Hem>`Us9U";"yYMbVV.^";"y6I3PimiB";"2m64l","y5r>0X","2OEfwkW0=","yB-L3\\";"ylsL#<Md\"$","y&G6";"yt%\\6";"2QHTs0pEA","28K==";"2RHjCHGjoCh0=";"2kSo/";"y_H1gOn:","y*/F\')3?\'","y?Y%DXIo[-","2QPkC5aULTLOTg0==","2T+eb66npDcA1GM==";"2gneWPM==","y`(*Y\\L5n8\"","y[qh%rP.","2M0yQUM==";"y@500Pja";"yZHAG6qVR";"y,mU\"%";"2mK9=","y%_i[Y";"2y0/tWYDUiXn=";"y3/QO*@?/j`mt\\+_Z:","y7)f,)","y$PX&73R","yX9+d";"yS.iBDBF/","2gQGZVK==","2Ma0rIacr69x=";"2gK==";"yR,X89";"2ICXUQEURRkm0ZTmC","y6oIoX","yLdW","2IbCRJQjeIaeDNI==","23PW+uAQd","y*#a\'kZ$<HV=S$kcY:jC,6a","yD*0\'KDZ\'","y=/,cp[r&";"2CobEMK==","2Kzn=","27HAAgkM=";"2uckj","y$,dQFaN";"yFFW\\d","yK&?JD+AG";"y=iWaPO031","y5/0(pn&`";"y_AKX8h]","2T0==";"y+UEULGjHB,.Wq-";"y36&8hFN","y(a";"2jffN","26SGa/HfqIaDs1VJN","yGPOJ";"y*0fQ","2CuOFIyjCcj9Zb4LS555Cl+y6tyAhygaOvM==";"2VM+++0==";"2EXAejoHgjZn1lI==";"2bafrvSJM2I==";"2AM==";"y0t:E-5uG.","yJ(j4](O";"y3fiA)-h";"yR>3","2tKwd";"y0BlUk64dBS?Y0h","yGgB22hBHp`TJ-d4@IO!SYhF<4","yifoq>VR2<";"254gtbM==";"y!d!,<9L","214DbCrvnddHr","yYr9\\\"alt","y?RG\\_N*","yMd&*)pTTP";"yTZ";"y43q+Nbd\'e5LUE,o;\"*.#/HOp*.D\'\"+oebIK>,Z>7/(@.q","yl?";"2GgV3yfAnJifUQhZZoKmnbQnSVfKWTRUwsGJa6V//QxPC6wL9pK83ETphG3+J5CAHoOwZaJXZHuZfET9uaLq/nz2=";"ymVc";"2/K==","2QP9loDR5ZptsP5FeIchgGAC1jCoa6dj=","y,?MStF+8C2?Mhj_kDu";"2X2eVQkNy","y";"2CrnY","2zYr/wWpB";"yj!8h,*(0h","2zJ5TuM==","yAQKr#BWhK","yNW)L?&1";"y<omki6X.U/jRki";"yG8&r&c+[!","yJP.9\"\\(.","y)M/a#*CM)@","ychG:j";"y>+r(";"y<RX","y2iiiXV55","yos6B(9tJ`";"yWBgg^6U","2Z4vbrjuYR7QDDd2=";"yAZO)R]O","y)MmKj<I\\";"yc)S69>^";"yesctD";"yi`3TN","y]a";"yu\\Em8u7-J2A2R","2/P4w4K==","y#)]`hWR","2d0==";"2Mt/asLM9","2FfEnoua8MN0a8jAJUF2bF/hafWpoB2QxT9pcYhLkEuhYlVLh5sG/","yght";"y=@bXWn/lahUse_aNZ3$N","y/d[IYnNFH","ysP","2XM==";"2dptNTc6l4VaQkt9r","2SIHian3k","yU%ZW6U+C\"","yDL\'&";"yMCDnk>>","26qDKxF+=";"y\\I&QZ","yb.p.";"2spSUUGFlL9GL17x=","y;:qYtqW:35)Tc\\","2cDPhxK==";"yL.mV<K@","2wMZmvM==";"yo@";"yVBBgJJ!(RFUt==U";"2tHS/Z0==";"25KJ02TI=","y)nXOu&KOgAc\"Q\'Xc,";"2nvJTzxKl20==";"y2:kO6#V";"y6S!;Yj\"P:","ya06&#","203B9ZM==";"yeU9^";"yhC";"y`Oa[\'O@","2xq01XYK=","2GHR/";"y_-9r\\Uo";"2682wyzx/AIWkZ04PKeyVaC+mGdcNHE4Osimi/T4AgK==";"y!T\\\"Pj7*SJ60l`u","y0:09]_\\5jq8hK";"2PfD/vys0vi7ZiJcVxahGCt/o3j6Vdmsb","yq3OkJ";"y;i[MrGT?AK","2j9ZlKoj8NUt3VGigxMUEbe34AqpSbwi=";"yih","2hm1bHI==","yA)idDsagX1Q!B]X","2an9Mhf2=";"y5W:@1Cha";"ymb,l-##u","yF;ib0YR(L/;Wa[I";"2xPVED3w=","ya8pog";"2A1XtMpfQ";"2IhhfIkBDiI==","yAQZ\\","yG]Sl","y\\tJo";"y0;!PfUo","yY?[kk","y\\d?;fBu:VAsYHEuABa\\\\A]4\\+a.ELI+[]3YUsr:\"4U>f@$=oi^koJ*s@U^ukZIN_hh]2r\\b4C`q\\Q!t=nVj:9r%=T\\_Vs1D!.`OG<C?BSP/:+c&*Ui=bC74;KV[SemX25>c.L@3TH/:Lb9RuX&+ikR*AW(3e?U(4bYO!(.2]2Oo*l0i<asU0","yIg@]R","yIfs[","ySn!V`.X=";"ym`";"2QWRR","236G/qOj=";"y9P","y)F8V";"yR4X!`?*","2gPls","yO+8b\\.6hEm9T\\=P1(70OsX+l=e=#Oq)tE?gD^d<lcDhKU)_lct\'.#q[CCEDfa$p\\]#(F*<;q0W98lXY#@>M\\ui\\d)B(>I^iKt3)M0EcfJWQZd]tdN;Y";"2f5yr","yma^_Hp?H";"2hKMuQw+a","2UuQZ","yoFn>","yoB7L","2uka+czw=";"yP(98>jl#VQE=k";"2yLtEGp0=","y*0bLcE>*go";"yIq(-","2NS+M/J9QgRRO3Nz=","y`@KM,cV";"2NDpWF8Kw";"2eeI00QBijxM=";"ynQ8jC2X)","2z7bVtDcZ";"y=Z>";"y2%FL","yMehtV";"yA,";"yk\'PKV)Mn";"ym^,";"y$pHkb\'1";"25dJFUaI=";"27o/yHdi=","y9]T\\tJ%T","y;5";"2VSbjwq9=","y_[";"yeik]","2nYqGC3ai2KQK";"2GTxixM==","2RKgO";"ygW\\c\"g555","y?.NY,Jn%-ubO","yt!`fqlpB";"2559VRgQ=","ypO[_\'","2lwQ6LQ1hXFGWnmTmnn0=";"2QjNuiK==";"ym0JTUY-FqPWO=(","yuI6<?7/\'G","yq#A7(-A2l>B>D","2g0==";"yEL","20uSXgy1qjvZ4";"2AX2xiNb6+a4p";"2Nn+44K==","yu2CCVhq7hF";"yafg&d@1";"yS>";"2mJBvZq9=";"y_QDi";"2+x5exy/IBXJFzCOPD1rpIrTTGYo71P0Vu50c";"yr(]4%Jj+\\uW#1YT";"2QKsav5L2";"y-*.";"2NZBTx7n=","y(DNdu^^):B","yu[*>d";"2gTI=","y]<\\YoI=","21HeZ";"y^+HTt";"y?[r";"2ZaRENI==","2Esz=";"y(\"FI";"y^Z-i","2nh0=";"2cTUS";"2vapc5Dh=","y>-NoQ&H=7","2R4PqVK==";"2sM==","yd$+Vr?[!","24ke15K==","2Q8mnR+/QVbccAIgx","y,ntO<nlR,","2Q/nw78Sr";"2HnMyHTa91HSJWpx=";"y^2>%RD5-^";"28nA0jGn=","2pvsuNQmqJiFMcxQ=","y6Gf9@2:F0/3cQ","2Y3FUCK==";"y0;";"yrh`0;d%";"yMg`Pae<2Y";"yaN","yks=E","201CJQ0==","2Fd+Jh0==";"2byx0pSDW";"2mTj=";"2wKZyPNDbgn+z";"2GfPp1M==";"y!+/eu;DI";"yW7g3Y$Np";"2QXNC+q1cVdsmKAWRR0==";"2g6OVe4j=";"y^C&Eu0[","y&-7","y9n]H","y]V&S*c&@","29pZF5vbp";"2312zpsu/DM==";"y5\\;9Wl<![Zrh";"24qO2JM9xFLAhz0vJ50==","y-QekabBC69R+H47<3Uhb>-/%JN.","2Cb4fDOgVHM==","ysKbB#h:";"yVLkT[","y]SI/","y>C_8E3F5hGMmru","2K329kZV6w7PFObM=","2X44K","yulNHG26UV","27U/CjK==","yq?@O3EL]+I_tD3Ai@o#mRP\'E_+K)u";"y*C5Y","ybQ_`Q98V";"ye?-hI9L";"2vyaljT+jE3kV";"21WvgaM==";"2hTo2Oen=";"2EDE4I69=","yA=";"2PWNmz4isbUglDiwrT5p8nmrs25v8fm+4495+0Fw633uQXMMZr47kSME9OgM4lG0Uo+9WepLFtXHN","yS^";"yn)7","2/Enh7M==";"y0N\'#1J6?","2GKolU8KjeJwF","y_66E%bO";"yaq&T\"RP","yVl3;qU8*>=";"y&`\\3";"y0:*]dRkqd";"yBQ36(";"y*)jap","2HMNp","y7FAW>C!P","y$?mkWtC.R2I=1G?hC","2vSEyp3A9/Hq=";"2nQxOJauc";"2q1FgbN4rLXQ=","yk^Vd6UK9[GQ(,fc-P\"1XhaR=+=BEfHh#c+7Q\'GN=$MR@nFSI3\"U]R/RbJ]:8*qg<E@t*CL^cL%dA0m6la4eke$8H.p\\(l]<97R/U1qW>ec-L&(N5UI`p^l;[[G.Ke+bH-l%<Q:c&,,n:YIS^,6a>Cr/3)!f<P";"2RD4IHeDH";"2UleP+lq=","y>7VM#RPOA","yGmDqfgAJ!%ZPeDX";"2BTkYDnM=","ys_j%Yq;","ypQq$]`6-4X";"ySa=IA_Op`2e-<#j)g+/F=Zu4sE\"Fa^pgo#B<\'%#]i+<&t41]Nu!^k\'p,E5+t\\^n-88V&JduE-MMr(8O`]L<*X[`][>]U:ufUN","28Bzgzrkj";"24lO+Y1oAumrb","2NG2=","2LI==";"y@cHY","2tXFg+P9=","y*?";"2gHOt","2uXIUW557";"y334Q";"y=dO_";"y<gMU/.l","y<t^D%(_V`baG/f/\'7m$+!P2ss2(heifsh$tT^c!78RS>?W]C`,C#i@pF)e\'PX`O*BV&\"]74C2_[=:lCsM;/(B>6W@,8]prrin$QsNca?RL5f;a!Da/h:s(Y";"21vJ0","2hBQ1cJORjGtMwptzYTqD6IYAnAumFupkWEJvEZiFNIcTUUaa4K2=","yVtDqf";"yj4?t","y6]MXap&","2KdzwvR87rM==","26e6zAM3LIjRDv6aNJzQbGDzkwDkblHPmB0E9QuvfUn482Ijz","2vtmWSNcmwuz=","2eMTfURd0","yOaFc";"yLmnG)PO$O&DFLX0d2X\";U2qXW^p%`@Oe]ohTaTE$BtM(`YMWH72jubb\\`^S(V[!;ZmjYB.@,+s_Q\'apT\\a1Dkho7mmD2g^Q#g;_=D-Pct&(b.0G)2d$55n0SbR9@I5l9989kt3Iq`Y.;>>l,<WVqmM<[+<d";"2aBEKviAK","yM+0L@EL";"y-a/V.\'HAo8I#>N2OUT1![\\+>fYpM8kd^baVdLq-h","2yTgCjI==","yeA8\\\\6H";"2oxWeHK==";"yg$";"2tv0PUylSbSg/0h0qEOyOAAjttM==";"y^b>D;lo6Q>\'OK7","2lZnw","ySn0iC_R","2Ehcvi4OoSiO9";"2H1OaDbkx6TW/bI==","y3Z(d<0sB\'";"2k8ZG","y&1";"yFgoJM@]$*D@;FPPm643Z=@L3[:(p[:`S-c^!0JQN*Ht_p(sLa/Yi,a\'CX1LC6W?=";"y)*P`rK&";"2LdDD1JePLdD7q49=","yU@HGO^1","2921D","2GwbR3qCJjI==","29a6f","2et4iTXOXSGz=","2Pg//Tavw";"2LcGKV2n=";"yXcX>)";"2s9ShvI==";"26QueRaI=";"2O0==";"y]kK)q","2F11T","y5`-LD";"2hr5/";"y$F\\T@)3m!","2szN5yK==";"y&):9M","yXPtT";"2dREekQj=";"2nf47YEhJYFhEhQz=";"2TL86S0==";"21bkDoM==","2ITswAB9=";"2Bfbe7uQ4fGi=","y`gkSJc,";"ynF\"K1c)D-Aa,&jj4dND-jJ^F\\%FQa7D@%rr79DeqqHY^UR%8)PMg24n7lu4A9f^s*SS\\mKc(s5:\\sd1Irr+p","y!.r]V1rg]DGSL9&JJ([+:XZq\\<5h/PBEshV8-(\"#\'*\\nqISQNa3TJ)H+@)46883!;GrI0`","2BLw=","2N+ya","y@](Hrgh";"2ddpM","2ck2=";"2NM==";"ytdCD]P.","y=F;fiRs8#>TF`K;#uG(ij`Wk>%T:d1eh,!k!c$Z(qZ`bF.2l8=>Io!rQ/8c_FCXGJ<0>J(\'8/23[MlKoe&sc$F;nB";"y-Qpo+CuR","yP8@B8Il;F","2DjIBgI==";"2EKIE","2SgbHeZj7x0==";"y=)\'39)Nr";"2AEsYH4Q2";"y(nuI";"yWo`T<4t)20*q?!","y-i,\")=,)#";"21M==","2r/llvXqSd4j=","25BN+ZP0D";"24vpfFS0=","y`mgkIam<";"2RRnQliQj";"y(mg58O(L[s[GJ","yZi.ZQ3_%H8OjSAJ6g4:O8TgL[)%gskq%7LH9I2Fo83V.Y6o1B8Ub\'d1";"yPiM2Iq_ShuN3-@+";"ys]J";"2Q0==","y*/P\\","y.u2tJu(?T&/[";"2ZNbIt+t2njnC08uf2V8xv/mVTWoAjhNPrwDrWIGBW3a99LFQddl5hFmX++zw8SRFQZ+FBFQobZ3U1NkO70FUQ0OvpErfpiIYfaaJghUDcsBwnrT2KbyGeoz0kFQta5xLyFaeRDx=","y?.";"yMD(S!-C3bV3ZL","2HQKT9K==","y?C2F--_R";"2I0==";"2oM38A+ApbI==","y@F>Lqk$,V]9u:0,<)t","yO[r";"27In8";"2hI==";"yLe>[-dliEDc4F<q","y+?XEuP0ZE","2O3N02CPWpvtixtKvghBsGbdu4x8NN5AaSvOuq4/aGoIxtFVkwEukUWpbaOQ65xdq+q5Tc6clvT2LTLEVxKaQqpp2X50RTrqYgq51CAIM","2M/DA","2Usm/v/HDlqBdyj914nax","y9L","y%E!q_Uij*","yd$","2moPO2D84";"2OPYbGyz=","y2H:Z","y#C*OmIQkm*0g-T";"2bv0gf0==","y&Rm>u";"2/ETiQ4qt9I==";"y!\"k(la+)7n?lLfEs]Z)lg4F(b?prQ_\';q-T]r0\")e<+$%:e\"K:UbpU>XRU*0EX#_>F\'HLj";"2Lat34BL/ls7qKt/nINoDnkpxUz2=";"y\\bQd";"2SyywaV1jeb7DWaU4","yJ*hfU@1";"2PIcL5x+=","yLN","yr=lGGKj+\\%","yj:PA";"2A0+gN0==";"26xb8";"2Jxw30Sib4x9jjDPfH3OVMzhoh71HnWEs";"yZ.(/s","21ibY","2MI==","2X5ZO","yae[U","y_7[Zn`2J";"y(7(JH08N","y0i?hV,BC$[","2/AaTApxZvQsM+i6mUyWeKdK/U7eY93nG3S+jPnCODevR0pff1f2x00a2fI==","y0m9u","yaDZGOB-5m>","yOdSC74[","2AoZ+XTmDwXqUS0==";"2gAcmK0==";"yEOG!\'8s","2CO712+Q=","24zlYHwh=";"2+tTsrpK=","2J00IuqKuxW0Vyzh=";"y9j]ht1K@M>buofF";"yQN","2N+jzIgw=";"y(h2]","y^,3m;JCe_2J+","y&>";"2zkCwfLV7";"2dXXxCSRQKCoWnMbRgJ3c56dLBtOn80F9eblYXlhs6P/iCJs0raIUfYF1llnVVE5cfi40Kt55qmQPgAXJhcautDU1I8TruBXyrWmTyj/grqVmLulQ8mVfas3ZTCq=";"ysM*^","2cyyy3M==";"y>i\\2N6H","yb=JE/=C","yl*:h;9\"lb","yoWN^CW@TON1!EFr";"2rxXJnWNs","2549mliXs","yYgUq","yMIt-uLN","yrM2#_EP";"2Q9LQ","2InKZTK==";"2nh0YKH3HIIz=","2yYsD","ynA^4","2g1TcdZ4f+F25+1wI";"2kS4nm3q2xIn=","y\'\'";"y$*s0Ol35S_L\"(>h>^";"2It0WOQn=","2JjZinqi4DETxoRS9";"2T5W1";"y,K";"2WHChM0==";"yj%0aI;(UFh";"2up0wmaI=","2CMenh0==";"yjD@C";"27+5tKQfMnM==";"yTEfeS.1","yWb5=L(jF","y9AeV\"_D$pO6a","22iZYcqnm","21dc5eJrUDXAuehKP","yU]0W\'","yMlr3V\';<l";"2DrtLecA/WudVk+CwzXM=";"2iK==";"2Dz2UmEVBNPU53E+=";"yL2@n8XU";"2QBV4kZJVRESG";"yK6)Q[5++U3WRP";"yBB0-";"2XXqa31WUlSCknY5b","2WaQoeIK=";"2rSnWBV0=","yOI+EPqpr\\";"2IV8u";"2Qsmt","2JVAyG0==","y%rIG$iA3F";"2rFJPqifK","yc=","2NV2d","28HkQDdCoay3kHWXP";"2ceT0";"yIe<T","y!eAb0Qd-NH","yM7F@,0*[r-sp,","y6K=4";"2uWrKhK==";"yCO";"yC1We:+TsYN";"yPY.3rM,","22fbXNK==";"2maiKbWAwlM==","y,Q5";"yT\\\\pKg$","y,fB2&5^","2bDM=","2DI5oc4pL+K==","2xrC0oWQeb0==","y4;";"21i/aHvvBzM==","yBnVK";"2IkM=","2ng2aeI==","ySpkus\\,";"y]AA4","yWX1C,","yS1","yfd2;9","yEKY\'`";"yV!gX","y8E)E7DfI93";"2oXvImaTVit4Nk3rOiW1Nd223UfNJLtE8HZ20Xm4JoWsDOf+JQCkM7hQACmCT+rhhRjQhgb1HOCKid7q6Fc2RVHiGZEBxeHSPAIL6tmv54ReOasNAcs1RfIgQFPN+";"y<RKKS($RF@2SC","2+a8PLLUb";"y\'kHXR";"2lFw=","2lRFD4EBgq9Q=","2I98i/qUn";"2QVx=";"2Qn4gPvOjfoRB","yD]U%C";"2wI==";"yg;np\"","ysOqW","2MIBF";"y3\'d>\'P_^H";"2lhiC9xlg";"yS#+A";"y0u+Kr[kt";"2GlXnsrq=","yOG>=";"2YxoCKHT7";"2P1EWqrSP","2kebdMiS3vbWXO0==","yVEak";"y$4($";"yUR\"?","y+;1";"2/lKJSV60pOqCV7+XCI==","y;5LC0<Wh","y`uo!&Ogq)","2aum4","y5>","y^d<&gl72h";"y).R2Ih!=";"y)n3*";"2d9z58X2=","2Bhf+t0==","ysVbCJVJ9?.XO","y5^_>;^N9Kl","yaaT>8:.+0\"RDlTY+]";"yCa";"2VTlsX0==","2ebA9","yQV:6Q]$ZC/VB!","2hO7j7I==","2/jLiQV33OM==";"238z=","y2rliaA=[\'E","ypKC@P6\"!KUP/\\f0!<3Y_5KU-\"@<j!XK6(K`4HeSoJ$&Q(=2<I=%!1.ODbui5]5n\\$G3-u4:7k!_Y,_1H3Q4<#I:UoiT2Y5)+r\"aIN#TUVJ6pcAk;h","y-*k)";"yO2=9a6Za","2IK5HIon+KVxK";"22GTraqK=";"yE*^T3-ra2bNc%:^";"y:Xl(GOPV%_","y5@f`a","2LVgB","y7%_kpmgd&,C?";"y$ITts%pe","26NEynhQ=","25K==","y/lmW#QGq2","2kV5tWXhPpzCP2Gz=";"y@!pbjk=<)*%IR";"2++fRt4bjlDXy2HFv9KXCxgQMeq8pXq1YuHMICVIIJL5ZY7HtQg8LXiAnGlGkfgaE9Yy3/ehvZcVhzpsUg/lzzLxP4yK=";"ykZ8mjsP";"2jWx+","y9(LUUWR";"yEqN";"yGT\'%\"S>","yF<A8l]0pk","yPF]B";"y$pZ<Qg-H3XXn*TMmQ";"y%VZR","ySLIh=,m]","2v2B5iI==";"yGH0\'B[]";"yuURBK";"2vmayq5l5";"yu1p.";"2eK==";"ycg9]@b.p#-","247Gg";"yNH?GJ:P*Bs","yeWE$=NoK","y64488nIG";"2nWIT2m10xO1j","2C5YK+vnOdnDV","2hjSwbJw=";"2qQzB8PI=","y\'8d";"28M==","yE#Z4","2+4z=","y)<&q>";"2iVaA64Xn+yiOu4TV3RQ=","2iM==","2vBiSg3ifAo7Q52pkwK==","2c+MTLbZ/AmAQ7XI=";"yA#;`(Xi\"p.";"2eyAFxlGVn6d9MG3FLP7rF0==";"2uHiEh2K=";"yri=0D`Q\"GH","2furw5kj0","y;qkp_";"2W66b","2rM==","yurG4";"yd?$ErmG";"yg.d\"m/[";"21bYOrM==";"2Frh=";"y3=q\'.t*";"yQ_;TBK)(U","2cQagfwHg14jj","yp[:k-@<3q","ypEPk";"2JhNv4bYqwKGE5gW1hPgLSLdtO4RPruBmJnMV4E5SevHrmy826UYY52FZqg8qJ43BpMllRdGNfbeRZrbURjsTY8okmVHxFijRyT55bmtr";"2WWraAGz=","2NgojFK==";"y[%p#","yK1p`\"j?","y#[[Il#,";"2fKJDoIrfzM==","2JAej8Jkn","y2V^E\"";"2lAs8duzdcM==";"2FM==";"2Koj2";"2Mdsnop3TEdU0","2FrHKCc0=";"2DeTvM8qJmmT6PfV5gK==","2NladucZ2","y,AG:\\","22YY3TM==";"yh-%K\"","2jRCff8BUNkxc3AHa";"yPUM9n","y.1";"2aUKA45aj";"2vGba72ja";"yhQKL\"@gT";"2f4vPIOI=","2A/gdCFYL","y)/[3","2dO2=","2xihUYj0zLM==","2Vwj=","yg5,ltpsF","2kvT1sIz=";"2DPQ=","23QX+ugCzREJFUVoCr+K=","y\'iE>\'";"2f9n/ggK=";"2/uMW";"24CyEaBO0sj7ibJMDopn=","2o3FVOoUbCChpkrEe3j8E/cAA+pgRxfrL5Efo9B+4wFAh1E7GVUSWRANe+oEoGleyL7zRoe77dG0o325Ix1SAVUCAqqlg1MzNetFhPGbXWqLfkmGnKvnbGtSbNWV/jGC2","2MUMbNeqOtgK=";"2eeYY1D2=";"21v5ogw3Uz5i=","y#oFXI,%L1$q;","ykC$\\_jO","y]3P)13O>";"y\'OQ57kmm";"yqWNZ05N9","yCHpu";"2UAl5","yZ]";"yL\\Z(8eKFJ9[c,","yqa*2?jTGen:q>;%","2Dpr1VKmm";"2j6K=","ydDCq9M`I)","2TUJzCePrNmj=","2u35SzI==","2TiTEBIrmXAK=","yp&l\\";"y=H\"Q]O@","2cp5rH+PBh1O3YI==","ysX8q!<tkA:K>M";"2AtkqZg+=","2w10S","220==","2LK==","2oP874zXg6LE8jlEb/xw=";"y5k[/";"22TktaK==","25I==";"yNga2eBNk";"yaEq0";"yc4TH\"jq]ZA_[";"244HWmSq=";"y:62pkEP","y^l";"yp9JTBr$";"28CXIjqei","yV99\"]K[(Tq","2DD/zD8Fzv1i=","y1Zf";"y&9jW@nDjY!d%","y$!YO;N.";"2X3/roCyLjE2=","29U4sEY0V","2j0==";"yYST+.","yBQcd","y`LWcJ]?","2iI5VBIn=";"yQeFaGP:t5ahe1r>O.M";"y,V`Ooi%tF","2ePQxS8Q=";"2sDzDcyQ1NHmeKwmYkUUpyJT+x/qqZs8H0Y5H7dx3ejGPmIqb99mkXEd7mQ4itM2Cl8xMPNk9hxw+LOmEq/zoZr2IRNkryaGCo0bS","280==";"yhDUgj";"2w0==";"2Mh+CTK==","ysp`nj_.[#","2JX/+Bpz=","29mDJR0==";"2gpDAdV0=","2GhK2O+vN","2ki/uAhmytKh=","ymY0k%4Z","y1C5\\TTO.KjGO6ngic],R4bnM2-RRAQL9JcE_po-GAD@p]sjf-AuiqTTR=>s!ceU[7r8APCi%l*rB9JOtjiZ3UP=.`_)+.","ya!p";"2nmfwmI==","y8B>1/";"y<fQR";"2FTLR","2aks4+0==","y8G;m=suk";"y\'^","y++()";"y^fr34[+t","yTX<*jTZ","y]UW7>FRRfN","y\\j6CB&MM#\"p;\'F";"yT67cGbH";"2/FrX5yLRI02=";"2NpK=","2R3x9Sqw=","yc$l]";"ymI&t24r$tK<@AbE";"2GwrNUzM=","2esq=";"yW/,W!@)Ml%%ak","2vM==";"yaG\"";"2M4hT";"y%0qo7EL$M","y5=H\'<I9NE-V^L7dReRncIZop";"256fS","yg)He.","y?4%s=`bG<98?8?10Kp6s+@=B\\:fB$LJ2[ZIQfdB:cD[Q0Db*N1OIK7(a\'e/]kf,(J_hX=t`\"^tC=\'[7NU4d[n","2HkCzk4n=";"2hZLr";"y.\"JVGr$";"25hebFEYNuP2sif021AyWiIiHh8VY9zVCow3Bv19I5TQ4m0TIvgC8qd2j3+ix5dB8JAKi3khMm6C7iEGolUg0PDvszSS/E5j9EdC9";"2ON5A","yA&6bHo@","yQ[(:";"2F0d9uIMOysK=","2BVr//gTC","yGC/XT[]","2+tcOfI==";"2wR85pJq=";"ylZrOn@jjGV\'r!","29cf5AvHZ/n0=";"2LRK=";"y$n&","20fTUZFzDP7WSXM==";"ygh";"yn*ok","y6I,\"A6a";"29tPbZ4b8lc5PsM==","2TUlTWmIVuvK=";"2vHaf/6QR";"2pdn=","yBZm`$Loar","y9nO2tkutU3";"2z56h","yEjU?2S\\Lc+lEP";"yV])\'","y<m:","2P1svfUu+HuM=","ymP9c^%]";"y7,","2BG2n5eBv","y\\Yk","29JBi","ypC\"2k\\dr";"yUB6!?M-t1";"yjH";"yGj";"y34Y.P;:","2W0==","29lGR3hAoIMhjGd6s8ReX0WZ7ClVsdJ7UWfRaK6XrRQBX2wHgc0wact5NrvYfmEZURbvXXMRyx4ILynSFkACGyY5lew5A8W6j1byLcWj=","22o5J","y5n<%3e1e";"2Hzjo","2HQu5";"2EXHyv2vzLd300pXwhRZHdzGL";"2hTKV4qEulc2=";"yA\'bZ`=.\"","2ku+=";"2PTws7vNAMK==","y-/rT","2SIiJfhHNJUI=";"29lMbTJSLvBn=";"y3U<XgaM)R","y,t","y3ilf";"2EmP7Vqz=";"2+M==";"ykXp&","2K0o1";"y6eFV";"y*Pp8h","2b19lYrQ=","y>oL","2hMPtkM==";"y.\'_.=+GLe","yQR?t","yi4UXd1l","y8s";"26M==";"y+b!+]qT(M8;>lA5P!D";"2Rj7ihmw=","2tEDO","2GvK=","28HyiCJ+=";"y\\_;]&-5(";"yK2OS<KVl","2pVXcjS4i6M==";"y\\QK\'Im`","2vtoIA2UW4c3gNV6M","2K1BFhJn=","2Ba1+l7xkQTx=","2StSDQHYT","yWi\"4cX+[","y[4B+rl]t@8m2c","yk)?L;N.";"2rcaqXYFDqK==";"2ylQ=","yP[UnJjH";"2gyvrPCQj4M==";"yT]lb3","21WR7";"yF/4.uEP","yuSi(^3NO";"y-^@\\","2/m1XtE7Yby8h7Uz=";"yP-]d","y8Tl4_A=";"yc3+","2a40RHyq=","yqnQci(0&77gcN7n";"2rRpDS0==";"2kCph";"y8h","y:\"O]\'u98";"y<U!,Z2%","yVbu&tkTs";"2ojf9qKBjE7JWY8gT","257CgaT0RjaOUQCM0","y!lCpi","yJ[<.&0Z";"y,I?>Aj`Mf";"yD4JJk+]","yOHt";"ySi=lV";"y&#LOH^3EqG:1","y^;Z%";"yX*VtI?Y:BbpuPXUJ=";"2C431";"yC7\'.!aP@?\"/R","2KtcM";"ya`Iq-Oc4M";"yjD_f";"yg;2XV(Ab";"ypj4t[>kI";"yDfSB`o`%","y;K\"7jQVJ[","yIJ&:Z##et_&cK&";"yN,PA";"2A2z3x0==","2dwESFEq=","2Wj8Q","2f/I=","y32p";"yuqJ]_jZG";"y:1","2bpMmT2+1HnUJ","2G6yV","2hCgP","y[?*k)S1","2bLwo7qz=","2i2j8","2oJ0QX9FcTlz=";"20Hw=";"y@03jg-3+4[ln0lVjP$A?Mfa5<:[(63B:W`6=$\':%4)b6CQ_rJ>C[u_LpH=iXLuktf.]6RrfRS4)UF\"B6&7h`+)!@.>[V\\l7]&+0Z=BV1@(DsFnqf+h,#)#P2dC7bDNJ/4<shVel&KQ","y`;qYX\\IQof","yX((E6DG","2U7mnBCCo39KbTAKIp7x=","24n+=","2Tmnag0==";"2YSLz/I==","yBr?/","2WQSv";"2Cm0uFM==";"y\'^i9-%t?kVVlI>";"2fzywik+j","y_\'tJL<&H-EDDVeC3L/\"QgOS9$r!dU<0VH)","2czLe+E7e";"2fQAT";"2WH7VBI9b","2WlsMNX+2DTNpUeqFk6jk1v2=","ygjV3_gcbrdS?m","yOG8:EkCR";"y!\\juMu)h]s^^","2NrJfmPrk8aeb7XWBewI=","2Nq/DB1q=","2ddK=";"2xkcBCQHrTNANi2xY4I==","y6%NVOo.","y,(g-c=/0\\sLo";"y[mSH;(r;(,","y>bhsa)N";"2hAbFaKUPSjC2hzuG","2m7T2d7q8";"y<[H\")2`7bK";"y$]DFj*F0^Hkh";"29QH2zM==","yL.\\6?VP","ys[t_J$7Eu8pGrsSP13R@@W&;t7cS";"ybjq";"24Y6vjHGScXyU","20wqHgcwUugDVQM==";"2Lm8Q";"y/@u","2PM==";"y&@::q";"2uWsFlVK=","yJLDgPpMBKP","2GoZSypZra3LjEc9OhBtriW8Ke0==";"yl`:lV","yOV;[I";"y-5h]!5^","21A092vzZoK==","y!P","ygV#a?1a;[:";"23OrFlK==","yFR[t19Uu;d";"yuq01?*T9-gL(![P";"yB;o(","2Fr7lZ99=","y1T:i","2KVT7Il1k0l2T4k7JIKgt";"2RRci2zWG","2jszY","yILojO";"y\\.U&dgWd>B";"2y69t6ZjofM==";"y2LuY&`p+!2:,q!i","2UwsiSI==","yj^9e","yXbF","y\'W:.4=K1c*c:nY\\(XXem&B&mDeBa5.B,ZpbeBP,$%^H8)Jat<H@N]ANm/%*;e))E-A%#(V,]^\\or9t>TtRh$&*eTG(r9)Zi$)X3XJi+&&3%:?\"shFJjs7JnZ+OXUXkSKjL%2omQUHp#q^<S*L-#$()$_qh2qc\"4#G1JiVM,VPOh16<c.YX?<F%7";"yAO%8n,K","yNGL";"y\'?&=";"yL,qc-";"2+UjGo0==";"ye_`I:";"2Dtw=","2wwtvUMkT0Pq=";"2S1CM21O7","2AnK7VE0=";"2Kd9qQpOxqUnT","yVos","2Y5wRF/Ac","2U0==","yuqkh_4[";"y;>^`C:#\'","y2%","2EgktJ4Q=";"27MLipI==";"yJVo,SQ]Z","yI[L]5*Wk";"2EK==";"y\'1";"2DU+Q";"2vOTXqEcCn9q=";"2j8npF0==";"y=-&d*QDOT_","2J1pdrv3fLPnz6I==","2i4MZ","2f38pUGk0vhJx","200kruG1N","y1lRDf]N7,2","2RhIQ","2GDisafRw","y%:mMURpm.*","yIdCo","2J4b4x8W7","y!]f5S!NefHJL[","y;W)M+";"2L88ePH40sO+2";"2h1BDN4h=","24SkF","yUHGW?jT=(";"2/Q0vPFq=","yJt)qU";"y0AUB4(DG\'P","y)74T";"yJe]`","yisl8?";"28lasww+=","y7$N`J*?";"2jqbdyMLk+NJwhei=";"yP%8<ZG@","26AAbu1w=";"y1l";"2Af9i";"y7WS71";"2RdylTNx=";"2ljJiyjtZFirwDK==","y,Z>(+PfWO","ylohEX";"y/!%/";"2dN/laQoXNvHsAxQ/","2hCi=";"2Km4OOvDX","y$]","y0Ws@M";"2N5Wp2K==";"23K==";"2rp/wSMMd","23crh","yF[#&";"y-$\\PObH","yXP/AA","y^msWTV`.";"y!#Q%";"2d54QAU9rtEidYK==","2GyjwiUi=","y-$","2/LYuWAaGOLz1"}local function EF(X)return JF[X-(271591+-210470)]end for X,Y in ipairs({{523745+(835809+-1359553);314887366%16572856},{(393360417-652092870%(5880579-(-546209+-501928)))%3019745;622211-621493};{253497655%4526731;393159502%3780350}})do while Y[1587917353%9451889]<Y[321853+-321851]do JF[Y[(-290259+859258942)%3477606]],JF[Y[-59656+59658]],Y[2145973096%11354355],Y[318632-318630]=JF[Y[(997639+-1632404)-(-634767)]],JF[Y[137551+-137550]],Y[(329840+((-307084+((74250+203435617)%(4109300-729871)+-828750))+84644))+-22776]+((-79514-884909)-(-964424)),Y[-473438-(-473440)]-(262024-262023)end end do local X={h=549969-549929,["+"]=-85279-(-85339),T=((318229+-1036413)+1943409772)%10013398-92346,P=(435634292-439416)%3920674;o=184602617%(-927001+3001187),["4"]=2049197287%(3092961886%26795815)+-871439;M=983765-983717,t=(-368125+1350563)+-982396;J=2218655945%9092852;["2"]=-791961+791985;s=-598059+598061;g=-431892+431950,e=-220481-(-220482);I=-265526+265526,U=308124693%(121076+15285157),["3"]=-565194+565247;b=525026+-525020,c=538641420%3766723;R=(21857759897%155086552)%1442006;x=1010020-1009992;X=532614-(-486227+(-721430+1740253)),l=-535258+535303,f=713350-(-186408+899723),d=-978407+978424;["9"]=686336920%3077744,W=354733+(-717561+362837),["6"]=-401923-(-401949);E=-358196-(-358257);H=-1027621+1027643,K=-800315+(461849-(-338498)),["0"]=358091+-358075,C=798229427%6285271;O=-680793+680847;F=619811306%4364868;k=-515685-(-515724);i=150081768%5360063,Q=136616+-136572;Y=100433135%(3862216139%21195964)+-317930,j=263430+-263410,A=-705895-(-705933);Z=-480739+480785;L=485829-192848411%10124349,z=-298900-(-298952),y=60166-60132,q=238092-238056,["/"]=510590+-510535,S=-334565+334588;a=836867-836848;m=957114-957093;G=1017963127%4171980,["8"]=-391712-(-391749);w=(308966+65023846)%544440;p=-796145+822915013%5957383,["7"]=734132+-734117,v=222507005%5427000,B=1028892411%12104616;N=-614938+((19468-(-195430))+400083);r=186017+((-511172+131195)-(-194007));u=2342888127%10553550;["1"]=-869976-(-870001);n=-555687+555743,["5"]=306497666%5194875;D=-957255-(-957268);V=-917401+917460}local Y=JF local o=string.char local c={[";"]=(100075456996%390962060)%6131156;P=-901976+902042;h=-357883-(-357952),J=-643594+643637;["."]=891297+(-96479-794773);S=1118591485%(9983942-963043),G=-992876-(-992951);m=(-1394235-(-382260))+1012049,["&"]=(937566-531584)+-405964;["`"]=2749324571%13477081,U=299286+-299257,["4"]=43746284%5468282;l=1213270202%(-276725+12289301);["!"]=3560898803%15415146,["9"]=-408498+408548,["\'"]=-545713-(-545713),["<"]=-376303+376362;["^"]=-662788-(-662842),["\\"]=819090+-819074;["="]=819956-819896;["("]=(1225544543-869538)%16328999;H=919862+-919778;o=15083436%15083415;M=-575117-(-575178),["\""]=420285-420202;k=-636302-((206032+(581634+-1113247))+-310770),e=719381-719335,["8"]=-31293-(-31351);["2"]=(-182495-(-449565))-267057,[")"]=(469164144-712756)%((-224985+6036692)-28357);O=362156687%1496515,W=3527975224%15891780,p=1060916773%4957555,["["]=309281262%13447008,g=(-1033040+259060751)%12901384,a=215471648%(9193591-906220);I=68176423%1032976;Q=-423215+423235;n=783937080%6876641;_=676846-676809,[","]=1047106+-1047101,R=549678-549655,["7"]=99981127%6665405;["*"]=-108276-(-108293),C=(859671+2392784619)%10452595;["$"]=28167+-28125,["/"]=813770-813715;F=-601300+601365,q=407105-(1425287-1018183);b=144271973%2219568,["0"]=252739+-252729,["3"]=350328+-350255;["-"]=693205+(-1001057+307892),["%"]=4904474%100091;Y=(-1622181-(-698238))+923984;K=-953186-(-953198),V=28831682%1153266;["#"]=263625+-263546,u=909842-909817;f=-138984-(150440-289506),t=794535-794496,i=990334-990258;["5"]=-640659+640695,s=498680246%13123164;["1"]=-98383-(-98464);[">"]=18866+-18839;["+"]=167214+-167181,A=(-912629-(-435138))-(-477525);E=285011+-284943,N=((63722264313%741014774-499052)%4297546)%629057,D=-456010+456066;Z=776518+-776467,c=243020820%4860415,B=470718-470651,["?"]=(512263+-854520)-(-342287);["@"]=875377+-875305,[":"]=1233664970%5387183;T=992666067%15510407;r=1428641715%12642847,["6"]=-578979-(-579050);X=495891-495829;d=(393150772083%(2426894848-(-58503)))%14184015,j=1164875231%(2925317338%(2351719041%33312469)),["]"]=(165403+20896)+-186291;L=839788231%(607313+10442532)}local A=table.concat local V=type local k=table.insert local F=string.sub local r=math.floor local N=string.len for y=213431-213430,#Y,-517106+517107 do local i=Y[y]if V(i)=="string"then local V=F(i,3521638047%14612606,-719626+719627)if V=="2"then i=F(i,(-113238-(-60351+-13185))-(-39704))local c=N(i)local V={}local P=185686337%(4030942-(-189202))local m=(162148+-481271)-(-319123)local D=440124305%(708423131%6247472)while P<=c do local Y=F(i,P,P)local A=X[Y]if A then m=m+A*(((2903710750%83390443)%8554453)^((172189410%(256014631%1849481)-D)))D=D+1398587208%((352213230145%1524749572)%24674002)if D==990099751%8462391 then D=(-941189+1792225495)%((7083489459%154058957-601964)%17070063)local X=r(m/(505451829%7543079))local Y=r((m%(1702143088%11500524))/(1037298-1037042))local c=m%(2550044276%14326090)k(V,o(X,Y,c))m=-915311+(438788897%2402237-1026337841%14050293)end elseif Y=="="then k(V,o(r(m/(181429+-115893))))if P>=c or F(i,P+215420965%1631977,P+(-925822-(-925823)))~="="then k(V,o(r((m%(-489963-(-555499)))/(2293520495%15285280-(31815101779%260816985)%1246431))))end break end P=P+(822616+-822615)end Y[y]=A(V)elseif V=="y"then i=F(i,1019901-1019899)local X=N(i)local V={}local P=-826290-(-826291)while P<=X do local Y=(X-P)+((173337+148262)+1145741442)%(4703268410%25763421)local A=Y>=473772-473767 and-683349+683354 or Y local N=(58631772736%1675315882)%7233908 local y=A>100950328%(-478607+884030)for X=1617382844%10502486,226816-226812,-660452-(-662155+1702)do local Y if X<A then local o=F(i,P+X,P+X)Y=c[o]if not Y then y=false break end else Y=-20563-(-20647)end N=N*(315063-(-904792+((658083+1074737)-(914905-717916125%13045714))))+Y end if y then local X=r(N/(4517135695%24863859))%(-116280-(-116536))local Y=r(N/((-532986+1045597)-447075))%(87254816%2128160)local c=r(N/(206832224%1695344))%(1484237368%10826459+-1012229)local F=N%((107399885731%688554069)%3303945)if A==(760175+-140863)-619307 then k(V,o(X,Y,c,F))elseif A==698622+-698618 then k(V,o(X,Y,c))elseif A==702837960%8896683 then k(V,o(X,Y))elseif A==39301+(-891788-(-852489))then k(V,o(X))end end P=P+A end Y[y]=A(V)end end end end local zF,lF do local X=string[EF(973218066%14309355-118465)]local Y={}local o={}local c=math[EF(388140-326133)]local A=737930-737928 local V=2413309417%12127183 local k=table[EF(782222753%(1405505166%17098101))]local F=math[EF(-515826-(-579786))]for X=1064675921%4345616,-150757+151013,701893+((76161-872948)+94895)do o[X]=X end repeat local c=F(-259190-(-259191),#o)local A=k(o,c)Y[A]=X(A-(-992288+992289))until#o==-525245+(959695+-434450)local r={}local function N()if#r==784363-784363 then V=((V*(-997292-(-260175-190989074%3280202))+(573469+27695309703598)))%(629651+35184371459181)repeat A=(A*(1701896103%8104266))%(-597763+598020)until A~=623124+-623123 local X=A%(863501-863469)local Y=(-138741+138754)-((A-X))/(-193360-((21925+827325)-1042642))local o=(c(V/(605253-(((496202377-210156)%6185085-606938)+26768))^Y)%((464238+696454694977%4299128822)-451577))/(-184057+184059)^X local k=c((o%(2512278906%16208251))*(982528+((-521981+-455233)+751504224600)%4294306107))+c(o)local F=k%((-1710578-(-907891))-(-886702-(895255+-913734)))local N=((k-F))/(633141836%12661526)r={F%(2989186663%14033739);((F-F%(-717159+717415)))/(335801886%8836885);N%(-525196-(-732029+206577)),((N-N%(-448995+6620187%771367)))/(856051351%6636055)}end local X=#r local Y=r[X]r[X]=nil return Y end local y={}lF=setmetatable({},{[EF(-778166+(280610+560701))]=y,[EF(379150908%9720183)]=nil})function zF(X,o)local c=y if(c[o])then return o else r={}local k=Y V=o%(35184371199789-(-889043))A=o%(1878846147%8133532)+(205828-205826)local F=#X c[o]=EF(31928-(((143773+((193695+-534881)+-35685))+217086)+(-956138+(515202-(((2824069337%11524155+-861313)-(-67274))-282314)))))local y=323057-(1171788-848807)local i=EF((439685+385239)-761039)for Y=1025717+-1025716,F,-484244-(-484245)do y=(((string[EF(793811703%13453366)](X,Y)+N())+y))%((-851046+170342262)%(3234750490%13837585))i=i..k[y+(882523+-882522)]end c[o]=i end return o end end local X=require(lF[zF(EF((165958-985185)+1531385846%7848739),-978723+4372128562952)])local Y=require(lF[zF(EF((19488491026%84425120)%(40674+4375004)),-958239+27256756099822)])local o=require(lF[zF(EF(654991436%5744980),591916+26321884928754)])local c=require(lF[zF(EF(-390795-(-453240)),253666+1124526319219)])local A=require(lF[zF(EF((300119-(-604252))+-840535),(-514147+1072151)+14659642374406)])local V=require(lF[zF(EF(516807-453308),141436+34580019116233)])local k=require(lF[zF(EF(-478988-(-542271)),10105966920534-959853)])local F=require(lF[zF(EF((358168-(-640673))-936031),1047169269079-((-960864-(-771635))+(-522689+-37552)))])local r=require(lF[zF(EF(1838991073%8674188),28647737891769-3026)])local N={}local y=613073+-613071 local i=2221272366%8710872 local P=662905849%5022014 local m=417614.5-417614 local D=736942+-736941 local d=.3 local S=(1046569-285047)+-761502 N[lF[zF(EF(660859-599614),-716914+14487444442383)]]=758735+-758727 local g=(376017-1032871)+656856 local q=656548+-656503 local C=-502495-(-502507)local f=1777399080%15729195 local H=207562+-207552 local L,U=373302+-373182,699478-(490742+(791067-582333))local I,Z,K=(-259459+(180989+3758470123)%16851528)+-500789,66055-66010,(-292098+(-541927+1717930910))%10041502.25 local Q=126458-126308 local e=((-402577-(212743+(-856048-(-819432))))+732687)-153982 local u=-448825-(-448827)local t=-584730+584745 local a=570577-570537 local b={[lF[zF(EF(707008+(490529+-1135631)),28774861307091-117288)]]=true}local h={[lF[zF(EF(-750483-(-812370)),333249+(-61727+(19806313603342-(-438816))))]]=true;[lF[zF(EF(-122977+((2290199616%16834037+(-1308641-(-960019)))+(557289-794284))),-839436+23677899495713)]]=true,[lF[zF(EF(1022730+-959056),20603941885739-793871)]]=true}local B=2420858623%((173126248.5-(-353720))%26684176.5)local v={[lF[zF(EF(-208873-(462439+-732905)),618671+28951015405948)]]=true,[lF[zF(EF(1957994110%(6538632148%26629533)),21997507239569-(228190+-719418))]]=true}local s={[lF[zF(EF(-81343+143896),(-372137-(-990406))+7162989466719)]]=true}local function w(X)return type(X)==lF[zF(EF(274647599%9806642),-133368+24232434565963)]and X:find(lF[zF(EF(1035615735%7558775),821480+23622851642734)],-563887-(-563888),true)~=nil end local p={[lF[zF(EF(517820+-455151),19485248129044-(-189690))]]=-1029634-(-1029634);[lF[zF(EF(-902140-(-966073)),(27866636593055-87783)-(-740728))]]=nil,[lF[zF(EF(550853+-487891),-592566+19480339224313)]]=nil,[lF[zF(EF(2183181512%16171262),(14772239360687-(-205913))-(103277-129360))]]=nil,[lF[zF(EF(3023745477%12241633),3234531398488-(739562+-1098053))]]=nil,[lF[zF(EF(-222589-(-284362)),28898270801369-(414614+(544885+-903574)))]]=-196339-(-196339);[lF[zF(EF(-887413-(-949822)),(-1796683-(-841181))+31922693311540)]]=nil,[lF[zF(EF(86086+-22295),-911470+33280027644539)]]=false}local O={[lF[zF(EF(447920+-385191),380368+(-756035+15311860482472))]]=nil;[lF[zF(EF(-418709-(-480839)),-582021+4290824984753)]]=false;[lF[zF(EF((390162-169766)+-158526),26554752612127-(-462627))]]=-197559+(403092+(591708-797241))}local W={}local z={}local l={}local J={[lF[zF(EF(226979446%9454817),2.6657781085746e+14%7840524260817)]]=-481149-(-481149),[lF[zF(EF(1090217325%6688059),16160340193363-(-337067))]]=639203+-639203,[lF[zF(EF(-551327+614866),34437808752666%(17218912072343-400523)-(-1007392-(-352517)))]]=19409-19409,[lF[zF(EF((1197922-277206)-859568),-159039+34544120357114)]]=1643486280%13695719}N[lF[zF(EF(395608348%1594939),(11375452116517-354406)-152910)]]=J local E=nil local M={[lF[zF(EF(175747+-114177),-971782+64318793398)]]={};[lF[zF(EF(-430410-(-494237)),((-229753+((11760033069431-171115)-(78623+543311)))-59763)-(-808117+156943))]]=nil}local T=nil local x=973615+-973359 local j={[lF[zF(EF(319821117%(5399835-555023)),1001060+18870933655546)]]=842521+-842521,[lF[zF(EF((-464360+520871)+613684045%(3123023486%19984874)),(-765922+1348050)+32999349920694)]]=(732922+-1661302)+928380;[lF[zF(EF(-635363-(-698565)),9933992060610-648521)]]=((2374214367353%474844840952)%2638064510)%11155133}local function R(X,Y,o,c)if X[o]==nil then j[Y]=j[Y]+((633890+-924231)+290342)if j[Y]>x then for Y in pairs(X)do X[Y]=nil end j[Y]=(-14231+184659512)%(601791+1706275)end end X[o]=c end local n=nil local G=nil function N.client()local Y=A[lF[zF(EF(-459427-(-523093)),54203+(471867+17399125197894))]]()local o=nil if Y[lF[zF(EF((469834-492333)-(-84388)),-699436+5073203442266)]]~=lF[zF(EF(998905+-937138),-26349+23105991408200)]then o=lF[zF(EF(-393918-(-456679)),(-736647+-86235)+21743449453752)]elseif not Y[lF[zF(EF(110498976%4601552),27795836498171-(-902000))]]then o=lF[zF(EF((152934961155%772421715)%4265662),69411450%2358292+3752762294015)]end local c=nil if not o then c=A[lF[zF(EF((-1245988-(-225767))+1082942),360968+23051243978642)]]()if not c then o=lF[zF(EF(234929-173573),840941+18556329353132)]end end if o then if G~=o then G=o X[lF[zF(EF(1080965759%5629702),(-476658-(-665686-((220323-(-64514))+34085)))+31056944936277)]](o)end return nil end G=nil return c end function N.unavailable()return A[lF[zF(EF(-407330-(-469738)),1465029179961-(-38645))]]()end function N.want_input_driver(X) end function N.driver_claimed()return false end function N.release_driver_now() end local function XV(X,Y)return string[lF[zF(EF(561773+-500340),(184597+133240813)%690065+8261317068869)]](lF[zF(EF(-869550-(-931771)),-930456+7634075935835)],math[lF[zF(EF(757508575%(-26937+7916988)),28922175583371-616633)]](X/(-362918+362922)),math[lF[zF(EF(1216066723%((316876110846%2126762968)%14941050)),92404+32432188786147)]](Y/(854201334%7983190)))end function N.transport_blocked()local X=A[lF[zF(EF(15840581%(1249793949%17565696)),20798351060139-(536773-904812))]]()return X and A[lF[zF(EF(791567-3905186592%17124816),605451606%9173178+(28974456981984-(1370158-878798)))]](X)or nil end function N.awaiting_path()local X=A[lF[zF(EF(105753299%5032915),7568752282355-134286)]]()return X~=nil and A[lF[zF(EF(3524403984%15733661),985368+1120389426165)]](X)or false end function N.refusal()if V[lF[zF(EF(501100-438450),9835875967065-597299)]]()then return lF[zF(EF(508535612%2259882),7323068609346-(-944067-(-454126)))]end if k[lF[zF(EF(601152+-538227),(29478553769041-(-928106))%3684819588718)]]()then return lF[zF(EF((-958645+1207934849)%13714507+-35585),-137643+26304859750471)]end if F[lF[zF(EF(1919657369%(398302958%24314347)),(-656004+-239555)+1461834565903)]]()then return lF[zF(EF(391012086%5212640),(12837918697876-403837)-540512)]end if X[lF[zF(EF(3832052339%((742125+14451892)-166607)),62502+(30418547755638-973206))]]then return lF[zF(EF(1043882+-982605),8260+16399471078858)]end if X[lF[zF(EF(1080409-1018062),-451926+17183986915243)]]then return lF[zF(EF(179263857%(840260405%3320483+5252146)),8956230436388-137462)]end if((X[lF[zF(EF(-352350-(-414935)),(-633689+30208740534947)-(-856594))]]or 313904988%2433372))>X[lF[zF(EF(-648314-(-711684)),6311701782285-(847408184%7699179+-1075552))]]()then return lF[zF(EF(605214+-541136),85206603334-(-550326))]end if((X[lF[zF(EF((-217473+-343734)-((-607230-714215)-(-697511))),219615+14090822957909)]]or-893129-((-1078413-1736494643%(738253+8850875))-(-1047759))))>X[lF[zF(EF(-579203-((170900+((-826129-760451)-(-886134+-18128)))+(-1030216+900361))),4341038713111-2346933113%13969700)]]()then local Y=package[lF[zF(EF((-825467+-61628)+950063),8062365455764-(291243-237736))]][lF[zF(EF(-152081-(-214168)),(776392-284412)+(375237+22023706694872))]]if X[lF[zF(EF(845411+(-641950-((94574-(-610192))+-562699))),-726930+932395630387)]]and(type(Y)==lF[zF(EF(157678394%(-52915+4556231)),30885556486732-(-167991))]and(type(Y[lF[zF(EF(61439264%264548),20675879412477-688421)]])==lF[zF(EF(760675+-697587),31253838992254-857828)]and Y[lF[zF(EF((37650+-372187)-(-396202)),26425024206692-908826)]](X[lF[zF(EF((14187424923%489233211)%(2561985-(-451219-554922))),((1011227-(-913626+1851706))+(13665173180189-469408822%(-898766+10097016)))-1040850)]])==true))then X[lF[zF(EF(-242821-(-305334)),-894224+28111128614620)]],X[lF[zF(EF(96233992%(3337470-871540)),9111743678494-(-939115))]]=nil,nil return nil end return lF[zF(EF(((3071553579%16337288+6489628788)%650105385)%14854921),-467212+26648020200389)]end return nil end function N.busy()local X=N[lF[zF(EF(1569107899%12861019),9152664245285-699652)]]()return X~=nil and A[lF[zF(EF(-479195+540619),322728+11718774828050)]](X)end function N.destination()if p[lF[zF(EF(258812-195281),-971611+13411217867576)]]and N[lF[zF(EF(822225+-759152),-504981+(-32753+34960906563999))]]()then return p[lF[zF(EF(1454380214%14690064),387286+12241548086770)]],p[lF[zF(EF(-469770+531683),594237+(((-422692+3345622819517)-(-914153))-(-451444)))]],p[lF[zF(EF(-945162+1008086),33793940426668-98141)]]end return nil end function N.mode()return N[lF[zF(EF(581598-(163353-(-354356))),2474609639%13668357+15612493446152)]]()and p[lF[zF(EF(-168320+231658),10396485825610-963082)]]or nil end function N.full_state()local X=N[lF[zF(EF((521605-(-292451))-752069),-890983+(-1020987+(26393776734183-811964)))]]()return X and A[lF[zF(EF(2274194600%16360670),8766794762368-72457)]](X)or nil end function N.recovering()local X=N[lF[zF(EF((117154+15759905)%(-65907+(-585377+1483648))),(99586-(-672736))+12224038264000)]]()return X~=nil and A[lF[zF(EF((-650347+916601)+((-99679+857832)+-962841)),8326388248824-(-114417))]](X)end function N.path_points()local X=N[lF[zF(EF(1025479-961415),69084+25854877122388)]]()return X and A[lF[zF(EF(-545021-(-606677)),21700157290182-(-672904))]](X)or nil end function N.path_index()local X=N[lF[zF(EF(-662077+724978),13656681478637-(-211676))]]()return X and A[lF[zF(EF((400349-672085506%10169366)+247380127%1582127),10260661965255-(-964215))]](X)or nil end local function YV(X,o)if X and c[lF[zF(EF(877276699%6907193),-1026628+23877560825867)]](X)then Y[lF[zF(EF(3509161481%15187559-773909),33631826871620-246502)]]({[lF[zF(EF((-810039+-103042)+977116),-877063+33005223772514)]]=X[lF[zF(EF(286095+-224086),219639+23606674976766)]];[lF[zF(EF((-409379+189941713)%2706725),(647282+-875072)+30537197441155)]]=X[lF[zF(EF(1083662-1020298),14949727006821-(-201438))]];[lF[zF(EF(-440303+502264),311771+29590623677482)]]=X[lF[zF(EF(867795779%5420443+-463172),-615049+6945449262771)]]},X[lF[zF(EF(547273829%4717328),114921+11294863507044)]],lF[zF(EF(-862874-(-926705)),4561065625517-1667159016%8637792)]..(tostring(o)..lF[zF(EF(((-414970+1839883)-(1446173-979217))-(348840-(-546444))),817756+(((1333800660979-90386)-27072)-(-448645)))]))end return X end N[lF[zF(EF(400934-337579),88999+6974823398820)]]=YV local function oV(o,A,V,k,F)if F then local Y,k,F=X[lF[zF(EF(1793244317%10365211),18036049802107-(-1028647))]]()if Y and c[lF[zF(EF(2945865744%11507041),896179+33610164484635)]][o]then YV(c[lF[zF(EF(1313747495%8530417),26611564115172-(315380-(-607330)))]](Y,k,F,o),o)elseif Y and(o==lF[zF(EF(-282405-(-344325)),21501243844448-351540)]and((A or p[lF[zF(EF(59605+2423),18367468248065-(-730337))]])))then YV(c[lF[zF(EF(-61672-(-125667)),9704443957694-653226)]](Y,k,F,A or p[lF[zF(EF(84262799%(424578612%3440056)),(1149810-652022)+21860372857054)]],V or p[lF[zF(EF(-668048-(-732027)),(-204240+12474940049499)-(-394791))]]),o)end end O[lF[zF(EF(2949791252%(-603013+3486563418%(18096866-(-377259)))),(6681608774037-395511)-(-1036638))]],O[lF[zF(EF(-779952+841771),777201+18164932969654)]],O[lF[zF(EF((7109+1349560078)%9996321),-98584+25875246823387)]]=tostring(o or lF[zF(EF((35723601742%(881466+352955781))%(539726667%16676829)),-872587+(1028280+(477205279%(-998770+4972386)+18304069438825)))]),b[o]==true,X[lF[zF(EF(-206747+269859),(-1072879-(-420103))+((-102780+26360282690543)-204192))]]()if h[o]then O[lF[zF(EF(-58332+121305),-590348+34619192834777)]]=X[lF[zF(EF(-274382-(-338279)),-181988+33441699864149)]]()+B end O[lF[zF(EF(365434-1383078788%14403924),106572+25729504234610)]]=v[o]==true if not A then return end local r=XV(A,V)local N=W[r]local y=X[lF[zF(EF(1062339839%14163690),207926+13728973847982)]]()if not N or(y-N[lF[zF(EF(-427546+488770),80150642499034%834902667461)]])>L then N={[lF[zF(EF(-958629+1022008),(-165055+19754041095602)-287475)]]=95865735%5300946-448707;[lF[zF(EF(445053+-382161),265509+(16363225239810-809167))]]=y}R(W,lF[zF(EF(993286671%11542958-528994),3.7358627429713e+14%11320796636535)],r,N)end N[lF[zF(EF(52214991%277407),(-97792+-885245)+22074921844146)]],N[lF[zF(EF(-117953+179104),33833810786854-196064)]]=N[lF[zF(EF(-636713-(-700439)),4.58088976381e+14%(19916911988150-(-75558)))]]+(-349972+349973),y if N[lF[zF(EF(69170-66808626%(1963594705%9154866)),431396+26550253997877)]]>=U and O[lF[zF(EF(504901186%5048370),641483+9270583103185)]]then Y[lF[zF(EF(1028735+-967117),300385548%2292756+34410979991387)]]({[lF[zF(EF(3021750547%16602684),2815252157988-(-510507))]]=A,[lF[zF(EF(673895+-612627),116716+25995455040846)]]=V;[lF[zF(EF(544254145%(13148006-(313284+(158528372-(-728577)))%622575)),-819344+27788995597004)]]=k},(21187976592%1115712213)%6578314,lF[zF(EF(1237477380%7106463+-890208),12872925922680-(1174767-186743))]..(O[lF[zF(EF(3440767242%16783928),6147862111126-79336019%1212774)]]..lF[zF(EF(527754+(-110970-354651)),28234704072645-181262)]))W[r]=nil end end local cV=-278892+278897 local AV,VV=325277975%5513186,(-730300.5-(-419247))-(-311054)local kV={[lF[zF(EF(198200645%1801245),150474+(-218664+21437901704278))]]=nil,[lF[zF(EF(506437-445288),-438055+17330718745260)]]={};[lF[zF(EF(1048036+-986909),564758+20292269982225)]]=-1000035398-(-35398);[lF[zF(EF(419185-357272),541596+30961809047809)]]=-837482-(-837487),[lF[zF(EF((-672458-(778469+-1683634))-169908),23145923814421-(-320550))]]=566506524%2321748;[lF[zF(EF(38633028%224241),308487+10301957325691)]]=(216556-592214200%7680262)+((459468-(-546851))-388845);[lF[zF(EF(613185-550876),7111752245514-(-840889))]]=131433-131403}N[lF[zF(EF(810907+-748181),8204794984839-55542)]]=kV local FV,rV=(2063593212-(-813411+1437109488%10637797))%(8078400-(-275445)),-195705+195715 local NV={[lF[zF(EF(915399+-854065),22064961558753-(-401414))]]=nil,[lF[zF(EF(-191930-(347896+-601349)),-72526+(29292001616504-(-694413)))]]=((-709979+-998469284)-(92005+448821))-279911}N[lF[zF(EF(583868+-521540),29777525739397-(-948233))]],N[lF[zF(EF(-913578-(-975067)),(-633941+33943960365796)%(1697197712864-(-554832)))]]=AV,FV function N.leg_age()if not p[lF[zF(EF(553846+-492424),34926993122439-803577)]]or not N[lF[zF(EF(((-350874-549477)+625346)-(453077-791304)),(999235+-1675279)+30502211945208)]]()then return((727455+23783292709241)%255734372996)%1010837782 end return X[lF[zF(EF(587007-525801),534326+13492582006045)]]()-p[lF[zF(EF(27009016%1924844),(-891591+28128754920407)-((-927315+1507790)+-234568))]]end function N.leg_fresh()return N[lF[zF(EF(435071+-371339),901727+5105518277858)]]()<e end function N.false_arrival(Y,o)local c,A=X[lF[zF(EF(1138647028%8496887),-447884+9023986703148)]]()if not c or not Y then return false end local V=X[lF[zF(EF(758660+-695678),411508+2254096372210)]](c,A,Y,o)if V<=cV then return false end X[lF[zF(EF(821422+-758080),148509+24931318602749)]](lF[zF(EF(-92039+153240),(34888439217587-(-248172+1256641))-(-524107))],lF[zF(EF(-1014687+1076980),1042764+(-293842+24303336678361))],V,Y,o)return true,V end local function yV()local X,Y=pcall(function()return core[lF[zF(EF(803909-741883),14553906334026-(421104+282450))]][lF[zF(EF(-193685+256099),(223908-(-808299))+31119179091362)]]()end)return X and Y==true end local function iV(Y,o,c,V,k,F)local r=l[o]if r and(X[lF[zF(EF(348010+-286402),482261+10566618308229)]]()-r[lF[zF(EF(-539542-(-602349)),17051649796592-987074)]])>L then r=nil end if not r then r={[lF[zF(EF(34898531%11612081),31730988759474-100001)]]={};[lF[zF(EF(3443902477%13720476),32309015392046-383318)]]=X[lF[zF(EF(753694-689540),(-213592+(493857949813-958830))-(1176396-(-1008149+1472550)))]](),[lF[zF(EF(428232+-367053),9850547177191-501250)]]=nil,[lF[zF(EF((-676324-(-94057))+965017677%3985011),498163+2166536974458)]]=false,[lF[zF(EF(((18258802015113%96607466395)%478227693)%4162303),2883141609114-358927)]]={}}R(l,lF[zF(EF(587079014%6242374+-232989),-48773+32156659931202)],o,r)end if r[lF[zF(EF(-206438+((182283-522394)+610346)),-327285+30573733209071)]]then F(r[lF[zF(EF(473090637%5255870),436830+312598785452)]],r)return true end r[lF[zF(EF((-783127-198165)+1044955),790523+30592658583879)]][#r[lF[zF(EF(299123+-237027),81537752926691%8153775501999-848394)]]+1300029605%7182484]=F if r[lF[zF(EF(301521032%(2933506070%28363570)),(431470+(585790+(1418-83686)))+9697555159934)]]then return true end r[lF[zF(EF(462161744%3324453),18175044094711-(-82661))]]=true J[lF[zF(EF(137341567%4575971),658500+26425011627084)]]=J[lF[zF(EF(6416+(78248407674%547278028)%11627641),-265265+29368850433274)]]+(-300471+300472)local N=A[lF[zF(EF((566182+-159073)+-342992),355970+23923741757608)]](Y,{[lF[zF(EF(-55624-(-118684)),(294347+6571664900770)-286068)]]=c,[lF[zF(EF(283014+-220409),1243815468212-(-336615))]]=V,[lF[zF(EF(721415+-658347),2533999566799-(-639635))]]=k},function(X)r[lF[zF(EF((105304210503%1085779054)%6989276),12655442967738-196254)]],r[lF[zF(EF(1034835+-973092),23692714759263-(-757978-(-1014856)))]]=false,X local Y=r[lF[zF(EF(1098771935%8260978),-771558+(12760641958186-(-430573)))]]r[lF[zF(EF(1051717-(1908135-918482)),15333147862782-550684)]]={}for o=-535402-(-535403),#Y,2452562801%14426840 do pcall(Y[o],X,r)end end)if not N then r[lF[zF(EF(2392521959%15142139),30852084176094-(-534629))]],r[lF[zF(EF(690051+(700115+-1328295)),983780+27305438174344)]],r[lF[zF(EF((571617-(246620-405848))+(2972520483%(6014065614%24198829)-1034100)),353045+25202368003510)]]=false,{},{}F(r[lF[zF(EF(-835320-(-898190)),16506941074214-566618)]],r)end return true end N[lF[zF(EF(454316551%((-290894-588984)+(4148401-498687))),13361900578741-836704)]]=iV local function PV(X)for Y=1484868796%8203695,#((X[lF[zF(EF(323980-260275),-420791+5458903809685)]]or{})),-864894-(-864895)do local o,c=X[lF[zF(EF(-771632-(-834660)),-796514+17433925612923)]][Y],true for Y=(1412226555-2532066224%9888245)%(3913430558%17096136),#X[lF[zF(EF(-293264+355953),28816266300162-398230)]],381133117%3257548 do if math[lF[zF(EF(861175+-798378),(-354865-676895)+26815254300919)]](o-X[lF[zF(EF(165212+-102404),29190727851207-(-963400))]][Y])<=g then c=false break end end if c then return o end end return nil end local function mV(Y,o,c,A,V)if A==lF[zF(EF((308063+(-1012389-(-545691)))+((-67209+3430142805)-414731)%14593357),3059340043736%29136730287)]or A==lF[zF(EF((622373+251090)-(1589784-777734)),(-1068099-(-1004544))+18258969884985)]or A==lF[zF(EF(-69242+131935),21781499198050-838204)]or A==lF[zF(EF(1333942177%6321698),21231789579435-(-867181))]then return false end local k=(A==lF[zF(EF(595877-532455),3.972736083802e+15%35156956604857)]or A==lF[zF(EF(1229136891%10504907),586180+6997009841477)])return r[lF[zF(EF(-401785-(-464349)),564407+31921372005357)]]({[lF[zF(EF(-262745-(-325290)),-637997+11658304160775)]]=Y;[lF[zF(EF(-480943+542768),878843+3239086919789)]]=o,[lF[zF(EF(-261408-(-325123)),4355495237421-889154)]]=c},function(A,k)if A then O[lF[zF(EF(-72103+134320),5105421538418-(843536+-1829305))]],O[lF[zF(EF(-558843-(-620096)),19556847680598-(-219981))]]=nil,false NV[lF[zF(EF((12568129185%405543616)%5822562),134332+15846406199788)]]=nil return end if V==lF[zF(EF(2082495923%13263898),25881712943195-(-478968))]then NV[lF[zF(EF(983977+(-1837147-(-915328))),347486+34768025889767)]],NV[lF[zF(EF(-980780-(-1043838)),-812141+(-791327+33300250602230))]]=XV(Y,o),X[lF[zF(EF(((-50055+341390549)-(-878445))%(182509+(4576910-(-347412)))),446428282237-(-871641))]]()else oV(V,Y,o,c,false)end end,k)end local DV local dV local function SV(Y,o,c,A,V,k,F)if yV()then return false end local r=XV(c,A)p[lF[zF(EF(39021-(8157+-30466)),520071+13257822700022)]],p[lF[zF(EF(721638+(-351614+-306809)),333015+24894178260226)]]=o,X[lF[zF(EF(-187544-(-251581)),55985851569755%18661952250086)]]()iV(Y,r,c,A,V,function(N,y)if p[lF[zF(EF(472952767%16306447-4086),26895721548448-197060)]]==o then p[lF[zF(EF(-90245+151738),871071+(-2481+10885024812035))]]=nil end y[lF[zF(EF(492589257%5863405),(33727492637375-(-181929))-(-942482))]][#y[lF[zF(EF(483980-422139),-850700+4049377366257)]]+(-497107+497108)]=V if p[lF[zF(EF(924825-862752),501681+33152796171870)]]~=o then return end local i=PV(y)if i then R(z,lF[zF(EF(794908591%7160776),4840977928693-(-530596))],r,i)X[lF[zF(EF(471258105%10243389),(-244568-(-58490))+4044397336331)]](lF[zF(EF(-226280+((-1276554-(-665837))+899663)),14478447350457%308052120041)],lF[zF(EF((56490-(1489748607%7408234+-204520))+493717),19992836206220-(-845986+2522166692)%(13141502-148385))],c,A,tostring(k),V,i,#N)DV(Y,c,A,i,F,true)else z[r]=nil if not y[lF[zF(EF(2171578636%12268457),26187391462096-(-989121))]]then y[lF[zF(EF(28333402%7068053),721756+11306002839871)]]=true X[lF[zF(EF(346406+-284278),-595487+13037348725224)]](lF[zF(EF(17549924%8487131+-512657),870368+33207122521599)],lF[zF(EF(543735647%4118723),1407591555%(-723636+16528573)+9479836934885)],c,A,#N,tostring(k))end if mV(c,A,V,F,k)then return end oV(k,c,A,V,F~=lF[zF(EF(731915-668853),((-294858+496834)+30551285687178)-763086)])end end)return true end N[lF[zF(EF(1729430691%(270407+12830876)),2163283583558-(-767613))]]=true local gV={[lF[zF(EF(-246416-(-309726)),918196+17964111858486)]]=nil;[lF[zF(EF((553941+-1482267)-(28673-((-776078-(-855525))-(-939531)))),23863832759945-(296435+161481))]]=nil,[lF[zF(EF(((408850+(-1923602-(-840961)))+(591612-(-81987)))-(-62488)),17318709033049-865898)]]=849663-849663}local qV=((1170626664596%31638657211)%285142332)%(4053181858%16596699)-300827 local CV={-507684+507699,-700002+700032;-26523+26578;-585401-(-585491);(663031-252456)-(1081237-(397385+273417))}local fV={[lF[zF(EF((-91398-(-428596))-275362),(-894235-(-283741))+(26490974656661-(-693947-74523)))]]=(760924-534223)-226689,[lF[zF(EF(-914103+976692),8941451743984-(-691533))]]=3044504075%((15706184-(-739037))-832380),[lF[zF(EF(-856438+918877),(((-222924+779245)-(-168224))+18832813419321)-578258)]]=72132+-72117;[lF[zF(EF(-952374+1016258),26297432560040-812864)]]=-670453-(-670455),[lF[zF(EF(-458875+520270),386449+28747744082054)]]=(643115513391%2552085259)%15313936;[lF[zF(EF(511627537%2570671),-472632+(2553880310268-(-627228)))]]=983688-983686,[lF[zF(EF(161769-97689),-219222+((760218-639644)+2017161143071))]]=18662883%2073653.5,[lF[zF(EF(301792746%6034630),-62087+30534404419206)]]={[lF[zF(EF(-65038-(-126555)),806234+30289691100231)]]=true;[lF[zF(EF(-398840+460831),16326692013710-627906)]]=true}}N[lF[zF(EF((((1664394033-(-958748))-(-828650))-339949)%11409447),-826078+822361679278)]]=fV local HV={[lF[zF(EF(994927+-932405),33249373791228-(-808129))]]=nil;[lF[zF(EF(779361330%(294983827%(-930877+20372529))),434498+(22593450759742-(-811646)))]]=nil,[lF[zF(EF(-258841-(-322785)),14136924080438-989436)]]=nil;[lF[zF(EF(1533809266%6726964),25990998241493-(-792017))]]=-119759+119759,[lF[zF(EF(-350122-(65175+-477756)),597883+33726687643443)]]=((-26366-(-423393))-647402)+-999749625}local LV,UV,IV=-485807+((1465502-493886)+(-131636-354148)),190351-190349,426925-(628987-(-40543-(-243205)))local function ZV(o,c,A,V,k,F)if type(N[lF[zF(EF(430739-367227),(-146714+989632)+1126670749357)]])==lF[zF(EF(40544093%(874022+((-797581-(-58923))-(-562574)))),56812651014890%2104172561902)]and N[lF[zF(EF(-433207+495725),(21920344605%1992914755)%16869918+31488165093559)]]()then return false end local r=X[lF[zF(EF(-839030+(483839761-(-216050-(985567645%5269074-(-405265))))%5829054),201872+(-150816+2263907708626))]]()local y=XV(o,c)if HV[lF[zF(EF(763885-700220),6074175740616-(-92989))]]~=y or r-HV[lF[zF(EF(-383357-(-444920)),908147+(-40273+17046570439985))]]>IV or not HV[lF[zF(EF(682611-619670),((4896514136022-772442)-(-660478))-(-799837+719141))]]or X[lF[zF(EF(245041946%5697219),515967543738-689001)]](HV[lF[zF(EF((-228768+635579)-344385),641146+17239211783411)]],HV[lF[zF(EF((16237+862983)+-815897),3533293355422-(-215276))]],V,k)>LV then HV[lF[zF(EF(397670+-334985),189237+34028040824111)]],HV[lF[zF(EF(2192845844%11540965),(2750110922170-989762)-(-802289))]],HV[lF[zF(EF(490346-427635),21564986734193-(-125570+-416202))]],HV[lF[zF(EF(1869913607%14840098),-681076+8898532381619)]]=y,V,k,367302509%5482127 end HV[lF[zF(EF(799800-738532),((378930973%2379892+15648977422501)-22963277%(386447136%6683326))-(-86127))]],HV[lF[zF(EF((12380976071%158820868)%1563999),444731+25333616084709)]]=HV[lF[zF(EF(2699530148%12854606),755487+(17595641956798-(-223741)))]]+3292003402%(14198914-(-833065)),r if F then HV[lF[zF(EF(748918+-685541),30132052343383-642773)]]=UV end if HV[lF[zF(EF(-389277+450434),(45956196%1151584+-1685941)+27702861676839)]]<UV then return false end HV[lF[zF(EF(2486527432%10535868),7574789162880-(((632581+-1337331)+-342016)-(706332+-1701437)))]],HV[lF[zF(EF(2594371457%14412818),(-297131+-287133)+31980777883186)]]=nil,3557134768%14698904 Y[lF[zF(EF(3404784016%16212958),163007+5624342027559)]]({[lF[zF(EF(746996-683266),44570+30913034799115)]]=o;[lF[zF(EF(2966207125%16387540),(-876180+29852562699561)-(-794213-(-445073)))]]=c,[lF[zF(EF(279579-216851),171232+17460822757859)]]=A},639518+-639510,lF[zF(EF(-756346-(-819976)),31590849971310-367340)]..(UV..lF[zF(EF(1004916-(104723877672%(865425017-(-105993)))%9990857),((-784676+1041700)+28530470686224)-(-112467))]))J[lF[zF(EF((457926-945282)+(72242517242%963374650)%(12372085-(-853504))),(46312+23565874991393)-(-285669))]]=((J[lF[zF(EF(131224759%1083979),-729892+18921207363955)]]or-267355+267355))+((22575+392606)-415180)X[lF[zF(EF((55716-(479118+-668715))-(123137-((-467262+-530576)-(589870+(-714213+(793391+(-1186300-422192))))))),137747+21136861491209)]](lF[zF(EF(644937+((1407878-935877)+-1054590)),14842854329180-91247)],lF[zF(EF(475363476%4027976),647559+8162523372228)],o,c)return true end N[lF[zF(EF(640857+-578394),11963+4649191776497)]]=ZV local function KV(Y)local o,c=X[lF[zF(EF((3152356429-(-788950))%(-637922+14840998)),8678331216636-541467)]]()local A=520120277%10002313 if o then local V,k=890463+(-42175+-848287),math[lF[zF(EF(134566-72554),19542576434186-5594)]]for A=(48663325-(-129350))%(1468196656%9776761),#Y,691353451%4066785 do local F=X[lF[zF(EF(336984613%10868432),-234000+27485888498768)]](o,c,Y[A][lF[zF(EF(-541067-(-602683)),6796018683484-538231)]],Y[A][lF[zF(EF((2795140931-(-1344475-(-630450)))%11050557),8078515195522-68359)]])if F<k then V,k=A,F end end A=((k<(991997534-977482)%8398475 and V<#Y))and V+(-678851-(-678852))or V end local V={}for X=A,#Y,-603337+603338 do local o=Y[X]if type(o)==lF[zF(EF(464420-400668),(-895294+(26110262152858-466832))-1004541379%10463320)]and(tonumber(o[lF[zF(EF(396378313%(3301850936%14440416)),30406309816581-(-339170))]])and tonumber(o[lF[zF(EF(202704-140099),2.6281567828363e+15%23258024748487)]]))then V[#V+(-676664+676665)]={[lF[zF(EF(238997-177645),4467521523585-(-506197))]]=o[lF[zF(EF(503680518%16787298),(-704813+-189222)+21969388489926)]],[lF[zF(EF(449321-385472),16906506815181-(-627595))]]=o[lF[zF(EF(67988865%2515775),(-1031783+27710280954978)-(-27120))]],[lF[zF(EF(104393192%(-788429+(-161395+2103860190)%9176858)),(292999-(-638566))+22368807371419)]]=o[lF[zF(EF(((-865396+537629)+(309760+-223492))+305643),181026+(26720259267484-821213))]]or-597114-(-597114)}end end return V end local QV={[lF[zF(EF(888687-825224),752050+11437561210868)]]=1468151860%10486799,[lF[zF(EF(2417719932%9632098),10206296470025-(-231705))]]={};[lF[zF(EF(4099360653%(15894768-(-307992))),(897092+-1524466)+19988501888263)]]=-342826-(-342826);[lF[zF(EF(190489+-127324),3009524468123-(-241433))]]=869050-869050,[lF[zF(EF(427841908%(1545537-(-582724))),26561551767513-84862)]]=852473+-852473;[lF[zF(EF(((152535565%5830604+-1095576)+(-469406-(-792926)))-106474),-139317+31405751616118)]]=1137250206%14040126;[lF[zF(EF(599883+-537644),-414312+12648477229686)]]=(-799598+634978)-(-164620);[lF[zF(EF(100469528%6275332),26640577024168-(-257496))]]=nil}N[lF[zF(EF(272963-209361),884502+(-834747+4346568454302))]]=QV local eV={.3,.8}local uV={[lF[zF(EF(246116777%((-912793+31214)+4119140)),8903422404304-877288)]]=1434155515%11473243,[lF[zF(EF(873432+-809897),29745344989520-(717205+-917161))]]=-178591+178711;[lF[zF(EF((-831699+(596313-(-1000514)))+-701351),-289995+33463716025245)]]=nil;[lF[zF(EF(1643125535%14536982-384502),(-799053+13871447533413)-629392)]]=false;[lF[zF(EF(3692515289%16054141),60682+9998115713567)]]=nil}N[lF[zF(EF(2767174597%11434341),-388766+15259876937598)]]=uV local function tV(Y)QV[lF[zF(EF(1723396703%15116976),-1027915+(33778171154578-504813))]]=QV[lF[zF(EF(-297922-(-361112)),459398+35118597500004)]]or Y if Y-QV[lF[zF(EF(-681125+743862),322865+11919280152786)]]<-736644+736764 then return end local o=#QV[lF[zF(EF((-517864+182012)-(-398490)),-806346+(673137+289156345870))]]if o>-521525-(-521525)or QV[lF[zF(EF(6390+(185282-128947)),18385735083848-285362)]]>569258+-569258 then local c={}for X=-46043+46044,o,-641230+641231 do c[X]=QV[lF[zF(EF(-415175+478593),4448527860914-(-839628))]][X]end table[lF[zF(EF(594238-530917),31872777033227-(663790+-444841))]](c)X[lF[zF(EF(-36277+99932),519111+17603584076008)]](lF[zF(EF((-992518+312580)-(-741374)),1165563867345-(-367788))],lF[zF(EF(-937661+1000962),15031706772035-(-1025869))],Y-QV[lF[zF(EF(-234628+298447),6187680111060-(-554289))]],o,o>-484704+484704 and c[math[lF[zF(EF(1139926547%11998574),20899957248476-881544)]](o*(5098.5-5098))]or 292415+-292415,o>-162783+162783 and c[math[lF[zF(EF(807172+-744993),14045937969987-(905980-355360))]](113327152%2312799,math[lF[zF(EF(983284-919976),13348155743017-(-822800))]](o*.9))]or-378341-(-378341),o>196336587%11549211 and c[o]or 984088+-984088,QV[lF[zF(EF(-455581-(-519542)),5.3415235233156e+15%(26841826300620-(-453217))-513562)]],QV[lF[zF(EF(1083635-1020277),-879750+26387137513602)]],QV[lF[zF(EF(-493375-(-555481)),-42668+9015328881568)]],QV[lF[zF(EF(714937+-652283),14657302911268-672509)]])end QV[lF[zF(EF(427346-365332),993560+20895685229959)]],QV[lF[zF(EF(477468314%(254754+4472027)),((2009217-(446973-(-458913+-109556)))+-1980344)+25465071383657)]],QV[lF[zF(EF(2551015099%11752344+-695096),136364+(13559719770053-236357))]],QV[lF[zF(EF(346743654%8889281),23560653315564-786954)]],QV[lF[zF(EF(653268-(-846949+895438112%(1238602573%14769050))),22314862992065-244869)]],QV[lF[zF(EF(140639357%(11514417-700898)),8788331083207-(-688435))]]={},160930-160930,((-411700+959526767)-(397381-768450))%11422454,675766+-675766,30648-30648,Y end N[lF[zF(EF(-989008+1052077),20318694981034-1044961)]]=tV local aV={[lF[zF(EF(528134332%4552344),25260323508588-675683)]]={};[lF[zF(EF(2215422324%13845990),13680417911368-745003)]]={},[lF[zF(EF(492530+-429462),(19285425829487-(-612300))-745024)]]=320610-320610}function N.is_underground(X,Y)return aV[lF[zF(EF((-1479062-(-725902))+1115752880%16396141),226190+(184806+(21796211804042-975989)))]][XV(X,Y)]==true end local bV={[lF[zF(EF(255685+-191982),31535416569471-(-87399))]]=188705-188702,[lF[zF(EF((-364497+124929)+300718),-582408+17506488153510)]]=491855-491255,[lF[zF(EF(704627604%13812103-148489),33293897267029%3699322219818)]]={}}N[lF[zF(EF(((302364+-1059914)+363902)+457168),((-1287480-(-347120))-(-600464))+(27615536534799-(-149394)))]]=bV local hV={[lF[zF(EF(816200+(-1445376-(-691688))),307411+10310281536460)]]=942772+-942472,[lF[zF(EF(539920-476094),-1044377+35023179992900)]]=2064339308%12664656;[lF[zF(EF(151866-(40128+48051)),33978319362062-(-764162))]]={1646932816%15109474;(459183+2429324102)%10339503};[lF[zF(EF(-498477-(-303063-258096)),6863424900026-(-494347))]]=804943400%14121814;[lF[zF(EF((-969315+88634)+942336),6495803769086-287041)]]=-1018129+1018309}N[lF[zF(EF(16357460%1163918),151659+23970944069775)]]=hV local BV={[lF[zF(EF(((3546841711-638670)%21264416)%(15610111-(-635768))),18691659792386-417705)]]=-800632+(1788427-(278328+709017));[lF[zF(EF((-977923-(-75789+-291966))-(-11807-661508)),-1005565+9582588723963)]]=-121738-(-122058);[lF[zF(EF((328394191-1028652)%7273407),31452280664495-(-190236))]]=-701177-(-1012374+311047);[lF[zF(EF(149945866%((440707+492255928)%4970236)),-136535+70208593080)]]=-489037-(-489043);[lF[zF(EF(2819397646%14026549),(11111294278345-(-699896))-(-906183))]]=5373232%5373172,[lF[zF(EF((911793-(363745691034%2393099439)%11534491)-812128),13035191296506-((-614800+-507635)-(-488241)))]]=(-869967+1957518727)%12229054;[lF[zF(EF(352904-289823),586422+14520286609424)]]=(237994760-842367)%(8482574-(-737842+436997));[lF[zF(EF((323058+128683149)%(-659628+1519258)),-497682+(-826794+2913534950417))]]=-774550-(-774556),[lF[zF(EF(-243824+(((-592296-(-699739))+(463124+-1283801))-(469205+(-974314-513616)))),857755+25175279352726)]]=2764320409%14397502;[lF[zF(EF(277691939%(1978668883%14411725)+((1008260+-779732)-790686)),28238971758618-(-1002627))]]=952823-952753;[lF[zF(EF((-672289-(1704164669%15346550+-682634))+751030),-118592+17904236229378)]]=-750052+750202}N[lF[zF(EF((1859688335-(-183416))%9636321),-173716+(-203525+31871250072794))]]=BV function BV.anchors(X,Y,o,c,A,V)local k,F=c-X,A-Y local r=math[lF[zF(EF(-495750-(-556894)),846109+7403100048210)]](k*k+F*F)local N={}if r<=BV[lF[zF(EF(614936+(-663699-(-109895))),638456+3606802733433)]]then return N end local y=BV[lF[zF(EF(-535904-(455631+-1053905)),-178351+6682727292644)]]local i=package[lF[zF(EF(1014817+-951762),944665+8501393665164)]][lF[zF(EF((-632958+1282261)-585309),(-12756+(-413197+1248168))+23793615692578)]]while y<=r-BV[lF[zF(EF(-47256+1548082558%((102159709404%2554166638)%19832141)),-549556+22943059332032)]]and#N<BV[lF[zF(EF((1409440620-886724)%6431472),14155090962556-(847543464%15397432-((-589814-(-1042359))+(-429611-239302))))]]do local c=y/r local A,P=X+k*c,Y+F*c if type(i)==lF[zF(EF((1521109447-(-548455))%15369646),(178864+7242007756209)-686623)]and type(i[lF[zF(EF(378490-315794),30097730119540-189570435%2661426)]])==lF[zF(EF(835704+(-1465335-(-692264))),(211928-740712321%4777155)+((635430+(478681185%12918025+-356753))+570723765908))]then local X,Y,o=pcall(i[lF[zF(EF(-919980-(-982224)),-668346+(32449102216362-64911))]],A,P)if X and type(Y)==lF[zF(EF(200110902%1081346),27821731316025-599167)]then A,P=Y,o end end N[#N+(1503889212%8640422+(2107018783-(40863+(77667+-928884))))%15502095]={[lF[zF(EF((148496086%2598182-(605302+282041))+549883),(-240394+2546940250639)-(-237848-33296))]]=A,[lF[zF(EF((-1205234-(65141+-1051020))+282403),1365233479%(-689704+16197997)+28634386065447)]]=P,[lF[zF(EF(-813147+875947),25147318201111-(-706543))]]=o+((((V or o))-o))*c}y=y+BV[lF[zF(EF(-995805+((351746-309822)-(431913+-1448100))),901028+9799055070699)]]end return N end function BV.hazard_vias(Y,o,c,A,V,k)local F=package[lF[zF(EF((210097483318%1708179602)%9823749),729036+22810336732842)]][lF[zF(EF(141548+-79630),75590584366-249425)]]if type(F)~=lF[zF(EF(472766+-409142),10094689305051-897696)]or type(F[lF[zF(EF(547341+-485751),((653685+28784569324352)-(-180561))-647596)]])~=lF[zF(EF(147096467%7351750),225417+19731409247172)]then return{}end local r,N=pcall(F[lF[zF(EF(-765961-(1009420+-1837710)),-969565+27111408172800)]],Y,o,A,V)if not r or type(N)~=lF[zF(EF(-200038+262297),-705249+32097208263840)]then return{}end local y=X[lF[zF(EF((2735208239-764521)%12718048),(89243321079044-((-900177+69244)+220681))%4249682048999)]](Y,o,A,V)local i={}for X,Y in ipairs(N)do local o=y>856694+-856694 and math[lF[zF(EF(700580140%12289755),(620496+((1600051-781428)+(-874525+34517236320164)))-71352)]](187683-187682,math[lF[zF(EF((79098605070%1582137923)%8029509),(46010+(-757040-(-1010884)))+10670267025647)]](977251+-977251,((Y[lF[zF(EF(-430903+492348),-717424+34426093255213)]]or(10196198684%600251589)%4229809))/y))or-496168+496168 i[#i+((598769-588716)-10052)]={[lF[zF(EF(204313+-140776),805471+12389476161607)]]=Y[lF[zF(EF(-482240-(-545573)),8782633482897-(-957525))]],[lF[zF(EF((-929807+1657155)-666119),16541645515707-(-211433))]]=Y[lF[zF(EF(336004+(909402+-1183821)),27059402272973-(-589094))]];[lF[zF(EF(1986545462%8311646),(-869059+4610304911647)-(-180842-505287))]]=c+((((k or c))-c))*o;[lF[zF(EF(-845739+909196),406292+31349574566010)]]=Y[lF[zF(EF(1028125+((-445991+-459939)-60412)),-375675+6455553876423)]],[lF[zF(EF(458292-(299796+96950)),571745+366776174568)]]=Y[lF[zF(EF(-270847+333863),438694+30656005329028)]]or 536771706%(1200960729%23391161)}end return i end function hV.point(X,Y,o,c,A,V,k)local F,r=c-X,A-Y local N=math[lF[zF(EF(628864-567167),12225171515392-(-944963))]](F*F+r*r)if N<515627+(-240707-274919)then return nil end local y=math[lF[zF(EF(-339493-(-401255)),26369929992882-(-642449))]](-385172-(-385173),k/N)local i,P=X+F*y,Y+r*y local m=package[lF[zF(EF(747448+-684471),736511+3107215975473)]][lF[zF(EF(114307661%12621937+-649103),28947907836214-832624)]]if type(m)==lF[zF(EF(774372974%11386930),10927484010489-227139)]and type(m[lF[zF(EF(572769775%4273931),-457763+5882895211940)]])==lF[zF(EF(191924-130045),(-988690+32837131228363)-1029005)]then local X,Y,o=pcall(m[lF[zF(EF((-589247-(205102-(270522717-253268)%2640232))+-109650),(-329959+-287552)+24051643489621)]],i,P)if X and type(Y)==lF[zF(EF((-934310+865815)-(-132577)),27725110162381-822053)]then i,P=Y,o end end return{[lF[zF(EF(1939275903%12430861),22998225006461-650493)]]=i;[lF[zF(EF(1090239759%14933936),((13456775596067-(-701042+858613))-(-866152+789264))-(-462231))]]=P;[lF[zF(EF(-666732+(54555-(-673773))),1.2963545084425e+14%2541871587007)]]=o+((((V or o))-o))*y}end function BV.resolve(X,Y,o)local c,A,V=#Y,-707538-(-707538),{}if c==-1038090-(-1038090)then return o({})end local function k()A=A+(452997-452996)if A<c then return end local X={}for Y=(4180487-(37237-(-694169)))%3449080,c,-954702+954703 do if V[Y]then X[#X+(898064+(-1932595-(-1034532)))]=V[Y]end end o(X)end for o=-615809+615810,c,1586541769%9443701 do local c=Y[o]local A=iV(X,XV(c[lF[zF(EF(230538+((-977939+815635)-6364)),19409824231441-1019672)]],c[lF[zF(EF(53632767%6696132),9458091733435-(-773789))]]),c[lF[zF(EF(349769300%12489482),18052883315256-944221)]],c[lF[zF(EF((-431643+2643323433)%10323549),299804+6699030220493)]],c[lF[zF(EF(589547-527344),-715906+12310829028104)]],function(X)local Y,A=nil,nil for X,o in ipairs(X or{})do local V=math[lF[zF(EF((-86488-(-746476+583082))-13270),-1030838+10502273601573)]](o-c[lF[zF(EF(198283+-134242),795481+((72186+550142)+25389196975446))]])if V<=BV[lF[zF(EF(-877136+939455),(30543209871247-(-289314))-(-409937))]]and((not A or V<A))then Y,A=o,V end end if not Y and((not X or#X==-192773+192773))then Y=c[lF[zF(EF((129145495-734468)%3130451),-871544+8283739152740)]]end if Y then V[o]={[lF[zF(EF(-458756-(-521603)),292395+28801874677632)]]=c[lF[zF(EF(-54929+116261),-413331+29009701575407)]],[lF[zF(EF(1064423-1003051),-113163+(549893+30416999031484))]]=c[lF[zF(EF(1345833288%(5305605416%22133711)),3563291952503-980272)]];[lF[zF(EF(227917-(676847+-513147)),2505707627634-564262)]]=Y}end k()end)if not A then k()end end end function N.splice_point(Y)local o,c=A[lF[zF(EF((-706351-(-49143))-(-719875)),-339961+23124905218563)]](Y),A[lF[zF(EF(922463951%11248780),6364848170751-(-79280))]](Y)if type(o)~=lF[zF(EF(-161290-(-627643-(-403108))),-650344+27831387012664)]or#o<(622673-(-515234-(-831355)))+(748068+-1054618)or not c then return nil end c=math[lF[zF(EF(1027486+-965456),34688348433912-125985)]](-161954+161955,math[lF[zF(EF((-627298+723176)+-33694),-413234+29609957194577)]](#o,math[lF[zF(EF(158691969%993015-740501),499794+11012713302626)]](c)))local V,k=X[lF[zF(EF(-903561-(-966667)),-897524+27935447713303)]]()if not V then return nil end local F=math[lF[zF(EF(2574393717%12619266),32419782191656-344320010%2160983)]](BV[lF[zF(EF((-123077-(-196013))-9712),-878177+22602308477050)]],math[lF[zF(EF((-1194486-(-424911))+831527),((-476693-(-718209))+470068)+1575976600807)]](BV[lF[zF(EF(((-770802-(-257843))-(-182431))-(-393933)),312111+(-652555+9649079292791))]],((N[lF[zF(EF(((11370466400231%73357893520)%564350543)%2163452),(19614498500858-635041)-(-375801))]]and N[lF[zF(EF(-1015724+1077986),195222+2100330756127%131271129558)]][lF[zF(EF(379077-314908),623370623456-(2927304719-(-430833))%14138916)]]or-875130+875137))*((((N[lF[zF(EF(461745259%8710991),26151079704019-(-828663+(19847+((435433-(357046-704878))+902678))))]]and N[lF[zF(EF(221393594%4256368),-711300+29731647203525)]][lF[zF(EF((-1033473+322500375942%((-233829+1401707476)-(-725418)))%7231577),(693183+31453830396253)-147144)]]or.3))+961205030%13538099))))local r=X[lF[zF(EF(430091+-368589),-67576+17186541886498)]](V,k,o[c][lF[zF(EF(-581401-(-643402)),(1085535-251001)+8607053907690)]],o[c][lF[zF(EF(755919669%(2374399-(-1030356))),29801455772953-868944)]])local y=c while r<F and y<#o do r=r+X[lF[zF(EF(125680-62291),-444490+10432968061360)]](o[y][lF[zF(EF(519506-456694),((-88348+(447853+-356216))-(((-346345-(-419472+91962))-(-891087))+-1673767))+23968417993269%(219893683414-(-114733)))]],o[y][lF[zF(EF(541943+-479832),6166597214248-(289168+(1258400871-(-374626))%17234393))]],o[y+1163049969%12372872][lF[zF(EF(388127+-324934),(18324208356154-577727)-(-107853))]],o[y+(-436909+((645342-755963)+547531))][lF[zF(EF(1502029377%(2148127039%(1904787646%41729002))),615625+5684057659731)]])y=y+(619761-619760)end local i=package[lF[zF(EF(404121-339959),19022065350114-(-291712))]][lF[zF(EF(36009239%181542),18087284883597-(-646222))]]if type(i)==lF[zF(EF(-24371-(235287-321209)),1005870+6394298818774)]and type(i[lF[zF(EF(425985500%3670620-131733),404552+((931804-616220617%4220122)+22002508452606))]])==lF[zF(EF(525463+(-666307+204524)),-33108+3317195345246)]then local X=569853+(-108398-(805360+-343905))while y<#o and X<-848911-(-1023366-(-161592-12823))do local Y,c=pcall(i[lF[zF(EF(-452969-(-514953)),15889691638907-(-117466))]],o[y][lF[zF(EF(-70592-(-76367-56654)),22269274940451-744107)]],o[y][lF[zF(EF(1384908845%12822654),(152419-483862)+7492817736959)]],71372+-71372)if not Y or not c then break end y,X=y+(78133-78132),X+(-344507+344508)end end local P=o[y]if type(P)~=lF[zF(EF(-541140+296337215%(899622+4899071)),39237+23455136336667)]or not tonumber(P[lF[zF(EF(684967+-621703),10401239623908-(-100753-(275118-158516)))]])then return nil end return{[lF[zF(EF(-675701+737767),982425+25408007027611)]]=P[lF[zF(EF((285730+-284050)+((-834-(-683371))+-622973)),718290+12668457674003)]];[lF[zF(EF(40004338%(518229584%(408368+4339246))),-717269+30740348369667)]]=P[lF[zF(EF(3371314721%16607151),506069+34453445754310)]],[lF[zF(EF(566269+-505110),288670+(-719341+9871911295200))]]=P[lF[zF(EF((-102284-(646335+((889802+-1128424)-334393)))-(-237528)),388069+12182937225062)]]or 495758636%(6983554-1038)}end local function vV(Y,o)local c,V=A[lF[zF(EF(1444775851%8863268),(7512746238386-(444282-26024))-(-929101))]](Y),A[lF[zF(EF(727813+(-1662396-(-996370))),-67165+3371235160953)]](Y)if type(c)~=lF[zF(EF(3078739465%16731936),10567268959145-(-489337))]or not V then return nil end V=math[lF[zF(EF(-299798-(-362479)),-222378+23490695666294)]](-350667-(-350668),math[lF[zF(EF(694191053%((499398-(1529545-929295))+(17027060186%945976603)%12455486)),-65622+(15695078602894-(-381768+-395501)))]](#c,math[lF[zF(EF(-970438+1033054),(106317+((5318450122461-658579)-(-987574)))-(-45575))]](V)))local k for Y=V,#c,-954028-(-954029)do if X[lF[zF(EF(1083588-(-867857+(860789-(-1028998)))),679854+3017823430141)]](c[Y][lF[zF(EF(462697932%2705466),(-144065-263602)+21256478526450)]],c[Y][lF[zF(EF(385287614%6519793-407213676%2657877),123982+(20566000759545-(-363206)))]],o[lF[zF(EF(-355987-(-419407)),29463066993533-(-908306))]],o[lF[zF(EF(-824015+886257),429329+3968511368371)]])<=-659631-(-659635)then k=Y break end end if not k then return nil end local F={}for X=V,k,2663275041%(-65815+16711284)do F[#F+(-646242-(-161575+-484668))]={[lF[zF(EF((430570-(-335263))+-703316),(-905160+(18563214884037-(-788822)))-(148978+-840556))]]=c[X][lF[zF(EF(2499572376%15332805+-261228),7601369309620-438285)]];[lF[zF(EF(-154920-(-216303)),(17061526214580-420404)-(-1080394-(-746513)))]]=c[X][lF[zF(EF(297560+-235506),25462400239771-(-145360))]];[lF[zF(EF(-504084+(218454-(-348698))),-761905+19662120827896)]]=c[X][lF[zF(EF(1931121777%8582491),(475822+1420363794%8931612)+9352228367138)]]or 23858324%852083}end return F end local function sV(Y)if N[lF[zF(EF(2381188539%16651237),9896731897724-250461)]]then return end N[lF[zF(EF((750677474818%3753422272)%14807823),-700428+12292763565720)]]=true local o=A[lF[zF(EF(3496676442%(15938334-801484)),(154516-(-676557-(-977242)))+34659109987495)]](Y)if type(o)~=lF[zF(EF(795086-733531),(526909+-175422)+29090007867134)]then X[lF[zF(EF(-85248-(-147889)),-1022071+34232756198370)]](lF[zF(EF(848143639%5576670+-428379),169175+32124495845476)],lF[zF(EF(125681+-64389),29944205005047-468320)])return end local c={}for X,Y in pairs(o)do local o=type(Y)if type(X)==lF[zF(EF(2227999156%9771650),(825659+30750470516911)-206577)]and((o==lF[zF(EF(((322303-1022874)+630642)+134056),-206405+10295096830236)]or o==lF[zF(EF(1120588147%5805829),3420032422047-(-465789))]or o==lF[zF(EF((2136673898-(-925172))%11018235),(-925262+1551242)+12533042670021)]))then c[#c+(-115408+871120016)%3614127]=X end end table[lF[zF(EF(-262340-(-324471)),-1027648+(19104252756752-(-16686)))]](c)local V={}for X=1014204+-1014203,math[lF[zF(EF(-940560-(-920166+-81556)),23339720256694-388354)]](#c,147804778%2262715-(((-1402273-(-686638))+536830)+907068)),-21071-((1264068585%((141291+10053254)-(-343050+668686))-171438)-697867)do V[#V+(-304087-(-304088))]=c[X]..(lF[zF(EF(81186639%9013806),11487238581153-(959619+(-676472-1217384257%(8273647-(-175200)))))]..tostring(o[c[X]]))end X[lF[zF(EF(-481361-(-545155)),(-420690+-372108)+(20400460763138-935461))]](lF[zF(EF(-278245-(-341108)),-732367+(-346662+1947368373742))],lF[zF(EF(1331842824%(5913921700%30102323)+-607783),250002+18602197244394)],#V>1621050216%14604056 and table[lF[zF(EF(770094-1226893483%((-1470136-(-937675))+14156739)),33376054603257-104185)]](V,lF[zF(EF(814921982%15090004),18957008748370-(536710+-1102301))])or lF[zF(EF(615732980%15786421),(-789193-(-334664-(-200497)))+(-597396+27176158497874))])end local wV={[lF[zF(EF(-43080-(-107127)),-533164+33103866222300)]]=12068+-11828,[lF[zF(EF(262963220%8215621),720238180%7739324+(26127049477388-(-104730)))]]=-72166-(-72256),[lF[zF(EF(490272-427709),-164644+3429367713167)]]=nil}local pV={[lF[zF(EF(289935516%13176102),633025+33456572292590)]]=.1,[lF[zF(EF(837909-776397),16545221037903-(-623312))]]=669312+-669272;[lF[zF(EF(247078520%7719278),-834321+(1066367903%6306744+21600159480240))]]=-626951+627401,[lF[zF(EF(((-877319+68468)+159850743)%2523493),-110975+34802718340406)]]=.8;[lF[zF(EF(186602092%863606),18837801783081-925395)]]=((546622+-1790330)-(-400806))+842932}local function OV(X)local Y,o,c,A=158605+-158605,859948-859948,379479-379478,1036357-1036357 for V=-836381-(-836383),#X,718877+-718876 do local k,F=X[V-826627561%7514796],X[V]local r=math[lF[zF(EF(-781199-(-842806)),-712794+16643116168221)]](((tonumber(F[lF[zF(EF((563431+11841021)%2468285),28618101225501-(-635265))]])or-495056+495056))-((tonumber(k[lF[zF(EF(-535244+597026),-390341+11253837381446)]])or 329869+-329869)))if r<.05 then r=576469+-576469 end Y=Y+r o=o+math[lF[zF(EF(-174314+237544),66185+22677285116170)]](((F[lF[zF(EF(-789118-(-852063)),(434813+7163009868790)-364241)]]-k[lF[zF(EF(174939391%747332),(-898558+1245827)+(497+11177523284251))]]))^(1525381007%6490983)+((F[lF[zF(EF(491018-426874),159215+13996234218583)]]-k[lF[zF(EF(-701612+765143),-327426+20441474043294)]]))^((4157827170-459616)%16239717))if r>A then A,c=r,V-((-711840-133253)+845094)end end return Y,o,c end local function WV(o,c,V,k,F,r)if not N[lF[zF(EF(630841-569381),(-443741-(-349431))+29856107035275)]]or not fV[lF[zF(EF(865129-801190),(-754956+-67278)+134758898392)]][p[lF[zF(EF(592669+-529662),10947432583263-(-794804))]]or lF[zF(EF(290364+-228600),35039225989118-9088)]]or yV()then return false end sV(o)local y,i=X[lF[zF(EF(820966+-757489),-431083+((862838+33788711005033)-(-635550)))]]()if not y or X[lF[zF(EF(202218+-138025),8652801279825-(-5875+-117217))]](y,i,V,k)<fV[lF[zF(EF(712873+-649167),-858686+22203544077198)]]then return false end local P={[lF[zF(EF((2046388884%8558612+-1603739)+(((645140-787978)+(-59892-(-251175)))-(-121457-616209))),15240049128756-142071)]]=V;[lF[zF(EF(545649972%10911748),576975+29643456810158)]]=k,[lF[zF(EF(-539036-(((449390-(-384325+626713))-(-561451))+-1370319)),-789339+30738482178445)]]=F}local m={[lF[zF(EF(58934-(-5153)),12348328791873-978106)]]=c,[lF[zF(EF(-413764-(750382612%4657361+-1025325)),840414+(-855137+5587488745100))]]=false;[lF[zF(EF(3776579831%15045884),-485159+31089212732331)]]=false;[lF[zF(EF(9245022%1296789-104371),980730+22523042760845)]]=false,[lF[zF(EF((74689-(-422672))+(-436277-(-2277))),-632276+15550767658495)]]=((2726417319-(-971222))-49943)%12285309,[lF[zF(EF(-263718+325867),22017340777945-(-720914))]]=X[lF[zF(EF((-443314+266479793)%(2259388-(-194123+438548))),24146880027824-(-460183))]]();[lF[zF(EF(514955-453296),18916959202719-(-127569))]]=((856410+-1084689)-(-909818))+-1000681539}local D=N[lF[zF(EF(-336977+400239),32227565949122-(-181690))]]N[lF[zF(EF((-980580+251155)-(-791610)),31490780483814-(-6690))]]=nil if D and(X[lF[zF(EF(-524585+586274),23781908003924-406619)]]()-D[lF[zF(EF(1265495057%8270792),(27481888821967-938193)-672942)]]<(77251-(-157916))-235166 and(X[lF[zF(EF(1802558274%13451456),-442704+9105190501952)]](D[lF[zF(EF(845147-784019),7912298427496-((446187+493185)+-1821645))]],D[lF[zF(EF(292481913%1911231),3570017731713-(-784449-(-558824+(-758243+(1035684+545206)))))]],V,k)<2127856801%(3915891334%15562273)and(A[lF[zF(EF(1023160+-960368),21451743295138-(-1005195))]](o)and not A[lF[zF(EF(1148491800%((-611177-(-976924))+5263815)),6.3959497510592e+14%13052958918882)]](o))))then m[lF[zF(EF(1099636-1036917),-167745+(-522870+27551693685282))]]=N[lF[zF(EF(273665-211249),7062414156823-556314)]](o)end local d local function S(y)if m[lF[zF(EF(-629324-(-691901)),-152716+9789721406824)]]or p[lF[zF(EF(989877+-927500),2337340971%12236629+24495305444290)]]~=c then return end m[lF[zF(EF(284427+-221329),477876+(30350013315291-(-69056)))]]=true if m[lF[zF(EF((13552942909%(550719282%79955855))%344986),-491558+25083484543477)]]then local Y,o=X[lF[zF(EF(84832-22210),(-803257+424950)+20219272050950)]]()if Y and X[lF[zF(EF(577823023%17486588-702031),17862529348268-(-441391))]](Y,o,V,k)>BV[lF[zF(EF(48378471%9663335),87221232027377%12460177383484)]]then J[lF[zF(EF(-80278+143124),16053665210227-393585)]]=((J[lF[zF(EF(394292+-332665),21507020035303-(-849976))]]or(778133-342208)-(2235971824-514887)%10299636))+(-854011+854012)X[lF[zF(EF(682557-621059),-916903+472239147762)]](lF[zF(EF(-687155-(-750502)),(-823615+3800417289969)-(-300722-162957))],lF[zF(EF((1282288449-907536)%8266560),215255101645-((-934579+915120)-1692637765%(7900553-(-81695))))],tostring(y))return end end if p[lF[zF(EF(-955844+1017638),-782687+7324725444650)]]==c then p[lF[zF(EF(((-566349+866278)+-1064345)+((((166209-426108)-(-69143))-(-172917))-(-845871))),11575180094871-(-1042467))]]=nil end J[lF[zF(EF(330385-268962),22458554868332-786245)]]=((J[lF[zF(EF(50586+13236),-168926+27045812840800)]]or(267363954%2869110+-662395)-(-125671)))+(-286583+286584)local i,D,d=X[lF[zF(EF(1312766326%(11254857-495002)),-569497+34364598479350)]]()if i and(m[lF[zF(EF(-87354+((447117-509897)+1630147943%7836223)),25446332966478-807848)]]and(X[lF[zF(EF((-1144956-(-899042))-(-309063)),3557044309436-(-325307))]](i,D,V,k)>hV[lF[zF(EF((76204031209%1190821281)%4618079),29831801795401-34845)]]and not m[lF[zF(EF((-213525-(-26580))-(-804521-(-554301))),-510002+(13128662181516-946291))]]))then m[lF[zF(EF(-255730+319692),-418510+10290159856658)]]=true local Y=hV[lF[zF(EF(-847742-(-1550949-(-641438))),14219218330616-978475)]](i,D,d,V,k,F,hV[lF[zF(EF(-400179+462632),(962036-382582867%6593645)+(((((-630835+1352788)-871316)+-759594)-(1013035+-1866265))+18324802073657))]][-580669+580670])if Y then X[lF[zF(EF(-547303+609824),(2206212120%16968183+22437245817648)-(-397825))]](lF[zF(EF(-448463+512041),-750504+11957553122771)],lF[zF(EF((811165+-789247)-(1192990723%6410344+-707262)),33576649759343-955702)],tostring(y),X[lF[zF(EF(-100544-(-164166)),(296393+(-884069+1416303595926))-622929)]](i,D,V,k),hV[lF[zF(EF((812226+1310410506)%11111529),16773807963066-(-679832))]][920619+-920618])local F=iV(o,XV(Y[lF[zF(EF(-268322-(-331184)),-985659+8856684361052)]],Y[lF[zF(EF((224895+-938191)-(-776922)),(496678+5928405272758)-610952)]]),Y[lF[zF(EF((-927954+350278288%(8264294-(-681175)))-415261),-180554+12659995554136)]],Y[lF[zF(EF(104373-40492),-794624+8959192937255)]],Y[lF[zF(EF((583519-696812)+175680),2060735729859-715766115%6688016)]],function(X)if p[lF[zF(EF((3433061265%202827303)%(645093974%5505436)),520584+19123813944570)]]~=c then return end local V,k=nil,nil for X,o in ipairs(X or{})do local c=math[lF[zF(EF(808151+-745465),31966118584849-295518)]](o-Y[lF[zF(EF(118809-57198),15838529873163-(-77626))]])if c<=BV[lF[zF(EF(2354775830%9973636+((-701976-(-191179))-425673)),33536873071331-806653)]]and((not k or c<k))then V,k=o,c end end if V then p[lF[zF(EF(279061506%((-59253+4280102721)%17945561)),3787582332671-667636)]]=false if N[lF[zF(EF(-674528+738022),1003811+(14063724121694-(-964664)))]]({[lF[zF(EF(-505510+568887),((-223348+-620591)-(-188901))+25161604729561)]]=Y[lF[zF(EF(2496235565%13277521),926994+7679943087848)]];[lF[zF(EF(3770814029%16394566),15978148938060-845897)]]=Y[lF[zF(EF(1867339589%8526378),((((894220+-1189868)-(-374592))+906322)+32309239508676)-118603)]];[lF[zF(EF(1923344605%12250201),-712880+2959543058079)]]=V},lF[zF(EF(-209251+272264),20214669375203-481181)],{[lF[zF(EF(63276287%4214258),23291473920462-(353800+-20344))]]=hV[lF[zF(EF(1232608538%9860367),617255+9308727782435)]]+(-233684-(-233764)),[lF[zF(EF(502075+(-57253-381775)),748905+30704351160795)]]=1474010170%8054700;[lF[zF(EF(((855437+(391377524%7379038+-1768788))+405814)+283138),31376922285782-(-352033))]]=lF[zF(EF(743701060%3380172),-1046738+4656853946468)]})then return end end local F=A[lF[zF(EF(-785669-(-849129)),-912580+(709378+11640945652715))]](o,P,r)if not F then p[lF[zF(EF((-168779-249339)+481487),-277758+((33539717206026-(-925913))-(1046084+-567655)))]]=true end end)if F then return end end end if m[lF[zF(EF((796767+-1241300)+508654),(9381330489083-549967)-535548)]]then local o=XV(V,k)local c=bV[lF[zF(EF(44012500%395941),831628+(10064764029289-595046))]][o]local A=X[lF[zF(EF(-203370-(-265426)),((-577680+((417002+-820058)+796590))+(1003631+7541731552823))-39097)]]()if not c or A-c[lF[zF(EF((3568830267%54913176)%9054145),274310+3.4478961619462e+15%20401752445348)]]>bV[lF[zF(EF(-670037-(-380909+-351357)),12728822891793-520009)]]then c={[lF[zF(EF(-748640+812358),(-437092-(-662421-(-616764)))+25853190415987)]]=210541+-210541;[lF[zF(EF(175245-113084),687000698806-(-633887))]]=A}bV[lF[zF(EF(528281-465539),-129436+(-16363+26233057887040))]][o]=c end c[lF[zF(EF(154919+-93187),-636469+30965835786118)]],c[lF[zF(EF(375744308%2377740),13116979177562-804250)]]=c[lF[zF(EF(388429677%14350931+(-600570-(743464+-452753))),2.1428594123151e+14%2164504531791)]]+(454817+-454816),A if c[lF[zF(EF(488329370%2001095),15093283568884-(-594178))]]>=bV[lF[zF(EF(1011612+-948206),14755350926435-(-557283))]]then bV[lF[zF(EF(422176691%8794036),-527196+(1021743+30421851777853))]][o]=nil J[lF[zF(EF(-330962+392438),8.502421327113e+14%3882384187903)]]=((J[lF[zF(EF(85720371%(4209435202%(28743401-(-5490)))-976916),866407+(28499187515305-582790))]]or(647922+723655268)%3277390))+(18410+-18409)X[lF[zF(EF((-253502-(-1910068-(-939622)))-652730),(-777197-(855406-595984))+31287892661013)]](lF[zF(EF((1103351-295777)-((1244261642007%(-192656+577265475736%6414062325)-((((518672+((-683292+-113329)+(200618+-425716)))-(-63383-696609))-669180)-404782))%(28352993-(-790938)))%937222),2.7668187829907e+15%13175327565272)],lF[zF(EF(551496+(-703745+214852)),1831067121015-(-600308+537294121%2329208))],V,k,bV[lF[zF(EF((613419-(-375757))-926934),27806633668576-832282)]],bV[lF[zF(EF(486362-422858),782250+21459337469696)]]/(744328970%5725607))oV(lF[zF(EF((19158787217%661152107)%3966043),4304242657098-437915)],V,k,F,false)Y[lF[zF(EF(-51243-(-113290)),641514+596091943693)]]({[lF[zF(EF(447717+-384147),-207015+12792742431362)]]=V;[lF[zF(EF(1001293946%10113444),15664813477685-679666)]]=k,[lF[zF(EF(2299245981%14551796),333452+23335989647106)]]=F},-183472+183480,lF[zF(EF(-862878-(-924586)),24343542233396-439152)]..(bV[lF[zF(EF(3128461081%13312340),(337432+(25147226410658-322505))-776852394%4217040)]]..lF[zF(EF(1202845642%16037091),622042+13862338306562)]))p[lF[zF(EF(2472310970%11885807),-103005+27355056164104)]]=true return end end X[lF[zF(EF(-496904+559014),31950463247503-(-46137))]](lF[zF(EF(1079179-1016801),32686635458766-(-507005))],lF[zF(EF(149593-(1336509320-787437)%6071075),539684+13190650861772)],tostring(y))local S=A[lF[zF(EF(-797209-(-859897)),-827707+24186031492602)]](o,P,r)if not S then p[lF[zF(EF(125059623%1865629),(((483043-(-599822-(-946945)))-(-168994))+-1240346)+8265432807257)]]=true end end m[lF[zF(EF((85212284677%1136257516)%7284948),6076473620698-670903)]]=S local q m[lF[zF(EF(-683963+(173724+(492183-(-80324)))),749225+8658417461956)]]=function(Y)if not A[lF[zF(EF((355675933525%1469741044)%9988284),-344686+14699519377690)]](o,Y,r)then wV[lF[zF(EF(-1035159+1099003),14435029897165-(-719980))]]=nil return false end m[lF[zF(EF(274718559%4904560),(-128376+(-827347+82980090147))-577301)]]=true p[lF[zF(EF(271384+(-765409-(-557765))),(394465-(-109526))+18034056242289)]]=X[lF[zF(EF(124247+-60638),-144156+25521586644530)]]()if m[lF[zF(EF((1769924-(1488078457-533013)%15328453)-1020662),(652257-461317)+6617310914089)]]then p[lF[zF(EF(297062-(916305527%9852128+831720620%5774620)),((28990762603110-(-243507))-(-662710))-(-123921))]]=c end J[lF[zF(EF(-2937-(459422+-524129)),4545359081910-261073)]]=((J[lF[zF(EF(-581762+642964),21811997288358-(-884713))]]or-52643+52643))+1259722209%7588688 return true end function q(Y)if not A[lF[zF(EF((1070288-(735613+(559059+(-990473+(284051134498-44806))%1775334588)%10613335))+-239306),14560835339511-757621)]](o,Y,r)then if m[lF[zF(EF(1732817573%7219807),-202720+(25782787032952-(-1032347)))]]then return end return S(lF[zF(EF((522817+-112332)+-348749),22460314015953-2455553019%14030335)])end local V=not m[lF[zF(EF(-837615-(-899123)),34849939718659-766472)]]m[lF[zF(EF(-34696+98482),966775+4786284061062)]]=true p[lF[zF(EF(82396+-18954),27974474585296-(-162556))]]=X[lF[zF(EF(2176945684%((406664-(35069-(-646044)))+10690156)),(-835247-(-764255))+24934501686113)]]()if m[lF[zF(EF(((-132196+885230500)-(-140450))%10537796),98368+6513995753146)]]then p[lF[zF(EF(-501394+(-510474+3493881959)%16553584),274988+(150654+25554730062561))]]=c end if V then J[lF[zF(EF(930214+-868865),79531+(821097+27325014749437))]]=((J[lF[zF(EF(2606283468%11481144),534284+9158898110119)]]or-617162+(724170+-107008)))+1321443085%11591606 X[lF[zF(EF(190106+-127674),-130051+(708277+30730232160328))]](lF[zF(EF((296035+165755)+-398155),545122+4243900537874)],lF[zF(EF(-156062+218377),-967260+31406233580454)],#Y,X[lF[zF(EF(794061-731788),20466532526654-(-435233))]]()-m[lF[zF(EF(497824210%14640080),8478713376954-((866218+-810711)-90907))]])else J[lF[zF(EF(-44448+106324),28129236653738-291980)]]=((J[lF[zF(EF((-570747-(-758450))+-123948),-235497+29945663573199)]]or 352532362%7663747))+867154979%14697542 end end local function C(Y,F,r,y)local i=Y[F]local D=Y[r or F+(-361333+361334)]or i local d,S=D[lF[zF(EF(-393113+456198),-772208+33331501257692)]]-i[lF[zF(EF(438918+-375909),304958+14560400829497)]],D[lF[zF(EF(-911914-(-975299)),15964+30541525019601)]]-i[lF[zF(EF(549398150%7423464),842768+14781225819152)]]local g=math[lF[zF(EF(691214+-628451),-359611+31758483885505)]](d*d+S*S)if g<((260933+215838592370)%1160492089)%5947237.5 then d,S=V-Y[(-39578-755151)+794730][lF[zF(EF(1730976176%10554354),34841019948631-(-87328-(-202117)))]],k-Y[-94804-(-94805)][lF[zF(EF(-28429-(-91762)),20213011319350-(-579984-287452))]]g=math[lF[zF(EF(314214+-250658),899764+(-567464+((20872349110030-(-159807))-(-757188))))]](d*d+S*S)end if g<((1281023553%16853114-207106)+-345810)+366027.5 then return y(false)end local C,f=-S/g,d/g local H,L=((i[lF[zF(EF(-714507+(1264586-488013)),263688273%(1421962084%15803454)+11776478070436)]]+D[lF[zF(EF(907833-(210229+635692)),26511969832079-(-851770+86072))]]))/(902659-902657),((i[lF[zF(EF(2130246844%8659290),(-463316+(1752270-(-279216-(-962956))))+17708445076594)]]+D[lF[zF(EF(-71621+135649),-360058+(34420545634174-(-893681)))]]))/(2334875042%12288816)local U=143827641%15980849 local function I(o)local c,A,V=-640625-(-640625),Y[-15005+(11236+3770)][lF[zF(EF(-161487-(-225399)),791500+16854073747475)]],Y[489619+(203229-(2418810497%13068123-514895))][lF[zF(EF(299255573%5241102+-448878),453099+14830376544074)]]for Y=(1170667-205265)+-965401,#o,450075+-450074 do c=c+X[lF[zF(EF(976810283%13953541),-9847+(3975509569300-450653))]](A,V,o[Y][lF[zF(EF(206048+-143476),3.4177492021268e+14%5424998967277)]],o[Y][lF[zF(EF(348889-(91090+193947)),8.2369832888316e+14%5491322290038)]])A,V=o[Y][lF[zF(EF(456667+-395464),8519718618369-318347)]],o[Y][lF[zF(EF(25951+38025),(-1700715-(-812989))+6483013451653)]]end return c end local Z=(m[lF[zF(EF(366244+-303748),(507240-822052)+10496572050585)]]and Y[#Y])or P local K local Q={[lF[zF(EF((4295+-850392)+909518),19968464103257-(132527-108709))]]=((395474-((403452+1663067)-1019904))+-196357)+(291763-(-807603+251868));[lF[zF(EF(-265932-(-329206)),19855161670095-878423)]]=297794330%10268770,[lF[zF(EF(183816-121168),(12456213893719-(-831260+423363))-100256)]]=(-1022517+59717)+962800}local function e(V,k,F)local r={[lF[zF(EF(93649334%13369690),(990861966373-661227)-234413)]]=H+(C*V)*k;[lF[zF(EF(-182254+244281),32069769046477-(-581176))]]=L+(f*V)*k;[lF[zF(EF(277166699%9896571),((228669238%14263625+-816329)-(-354750))+844430770439)]]=i[lF[zF(EF(3433501296%14672816),-319679+28605018597147)]]or Y[(((17662413307930-1279196175%16392827)%82150776998)%(1676017667-(960634+-1582829)))%(2584791064%20736624)][lF[zF(EF(737647+(63894-740273)),6493645372564-207647)]]or-1040929+1040929}if not m[lF[zF(EF(-15136-(-76538)),702393+3802478037447)]]then m[lF[zF(EF((79932588981%1065931425)%16462492),14035953947419-(-187789+-516241))]],m[lF[zF(EF(19772969%597328),20736003353993-16716)]]=true,X[lF[zF(EF(-659521-(-720929)),(25477378307531-(-8715-(-1001588)))-(-138034-(-11117)))]]()end local y=A[lF[zF(EF(434765839%(6865643-(-502188))),-431572+22195178700353)]](o,{{[lF[zF(EF(998265-935652),13541157641743-(-591816))]]=Y[369886381%(((199802-736601)+3867578297)%22411116)][lF[zF(EF((1021599+-1213086)-(-253357)),32397089054840-588762)]],[lF[zF(EF(613466196%16142218),13531630489335-((955861+26848825712)%114802654)%6674571)]]=Y[1281547016%(3405113828%16915463)][lF[zF(EF(1025445-963528),32716838210986-880631)]];[lF[zF(EF(105932+-43875),4810158387232-101659)]]=Y[(165226-493227)+(482041+-154039)][lF[zF(EF(-133060+196383),-174954+981548335748)]]};r;{[lF[zF(EF(1533425865%11616389),-6946+27637208075059)]]=Z[lF[zF(EF(-234337+(389012-(835026-743513))),-279730+30814472599508)]],[lF[zF(EF(-702734+766464),3630102734401-(-1350120-(-750559-(-54029))))]]=Z[lF[zF(EF(17438655%1434774-159334),28402299718638-823273)]];[lF[zF(EF((-190206+500638341)%(207495826%3600555)),151378+15387806552149)]]=Z[lF[zF(EF(249284+-188081),15770596628242-(-921981))]]}},function(o,A)if m[lF[zF(EF(-809852+872494),(380856+-544460)+10080931912432)]]or p[lF[zF(EF(966924+-904601),-665615+25278665587374)]]~=c or p[lF[zF(EF(951489+-889877),-208000+18774478984196)]]or(m[lF[zF(EF(-1017112+1079711),6774240588591-831955)]]and not m[lF[zF(EF(-956876-(-1018784)),(4283931465768-444229)-(271363-(998822+-490769)))]])then return end local V=((o==true and(type(A)==lF[zF(EF(530664+-468739),-184017+1038949762457)]and type(A[lF[zF(EF(228453+-167001),(388122366138%2587584167)%13053736+4712068763124)]])==lF[zF(EF(-785156+848789),355456+1168554271637)])))and A[lF[zF(EF((49263+216235)+-204251),(183732+-770976)+19522249045725)]]or nil local k=V and V[#V]if not V or#V<978467337%10994015 then Q[lF[zF(EF(581144-518305),12315850728532-(-897525))]]=Q[lF[zF(EF(39490-(-965182-(-941744))),33980168897650-(-325341))]]+(-510043-(-510044))return F(nil)end if type(k)~=lF[zF(EF(375300111%2821345),24881948655575-711477)]or not tonumber(k[lF[zF(EF(1367081615%9905939),((580527+52455931927373)-(-820937))%6556992559509)]])or not tonumber(k[lF[zF(EF(-332409-(-395940)),58265+27039994825770)]])or X[lF[zF(EF(551409-487400),(12153168289015-685279)-442952)]](k[lF[zF(EF(-449047-(-512035)),26776527290486-159886)]],k[lF[zF(EF(1564437574%10360102),354719+8279625163892)]],Z[lF[zF(EF(-862536-(131904+-1057860)),109401+(24894605942338-(-848899-(-160052+-790549))))]],Z[lF[zF(EF(278758547%(423309+949576)),((-453975+134953774%1202267)-((-99011-33317)-(-350882)))+14198220782726)]])>fV[lF[zF(EF(1162503530%5032212),(-815206+11535952568994)-(-536011))]]then Q[lF[zF(EF(976577+(((1397380-437251)+-2367995)-(-493323))),878843+31347070496718)]]=Q[lF[zF(EF(674837691%6306313),92933+15697094391244)]]+(-581298-(-581299))return F(nil)end local r=KV(V)if#r==996336-996336 then return F(nil)end local y={{[lF[zF(EF(3638692853%16539222),32060448316513-(-634461))]]=Y[333358103%4329326][lF[zF(EF(-755834+817610),15432641329930-669136)]];[lF[zF(EF(783740184%5518845),-819345+28258678074273)]]=Y[215037-215036][lF[zF(EF((748214+1544039688)%(-243218+651525642%(7001037-(-85477)))),9253103050241-1868271803%13344376)]];[lF[zF(EF(15929+46963),1273695718%4992423+10710144434437)]]=Y[-390584+(2669316925-29228)%11757256][lF[zF(EF(-640122+702312),10405371140647-(-975838))]]}}for X,Y in ipairs(r)do y[#y+(72030-72029)]=Y end if N[lF[zF(EF(3304205791%16117775),-50298+32388613835035)]](y)or(m[lF[zF(EF(833692+-769999),707199+32076033519665)]]and N[lF[zF(EF(165573790%(2814180030%13657678)),600804+15736529578814)]](y,m[lF[zF(EF(3065625191%16219901),(14890013717957-(-249940))-(-166447))]]))then Q[lF[zF(EF(-948725-(-1011070)),16076064001504-(848008734%3958320+-1806203))]]=Q[lF[zF(EF(651713503%7490243),29101138091636-(-702641))]]+(568104+(-72913+(-1027298+1993685788%14236812)))return F(nil)end local i=OV(y)if m[lF[zF(EF(-445779-(-509732)),23583606764286-(-474782))]]and i>m[lF[zF(EF(-285856+349154),4160626795355-(-949205))]][lF[zF(EF(609113-545298),(-552139+179869)+(20403310849417-(-623141)))]]*pV[lF[zF(EF((-528696-49490)-(-639612)),(-790713-(-876019))+12013665176570)]]then Q[lF[zF(EF(-336964-(-400875)),962244+26250781111347)]]=Q[lF[zF(EF(120735-58590),22999117599843-(-421940))]]+(1313790512%(1195932180%10171547)-885967)return F(nil)end return F({[lF[zF(EF(-343307+404732),-574620+3982107924675)]]=r,[lF[zF(EF((-191010+527959)-273962),542500+16836400035059)]]=I(r);[lF[zF(EF(349041+-285989),3.1738447854279e+14%19836530624273-(-1632605-(-613488)))]]=i})end)if not y then m[lF[zF(EF(1821075968%13691826),2125955990368-(-909651))]]=false Q[lF[zF(EF(2379648328%16757640),164436+24842048431483)]]=Q[lF[zF(EF(587457698%7077041),-684971+32144553935420)]]+599026276%2662339 return F(nil)end end K=function()local o=U+((578889+-1616522)+1037634)if not CV[o]then X[lF[zF(EF(1504869743%(330007+(((-928204-(-234797))+-309637)+8159637))),(8770305537113-3714)-206560)]](lF[zF(EF(885784479%7701927),-774874+24286029025745)],lF[zF(EF(-676657+740255),(((28418691%6955191+-2060872)-(-59240))-(-775244))+26865120321538)],H,L,(845095-845093)*#CV,CV[#CV],Q[lF[zF(EF((142992+-403008)-(-323173)),30711201220374-(-706232))]],Q[lF[zF(EF(2081996401%12392470),(-1150734-(-114539))+21377735695625)]],Q[lF[zF(EF(380756432%(267413+15594821)),26908320476818-(-969157))]])return y(false)end local A=o==((250976766996%1695805078-602907)-1064777453%11444771)%7422824 and math[lF[zF(EF((79027284115%1362569939)%16799178),34484545340103-(-75341))]](qV,#CV)or o U=A local V,k,F={},935229+-935229,false for X=o,A,813636+-813635 do V[X]={[lF[zF(EF(-46300+107925),(-998066+759345)+28146231095286)]]=-178810-(-178812)}end local function r()if F then return end for o=o,A,128607+-128606 do local A=V[o]if A[lF[zF(EF(1107844-1045092),383375+30528611207536)]]>((5348783264801%37144407574-(-738043))%447477753)%10744976 then return end local k,r=A[lF[zF(EF((-393060+398768)-(539116-597467)),737205+4252448483397)]],lF[zF(EF(543368-(1439-((377535+-994514)+139174))),16308177124613-851214)]if A[lF[zF(EF(2556880109%15685995),24534442432997-869265)]]and((not k or(m[lF[zF(EF(-302475-(-364968)),-449387+28941139382775)]]and A[lF[zF(EF(162029021%975256+-75153),17192869320793-(-713090))]][lF[zF(EF(-768809+831649),6367571625995-874767)]]<k[lF[zF(EF(-410152-(-473976)),14547051733530-(-515878))]])or(not m[lF[zF(EF(-194313-(-255580)),32047727709404-209907)]]and A[lF[zF(EF(-442571-(-506550)),1330625861392-147938)]][lF[zF(EF(387802762%6802468),13749365585214-(-242673))]]<k[lF[zF(EF((-42272-223019)+327693),-604495+14469901504012)]])))then k,r=A[lF[zF(EF(1665001765%11724931),(538920-792776)+25742376130518)]],lF[zF(EF((1653986-626325)+-964472),34924777217541-767891)]end if k then F=true if m[lF[zF(EF(1493245985%10742328),-238205+3400749642018)]]then local A,V=X[lF[zF(EF(1637364774%10631827),627840+19682930161455)]]()if m[lF[zF(EF(-22599-(414289-869391009%9050957)),-549178+(8874654441901-(231556+-179093)))]]or p[lF[zF(EF(260395+-197861),(((-657716+-386042)+1217090)+-264293)+24167068560423)]]~=c or not A or X[lF[zF(EF(-172432+236413),30824729360086-(-343902))]](A,V,Y[471497105%9067252][lF[zF(EF(-721054-(974520+-1758285)),10668643540275-(-803105))]],Y[-108988+108989][lF[zF(EF((-1285734-(-403341))-(-934988+-9899)),16774528866531-602583)]])>pV[lF[zF(EF((680002466-(-114916))%14469246),237415+4089960755566)]]then return end J[lF[zF(EF((1465218243-65634)%10317545),27517149632844-(-422914))]]=((J[lF[zF(EF(38836922%172328),31805892594419-(-46841))]]or 379419109%16496483))+(-581344+581345)X[lF[zF(EF(1051209-988372),(-947561+1229320)+28404347631157)]](lF[zF(EF(-964143+1026455),124238+19100484615346)],lF[zF(EF(-233188+297320),239241106%3731892+28935169694975)],r,CV[o],k[lF[zF(EF(519244+-455396),567946+247349999285)]],m[lF[zF(EF((348268-1360202774%6697198)+386608),(33804992484462-582833)-(-702260))]][lF[zF(EF((553972+-1386783)-(-896355)),9527826978588-(-868098))]],k[lF[zF(EF(1361571215%15471705),767378+4010939891546)]])return q(k[lF[zF(EF(-713081-(-1192451-(-417068))),430788+(-1010801+21927337033950))]])end J[lF[zF(EF(1765310909%8248828),((34704512572101-100034)-109833)-(-588467-(-1034565)))]]=((J[lF[zF(EF(-190203+(752459-499675)),845004+(25145045810720-((922593+-133157)+-1569469)))]]or(61911598310%472730159)%((145044+1147449821)%26334239)))+(142383-142382)X[lF[zF(EF(-101214+376416039%(((-43361+-543764)+537147)+6118553)),(784801+8054920705520)-624194)]](lF[zF(EF(1435241080%8344065),(27976041484768-625909)-((-149973-(-13732))-853622))],lF[zF(EF(453058773%8236315),9878791762275-(-4639))],m[lF[zF(EF(-138014+200585),25961267407995-987788)]]and lF[zF(EF((35595829150%(307278037-306606))%12252170),2855856232115-334518)]or lF[zF(EF(232280+-169194),895985+23687678945783)],H,L,r,CV[o],#k[lF[zF(EF(-87283+150468),-275219+4301699551924)]],k[lF[zF(EF(1084668-1022833),13140597571235-(-482316+((595658598-537104)%7524814+(-176987+((-685018+(-143651+707879))-(-207636+576133))))))]])m[lF[zF(EF(804490-622659290%3886988),234284+6442477662612)]]=false return q(k[lF[zF(EF(197415005%1273239),-544720+18551989938687)]])end end F=true m[lF[zF(EF(1019838003%16448005),-977058+27515769858876)]]=false return K()end for X=o,A,217608217%1480328 do for Y,o in ipairs({-168476+168477;514345-514346})do if F then break end e(o,CV[X],function(Y)if F then return end local c=V[X]c[lF[zF(EF(2450865995%13846343),-489172+10451117583900)]]=c[lF[zF(EF(1300598789%10488182),(-135574+-119957)+1243892292147)]]-(-11048+11049)if o==17560945%1097559 then c[lF[zF(EF(693093+-631741),30347284116391-472788)]]=Y else c[lF[zF(EF(961844119%10124006),-532304+(-1001022+6954901128356))]]=Y end r()end)end end end K()end d=function(Y)m[lF[zF(EF(208884-147483),87276+6945392013726)]]=m[lF[zF(EF(-13531-(-77627)),3960060558339-(-250356+102389))]]+682719073%3047853 local y,i,D=X[lF[zF(EF(((-394704-(-134311))-70771)+395222),34556070604491-(-46391))]]()if not y then return S(lF[zF(EF((145675180614%(-818797+1026812825)-(-790987))%8565690),(6338098463365-763484)%80229124356)])end m[lF[zF(EF(43420195%3335302),-691958+((15335491957878-(-759175))-(-887983)))]],m[lF[zF(EF(1602452383%(9206260-((-1001669-(-387345))+-385722))),((-1320257-(1009223+-1918856))-(-349333))+25155861192693)]]=true,X[lF[zF(EF(316673-252997),6217657622025-(-823007))]]()if Y then p[lF[zF(EF(-41049-(-103165)),15686493322389-(-684968))]],p[lF[zF(EF(180936+-118065),-361085+17715776387461)]]=c,X[lF[zF(EF(397104+-335358),-491508+19139800514330)]]()end local f,H,L=y,i,D if m[lF[zF(EF(191776238%1474721),-644322+(194541+30355511457749))]]then f,H,L=m[lF[zF(EF(758636137%12435650),28734030091502-814069)]][lF[zF(EF(1027725940%4299840),3074494174592-(-1375018-(-642639)))]],m[lF[zF(EF(-929187+993186),375457+28837733283506)]][lF[zF(EF(1330186391%10311027),3132210711033-(-354390))]],m[lF[zF(EF((3623065383-808142)%14724374),613751+31649853169045)]][lF[zF(EF(31618314%584373),940490+6688585888242)]]end m[lF[zF(EF(506622+-442617),25619574584149-(-668547))]],m[lF[zF(EF((75343886823%(21203+617561722))%(5263442-731902)),(-1199590-(-732449))+20554615676354)]],m[lF[zF(EF(975912-913818),30661070749542-407961)]],m[lF[zF(EF(-474461-(-536643)),-462434+6302452824164)]],m[lF[zF(EF(975548234%5359806),8756910279626-(820427-1000379))]],m[lF[zF(EF(((810251+-432712)+-294211)-19765),(21330185920967-(1174823-154612))-(-836432))]]=nil,445633555%9481565,208850-208850,{},-768255-(-768255),false local U U=function(P,g)if m[lF[zF(EF(-199260+263186),2659864726517-(-296002))]]or p[lF[zF(EF(-653497-(-717194)),30447290554876-(-572910))]]~=c or p[lF[zF(EF(79084+-17257),59048223439885%(4217730145870-(-737640-14447)))]]then return end m[lF[zF(EF(1039903+-976008),-202846+28685962688560)]]=false if Y and p[lF[zF(EF(794551+-730738),452280+28532020281757)]]==c then p[lF[zF(EF(-260731-(-323847)),(282403001780-(-738608))-(-481726))]]=nil end local function L(X)if m[lF[zF(EF(-395-(-64077)),200810+27168272160509)]]then return end return S(X)end local I=((P==true and(type(g)==lF[zF(EF(1023287063%11121991),2769843908244-(-911986+1140749))]and type(g[lF[zF(EF((264910-(-401964))+-604409),7678803213532-((-211330+-735221)-((-230256-291795)-282589)))]])==lF[zF(EF(815819+(-1477160-(-723927))),9500099120709-396188)])))and g[lF[zF(EF(-13193-(-74675)),7632640088253-(-430985))]]or nil if((not I or#I<(-151033+-150405)+301440))and(m[lF[zF(EF(559286-497687),(-107125+1092725550%10927161)+30039797065411)]]and(not m[lF[zF(EF(2724405983%12850674),(924863+-792958)+2626931867183)]]and not m[lF[zF(EF((42934117353%(306865350-78535))%1297716),21949030785307-962986)]]))then m[lF[zF(EF((-785285-(-872253))-25245),-634200+10104679832023)]],m[lF[zF(EF(-750417-(-37861-138561079%(1328422-(-600851-(-996538-(-410089+144695)))))),-845664+(6446971198249-(186243+352615)))]]=true,false X[lF[zF(EF(-262731-(-325384)),508810+((15077816409737-323227)-(-1042400)))]](lF[zF(EF(2050299939%8542649),792018+31789692238478)],lF[zF(EF(-443548+506191),-876587+((18399671836310-175763)-399310))],V,k)return d(Y)end if not I or#I<(331894860484%(252742+(1854834373-862122)))%15886308 then return L(lF[zF(EF(515020937%4023110),21416138355669-736242)])end local Z=I[#I]local K=type(Z)~=lF[zF(EF(-359245-(-422302)),1829667011943-(-1006267))]or not tonumber(Z[lF[zF(EF(-528629+(557126-(-294787+(7718+2068460300)%10942889))),(-727811+310646)+(80060+23156610941916))]])or not tonumber(Z[lF[zF(EF(722370+-660597),27214143656644-418695)]])or X[lF[zF(EF(17073416%354401),19386983899325-(-240061))]](Z[lF[zF(EF((26816472104%670450018)%9409152+-809615),25790180534988-(((1190543-(-272145))-530197)+-843710))]],Z[lF[zF(EF(-194329-(-258403)),64881039543748%21627018534870)]],V,k)>fV[lF[zF(EF(945282-882533),16794877761104-(-399307-(-295702)))]]if K and(type(Z)==lF[zF(EF(783630+(777136+-1497008)),199128+14521573917818)]and tonumber(Z[lF[zF(EF(378135-314812),893388+15755945767917)]]))then local Y=X[lF[zF(EF(-906550+968514),24778998102844-(-995352))]](f,H,V,k)-X[lF[zF(EF(928528+-866321),6227992925130-(-1209057-(-386074)))]](Z[lF[zF(EF(1031360-967325),34526059760548-(-941165))]],Z[lF[zF(EF(414237-353056),-171439+9988515633147)]],V,k)if Y>=BV[lF[zF(EF(705775-642134),(-96185+-877454)+29254097495795)]]and X[lF[zF(EF(50098+13460),5085357074201-((439793+579676)+-2060499))]](Z[lF[zF(EF((912192+-1174325)+325397),23937942165827-(-300790+-322679))]],Z[lF[zF(EF(-452201+513339),26600979174542-70351)]],V,k)>=BV[lF[zF(EF(-9644+((-207268+-471825)-(-750813))),27186279735470-(-1043312))]]then m[lF[zF(EF((-404801-(-320769))-(-116494-(74031425-(-673054))%1523949)),19728786105538-(-485282))]]=true J[lF[zF(EF(-968395-(-1032094)),(-172966+8676147741567)-890332)]]=((J[lF[zF(EF(3569994243%15866364),-1020738+(4724860261682-(-763276+1322132)))]]or-843708+843708))+(806871-806870)X[lF[zF(EF(2004998312%13732429),3058829581677-(-282999))]](lF[zF(EF(254525739%10602573),((-280517+-454916)+2578493455423)-(-900775))],lF[zF(EF(-130393-(-168835-(-959962+984989))),6026054670046-((1449350533%6112571+-463038)+-270401))],#I,X[lF[zF(EF(766862-2597270126%(1686508679%(-45504+18407706))),-534706+(-852376+((-781819+(734120+598269))+34964403606204)))]](Z[lF[zF(EF(-462861-(-525157)),719555+33196492533146)]],Z[lF[zF(EF(-738886-(-800032)),7814537482777-682778)]],V,k),Y)K=false end end if K then if m[lF[zF(EF(483903468%4031994),736622+(-304709+(762731+20544222581196)))]]and(not m[lF[zF(EF(-978737-(-356878+-685412)),24431455369799-(1021448+2646092526)%11508679)]]and not m[lF[zF(EF(-105285+166706),1322310836%5723692+32110983064484)]])then m[lF[zF(EF(-725460-(-788704)),-291888+7351692477561)]],m[lF[zF(EF((-576151-(-761452))+-122736),29857767527929-258588)]]=true,false X[lF[zF(EF((42330333354%169363968)%6101616),-1046899+12572391451058)]](lF[zF(EF(-947349-(-1009349)),239256+27747809988572)],lF[zF(EF(239155698%6641475),410965+(25474625686860-916741))])return d(Y)end return L(lF[zF(EF(3823393227%16269488),10400324469986%5200164839426)])end if m[lF[zF(EF(624030075%(2704943-(-31755))),1466804285156-(-20277))]]then local Y={}for X,o in ipairs(I)do if type(o)==lF[zF(EF((70168112428%(69115179589%294124667))%4185451),23769768946287-565733)]and(tonumber(o[lF[zF(EF(559090055%13634794),1022304+8724516645267)]])and tonumber(o[lF[zF(EF((197730+211946929)%4152148+-322498),-224644+3444430456375)]]))then Y[#Y+1121647726%11329775]={[lF[zF(EF(-862821-(-926154)),20538564338820-(-609259))]]=o[lF[zF(EF(206173+-144490),94329954927599%23582491679181)]],[lF[zF(EF((26401879773%303519156)%1262325),263899+(-514646+31282648039649))]]=o[lF[zF(EF((86626+2443056974)%9580708),33543668293078-539702)]],[lF[zF(EF(621050343%3449937),-654601+26838648929057)]]=o[lF[zF(EF(779401-716026),12952398808163-(-724321))]]or 213598026%12544739+-337463}end end if#Y>110534-110534 and X[lF[zF(EF((-1877279-(-908982))-(-1029548)),12713803918608-920226)]](Y[267563-267562][lF[zF(EF(((431956+-563927)-853372)+(-787178+1836580)),14069384257985-(-601823))]],Y[(1037812-171309)-866502][lF[zF(EF(2088505509%10934256),-229019+31733906316415)]],m[lF[zF(EF(-829880+891737),((-657574+209853)+-198412)+19470578605090)]][lF[zF(EF(163212581%2118832),25726128030061-335769)]],m[lF[zF(EF(-412122-(-476212)),-438750+32774151781394)]][lF[zF(EF(28441831%4054120),(21422823314092-(-257116))%2142283610187)]])<=506258711%14889962 then table[lF[zF(EF(-1025468+1089154),(993441+-1842158)+(17464091795792-256966))]](Y,1033275-1033274)end if#Y==171364960%5355155 then return L(lF[zF(EF(961036+((-512090-(-300865))-686165)),-168733+14535931590062)])end local c={{[lF[zF(EF(-627619+691654),303168+((914458+-1490473)+27587774877006))]]=m[lF[zF(EF((1456047543-(-555691))%6620644),6199170776141-(-782835))]][lF[zF(EF(-34199-(-97601)),3910237567843-516544)]],[lF[zF(EF(-637654-(-698956)),6071200449127-959439)]]=m[lF[zF(EF(682479-619855),(6434696341654-(-755343))-778373)]][lF[zF(EF(-311436-(143134+-515769)),26671237923818-284524)]],[lF[zF(EF(-87393-(-151171)),21587585925565-(-438778))]]=m[lF[zF(EF((8623983502%67925215)%628307),389005+26117771190662)]][lF[zF(EF(-115828+179161),353663+20135735701462)]]}}for X,Y in ipairs(Y)do c[#c+(-354780-(-354781))]=Y end if N[lF[zF(EF(256446219%1658878+-914868),17711028167570-(-667319))]](c)then X[lF[zF(EF(583127-519394),28327775981073-(-377830))]](lF[zF(EF(-879423+941426),20900637423145-(-190404))],lF[zF(EF(-28533-(-90724)),207616+29829145915332)])m[lF[zF(EF((-303490-530315)+897075),10248054651823-(-16565))]]=true return end local A=vV(o,m[lF[zF(EF(((2736031-882124)-884998)+-906831),24078527559603-(-328487))]])local V={}if A then for X,Y in ipairs(A)do V[#V+(828382+-828381)]=Y end end for X,Y in ipairs(Y)do V[#V+(915730+-915729)]=Y end J[lF[zF(EF(459093-796890208%15317215),27650835822737-594229)]]=((J[lF[zF(EF(-194589-(-256528)),32170195073264-(4096914960%(4455133637%32881512)-(-513186)))]]or 411144-411144))+(677893238-(-900087))%15427121 X[lF[zF(EF(-593679-(-656076)),((510752-752010)-(-135913+-701008))+8961775205379)]](lF[zF(EF(-653263+715300),-165226+16722987081705)],lF[zF(EF(938030+-874047),990839+4339950147906)],A and#A or 853867616%7623818,A and#A or 24152-24152,#Y,m[lF[zF(EF(743555493%(716922+5921400)),(353025-(179989-(-530240)))+16628351459492)]][lF[zF(EF(1969777461%12153278+-884302),26967817319930-532437)]],m[lF[zF(EF(554817+-493145),12360979769080-(-1007583))]][lF[zF(EF(-721999-(-294932+-490125)),3260885271776-496690)]],m[lF[zF(EF(230748-167866),-166739+31847389626761)]]and lF[zF(EF(-207373-(-270965)),-799596+30283977350469)]or lF[zF(EF(-378204+442089),33336847930710-(-193683))])m[lF[zF(EF(421623+-360497),395259+(24892860787967-(737482+-655596)))]]=true return q(V)end local Q=KV(I)if#Q==1055553120%9773640 then return L(lF[zF(EF(-951837-(-1015591)),(34036703195152-134157)-(-642258))])end m[lF[zF(EF(2274873754%10065541),67038054942858%(3943414826378-(-415163))-524093)]]=true local e=false local u={{[lF[zF(EF(893355-831232),23264864695574-(-840438))]]=y,[lF[zF(EF(230675869%2650721),((196940-544200)+(374603+-646315))+24685040250375)]]=i;[lF[zF(EF(1104016584%((-896456+895389824%19302957)-(348950-(660829+466588928)%6221915))),-1005061+((191719+22151960306194)-(-820091)))]]=D}}for X,Y in ipairs(Q)do u[#u+(-681050+(-528567+1209618))]=Y end local t,a=N[lF[zF(EF(930499+-867647),4592715796926-(-866795))]](u)if t and m[lF[zF(EF(-777533+840835),163371+27279979852561)]]<=fV[lF[zF(EF(-210658-(-1240658-(-968748))),((17887069675180-(-452199))-748044)-(631422-822336))]]then e=N[lF[zF(EF(-644563+707613),18640053580067-(-82332))]](u[t],u[a or t+(553035+(206314+-759348))],lF[zF(EF(656996-593999),532468+(25121578881187-672675))])==lF[zF(EF(((-1514909-(-919405))+400007)-(-258948)),-572565+10367137609128)]if e then X[lF[zF(EF(1486052893%6879590),-417230+30771675326511)]](lF[zF(EF(-820471-(-883424)),521138+13688885837610)],lF[zF(EF(2491010330%13915915),-680246+18421187234299)],((u[a or t+(-724474+724475)][lF[zF(EF(122649783%1945821),5304993767589-(-214269))]]or-729596-(-729596)))-((u[t][lF[zF(EF(2248948797%15617271),29018369300913-497987)]]or(-585900-(-822988))-237088)),X[lF[zF(EF((-558981+184352622)%2417495),(-449692+18199147903157)-(-1034024))]](u[t][lF[zF(EF(((870503+-785087)+(-936652+88239411246)%969769126)%4796384),28538483859215-(-581768))]],u[t][lF[zF(EF(785517825%5271505),16804736707377-(-768612))]],u[a or t+1277186556%(3744384063%16012618)][lF[zF(EF(1006368-1656375286%8852569),22707275882662-1013274)]],u[a or t+((-827433-(-111179))+716255)][lF[zF(EF(-740333+803324),-917862+9094673913716)]]))end elseif t then X[lF[zF(EF(179306-117090),-919998+9836542987749)]](lF[zF(EF(328113+-266298),27117695886815-107056)],lF[zF(EF(-236443+((-1170259-(1045385+-1433997))+1081603)),326843+29856558568183)],t,#Q)end m[lF[zF(EF(176474-114116),(19955+25490251432514)-((-762126+636234)+753378))]]=false if e then return d(Y)end if t and(not m[lF[zF(EF(231531773%15431342),((-444544+18927692421838)-(-1010982))-346559)]]and not m[lF[zF(EF(1066062-1002649),16330351458970-231505)]])then m[lF[zF(EF(962653-899210),8499366060889-(-470913))]]=true return C(u,t,a,function(Y)if Y==false then if N[lF[zF(EF(-349243+1232060865%8210998),(747867+-1184369)+26371975453022)]](u)and not m[lF[zF(EF((202162414-383174)%9605512),306606941549-594891)]]then J[lF[zF(EF((-560612-217078)-(-838915)),17246455958055-25924)]]=((J[lF[zF(EF(-382776-(-444165)),-710791+((-174104-831904)+6495278148037))]]or 821400-821400))+(500243+-500242)X[lF[zF(EF(1536587727%8044633),-128037+30381030844435)]](lF[zF(EF((-965545+(1502007-879095))-(-241281+(833341330%12625725-(634117-425812)))),22526235611089-78316)],lF[zF(EF(-630158-(-691917)),-355853+(-1016959+29276330951764))],t,N[lF[zF(EF(647991-584494),((-361837-(-521785))+(71294724299195-107042))%609356689558)]])return q(Q)end m[lF[zF(EF(238870+-174965),556548+4708866768306)]]=fV[lF[zF(EF(1991509515%12931475),9587378922545-(-325439))]]+(-572394+(122634-(-449761)))return U(P,g)end end)end if not t and(not m[lF[zF(EF(-519135+581044),-948044+17349091702405)]]and(not m[lF[zF(EF(1038683-977346),291746+3118303310638)]]and p[lF[zF(EF(1580371406%9577628),-956525+(11343232258302-787433))]]~=lF[zF(EF(200498135%15418258+432),820832+(29757496843797-(-781958)))]))then m[lF[zF(EF(105326131%852712-(126025-(-254030))),((76436-502672)-(-401505))+(22359002021461-169426))]]=true local Y,o,c,A=N[lF[zF(EF(184914544%14219329),(-43212-(-912661-(-287981)))+2729313317911)]](u)if Y then m[lF[zF(EF(-34550+98198),8046606980448-(-609093))]],m[lF[zF(EF((589593+-1282719)-(-755560)),228661+34453228115861)]]=true,c J[lF[zF(EF(315886-251977),793848+14644053988670)]]=((J[lF[zF(EF(540199-478021),23425024297215-913711)]]or-4408-(-4408)))+((-950788-(665194+-955088))-(-660895))X[lF[zF(EF(-930735+993136),(-930723-(-228982))+11045640946911)]](lF[zF(EF(1334900726%5932607),1040436+14904699106790)],lF[zF(EF((1790113781%16565916-941173)-(-9315)),-416533+25418084832155)],tostring(A and(A[lF[zF(EF(-7915+70889),19643879814920-(-715768))]]and select(-809124-(-809126),pcall(function()return A[lF[zF(EF((120897906174%728386644)%((-815682-(-755164))+8561064)),370335+1179843419541)]]:get_name()end)))or(A and(A[lF[zF(EF(63067+37),26262320192704-(-672920))]]and(A[lF[zF(EF(1005669-943726),-129273+3608442954878)]]..((A[lF[zF(EF(214858589%(1263095250%(10944539-(-807262)))),32779095590483-(-353855-(-241386)))]]and lF[zF(EF(-435194-(-498630)),31040534125887-479885)]or lF[zF(EF(725155-(-22854+((-217063-(-634117))+267070))),26909496916579-452666)])))))or lF[zF(EF(-5803-(-68136)),-422990+31221208808970)]),tostring(A and A[lF[zF(EF(1749556704%11143279),-643197+13903665920604)]]),(A and A[lF[zF(EF(267601+(689958170%13526524-310106)),((-180446+-689297)+524176)+(775855+(1031476+14286581292808)))]])or 369538822%6371359,Y,#u)return C(u,Y,o,function(Y)if Y==false then X[lF[zF(EF(158964-97059),-721543+((28847635230418-(-265166))-930077))]](lF[zF(EF(547972029%14808334),3304039042856-((-23826+-1694120)-(-854567)))],lF[zF(EF(-410850+472932),9.8613510705274e+14%22412161718196-53899)])return q(Q)end end)end end if not t and(not m[lF[zF(EF(1996353708%12395254-654147),34438109332945-(34532-695187))]]and(not m[lF[zF(EF(690352+-628769),(-421122+1242110)+20356355911365)]]and(not m[lF[zF(EF(294782-233257),576323+21855896977574)]]and((p[lF[zF(EF(-463539-(-525425)),4941933224711-76970)]]==lF[zF(EF(-415564-(-478888)),16767517032419-(-462091+338636))]or p[lF[zF(EF(-688280-(-751347)),682551923967-462713)]]==lF[zF(EF(72885186%2511170),(-417760-(-539333))+31883346901825)])))))then local Y,o,c=OV(u)if o>=pV[lF[zF(EF(26263203%2381820),14165619935287-(-170012))]]and(o<=pV[lF[zF(EF((221522+365358993)%1491906),39722012%205968+(27995866032469-138792))]]and(Y/o>pV[lF[zF(EF(-489621+553780),-848362+((-1016525+1779473)+((-381326-(-171388))+22318137530655)))]]and u[c+(866058666%5808725+-558640)]))then m[lF[zF(EF(584330+-520230),-656830+19403593121405)]]=true m[lF[zF(EF(((109885979626%((2680076251-(-631001))-460998)-(-249987))%(9729002096%46552109))%9000179),10738486058926-(-114336))]]={[lF[zF(EF(((3494106224-568505)-447957)%15253388),115614+4579161858943)]]=Y}X[lF[zF(EF((((206939641-(-246598+-370244))%1198540-649010)-365857)+867745),328333+33870777662565)]](lF[zF(EF(2663708627%(-543578+11198162)),21698147377975%(904088921620-(-934511)))],lF[zF(EF(1362604045%6137577),(339257+2605549986313)-(-470194))],Y,o,Y/o)q(Q)return C(u,c,c+(-269412-(-269413)),function() end)end end if t then local Y,N,P,D={},744737344%(118107+6907717),y,i for o=3417902846%13893914,t,594534+-594533 do local c=u[o]Y[#Y+(749714-749713)]={[lF[zF(EF((676845-(882810+-91124))+175969),808727+142324621881)]]=c[lF[zF(EF(1164856611%6772057),7626275823670-535902)]],[lF[zF(EF((990855-271534)+-657539),275493+34791049647113)]]=c[lF[zF(EF(512617-(1281388-831733)),87134519254703%7261211305554)]];[lF[zF(EF((-1018771+(621983799%(-885728+5775754)+261089836))%1775227),330980+9154153722014)]]=c[lF[zF(EF(1029129+-965967),-819558+25530012852120)]]}N=N+X[lF[zF(EF(387922-324750),(-667445+479271)+15197760564006)]](P,D,c[lF[zF(EF(150027369%5554298),(489553+11507350020857)-((-691262+(-306593+1411581))+-837561))]],c[lF[zF(EF(-791228+854808),4550190219816-403288)]])P,D=c[lF[zF(EF((-870513+1389781403)%15262061),(-30571+(-199305+88026))+3462264776047)]],c[lF[zF(EF(-914316+977803),313338+7171579416847)]]end if not m[lF[zF(EF(-563511-(-624789)),16609706292247-(-713061))]]and ZV(V,k,F,u[t][lF[zF(EF(-798280+859784),(242609+-311991)+14364414354332)]],u[t][lF[zF(EF((57421251517%(-470014+1276510560))%9517955),17465574423966-(-414667))]])then m[lF[zF(EF((-753088-(-611205))-(-1143381-(-939396))),-391774+(277470+34586327786033))]],p[lF[zF(EF(292003+(-1159877-(-929115))),(27041006281500-949713)-497007)]]=true,true oV(lF[zF(EF(((-2228623-(-829195))-(-817225))+529452537%4196876),(30888599944919-243785)-(-1027933))],V,k,F,false)O[lF[zF(EF(304804-241337),-339786+9567324478414)]],O[lF[zF(EF(-964531-(-1028542)),12814485873202-(-559671))]]=true,X[lF[zF(EF((634777+693909400)%(-189112+14362196)),-173773+8686915354598)]]()return end gV[lF[zF(EF((1827063577%11208425+(-674258+1440494672%7498130))+-208502),(-584915+((-354613+1170037)+-520420))+32836530272987)]]=gV[lF[zF(EF(849915526%6437789-66056),15121409359197-(-81751))]]==XV(V,k)and gV[lF[zF(EF(581358-518856),6936564931764-(-89917))]]or XV(V,k)if gV[lF[zF(EF(749102472%5312349),(25665731599484-1027410)-201468)]]~=gV[lF[zF(EF(422702550%(4139444794%((986253+4809843297)%25629338))),-395481+23558586003238)]]then gV[lF[zF(EF(353347669%6665759),23301466577897-772066)]],gV[lF[zF(EF(661205222%5125135),93315+(22255949167740-(621160+-158488)))]]=gV[lF[zF(EF(687173697%7468597),(279173+30355808361911)-864274)]],59972-59972 end if#Y>=2407964160%15631782+-669731 and(N>=fV[lF[zF(EF(1132179230%5717766),809218+(843939+(((237238+8932483717991)-859587)-(-232812))))]]and(gV[lF[zF(EF(22927899%(1397142717%9906761)),16127458750209-271966)]]<fV[lF[zF(EF((17278398-1029087)%2312239),516653+10979326453400)]]and not m[lF[zF(EF(-431020+493688),31088529863703-103919)]]))then gV[lF[zF(EF(2910769335%14775156),(811687+-1092783)+8648477348600)]]=gV[lF[zF(EF(955724+-892345),-45370+32990407210851)]]+((684936-339022)+-345913)local y=u[a or t+(473504-473503)]or u[t]X[lF[zF(EF((842518-125630)-655078),20817387574989-(-901334))]](lF[zF(EF(-188572-(-250053)),-469413+10694244350646)],lF[zF(EF(882207-(16042-(-803995))),(170415-(-310457))+869429240510)],t,#Q,((y[lF[zF(EF(135617+-71641),334236+(565100+22045381700676))]]or(66130384708%((731771+2644993899)-360604))%13477669))-((u[t][lF[zF(EF(-472503-(-534530)),20504659661631-(-748735))]]or-91876+91876)),X[lF[zF(EF((-1970+355119801)%(-441243+11200457)),897457+24065450371679)]](u[t][lF[zF(EF(-9139-(-73283)),589028+2470548545059)]],u[t][lF[zF(EF(3156900493%(13677758-(-551012+-386218))),11666440123208-(-708484))]],y[lF[zF(EF(((37180404417-(-292462))%688748845)%10103671),((-862539+4004863694%16083418)+(-423768+23057959674859))-793274)]],y[lF[zF(EF(-19090+81007),614294745539-756296)]]),((((y[lF[zF(EF(-196900+260729),(14119691650055-(611068+(-860923-29054)))-(-588605+233571))]]or-335675-(-335675)))-((u[t][lF[zF(EF(668892300%2858252),13669483091253-594656)]]or 86439+-86439))))/math[lF[zF(EF(1368820505%6137933),8015681933882-(-112256))]](X[lF[zF(EF(45419811%3023844),27056682204901-((-374807+-204211)+1299987634)%11006111)]](u[t][lF[zF(EF(58564+4235),(-11382+(738763765%(10732944-(-448073))+-1501983))+23790315155505)]],u[t][lF[zF(EF(1238320785%12507644),9989610173037-(-262719))]],y[lF[zF(EF(((1219355-309204)+-1911456)+1064117),602718+((247422-(-362837))+(14953291439669-736708)))]],y[lF[zF(EF(165458534%934443),18877338190299-(-564176))]]),.01),u[t][lF[zF(EF(650653459%((-919168+6535365328)%(-584537+26986030))),28041089410647-(-491367))]],u[t][lF[zF(EF(-615369+1662192516%7911972),29234262368708-575709)]],N,gV[lF[zF(EF((-799221+782155)+79379),32378361859536-806028)]])local function i(X,Y)if p[lF[zF(EF((-316069+81757080)%6259856),(271185+5438559070393)-49580)]]~=c then return end if X then p[lF[zF(EF(288572623%1936305),1045531+26678737863779)]]=true return DV(o,V,k,F,p[lF[zF(EF(209622329%1922572),614692+(11242541522685-(88377-97469)))]]or lF[zF(EF(-634035+695954),-670889+9944706050948)])end return r(X,Y)end if A[lF[zF(EF(234121+-172924),16880237357926-312362033%4731013)]](o,Y,i)then m[lF[zF(EF(681370+(-535048+-84582)),(10448-376034)+1901014178368)]]=true p[lF[zF(EF(354596572%1401323),-452991+15199270542993)]]=c p[lF[zF(EF(2782990961%16274435),-850989+(190875+13474319932539))]]=X[lF[zF(EF((-433292+-283790)+1662641129%((10073996691%775105823)%(19173581-150067))),94503+(27842216509799-(1321982-(677721-196427))))]]()J[lF[zF(EF(-928640+991957),372897+(14426805947545-502333))]]=((J[lF[zF(EF((391251-(-1210906-(-870017)))+-669583),(23627098390309-1328287892%11351561)-352228)]]or 608979496%(3755829-(-532759))))+721825452%(2565743720%21520701)return end end if not m[lF[zF(EF(1604489122%10214505-748477),608988+34242749742209)]]then if ZV(V,k,F,y,i,true)then m[lF[zF(EF(434171830%5426361),-912499+33976798157332)]],p[lF[zF(EF(-287504-(-349392)),20852169707270-774604)]]=true,true oV(lF[zF(EF(-316416-(-378171)),25982+2750234831299)],V,k,F,false)O[lF[zF(EF(1044767+((709968+-1746757)-(-55433))),(38594497382329-(-837998))%(-559118+12864834659520))]],O[lF[zF(EF(154012186%1477388-(437775-135415)),12343500157284-57507)]]=true,X[lF[zF(EF(3903195%3518380+-321903),1037434+(26987234152354-(-569914)))]]()return end X[lF[zF(EF(-663079+725245),645173+(1526618219446-(-8305)))]](lF[zF(EF(38411-(-23420)),579556+23012085087864)],lF[zF(EF(548150343%9787272),13040567573989-373259)],N)return S(lF[zF(EF(407955+-344073),-179628+17233168764594)])end X[lF[zF(EF(-761310+824403),27177596300264-(-603512))]](lF[zF(EF(((848585540%8004364-906281)+856535)-11480),((-17183-(-113004+(63395+5011)))+32869623249500)-(-469470))],lF[zF(EF(-41930+1576077703%8954399),(4524+-227432)+21651551242562)],N)return end q(Q)end local function I(Y)return function(o,A)if m[lF[zF(EF(-176353+238990),(144356-(-423297))+10974936888167)]]or p[lF[zF(EF(-337149+398907),-632087+34379064889885)]]~=c or p[lF[zF(EF(-786888-(-850718)),31137475851892-652617)]]then return end if m[lF[zF(EF(752528+-690960),-920792+10166357014084)]]and m[lF[zF(EF(((((675400+-2568188)-(-896586))+439204)+1580171)+-961452),(1667354-727459)+25903589424296)]]~=Y then return end m[lF[zF(EF(-8867+70332),728041+((-388535+10843481443123)-259219))]]=math[lF[zF(EF(-497188+558587),33065666474280-(1075765-(959001-(-813703+1455890))))]](((-698997+545993)+4198597699)%16464489,((m[lF[zF(EF(748691+-686375),19413932528442-(594443+-1224366))]]or-825572-(-825573)))-1650235665%(((-85404+-388934)+-62881)+15271466))local F=o==true and(type(A)==lF[zF(EF(1886992235%10907107),20643908386475%362173877241)]and(type(A[lF[zF(EF(397810-334945),10271235859206-(567580844-843869)%2470303)]])==lF[zF(EF(983261985%5174741),(25576924055179-953589)-(-201266-(-448379)))]and#A[lF[zF(EF(612605935%14940089),101323+26573636934968)]]>=908177+-908175))if not F and m[lF[zF(EF(804600-742548),660619275581-922451)]]>-783766-(-783766)then return end if not F and(m[lF[zF(EF(1289258918%12764314),20044542433895-80352)]]and(((m[lF[zF(EF(932847+-870869),428751+16199240252576)]]or-718113+(496421+221692)))<#hV[lF[zF(EF(-214537+275812),(-464618+13509024814606)-(231738-415277))]]and(not m[lF[zF(EF(495566+-434151),23228945664861-(-494314))]]and m[lF[zF(EF(-512365-(-576363)),-767809+23878086396456)]])))then m[lF[zF(EF(85556-22904),5175685616176-(419033+-1276224))]]=((m[lF[zF(EF(1030800368%(-675788+(202541+5955888))),((-1131900-(-527796))+29057433236657)-700230)]]or 1117839360%4366560))+(973632-973631)X[lF[zF(EF(1877201865%(8309746-(-70334))),849228+21655424849565)]](lF[zF(EF(362026800%2827839),(8018582269974-(-568575))-(-1938803-(-923840)))],lF[zF(EF((138336703-(-266777+((826354+-596257)-(-869882))))%2147900-(-26280)),13586471363901-116)],hV[lF[zF(EF(-977263-(-1041383)),31250359835746-(765589+(-2079635-(-671536))))]][m[lF[zF(EF(1039331+-977694),11861139236921-(-751145))]]])pcall(m[lF[zF(EF(670310-((1074285-(827249+(-908691-(872530+-1429037))))+8626)),(-358273+-343747)+26272621765848)]],m[lF[zF(EF(-690564+754175),21557805936690-(-481706+1290365))]])return end local r=X[lF[zF(EF(271314+-208182),-193981+(18492224714743-2816940937%11542277))]]()-((m[lF[zF(EF(-251138-(-315124)),34017170029588-(-593874))]][Y]or m[lF[zF(EF(786211-723458),(115458+(14753389417284-241358))-290660)]]or X[lF[zF(EF(-210587+(-735953+1010641)),12337087984736-416355)]]()))if F then QV[lF[zF(EF(528266+-464651),3765297348017-(-636931))]][#QV[lF[zF(EF(401760+-340146),-347663+11633093186059)]]+2758879878%16324733]=r QV[lF[zF(EF(290214+-228106),-139720+28539427894302)]]=QV[lF[zF(EF(-40434+101658),(-309728+1244164)+(31625540033349-(-152527-(-969852))))]]+(-1018772+1018773)m[lF[zF(EF(725904+-663607),14232371090980-476603)]]=Y if Y>971098-971097 then QV[lF[zF(EF(-166914+(((-718669+-355333)-(-286659))+1015448)),-551645+20767282111676)]]=QV[lF[zF(EF(-515621-(-577179)),-242290+10528826944753)]]+3197774294%13268773 X[lF[zF(EF(949724+-885558),10274956352371-(-973677))]](lF[zF(EF(-727402+790173),13165627491259-209927)],lF[zF(EF(-645850+(535927882%5697983-(-392589))),(-706983+33537870119965)-(-567959))],Y,r)if m[lF[zF(EF(62741897%(813261+1508207)),20787210519296-49900)]]and m[lF[zF(EF(-421734+483890),(-879121+595460491761)-707300)]][Y]then R(z,lF[zF(EF(174612397%2154948),1175031062%15866388+29233107419709)],XV(V,k),m[lF[zF(EF(755207-693828),26865170297478-506845)]][Y])end end end return U(o,A)end end local function Z(Y,V,k)if m[lF[zF(EF(2245754670%(-271067+10249694)-501445),330532+((-620974+441590)+1737257847787))]]or p[lF[zF(EF(234460-170832),(-853429+-69593)+24071456062519)]]~=c or p[lF[zF(EF(1759358482%11807362),720647+20133502309920)]]then return false end m[lF[zF(EF((87424-(-738719))-764072),940239+19535383784011)]]=m[lF[zF(EF(-431001-(-493395)),192568489931-307440)]]+((-256107-(-1451539-(-771636)))+-423795)local F=m[lF[zF(EF((295647331125%4223730553)%16509257),375962+13525321328923)]]m[lF[zF(EF(-38877-(-101503)),943768+(11203863166830-797545))]][F]=X[lF[zF(EF(78516106%2801903),472043+23393481227986)]]()if not V then m[lF[zF(EF((620844+-1255549)+696159),-267720+(359648+14509885025408))]]=X[lF[zF(EF((861933+(1084600300-909950))%8607054),485270276%5575458+24934992681152)]]()end if k then m[lF[zF(EF(-432616+494279),-591305+4768524984970)]]=m[lF[zF(EF(-873639+2204537906%16950776),(5881620460296-(-603168))-568123)]]or{}m[lF[zF(EF((-1094341-(-761002))+395553),33608247828184-546953)]][F]=k end m[lF[zF(EF(-582897-(651274+-1296478)),20139975126460-((-1536348-(-922798+((25135-70181)+19545)))+1614976))]]=((m[lF[zF(EF(1843357553%7712536),-840298+5903412546863)]]or-810269+810269))+964626155%4775377 local r=A[lF[zF(EF(2856204583%11950391),699245+34984313785568)]](o,Y,I(F))if r then m[lF[zF(EF(-857249-(-921410)),(8836371152594-725787)-787174)]]=true end if not r then m[lF[zF(EF(-929123-(-992069)),5480099629573-(-983013))]]=math[lF[zF(EF((48862+((517031+320386)+130901135109%890508789))%(13445517-(969516+(979785+-2373733)))),-330375+23790568388979)]](190675452%5778044,m[lF[zF(EF(558111744%(-728209+10874576)),-1020758+3980341686403)]]-2108388276%8971865)if V then return false end m[lF[zF(EF(915694+-851934),-685021+11737598940704)]]=false if m[lF[zF(EF(127356+-63724),29525143067830-(-467711+12403151)%842514)]]then return false end S(lF[zF(EF(346853-284760),14357689379238-(-81255))])return false end return true end m[lF[zF(EF(1957367909%8978466),-323133+11254520927362)]]=function(Y)if m[lF[zF(EF(827776+(-740183-25601)),27597612318783-596214)]]or p[lF[zF(EF(((735304-(52902-(473269-(-105105))))-586943)-611304),(658706-(-280895))+19157695372322)]]~=c or p[lF[zF(EF((-663754+13751)+713697),10719626006465-(-35911))]]or m[lF[zF(EF((491068+270492)-400656261%4081194),35165133623946-790290)]]or m[lF[zF(EF(207729394%6292937),27655212033981-(-187115))]]then return end local A=X[lF[zF(EF(3134309441%13807254),760550+(9722041523944-149781))]](f,H,V,k)local r={[lF[zF(EF(894916+(137662+(-721185-249151))),-23622+((534022+13531534947571)-935092))]]=f;[lF[zF(EF(-137501-(-200018)),-789557+19181609121751)]]=H;[lF[zF(EF(1020883005%15704905),(-1625966-(-810108))+28388277822921)]]=L}QV[lF[zF(EF(-252178-(-313613)),15395437120466-98196)]]=QV[lF[zF(EF(931541+((90035356%8905855+-639504)+-1206109)),2468990906870-(-1096))]]+(301737+110161680)%13807927 if Y==482599-482598 then QV[lF[zF(EF((239518+-673768)+498078),620957+((14500093103204-(-882590))-745059))]]=QV[lF[zF(EF(6776987%1678517),(11669345894232-(473941+200114))-(57144-431457))]]+485003531%9151010 end if A>hV[lF[zF(EF((178415653594%1043454013)%(56471+(-720210+8388840))-(113425+857570)),-103+7076933073883)]]then local N=hV[lF[zF(EF(-773941-(-838075)),741206+34219935124959)]][Y]or hV[lF[zF(EF(317645-253794),14992178422249-467702)]][#hV[lF[zF(EF(-410272-(-474268)),10675822528210-(-191715))]]]local y=N/A local i,P,D=f+((V-f))*y,H+((k-H))*y,L+((((F or L))-L))*y X[lF[zF(EF(383250164%4508076),10717443019628-(-365826))]](lF[zF(EF(204855+-141597),((208709-282586)+-904811)+2764818539491)],lF[zF(EF(259369+-196823),522075+34874854691176)],eV[Y],N)iV(o,XV(i,P),i,P,D,function(X)if m[lF[zF(EF((15593807386%99339150)%968365),-556361+(-529054+33015418217028))]]or p[lF[zF(EF(815793452%4943817),-90776+30649267582344)]]~=c or p[lF[zF(EF(-103051-(-164700)),-353259+18230301067003)]]or m[lF[zF(EF(-968582-(-1031279)),(92209+21201718993541)-(-175925))]]or m[lF[zF(EF((782405320%6629029+132895)+-249142),((-477152-737089)-(-795280))+14406908205543)]]then return end local o,A=nil,nil for X,Y in ipairs(X or{})do local c=math[lF[zF(EF(-258280-(-320110)),(1073633590-97435825%649569)%4529516+1974664803004)]](Y-D)if c<=BV[lF[zF(EF(418739405%2147056),((-433006-433756)+-41251)+25831037111222)]]and((not A or c<A))then o,A=Y,c end end if o then Z({r;{[lF[zF(EF(75908931%960074),26799059723311-(-955991))]]=i;[lF[zF(EF((-1575309-(-657720))+981009),28656711341053-(-743895))]]=P;[lF[zF(EF(-311974+375307),3.1560251856177e+14%(17533473847926-134173))]]=o}},true)elseif Y>=#hV[lF[zF(EF(1699184736%(337301+7114991)),17846259472701-170939)]]and((m[lF[zF(EF((-1114606-(-187939))-(-988411)),67506+10305582589756)]]or(600993+-458387)-142606))==-872762-(-872762)then S(lF[zF(EF(788747845%6740888),-783952+29086790526277)])end end)else X[lF[zF(EF(435711+-373748),-957694+(21238828143841-(-969432)))]](lF[zF(EF(623972+((-412988-(-215395))+(929381+-1294419))),329528+(-949529+25464880411790))],lF[zF(EF((745728-581656)-100704),3550759933607-(-691971+176982))],eV[Y])iV(o,XV(V,k),V,k,F,function(N)if m[lF[zF(EF((-319607+152080)+231559),((-762783+1335231)+7641174445091)-847333)]]or p[lF[zF(EF((986249-421795)-501696),(16788026361336-(-600550))-(-368521))]]~=c or p[lF[zF(EF(270330323%6005929),28362525937947-(-378990))]]or m[lF[zF(EF(584227-520154),25491554851713-(-709361))]]or m[lF[zF(EF(-380894-(-442737)),(-604866-(-580036))+17302038462025)]]then return end local y={}for X,Y in ipairs(N or{})do if math[lF[zF(EF(-11011-(-72544)),856097+24078076184552)]](Y-F)>g then y[#y+(64004-(130360+-66357))]=Y end end local i=y[Y]or y[(38617+382693)-421309]if i and not((Y>=965607+-965605 and A>=hV[lF[zF(EF(596524+-535388),(14540494641951-(-777574))-989403)]]))then Z({r,{[lF[zF(EF(-341799-(-405416)),1008909314%(308220455%10834683)+26297143051740)]]=V,[lF[zF(EF((678906+1149352767)%(817646+9011140)),345169+(-135595+(20146553183685-((-173829+-695195)+216290))))]]=k,[lF[zF(EF((214912385-(-2929))%11307999),-44839+21648423332387)]]=i}},true,i)elseif Y>=604606-(1091065-2126774261%12656475)and A>=hV[lF[zF(EF(-547348+(-232778-(-842617))),-66725+919428545708)]]then local Y=hV[lF[zF(EF(382216-319126),10970563270061-(-418884))]](f,H,L,V,k,F,hV[lF[zF(EF(-757150-(-818772)),20225927602951-(-568956))]][-349208-(413745+-762954)])if Y then X[lF[zF(EF(-92865-(-155073)),-477152+19146153636175)]](lF[zF(EF(322911+-258927),994929+(-734207+32642976811119))],lF[zF(EF((-1330805-(-479640+-8178))+906388),393865+9020810319187)],hV[lF[zF(EF((-157294-(-117990))+983353259%11047780),23109357729672-(944864+(251579+-1194680)))]][911770201%12156936])iV(o,XV(Y[lF[zF(EF(825044-(465258024%3907204+463093)),34992934531065-141413)]],Y[lF[zF(EF(2760243549%11500748),-387011+29774511132502)]]),Y[lF[zF(EF(417511-354729),(633461+-1063883)+11443171994947)]],Y[lF[zF(EF(572037+-510420),(-478289+(-950272-(-581516)))+20084689068499)]],Y[lF[zF(EF((532345-721907)+252720),(-898617+1484788)+(993651+11601222887860))]],function(X)if m[lF[zF(EF(108468649%((286005+419296967)%9747061)),8925232891617-(-134978))]]or p[lF[zF(EF(-75987+139696),33398910921683-(-136264))]]~=c or p[lF[zF(EF(517550+-454334),22167426240563-(-799438))]]or m[lF[zF(EF(1701169531%((2873478770-(-101904))%29452610)),20152230279824-(-209030))]]or m[lF[zF(EF((2083079246-(-1303152-(-466877)))%8302208),7673572690305-262852)]]then return end local o,A=nil,nil for X,c in ipairs(X or{})do local V=math[lF[zF(EF(930413-869097),22227255761470-(-813823))]](c-Y[lF[zF(EF(371901+(-702330-(-391998))),438103+18751741535335)]])if V<=BV[lF[zF(EF(((97583305339-(99061-(58155192145%(((-601610+1590188)+317560105)-(-991959)))%16726823))%1016525636-(-495767))%4996204),11094987873859-506183)]]and((not A or V<A))then o,A=c,V end end if not o and((not X or#X==235713+-235713))then o=Y[lF[zF(EF(1716509269%13305789),1170234076569-(-611800-59768))]]end if o then Z({r;{[lF[zF(EF(-516952-(-579903)),((-94370-(-263272))-323830)+34244636502739)]]=Y[lF[zF(EF(575410-511382),((-265565+-238527)+107703)+15137430170242)]];[lF[zF(EF(1004559859%(26306+14121561)),-975664+34841362573241)]]=Y[lF[zF(EF((304451-(-643613+1259329))+373998),11164434574461-950422)]];[lF[zF(EF(640829446%3051390+26003),(7979088911869-(-884413))-(-1038303))]]=o}},true)end end)end end end)end end local K={[lF[zF(EF(1447638439%15078906),-365046+25999250440682)]]=f,[lF[zF(EF(1889937853%9355812),-470811+31641023919064)]]=H,[lF[zF(EF((170405-(-637308))+-745576),7297630951827-(1146093-1038635))]]=L}if not m[lF[zF(EF(522336-460663),877548+3151530343924)]]and not m[lF[zF(EF(66813-5101),408827+18970851753020)]]then m[lF[zF(EF(1193774641%7191036),-368102+(-328363+31609386308807))]]=true local Y=uV[lF[zF(EF(381180-317064),-288617+(687753+(516890+34483381250959)))]]if Y and(X[lF[zF(EF((175562+36071431)%5169397),2147215244%14311720+19644689068366)]]()-Y[lF[zF(EF((((619397+356147)+(-499536-(-558890)))+-1988577)+1016727),-559762+(223946+22339930075068))]]<uV[lF[zF(EF(562168-500627),34023347794891-(-412443))]]and(X[lF[zF(EF((-1021841+1860594)+-777244),-330464+1370848801982)]](Y[lF[zF(EF(-940817+1002259),22954756242648-262556)]],Y[lF[zF(EF(1517606956%(3366181378%(846887626%37518018))),756031+(24114623716185-524484))]],V,k)<-384321+384324 and X[lF[zF(EF(-431054+492694),889405+(-513689+18469996958284))]](f,H,Y[lF[zF(EF(1317461264%9980295),-659418+(-558406+29772652998003))]],Y[lF[zF(EF(434257017%6578703),11943673052164-471029)]])<-892410-(-892445)))then uV[lF[zF(EF(2999757171%16758073),5875334845640-(-221391))]]=nil QV[lF[zF(EF((-310114+301418412)%(11079260-1044391)),(16415687042916-(-216577))-794118)]]=QV[lF[zF(EF(675848206%3345473),699006+26470710447731)]]+(902291+-902290)X[lF[zF(EF((55076-(766441+166895))+940237),(13056930543903-75730)-(-33386))]](lF[zF(EF(1034155453%4718902-654164),209022+19525951727970)],lF[zF(EF(180113+-116777),20514797960615-(-94326+497506))],#Y[lF[zF(EF(470369273%3919213),-446186+28780260701456)]])m[lF[zF(EF(292236-224753902%1615279),16995+34655668736690)]]=531353+(126165-657517)return U(true,{[lF[zF(EF(-411064+472393),18851136296639-(-396061-(-525312)))]]=Y[lF[zF(EF(-480139-(-543931)),(-683331+16860278324685)-(-935523))]]})end end local Q=X[lF[zF(EF(816172-(987839857-(-511679))%14313000),869254+16032966251318)]](f,H,V,k)if not m[lF[zF(EF(-648851+712870),-413481+(14703213452331-(-698378)))]]and(Q>742583+(294415-1036938)and type(o[lF[zF(EF(350493697%2433541),24938262459978-261313)]])==lF[zF(EF(-123438-(496887+-683931)),37553364125126%((((-1037506+31663359337065)-(-503304))-349784)%(4050273687021%184104017601)))])then local Y=BV[lF[zF(EF(3088117195%(1083053021%17213175)),((742651-(-119851-((-500588+(-362660-(-319003-419377)))+-401307)))-250660)+35118172416949)]](f,H,L,V,k,F)local A=Q>hV[lF[zF(EF((-759653+(34166563-44634354%(4017027660%18148069)))%8209952),20582343024060-1046542)]]local r=A and hV[lF[zF(EF(532747-471463),757914+16837424405366)]](f,H,L,V,k,F,hV[lF[zF(EF(2366734012%11952882),26221369294621-366462)]])or nil if A and not r then A=false end if A or#Y>(115216735244%1578518367)%9196546 then local V={}for X,Y in ipairs(Y)do if not A or((Y[lF[zF(EF(238530164%1242019),(-631899+18312453050750)-(-641127))]]or 169900800%(235102570%12001230)))<hV[lF[zF(EF(1695850873%15557704),-573914+22432498106930)]]-(584844-438421936%3710484)then V[#V+(281241+-281240)]=Y end end if A then r[lF[zF(EF(850806-789202),26468145995135-200494)]]=hV[lF[zF(EF(135344-(-822657-(-895418))),-318467+24537946324877)]]V[#V+550376698%14112223]=r end table[lF[zF(EF(((-2569653-(-321470+-717559))-(-985811))+608683),(1630692393761-(-797931))-749616)]](V,function(X,Y)return((X[lF[zF(EF((3588147077-(-801028))%14298345),7833513000755-330927)]]or((929301+-1525985)+((887068-(-570221))-576487))+-284118))<((Y[lF[zF(EF(936876-874544),((43524+2416793487%13130574)+-1418623)+23526743243956)]]or 2705296698%(6145823369%23961962)))end)m[lF[zF(EF(1549788739%15045870),-188285+(((27936887182114-252303)-291227)-468719))]],m[lF[zF(EF(1452338001%9250156),288918+25578089064702)]],m[lF[zF(EF((707955+2260454418)%13539524),(24404+32976277454548)-(((752957-515012)+((-306736-(-998808))+(((280362+-213995)+(-345000+1177000))+-1444647)))+277154))]]=true,A,hV[lF[zF(EF(-751230-(43465+-856071)),((277931+466375247814)-(-334508+-91376))-81543)]]local k=#Y return BV[lF[zF(EF(-366601+430282),((-1336-(-1032478))+-1678576)+6157699815515)]](o,V,function(o)if m[lF[zF(EF((-879276-(-164592))-(-778238)),-1039714+25465080045477)]]or p[lF[zF(EF(-390895+452456),1270693158069-(-184105))]]~=c or p[lF[zF(EF(1707253135%9380159),(684628+17373946505285)-(-285901+316909))]]then return end if A and((#o==117029-117029 or math[lF[zF(EF((469121215362%3007279002)%11829672),-237056+24859030783203)]](o[#o][lF[zF(EF(83836+-21699),-103044+(16353493279960-(-729801)))]]-r[lF[zF(EF((1976940695-((-523296+-1124947)-(-622621)))%12843536),630275+11627099139553)]])>964988+-964987.5 or math[lF[zF(EF(363116752%12519053),7671049079537-190035)]](o[#o][lF[zF(EF(((167985+504384821005)%2802220711)%12786330),841579+7035349830135)]]-r[lF[zF(EF(-112270+173668),22882956420328-(-566891))]])>(24845882598%200379337.5)%881522.5))then m[lF[zF(EF(((-266447-(-684092))-662458)-(-307282)),32146189589996-(-425011))]]=((m[lF[zF(EF(309400-245478),11712270617668-(729006-478742))]]or(144304105-(-270012))%(887130021%(13132412-(-6065)))+-680815))+(-563401+(2072401479-(-115240-256303)))%15940074 X[lF[zF(EF(4209517914%16572661),3428997804699-769993)]](lF[zF(EF(-978857+1040832),937666+16023297311212)],lF[zF(EF((21048003442%94416984)%14561727),(-132358+4507795603249)-(-722514))],r[lF[zF(EF(-1048456+(-681770+1793605)),-29935+20394676131586)]],r[lF[zF(EF((436995-(-539136))+-914980),(-94488+617807)+23986385163209)]])if m[lF[zF(EF(((930257+-1576787)-(-1017895))+-307667),5171093983935-(-585896))]]<=#hV[lF[zF(EF(502359828%2853965),-577140+((-1291674-(-260197-105279))+22528004291298))]]then return pcall(m[lF[zF(EF(2222539510%14915952),327262+24801205515130)]],m[lF[zF(EF(-329649-(264172+-655056)),960264+18732918191401)]])end return S(lF[zF(EF(102021554%3641442),19781247093580-105864)])end local V={K}for X,Y in ipairs(o)do V[#V+2702940951%14226005]=Y end if not A then V[#V+(208543-208542)]=P end J[lF[zF(EF(883720-819933),32839754846748-950424)]]=((J[lF[zF(EF(-193286+255856),25994379827545-(-923921))]]or((-804704-(-923978))+3506348343)%16696791+-141507))+((A and 3554648776%15798439 or(121291160860%(146694562303%1102968790))%12630119))if A then X[lF[zF(EF(-468943+532814),18809960321377-49750)]](lF[zF(EF(1792940008%15866168),15145150708297-(-1042941+((1020351+(71096+218194918))-(-597487))%5198817))],lF[zF(EF(-300556+363599),(33585433194671-920564)-(-697392))],Q,hV[lF[zF(EF((4488506465%132133755)%540210),(258852-586294)+(24931247444322-454721))]],k>1202258800%(-230260+15258495)and string[lF[zF(EF(((241631211418-(-580230+1265159))%1349922719-(-670801))%6197658),87600930856-(-450992))]](lF[zF(EF(-558676+(-397122+1018058)),-965301+23844194061593)],k)or lF[zF(EF(243206-(-782936+962257)),404712+10837673893882)])else local c={}for X,Y in ipairs(Y)do c[#c+(2622104801%14019357+-485041)]=Y[lF[zF(EF((-1097992-(-51497))+1108316),14556252715427-(-1341788-(-758987)))]]end X[lF[zF(EF(194088373%1328935),17667530808809-784340)]](lF[zF(EF((-30083-162918)-(-256867)),13442240779510-1637)],lF[zF(EF(3469043271%15626044),12204232960009-(1342066-897590))],k,table[lF[zF(EF(292712441%(791423-(-982209))),792147+(10122697546599-(-670163)))]](c,lF[zF(EF(286193820%4402011),(-692192+151508)+28203318327382)]),#o)end Z(V)end)end end Z({K;P})end m[lF[zF(EF(835742-773274),28974064153040-373363)]]=function(Y)if m[lF[zF(EF(397851+-334958),807512+18182222106238)]]or not m[lF[zF(EF((393981-(590604-912609))-654706),264803+31525561290536)]]or m[lF[zF(EF(672092+-608271),(647780+239057)+8224798647257)]]or p[lF[zF(EF(491907-428551),(-314625+3238138637146)-(-392726-((-795140+(788411-254186))+348845)))]]~=c then return false end if m[lF[zF(EF((-131107-(-52051))+141815),29835148568166-(-508407+((1632663-((1833284-286978)-541336))+(87115+-465418))))]]and X[lF[zF(EF(110440688%2983201),4885158447772-(-751384))]]()-((m[lF[zF(EF(815463+-752459),617248+8524702345355)]]or-387285+387285))<fV[lF[zF(EF(717255-654321),221275+(32693+17012105293890))]]then return false end if X[lF[zF(EF((98818294-(-316291))%9006594),93866281253476%18773259129659)]]()-m[lF[zF(EF(233680-171245),2862510080876-(-990081))]]<fV[lF[zF(EF(1069976-1006869),17802471881775-869583)]]then return false end m[lF[zF(EF(1647678766%15115733),420236+26731761603037)]],m[lF[zF(EF(725669842%((504975951809%2589625960)%15113944)),23890453352231-(-822990))]]=X[lF[zF(EF(3221023588%15265214),4904700363362-(-873846))]](),-527564+527564 X[lF[zF(EF(320566462%4162399),231151+30681237195782)]](lF[zF(EF(-848578-(-912791)),17528228394303-83673)],lF[zF(EF(144389+-80512),95569+(-703983+(12783375182847-982510)))],tostring(Y))d(false)return true end p[lF[zF(EF((697002538-(-310556))%12912049),-447166+9986834200295)]]=m do local Y,o,c=wV[lF[zF(EF(991113+(-1067928-(-140046))),658879+9003826743647)]](V,k)if Y then m[lF[zF(EF(830021-677694509%(2768834-(-831843))),(-986822+5280991368584)-935445)]]=o m[lF[zF(EF(1936818947%15130897),26679115084783-(-792369))]]=false X[lF[zF(EF(-219714+604271434%14731450),(-744502+17321027106817)-(-140085))]](lF[zF(EF(((302625+337688639)-479297)%(-542486+6344737)-917357),-76918+15846642302845)],lF[zF(EF(-751921-(-815646)),(12714224140-592024)-(435935+-1464091))],c)J[lF[zF(EF(455062346%(1002193+251538987%15464302)),18550490990019-1004670)]]=((J[lF[zF(EF(675340-612705),15248594501374-651610)]]or 1334037073%5725481))+(-805269+805270)m[lF[zF(EF((-824856+1126151)+-237083),-435318+3960339051397)]]=X[lF[zF(EF(1175812733%7585492),(-386905-140609)+2838447383132)]]()return m[lF[zF(EF((-1161290-(-165859))+1056859),(1033455+1630821267823)%23297518066)]](Y)end end d(true)return true end local function zV()local Y=p[lF[zF(EF(93898002%8530390),-19359+2336084464554)]]if Y and(Y[lF[zF(EF((2554648396-309694)%14764602),(-45781+-471139)+23339548279759)]]==p[lF[zF(EF(-705988-(-767504)),80032+(201201+14675474697867))]]and(Y[lF[zF(EF(886663456%4953075),11294018151351-755684)]]and(not Y[lF[zF(EF(1787570803%14300053),31112416880066-(135384655%889729+-211692))]]and(not Y[lF[zF(EF(1458720322%16766181),(1525013467706-911313)-(-486221+-324865))]]and(Y[lF[zF(EF((1168392771-(-408630))%6834725),-36823+8118962423982)]]and(not Y[lF[zF(EF(203955459%3236413),3048444461275-675829)]]and((Y[lF[zF(EF((-387773-86129)+537678),399994+31477023511132)]]or(-608247-(-3482))+604765))>455240394%2097882))))))then local o=((Y[lF[zF(EF((755721+(-1155216-460001))+921165),((646667+-269585)-2451)+31189946102829)]]or 106694+-106694))+270061373%7298956 local c=eV[o]if c and(X[lF[zF(EF(242991-181814),-40210+(-230581+25380579851048))]]()-((Y[lF[zF(EF(532433-471249),18559958084837-273640)]]or X[lF[zF(EF(-929413-(-2011478-(-1018559))),-538216+22769038893775)]]())))>c then Y[lF[zF(EF(-431280+495371),33371816808331-(-312800))]]=o pcall(Y[lF[zF(EF(-246958-(-310034)),16293557524724-(-336465))]],o)end end local o=Y and Y[lF[zF(EF(919985-856416),34391586499592-(-203440+304625))]]or fV[lF[zF(EF(1008363067%4481334),10934804046949-(-919026))]]if Y and(Y[lF[zF(EF(455725083%3099738),10676988997398-851817)]]==p[lF[zF(EF(3248818633%16003729),28495161376891-(-518244))]]and(Y[lF[zF(EF(527762077%4028245),25939203911949-(-593853))]]and(not Y[lF[zF(EF(-810775+873734),30482267099775-(-520788))]]and(not Y[lF[zF(EF(19603-(-42162)),886469874418-(-979195))]]and(X[lF[zF(EF(762162-699675),346500+10147361514598)]]()-((Y[lF[zF(EF(57269+5111),-613435+17336069132328)]]or X[lF[zF(EF(896139+-834391),2858951102974-200445)]]())))>o))))then Y[lF[zF(EF(((-350840+616592)+(928190-818626))+-313045),625803+10614881476179)]]=false Y[lF[zF(EF(-924964-(-987415)),5038541807631-78229)]](lF[zF(EF(394632+-331300),(-1046131-(-528764))+24858655334256)]..(tostring(o)..lF[zF(EF(1767688435%7181266-1035562),-448956+15257271040996)]))end end local lV=nil local JV=(1301709-738320)+-563386 function N.hint_next(Y,o)local c,A,V=X[lF[zF(EF(1008321+(-437869-506656)),-773698+18998607620229)]](Y)if not c or not o then return false end if not lV or lV[lF[zF(EF(712556-650100),-566345+(977620+28036050335211))]]~=o then lV={[lF[zF(EF(-262832+325174),1021631+26129359280586)]]=o;[lF[zF(EF(-124439-(-188418)),((-636639-(-290039))+9173119312498)-(-550539))]]=c;[lF[zF(EF(-635979+698151),1522165554%9511799+5654346068788)]]=A,[lF[zF(EF(671157+((-133486-876649)+402548)),17612107981821-(-170593))]]=V;[lF[zF(EF(645459-581572),-157541+5024075205708)]]=false}end lV[lF[zF(EF(1037611462%6175885),3119566248791-(-303445))]]=X[lF[zF(EF(825276-761078),-539658+23361765617257)]]()return true end local function EV(Y,o,c,A)local V=XV(o,c)if z[V]then return end local k=l[V]if k and(k[lF[zF(EF(831823+-769243),31282520245765-(-821460))]]and(X[lF[zF(EF(533446+-471431),19744870481540-(-1014530))]]()-k[lF[zF(EF(-522472-(-583731)),(((-360306+-921675)-(-684734-(-365671)))+1738013)+33710425079236)]])<=L)then return end iV(Y,V,o,c,A,function(X,Y)if#X>=(-1043790-(-727320))-(-417488+(200011-(529210-430215)))then return end Y[lF[zF(EF(-619636+682323),(-860077-(-1006519-(-364049)))+5576310096193)]]=true if#X==1032559221%7375423 then R(z,lF[zF(EF(1783873092%9801158),-221114+24742629122205)],V,X[-3417-(-625442+(1400492-778468))])end end)end local function MV()if not lV or lV[lF[zF(EF(101820-37690),(236315+22334)+20993012313617)]]or X[lF[zF(EF(324702+-260649),((-960776+(-418523+(522966+12905363404407)))-(-629602))-231090)]]()-lV[lF[zF(EF(-170897+233950),270117+27837506314756)]]>JV then return end if(p[lF[zF(EF((-25471+(-658612+904551472))%9718335),((1159103322%15242394-((-1617686-(-836548))+2812860095%17354224))+-86033)+20624177998559)]]~=lF[zF(EF(1824452324%15077610),4664608346314-556360)]and p[lF[zF(EF(612633+-551305),455425+5685484556024)]]~=lF[zF(EF(-84842-(-148431)),12435110525269-(-1046141))])or not p[lF[zF(EF(-216898-(-280609)),34908745834304-(-862357))]]or p[lF[zF(EF(1346066168%(10294727-(-1191030-(-803180)))),4969796928801-58289)]]or yV()then return end local Y=N[lF[zF(EF(-125246-(-188595)),19771357109454-214906)]]()if not Y or not A[lF[zF(EF(19116227%1120758),29058294931115-(-995762))]](Y)then return end local o,c=X[lF[zF(EF(503658-441598),(-704080-(382904923%1667620+-1748482))+14512496893035)]]()if not o or X[lF[zF(EF(-220800+284975),30151872857219-(-202782))]](p[lF[zF(EF((23096+-428987)+469609),19998895058558-(-901526))]],p[lF[zF(EF(838056+-774472),(640681+226160)+8896543011630)]],lV[lF[zF(EF(147772-86644),1002514+(30527486847396-354272))]],lV[lF[zF(EF(2803569042%13413902),33668786601306-(-421873))]])<(2640692483-(-523740))%(15199984-(-336582))then return end if X[lF[zF(EF(132394+-69259),1040060468%15281527+5469570675936)]](o,c,lV[lF[zF(EF((-830989-(-246666))+647467),-15596+((((172586+-1464155)-(-1018232))+18545455864159)-(-544092)))]],lV[lF[zF(EF((845575+931703918)%3934548),-1008717+34037474470996)]])>=S then lV[lF[zF(EF(843903+-780852),973394+5694662914266)]]=true EV(Y,lV[lF[zF(EF(444860+-381290),600333+(33285049235888-182111))]],lV[lF[zF(EF(641337-580134),259750+((10100827219381-((-934468-796826)-(-377832-(-467709+830005870%5279436))))-544119))]],lV[lF[zF(EF(-169619-(305556-537903)),14159570603436-131104)]])end end local function TV(Y)if uV[lF[zF(EF(-548518-(343971+-953728)),19894663340636-(-472171))]]or not lV or X[lF[zF(EF(15173413%2945331-384068),((-606288+8913233976331)-83466)-(-715360))]]()-lV[lF[zF(EF(269792+-208654),-417782+10791936806893)]]>JV then return end if p[lF[zF(EF((-869520+(-795013-(-761193)))-(-967532)),14444600424477-673751)]]~=lF[zF(EF(-41555+103515),(61534709025670-100262)%(460850+6837189588112))]or not p[lF[zF(EF((480497994-(((925585+55480)+(-2763424-(-536925)))-(-771014+182256)))%(14504120-(-529970))),(20148963336393-726031)-168776)]]or p[lF[zF(EF(-714492+(918951+(-229687+89419))),12845699621196-(-579970+687745))]]or T or yV()or not A[lF[zF(EF(179844594%(-1028126+11603556)),-409239+31033958441)]](Y)or A[lF[zF(EF(-529970-(-1157639-(-566458))),18939175963186-(-271924))]](Y)then return end if X[lF[zF(EF(751142-688450),12253093090347-(-191987))]](p[lF[zF(EF(364146+-300984),-211036+21423526789810)]],p[lF[zF(EF(353858-292712),(182119-((-1097164-184540)-(-425356)))+16647512839494)]],lV[lF[zF(EF(-353022-(-416314)),(-296033+341967)+(8364888155448-955724))]],lV[lF[zF(EF(-396656+460315),1936639796177-(-169765))]])<-290147+290167 then return end local o=uV[lF[zF(EF(-699154+763354),-607588+31141075014196)]]if o and(X[lF[zF(EF(-501111-(-563945)),34693936040667-(-690131))]](o[lF[zF(EF(642062664%(-58763+7037016)),(185857+179761)+23261276696151)]],o[lF[zF(EF(-82276+144800),21388354299633-(-947521))]],lV[lF[zF(EF(-730985-(-793281)),646010459693-(-944142))]],lV[lF[zF(EF(2456345314%10633258),1984401327407-(-569660-145185686%6045807))]])<-86818+(-454120+540941)and X[lF[zF(EF(519349+-457655),16834173667984-(-1035033))]](o[lF[zF(EF(-438586-(-502587)),27116534908587-(-408288-(-155395)))]],o[lF[zF(EF((555765034-(916013-((996588-(-837703-(-314286)))-849541)))%3804500),199591+5454885105380)]],p[lF[zF(EF(474065908%((68179965049%631387233)%(596010+16911227))),-788099+11937478336642)]],p[lF[zF(EF(658683368%5933522),3128910961461-(-978597))]])<190428916%4051679)then return end local c=string[lF[zF(EF(1109370461%8403838),(19585310351631-1044850)-581792241%17091306)]](lF[zF(EF(952885-891722),7007823886994-(-214066))],math[lF[zF(EF(490181-427536),-929373+19618095999709)]](p[lF[zF(EF((3179777468%26990201)%437239),19930886063997-811103)]]),math[lF[zF(EF(-918447+979808),55471+(17654984054567-742159))]](p[lF[zF(EF(726196762%5223985),361725125131-(-489925-(-447776)))]]),math[lF[zF(EF(-26647+88652),-162083+2896134188938)]](lV[lF[zF(EF((1354899-(373247+612540433%2428958))-477462),679248+9671591170917)]]),math[lF[zF(EF(1895562148%11921386),14018265605994-537666)]](lV[lF[zF(EF(2480425714%13407360),5679689911082-187517)]]))if uV[lF[zF(EF(-401053+464615),(2020531132255-(-487143))-(308841-(-251974)))]]==c then return end local V=N[lF[zF(EF((434311-(891352-892482))+-372458),406424+9845411957219)]]and(N[lF[zF(EF((404740-(-626350))-969708),-296835+32839911571540)]][lF[zF(EF(181089+-116913),((-552498+16767365360763)-(-86400+28528))-(-64818))]]and N[lF[zF(EF((562659-(-255748))-756584),20674431794751-282080)]][lF[zF(EF(3071900752%14287616),-366265+15002183350574)]]())or nil if not V or V>uV[lF[zF(EF(651315872%12524090),(21518693805368-1047937)-((-758757-(-534592))-(-268062)))]]then return end uV[lF[zF(EF((792427564%10852120+646328)+-806852),30892904618002-(-474158))]],uV[lF[zF(EF(-893749-(-956443)),19161469520583-(-472195))]]=c,true QV[lF[zF(EF(385947+-322064),276545+(-937926+1691756054790))]]=QV[lF[zF(EF((468131+(-2256944-(-904315)))-(-945885)),-666896+23055038687975)]]+(961194+-961193)local k,F,r,y,i,P=p[lF[zF(EF(161250-(774011-674191)),56397+16512870641229)]],p[lF[zF(EF(681005-618763),28185692810535-322284)]],p[lF[zF(EF(860623-797816),73875+17718277671816)]]or 319818+-319818,lV[lF[zF(EF(-470815-(-533887)),-191670+14463556896953)]],lV[lF[zF(EF((269908+406710)+-612769),18781413644474-621859)]],lV[lF[zF(EF((963887492-(-966814))%7094054),34742334995554-151583)]]or z[XV(lV[lF[zF(EF(441432555%12610602),705349+20016448283312)]],lV[lF[zF(EF(219867218%12211443),690772+28435810085502)]])]or p[lF[zF(EF(1288582281%(13749128-733786)),-884459+(-73992+559979626703))]]or 81280-81280 local m=A[lF[zF(EF(661025+-599228),-755397+14192181238671)]](Y,{{[lF[zF(EF(80983+-17935),-459986+7389609969464)]]=k,[lF[zF(EF(867353+-803610),83529025256955%27843011800668)]]=F;[lF[zF(EF((879699139-(-251913))%(6681035317%(615323+8137341719%36360776))),(-175919+(649136+-14807))+23725698250738)]]=r};{[lF[zF(EF(1059917-(-732451+1728519)),1561124200631-(-991356))]]=y;[lF[zF(EF((-76695+-940174)+(-60756+1140710)),91761106739652%2352849106296-305495)]]=i,[lF[zF(EF(747181532%(2079642443%(4114938197%37828343))),568008+2505708880951)]]=P}},function(Y,o)uV[lF[zF(EF((518468485333%2929233930)%(1747481654%16525212)),-191458+(((-213300-(151224-285170))+-818086)+21783443931068))]]=false if Y==true and(type(o)==lF[zF(EF(49821808%3554184),-80796+30201598440926)]and(type(o[lF[zF(EF(-1007152+1069096),854983+(6219019633363-(-1039415)))]])==lF[zF(EF(1512174636%(2925698436%13363620-135682)),-378297+22566819799443)]and#o[lF[zF(EF((-453127+934842404)%9343256),864195+13446711368284)]]>=857902-((-105176-(-31199))+931877)))then local Y={}for X,o in ipairs(o[lF[zF(EF(623221+-561878),6326189249532-(-626381))]])do if type(o)==lF[zF(EF(((-819181+((-805391-(44835442384%(1725164232-500126))%9389489)-(-972877)))-(-179002))+1100059),63405+19576825651355)]and(tonumber(o[lF[zF(EF((-131545+19624282)%185053),-942646+15343691338866)]])and tonumber(o[lF[zF(EF((604170669-35442)%5593252),11529396874334%(6.3796294438066e+14%(3843150953526-608967)))]]))then Y[#Y+120894970%(1520480879%7295101)]={[lF[zF(EF(410033+-346891),-426499+10885032735094)]]=o[lF[zF(EF(-78619+142678),34816546766070-939245)]];[lF[zF(EF(335002+((973761-753936)-493685)),35180223223562-483665)]]=o[lF[zF(EF(-91718-(-155753)),23454153365354-(-370121-((584590+(-1150921-229074676%7625818))-(-497613))))]],[lF[zF(EF(951809+-887960),-1006116+(25172162858021-1025943))]]=o[lF[zF(EF(1574406574%11165557),(-344916-(-327956))+((33861272032532-(-545133))-(-877494)))]]or 1256808150%(16523058-(-234384))}end end local c=Y[#Y]if c and X[lF[zF(EF(1105859026%7180486),-973966+40012429364169%5716063377628)]](c[lF[zF(EF(-249177+311652),544505+22440946078013)]],c[lF[zF(EF((-541336-(-85052))-(-517769)),(-538254+835248)+9870925099252)]],y,i)<=fV[lF[zF(EF(587+60755),((-933825-(-907808))+34667609615615)-(-866299))]]then uV[lF[zF(EF(303937525%(3712478978%17404003)),20265737196102-344330)]]={[lF[zF(EF(73410721%325996),(-605741+7257377676809)-(-434777-18035))]]=k,[lF[zF(EF(54723449%10931995),-480994+7463871976018)]]=F;[lF[zF(EF(726759+(-641552-22000)),34224149663204-426176)]]=y;[lF[zF(EF(678488482%5515668),23895785914533-549683)]]=i,[lF[zF(EF(-992367+1053741),(16802135328386-758996)-836163)]]=Y,[lF[zF(EF(-624936-(-816994+130442)),12886337466316-((-1028057-(-549977))+11934))]]=X[lF[zF(EF(-651457+713895),-451870+35100297882728)]]()}end end end)if not m then uV[lF[zF(EF((826273874-(-112795+-91812))%12521434),(968167+(30255558322063-336271))-705440)]]=false end end local function xV(X)return X==lF[zF(EF(654223164%6413341),244675+27460429575081)]or X==lF[zF(EF(111619+(((((-719175+-1596193)-(-493182))-(-732334-165723))+121889)+752978)),-309262+7037631745285)]end local jV={[lF[zF(EF(3366108447%14571631),13319081516783-6128)]]=nil,[lF[zF(EF(4038380945%15774685),(10755355112806-241330)-(-420985))]]=1043451-1043451;[lF[zF(EF(-88219+150821),-692403+(-344893+(24763590074936-(-144038))))]]=2229498918%(-300993+14063332),[lF[zF(EF(413510-352015),-761346+21439000348507)]]=nil;[lF[zF(EF((625426+-1161521)-(-598962)),(-570517+124259)+26750984548391)]]=nil}local RV,nV,GV=969560-969552,(1038105+73684755586%344362157)%1444868,-925459-(-925463)local function XF(o,c,V,k,F)if F==lF[zF(EF((147646236511%2139925479)%12319320),-875987+17255763199909)]or F==lF[zF(EF(103743414%636084),29955+32786879727715)]or F==lF[zF(EF(2754346601%(571148967%13018941)),(-91669-(-1008439+(-990624+1872768)))+28659341822431)]or F==lF[zF(EF((318597920-(-623129+341851))%(132257+7838150)),497486+13245514672005)]or F==lF[zF(EF(-162106+223760),-1035793+(34923388458353-394165))]or F==lF[zF(EF(535446-472029),-696491+1766909540678)]then return false end local r,y=X[lF[zF(EF(63521183%275906),14365992933905-(-693242))]]()if not r then return false end local i=X[lF[zF(EF(827252199%5866584),4785806727937-(-616145))]]()local P=XV(c,V)if jV[lF[zF(EF(1033115-969172),-133823+(615375+(21563008284367-926644)))]]~=P or not jV[lF[zF(EF(-731671+793276),11724849391382-215353)]]or X[lF[zF(EF(730086+-667125),-223162+19379311866614)]](r,y,jV[lF[zF(EF(1024980569%4857438),-443029+13007480225695)]],jV[lF[zF(EF(2723373972%14037686),9952221840000-(-262721))]])>GV or(i-jV[lF[zF(EF(404777245%3854437),((-33953+-441677)+15380518604854)-(-1007408))]])>-52169-(-52229)then jV[lF[zF(EF(-490982-(-552682)),(1883279935033-25978)-1676256759%(3018828792%25912392))]],jV[lF[zF(EF((1104022769-(-563777))%16007591),11014865364393-290539)]],jV[lF[zF(EF(-666997-(-731112)),29449775551440-179624)]],jV[lF[zF(EF(449952-387567),(89830+9185783780669)-(-907183))]],jV[lF[zF(EF(((1518839681669%24108668812)%97187049)%16158496),17803055584176-547376)]]=P,-910210+910211,i,r,y return false end jV[lF[zF(EF(88465+-26277),(862395-799169)+16098202130077)]]=jV[lF[zF(EF(1421566189%(7343134-574063)),(((-1087711-(-229557))+142071642433)%1014814184)%6784014+26842286476070)]]+1141175109%13269478 if jV[lF[zF(EF(123073467%11182788),27187999492115-505994)]]<RV or(i-jV[lF[zF(EF(-731125+793544),334262+5328599565375)]])<nV then return false end local m=o and A[lF[zF(EF(1142182136%12690213),959215+1544239653559)]](o)or nil X[lF[zF(EF(742158-3515962091%16051513),7546705696468-(-851593))]](lF[zF(EF(554504021%12053051),88359+27033590292629)],lF[zF(EF(-922549-(-986521)),31010867496699-(-729656))],jV[lF[zF(EF(751899+-690158),429589591%(4565502-(465297929%7259915-766430))+8129285550883)]],c,V,i-jV[lF[zF(EF(679140-((1720130-1343129687%(-158469+13587139))-841043)),-523329+11830746977691)]],X[lF[zF(EF(-944861-(-1833530-(-824916))),26739379922121-650693)]](r,y,jV[lF[zF(EF((-404018-(-966151))+-498129),3584547898411-((-523564-17885)-(-110596)))]],jV[lF[zF(EF(987666+-924231),(((50730513241442-(-681530))-163079)-(1044371+-1695133))%8455086042432)]]),tostring(m),tostring(F))J[lF[zF(EF(396220196%(14005330-344673)),29302154882736%1627897869182)]]=((J[lF[zF(EF(-144110+801442412%(11314542-((-969917+(2707976665-(-271032)))-(-493857))%(1153516634%12822756-(-345355+1358666)))),-156396+22487356552305)]]or(1003733+-1818061)-(-1450268-(-635940))))+(179090695%6861233+-698636)jV[lF[zF(EF((-598991+1377966)+-715459),2003+17159091826400)]],jV[lF[zF(EF(-953729+1017662),23293151822950-(-423674))]]=nil,866808-866808 if N[lF[zF(EF(-121950+184207),(-702941+-5792)+7928691599689)]]and N[lF[zF(EF(1579869419%8228164),-1000094+15831235516104)]][lF[zF(EF(957487+-895196),22977053978826-(-506626))]](c,V,r,y)then X[lF[zF(EF((310267-(-128248-551092))-927680),(-877106-(-29907))+31625159157964)]](lF[zF(EF(2983894619%(-761011+16548482)),-458722+9663244808484)],lF[zF(EF(458010-396318),711870+28703451656861)],c,V,X[lF[zF(EF(-594885+658086),(((961347+241127)-620239)+22241406009061)-760540)]](r,y,c,V))return lF[zF(EF(-1008156+((773759+(151287-183537))-(-330006))),-610958+19792954743335)]end Y[lF[zF(EF(89826+-26227),(816984+9604637675086)-(-1213183-(-792830)))]]({[lF[zF(EF((((-2362367-(-1036691))-(-441743))+3723422794)%(14198785-(-572944))),322504+(340701+23327079385213))]]=c,[lF[zF(EF(((1136433-341520)+-1508806)-(-776106)),-707829+8068588556744)]]=V,[lF[zF(EF(583568070%3473243),(((-1850941-(-370842-378210))-(-355761+634117))-(-981278))+25888807536433)]]=k},31177848%779446,lF[zF(EF(1192914357%4949588),97032741418830%2940386573714)]..(RV..lF[zF(EF(605070+-542469),20339627253506-(-985879))]))oV(lF[zF(EF(-211229-(-273405)),26252472210452-113737)],c,V,k,false)return true end N[lF[zF(EF((456925+286243644)%2654050),908280+(25232+14151586225687))]]=XF DV=function(Y,o,V,k,F,r)if F==lF[zF(EF(-70897-(-132998)),(654159+12883893800849)-25584)]and(p[lF[zF(EF(1991034820%(2757908919%24316836)),783921+23277648566719)]]~=lF[zF(EF(-339779+401374),-92748+18128197180661)]and(p[lF[zF(EF(877322647%6356958),29629425611852-(-62887))]]and not p[lF[zF(EF(-506522-(-570242)),21189414460106-(-146963))]]))then pcall(wV[lF[zF(EF(1844709733%7438097),-993515+16171531575485)]],Y,lF[zF(EF((1065818-662718)+(-233408+-107966)),-737462+31042069597410)])end if N[lF[zF(EF((165068163-503638)%(-963345+2105718)),((-1343404-110557)-(-511061))+7532978682997)]]and N[lF[zF(EF((383476-341730)-(-19536)),13792911249253-243456)]][lF[zF(EF(-427149-(-606076-(-115988))),(-906700+17863701993483)-(-259708+((795649+916239)-561901)))]](Y,o,V,F)then return false end local y=XF(Y,o,V,k,F)if y==lF[zF(EF(-732012-(-795853)),7.6051777549356e+14%6183071372169-(-519251))]then if N[lF[zF(EF(-828395+891151),23194633633718-(-910511))]][lF[zF(EF((11666+-576481)-(-629023)),4992661381392-(-630047+-310549))]](Y,o,V,F)then return false end y=true end if y then p[lF[zF(EF(-1037548+1099364),33831196598186-(-802827))]]=true return false end local i=z[XV(o,V)]if i and math[lF[zF(EF(-833109-(-897091)),8213914285338-(-595717-271980))]](i-k)<=g then r=true end if F~=lF[zF(EF(780812+-718846),(2709310871-(589571+248118))%14327925+23983755133297)]and(not xV(F)and not r)then local Y,c,A=X[lF[zF(EF(-529512+592455),6786375914613-(-159805))]]()if A and(k-A)>q then X[lF[zF(EF(-524707-(-586772)),(28097102533374-682351)-(-656106+1103383))]](lF[zF(EF(-456106-(-517275)),25684320477984-816649)],lF[zF(EF((3204450695%14240307+-288556)-29583),(-1177142-(-618802))+21346155504468)],o,V,k,k-A,A)k=A end end p[lF[zF(EF(921002-859422),(16105531263891-(-104933))-619982)]]=p[lF[zF(EF(1001808+-940233),33921851967912-98122)]]+(-164702-(-164703))local P=p[lF[zF(EF(1589147654%(9768689-(-617491))),-416107+24358333891443)]]p[lF[zF(EF(816198421%14573857),28520334747105-(502517-542184))]],p[lF[zF(EF((-1025246+488025)-(-599826)),632410+(11668414475114-187457))]],p[lF[zF(EF(-581588-(-645805)),34336062198568-(-284573))]],p[lF[zF(EF(757443+((457517-938551)+-213382)),-96051+16270636115093)]],p[lF[zF(EF(3033664076%15966323),211922+33046544265052)]],p[lF[zF(EF(-146469+(-798987+(1642319-633329))),(884783+-6877)+(-231152+(677115+3129618127681)))]],p[lF[zF(EF(975183-(1461222-((171614+1112767)-(794331+-57727)))),-614972+13187173453475)]]=o,V,k,X[lF[zF(EF(-518465-(870476+-1450080)),-230030+34188996824161)]](),F or lF[zF(EF(13852395%530331),1.1655450293957e+15%30672237675938)],nil,false p[lF[zF(EF(417633-354209),61247245769793%(-381822+1493835939748))]]=X[lF[zF(EF(2717018569%(1831445460%(21852758-683740))-387779),(1112370-392525)+8325568618375)]]()E=nil p[lF[zF(EF(2292979281%10145648),(1033397-772203)+(-596100+29091064632295))]]=nil p[lF[zF(EF(-420967-(1013159+-1496975)),(-502330-(-195606))+6835638828651)]]=nil J[lF[zF(EF(-711258-(-772462)),12485+13376596596195)]]=J[lF[zF(EF((4984298577%51026116)%4337735),35020448469895-(141486+-121703))]]+(-986957-(-986958))pcall(function()(require(lF[zF(EF(2989344224%12201154),(-447228+1075911)+(-920714+23262070457569))]))[lF[zF(EF(790716-727270),9611724722103-694823)]](lF[zF(EF(-190361+252263),4950003706695-404054)],lF[zF(EF(-82372-(-1141890-(-998371))),314431+23924492755820)],nil,{[lF[zF(EF(-853544+915383),29179121946361-(-151461))]]=P;[lF[zF(EF(729822-666742),19314704003676-(-166977))]]=F or lF[zF(EF(-614435+677690),13886354152094-(-916355+471280))],[lF[zF(EF(-413989+475468),19246403691453-(-769918))]]=o,[lF[zF(EF(-408915+472698),-571061+4809914397142)]]=V,[lF[zF(EF(-282142-(-345093)),-1007213+1775503616442)]]=k})end)local m=XV(o,V)if m~=p[lF[zF(EF((35736557880%176093978)%6130037),(636384+(-791420+8692129853868))-(-254352))]]then p[lF[zF(EF((929854-59099)+-808797),13338755980926-(-381629))]]=m local Y,c,A=X[lF[zF(EF((-264402+644784)-2946493004%15506192),8294529598432-(-848710))]]()X[lF[zF(EF(-41237-(-103278)),-535156+25385325815475)]](lF[zF(EF(-604742+667720),-977718+21409132159007)],lF[zF(EF(-812422-(-875335)),887702+31856335230544)],tostring(F or lF[zF(EF(1017073-955677),11901301038360-(-759334))]),o,V,k,Y and X[lF[zF(EF(-74843-(-138017)),33748299580265-877707)]](Y,c,A,o,V,k)or-1037569-(-1037568))end local D=function(A,r)if p[lF[zF(EF(958255+-895450),29010770887014-(694636+-640640))]]~=P then return end p[lF[zF(EF(((39735099983666%211356990146)%1280886301)%5130164),-382813+18339557408005)]]=true if A and xV(F)then local Y,c,N=X[lF[zF(EF(732314982%3283648),755894+20143277804189)]]()local y=not Y or not N or math[lF[zF(EF(2508816515%11051784),18411491908940-(-878135))]](N-k)>1228732451%8246526.5 if y or(F==lF[zF(EF(-84088+147367),8202570232405-(-942123))]and X[lF[zF(EF((748297+((142672-766240)-431756))+368592),579925+25192037653192)]](Y,c,N,o,V,k)>-869088+869092)then A,r=false,F==lF[zF(EF(1338039349%14866404),-261311+34241851155154)]and lF[zF(EF((294470-(1337586829-(-783826))%5310462)+-96287),19492941956737-508336)]or lF[zF(EF((-863998+774540)-(-153483)),1012743+((-875093+2063186249%16762561)+7962135028784))]pcall(function()(require(lF[zF(EF(1945707285%7877104),-785331+34823421790352)]))[lF[zF(EF(-372744+(579-(-434278))),827598+31017155018947)]](lF[zF(EF(37585+943947713%9254158),61659800323209%(275267245948-230316))],lF[zF(EF((-356551-203461)-(-621255)),(479487+33165374362556)-31210)],r,{[lF[zF(EF(-85952-(-147751)),31645031783472-701999)]]=P,[lF[zF(EF(-1006520+1067866),(252133+-736494)+(177099+3551068678251))]]=k;[lF[zF(EF(300354497%10691521+-930029),-264407+29872082929407)]]=N,[lF[zF(EF(550484236%5396296),((634706+20051079588409)-(666852-(-159456)))-776373)]]=F})end)end end if A then local Y,A=N[lF[zF(EF(2396032071%11519085),24502295275522-665505)]](o,V)if Y then c[lF[zF(EF(-21266+1140497429%8088045),(18210+-527127)+2215535501311)]](false)if A and A<=FV then NV[lF[zF(EF(-924900-(-986576)),(-1778782-(-938606))+(9759361474607-408140))]],NV[lF[zF(EF(-386822-(-448942)),571421+17380790299575)]]=XV(o,V),X[lF[zF(EF(-400716+462606),(638517+-1672577)+19862465256309)]]()return end if not xV(F)and mV(o,V,k,F,lF[zF(EF((736085+((1668030-1008908)+(380277+-2255671)))-(-543606)),152828+30767272333816)])then return end oV(lF[zF(EF(109548788%1710741),24357889260612-(-885654))])O[lF[zF(EF(1528194347%7071464-695555),-293429+18662921741793)]]=true return end O[lF[zF(EF(348232019%1681985),(328779+6993921265679)-(529594+((-607961+421363)+-595340)))]],O[lF[zF(EF((-390622+(706427-(-588533)))+(-817795+(-1019201-(-994259)))),-373916+12256770978127)]]=nil,false c[lF[zF(EF((218970-(-428073))+(-1582144-(-998058))),28365825817277%(-583204+14182914682943))]](true)pcall(function()(require(lF[zF(EF(2756707163%12587424),1027375+13473835570959)]))[lF[zF(EF(227638-164829),3567130621127-(-53527-542881))]](lF[zF(EF(-278839-(-341334)),-996402+19646954317581)],lF[zF(EF(-253317+316416),524156+8368384922218)],nil,{[lF[zF(EF(1788892660%7845746),-930383+22727697094226)]]=math[lF[zF(EF(21766767%301459),522302+10419633376933)]](o);[lF[zF(EF(1014140+-952602),(684360+(31046039325773-(-999266)))-(-304945+-250624))]]=math[lF[zF(EF(-519422-(-581430)),(-770359+29350228554200)-((-18757-243172)+1018645))]](V),[lF[zF(EF(861144+-797951),215347+13585954838195)]]=math[lF[zF(EF((-209454+(1634993177%8982341-(-459284)))-393927),((933948+83373503362853)-131422)%5955250381863)]](k),[lF[zF(EF(-347919+411791),(52538-691992)+11891990187379)]]=P,[lF[zF(EF(772854-710053),67426117748546%6742613038930)]]=F or lF[zF(EF(206303-143743),(13148368490993-843709)-(-629076))];[lF[zF(EF((1721253183-(-671315))%11403057),486495+(966751+24352913658767))]]=tonumber(string[lF[zF(EF(641609+-578694),-154587+10396233713448)]](lF[zF(EF(-862400-(-924208)),14976551865716-(593453-(381779-(-514964))))],X[lF[zF(EF(205410+-143604),(775661+(-1056441-393599))+12067515779232)]]()-((p[lF[zF(EF(842337-778800),10879613555711-755499)]]or X[lF[zF(EF(1103177-1040051),209291+29366543509115)]]()))))})end)return end local y=r or lF[zF(EF(-167330+228696),-353066+10022060201756)]if not xV(F)and(((s[y]or w(y)))and SV(Y,P,o,V,k,y,F))then return end X[lF[zF(EF(-699631-(-762762)),(102212418112%((1648193378-388904)-(-921469)))%13014364+(3124921479284-(-892536)))]](lF[zF(EF(3362841698%(5641535024%29148564)),689926+8153697058881)],lF[zF(EF(552772-488612),816959+22664862406298)],o,V,k,tostring(y))pcall(function()(require(lF[zF(EF(1036340-972300),903179206%(595411147%13527973+4422499)+16121739163256)]))[lF[zF(EF(-754969-(-817168)),2278212469891-383948)]](lF[zF(EF(-811045+875100),197242+5816894346534)],lF[zF(EF(62391057%2149226),27266724058136-194703)],tostring(y),{[lF[zF(EF(175279-112604),165436+(28196463971928-976455))]]=math[lF[zF(EF(-80435+(525995-518564738%4145459)),-872940+1613575485033)]](o),[lF[zF(EF(926763+-862855),14298584282158-(-979129+53072))]]=math[lF[zF(EF(823197394%12471735),86987069063011%2999554116951)]](V);[lF[zF(EF(86298781%2694870),(-193100-(-323228))+(-468614+8252979080841))]]=math[lF[zF(EF(789410-(1279947-552595)),260741+11367232351379)]](k);[lF[zF(EF(1168426255%15373210),373006+28488427581931)]]=P,[lF[zF(EF(-655239+(266449+968148963%4743613)),21611570841155-(-252196+-206175))]]=F or lF[zF(EF(-201639+265273),(-605433+92886)+15508230088934)],[lF[zF(EF(957608+-895951),30048207993577-(447037-432444))]]=tonumber(string[lF[zF(EF(1468360458%13595345),52219126975343%339085285509)]](lF[zF(EF(1433070141%13146867),-800488+(247875+15055784206673))],X[lF[zF(EF(-302629-(-364218)),(906907+-598525)+16728550073764)]]()-((p[lF[zF(EF(-712998-(-776464)),6669309670543-(-832101))]]or X[lF[zF(EF((936732-770716)+-103220),(297208444%1459974+7211982489856)-(-504171))]]()))))})end)if not xV(F)and(((b[y]or w(y)))and mV(o,V,k,F,y))then c[lF[zF(EF(2502649336%14465827),343124+15817558296926)]](false)return end oV(y,o,V,k,F~=lF[zF(EF(932106554%13706508),(473534+501673)+13554535863140)])c[lF[zF(EF(2442968752%10221359),674603+6902271636613)]](false)end if not xV(F)and WV(Y,P,o,V,k,D)then return true end local d=A[lF[zF(EF(-317518+378871),(114390+-158606)+21840984547264)]](Y,{[lF[zF(EF((133665+-148948)-(352186-430299)),(1019214+-1979808)+5108224189992)]]=o;[lF[zF(EF(3882554041%15911846),26274372416304-((641676-422463)+1830546759)%12367247)]]=V,[lF[zF(EF(-648346+710647),(-719657+(-140351+(23461780487572-(-760104))))-828768)]]=k},D)if not d then p[lF[zF(EF(3284671515%(4220510257%(7846764918%36208908))),471862+(923044+1962888210299))]]=true end return d end local function YF(Y,o,c,A,V)local k=XV(o,c)p[lF[zF(EF((79465+(128829+-1204028))+(671725+385981)),726755244379-379000)]]=p[lF[zF(EF(-520817-(-583247)),((2571622347005-1005901)-(-858245-(-621611)))-(-445322))]]+(989142939%12204533+-575765)local F=p[lF[zF(EF(885423-821417),-159874+23131249520727)]]p[lF[zF(EF(-215194+277019),-318329+34635727692405)]],p[lF[zF(EF(2057579906%9525548),2744922791753-810874)]],p[lF[zF(EF(757452567%9016534),5455485487619-725493)]],p[lF[zF(EF(-133362+195499),17045059468185-(-448058))]],p[lF[zF(EF(919910-858577),18306325570421-761269)]],p[lF[zF(EF((-25704-(-323715))-1548848349%(8268667-(-12683))),(24237696890119-(-471779))-(-818264))]],p[lF[zF(EF(((-1928787-(-642970))-(((-216541-721840)+-989360)-(-888056)))+309952),33225441574628-848008)]]=o,c,A,X[lF[zF(EF(-798113-(-862315)),471807+15398936936374)]](),V or lF[zF(EF(-479769-(-541276)),15904810554171-449531)],nil,false p[lF[zF(EF(269074230%13450607),4147669146366-(210030+-223196))]],p[lF[zF(EF(865152+-803721),-504721+27285509469426)]]=F,X[lF[zF(EF(318478-256886),(-555739+17510983470211)-(-967100))]]()E=nil return iV(Y,k,o,c,A,function(r,N)if p[lF[zF(EF(568858+-505092),777018+34032151163585)]]==F then p[lF[zF(EF(941106+-877892),-997119+26568843806639)]]=nil end N[lF[zF(EF(2533014979%11461326),(-173819+28973689184196)-(-917377))]]=true if p[lF[zF(EF(-931391-(-993781)),((-140954+306747)+21983113006143)-715017)]]~=F then return end local y=r[-593+594]local i,P,m=X[lF[zF(EF(1245230791%(264278458%12856116)),5979804914679-(1162494-799776))]]()if m and(y and(y-m)>q)then local Y=y for X=1264160965%8902542,#r,20772-20771 do if math[lF[zF(EF(-150001-(-213097)),30100937799355-(-19120))]](r[X]-m)<math[lF[zF(EF((72684928453%(1651368366-(-595060)))%8011835),-189014+16267496036889)]](Y-m)then Y=r[X]end end if Y~=y then X[lF[zF(EF((((-460508+(499922-(-432447+671348)))-465198)+971571579)%4221067),9489551940782-944995)]](lF[zF(EF(579028-517873),8727648945186-336115)],lF[zF(EF(425275963%1764375),14453194965794-(-407618))],o,c,y,Y)end y=Y end if y and math[lF[zF(EF(856003031%10438283),34383415914766-967826)]](y-A)>g then R(z,lF[zF(EF(732003833%8043300),14104984932731-511543)],k,y)X[lF[zF(EF(-912697-(-1716143-(-126177-614719))),25360828139564-(-1024935))]](lF[zF(EF(-91147-(-153084)),29177950895637-(593782+-1351726))],lF[zF(EF(-709661+771964),-172991+28179371665260)],o,c,y,A,#r)DV(Y,o,c,y,V,true)else DV(Y,o,c,A,V)end end)end local function oF()local X=package[lF[zF(EF((225583857326%1064078346)%5778615),2597632487855-197250)]][lF[zF(EF(1522726238%(538818461%25157968)),23901589753997-705354)]]return type(X)==lF[zF(EF(-71147-(-135293)),94620965779262%1351728275919)]and(type(X[lF[zF(EF((440347-840711)-(-464054)),27526229712949-(-814337))]])==lF[zF(EF(1417668588%8591549),3.2434102863987e+14%2438654458666)]and X[lF[zF(EF(-536663-(-599075)),773090+16602869805198)]])or nil end local function cF()local Y=oF()local o=X[lF[zF(EF(2310707075%10599284),34046610202056-(-118002))]]()local c,A=pcall(function()return o and o:is_in_combat()==true end)return(Y and Y[lF[zF(EF((((480232+-1269439)+916284)-(631000-10988))+554313),(457085+-1311972)+16521378548716)]])or(c and A==true)or false end wV[lF[zF(EF(-78993-(-141788)),264244+17604816841001)]]=cF local AF={[lF[zF(EF(1723-(-60669)),17224083142587-206194)]]=true;[lF[zF(EF(-347909+1585671531%14028853),9032130819285-(-758141))]]=true}function wV.save(Y,o)if not Y or not p[lF[zF(EF(751605944%9513221),(-469255-364948)+18462786501327)]]or p[lF[zF(EF((((48125-(-323989+-654734))+-1499905)+1595059760)%13987057),1547604741413-(-324649))]]or not AF[p[lF[zF(EF(29220+33519),(1812772-782581)+(30173634483701-(-549664)))]]or lF[zF(EF((438690764655%(151787+2049870586))%9048600),5440717447130%418517385190)]]or p[lF[zF(EF(-300250+((-15587+159139653)-196672)%(-54538+1364990)),7235301950861-(-323117))]]then return end if T or A[lF[zF(EF(2244963981%14208242),((-459454+-698624)-(-813059))+17584547472905)]](Y)then return end local c=A[lF[zF(EF(128216-64154),404714+28503075252080)]](Y)local V=tonumber(A[lF[zF(EF(862751-(-593068+1393565)),10161315039685-(-252619))]](Y))or 3704126641%15433861 if type(c)~=lF[zF(EF(828034+-765283),8676570909969-881749)]or#c<3143191106%16370787 then return end V=math[lF[zF(EF(-759918-(-821521)),(1031349+-1829015)+(8681033359823-(-716535)))]](-65497+((-1746757-(-993948))+818307),math[lF[zF(EF(710283853%5037029),-149666+11014791075219)]](#c,math[lF[zF(EF(-171024-(-909641+676073)),(31175026587723-(-334447))-(-353262))]](V)))local k={}for Y=V,#c,(-284253-(-958768))+(-1018497-(-343983))do local o=c[Y]local A,V,F=X[lF[zF(EF(1130833464%7295298),5654948904568-(-1386469-(-549881)))]](o)if A then k[#k+(-738585+738586)]={[lF[zF(EF(1269595858%11039429),30899117213090-(-522252))]]=A;[lF[zF(EF(2155621198%13472246),(568288+-1211582)+19794554330193)]]=V,[lF[zF(EF(227005143%2493874),(-53458+26252236045273)-654796)]]=F or-106858+106858}end end if#k<393041+-393039 then return end local F=-790033-(-790033)for Y=954051+-954049,#k,1675421497%8864664 do F=F+X[lF[zF(EF(2974858364%16167374),33595622676104-(-760609))]](k[Y-962686417%3790104][lF[zF(EF(-819278+882218),-124596+285944583568)]],k[Y-(529495+-529494)][lF[zF(EF((2344829579%(4801574533%34911702))%10707348+-138807),30089789258595-934012)]],k[Y][lF[zF(EF(-412963-(-474548)),893962+14858806578565)]],k[Y][lF[zF(EF(-589169+651131),29443825433428-548819)]])end if F<158499087%1651032 then return end wV[lF[zF(EF(3075852123%13200810),168271+34869449510160)]]={[lF[zF(EF(583856068%4169962),-479531+24294732769145)]]=p[lF[zF(EF((192731-(-184646))-315792),21303512861858-(-683799))]],[lF[zF(EF(-742307-(-805595)),19227939804568-790270)]]=p[lF[zF(EF(209907545%(1048056+1450115)),7665150786506-119361)]],[lF[zF(EF(534314+(714850+-1184984)),5340272632853-(85721967%2177897+-1385775))]]=p[lF[zF(EF(-509209+570688),15561315831853-(-273918))]];[lF[zF(EF(35166-(546797-573868)),1166031156%(1753006416%11723742)+23523432860498)]]=p[lF[zF(EF(1035658+-971840),(120403+14591759195004)-(-1079432-(-195568)))]],[lF[zF(EF(((620982+-530263)+731948)+-758825),((28520-272261)-(-845848))+(21716692528281-(-323818)))]]=k;[lF[zF(EF(-166324-(-228785)),(-539831+(567905+2490562855427))-(-139087))]]=p[lF[zF(EF(2816787652%(13473512-(-3635))),(2817919843000-(-986289))-(-409290))]]==p[lF[zF(EF(233071-170446),20827463847314-(-1205906-(-172382)))]],[lF[zF(EF(1698915903%13811804),4364042924416-(-121428))]]=X[lF[zF(EF(443826+-380051),34791384988758-(-477849))]]()}J[lF[zF(EF(-773214+711109307%5918956),-693385+6603406015147)]]=((J[lF[zF(EF(227128+(((366183-26715)+-1235028)-(-730008))),7781217396415-210652)]]or(-1740194-(-828203))+911991))+2610113601%16313210 X[lF[zF(EF(-181032-(-243628)),10108600111164-(-327299))]](lF[zF(EF(846520+-785209),12748570%6309450+24699864823014)],lF[zF(EF((93863-373842)+342457),-219892+359539466697)],tostring(o),#k,F)end function wV.take(Y,o)local c=wV[lF[zF(EF((77595440048%1293532391)%(10402007-103887)),10683465828855-370593)]]if not c then return nil end if X[lF[zF(EF(750159+-687129),(870591+11156030769433)-(-489039))]]()-c[lF[zF(EF(-787367-(-1206715-(-357237))),8970188305417%(35881383711331%263833734971))]]>wV[lF[zF(EF(-398152-(-460562)),-299772+32074406708674)]]or X[lF[zF(EF(243130-179462),13101172467990-(-601332))]](c[lF[zF(EF((514651+-1537010)+(-845505+1931797)),-628314+24650378256732)]],c[lF[zF(EF(382042776%8883268),539771+22072485145682)]],Y,o)>1857142004%16581625 or cF()then if X[lF[zF(EF(2510521605%12306177),20210658925639-(-218593))]]()-c[lF[zF(EF(122982+-59445),(19183018669360-690469)-942)]]>wV[lF[zF(EF(858605+-796039),-464000+23645455831347)]]then wV[lF[zF(EF(2107517857%10976326),32260163483566-(-681077))]]=nil end return nil end local A,V=X[lF[zF(EF(-780170+396601604%(197330601%30140110)),12240938823766-(-56641))]]()if not A then return nil end local k,F=nil,1000854880-(1031816+((689910-326666)+-540180))for Y=861845-861844,#c[lF[zF(EF(-304376-(-366046)),16171796979599-(-545112+175152))]],1016710-1016709 do local o=X[lF[zF(EF(68058561%7555212),32298833943444-742035)]](A,V,c[lF[zF(EF(1047965461%(720510108%5818550-(-114484))),15660706494580-(-666052))]][Y][lF[zF(EF(-322732+385304),-459369+7456697934242)]],c[lF[zF(EF(3026082536%15678865),-771598+13885636614366)]][Y][lF[zF(EF(735932+-672895),530690+27160759420890)]])if o<F then k,F=Y,o end end if not k or F>wV[lF[zF(EF(-57062+119486),(679043+-70169)+(12636222177162-734808))]]or k>=#c[lF[zF(EF(-55938+120123),(18439345292396-711338)-269467)]]then wV[lF[zF(EF((14520+-593912)-(-641731)),-136262+27938098627963)]]=nil return nil end local r={}for X=k,#c[lF[zF(EF(-285657+(1206805-((223249+-528310)+1165026))),31568221791961-583853)]],3511724042%15071777 do r[#r+404940069%7787309]=c[lF[zF(EF(((-105604+-1350460)-(-797368))+720316),28738747485591-(-815315))]][X]end wV[lF[zF(EF(-257049-(-318786)),(-1268536-(63718-1008843))+31946326020223)]]=nil return r,c[lF[zF(EF(414639+-351433),24381201614742-(((465714-(((283243673%(-588210+6728671)+24594)+-1013090)+491201))+-559939)+479102471%17099226))]],string[lF[zF(EF(2095750759%8659863),(18934645898351-(-713506))-(-924473))]](lF[zF(EF((1229190716-(2469829376%10074245-847645))%11925581),13613373260072-1029746)],#r,F)end function wV.clear()wV[lF[zF(EF((-847068+263458)+(-483194+1129270)),7806590566634-(-865507))]]=nil end N[lF[zF(EF(-933140+996378),63541988955-(-618932))]]=wV local function VF(Y,o)if o~=lF[zF(EF(976577-913811),((1011722+(2840817666%13274097+-820458))+((632906135%(5435031-27072)+8254997393353)-(-906231)))-(1037513+-1330653))]then local Y=oF()local o=X[lF[zF(EF(935993+-873771),6266997355903-564174)]]()local c,A=pcall(function()return o and o:is_in_combat()==true end)if(Y and Y[lF[zF(EF(1289490850%(813343+1524110341%15414252)),((-403463+-265176)-346809)+31689446494054)]])or(c and A==true)then return lF[zF(EF(-745453-(-807352)),795565+29313200445240)]end end if not A[lF[zF(EF(1114040724%14657624),502902+11536156179541)]](Y)then O[lF[zF(EF(324767-261336),-1006774+20141857864051)]]=X[lF[zF(EF(235999020%13107552),6546861313300-992715)]]()+B return lF[zF(EF(405005-342125),13039438620449-947228)]end return nil end local function kF(Y,o)if not T then return false end if Y and X[lF[zF(EF(-94410+158208),((-1941462-(-887250))-(-767029))+((21138447570712-923767)-(-1046314)))]](Y,o,T[lF[zF(EF(((244336+-70164)-(-550328))-662802),7223883915428-863280)]][lF[zF(EF(-496061+559973),24164695976029-(-867414))]],T[lF[zF(EF(15935851%835464),(306451940%7278850+-582520)+21617536299615)]][lF[zF(EF(59943-(437766-441802)),(-977507-(-47798+-85543))+(649219+17805120391836))]])<=116392+-116384 then return true end T=nil return false end local function FF(Y,o,c)if o[lF[zF(EF(91317934%9125464),22934997282979-(-390779))]]and type(o[lF[zF(EF(765993+-703029),320503432%3043594+20070590041807)]])==lF[zF(EF(991052+-927082),(708542+-1598626)+29669244056685)]then N[lF[zF(EF(1475407505%6331947),913956+672302938494)]](o[lF[zF(EF(506686663%3671192),585599+32095791327100)]],true)else DV(Y,o[lF[zF(EF(929942421%(10683874-(-496874-299245))),(-490387+616052)+(8770142492186-(-319771+-49656)))]],o[lF[zF(EF(878730-815307),11934500463291-(-14998))]],o[lF[zF(EF(323447+(894696+(-1459796-(-284676-(579515+(-120566+(-1081280-(-642809)))))))),15357959797953-(-413514))]],o[lF[zF(EF(344536653%2062714),(899927+-234907)+(16657733162643-4100))]]or lF[zF(EF(((677133+95633)-792161)-(-81420)),(-304441+-22204)+16189764352460)])end X[lF[zF(EF(-545242-(-608140)),((1585750984-(-721422))%11747558+-412677)+10680895934753)]](lF[zF(EF(-388283+431704907%13476687),1038934570%5836335+4149056650254)],lF[zF(EF(494715+(-894753+462737)),880020+19925452008190)],o[lF[zF(EF(-957275-(-1019386)),1844078209165%24920106491)]],o[lF[zF(EF(213338191%((42011+6940220)-(-916866))),-462689+7278539356848)]],o[lF[zF(EF(2496182741%(879708275%20648278)),((166744+206115)+533765052897)-(-1039029+742989))]],tostring(c))end dV=function(X)local Y=T if not Y then return end T=nil local o=N[lF[zF(EF(340553458%16213906),-141365+(12854153321913-(-1541868-(-742733))))]]()if o then FF(o,Y[lF[zF(EF(-975508+1039108),22526116258648-643801)]],lF[zF(EF((-588919+1065396783)%7551384),22488624133894-239155)]..(tostring(X)..lF[zF(EF(2263205411%(497829+13218191)),224731+(538494+22938390173714))]))end end function N.holding()return next(M[lF[zF(EF(-915496-(-978656)),9087508018419-(-961876))]])~=nil end function N.nav_to(F,d,g)local U,I,Z=X[lF[zF(EF(763865+-702293),3708065747%16405122+4996388196208)]](F)if not U then return false end if g==nil or g==lF[zF(EF((-488594+-104293)+656385),24657300597052-(-699616+889180))]or g==lF[zF(EF(1787821993%10393958),31598061378398-(-522444))]then local Y=X[lF[zF(EF(-917113+978804),(-530505+-31035)+1574234737410)]]()local o,c=pcall(function()return Y and(Y:is_valid()and Y:is_indoors())end)if o and c==true then g=lF[zF(EF(2374875994%15420861),5.23096700817e+14%7367559227249)]end end if g~=lF[zF(EF(153520955%2102188),17761443546483-(-471156))]then local Y,o=pcall(function()return F[lF[zF(EF(2271057929%10369845),34303078271179-(1639410-679914))]]end)if Y and o==true then local X=V[lF[zF(EF(((-1001519-(-568664))-379511)-(-873943)),12298023191295-(-451967))]](U,I,Z)if X then Z=X end end if V[lF[zF(EF(131835285%(2635675-753217)),(582770+19917998981181)-(-350231))]]()then return true end if k[lF[zF(EF(56962+5687),(32909366254968-(170675+-221599))-859790)]]()and g~=lF[zF(EF(-460357-(-524081)),(408928-805722)+19442532792788)]then return true end if g~=lF[zF(EF(454940-1049247976%15891749),3064705178678-(-798982))]then local Y,o,c=X[lF[zF(EF(30894+32242),466620+28585738900504)]]()local A=V[lF[zF(EF(847491221%((302974+-131815)+3287916)-(-44992)),-337121+23880304879249)]](Y,o,c,U,I,Z)if A then return V[lF[zF(EF((-98701-87784)+(-194161-(-443414))),518952+33179473734423)]](A,{[lF[zF(EF(993768+-930435),7643486104986-(-505280))]]=U;[lF[zF(EF(2694487147%(245534+204858322%27253116)),6110677517493-(-762474))]]=I,[lF[zF(EF(385976+(-795508+473413)),((195440+-634692)-465800)+30055604287278)]]=Z})end end end if xV(g)then local Y,o=X[lF[zF(EF(515933186%9920576),(-359134-(-379701))+15001665188366)]]()local c=XV(U,I)if Y and(X[lF[zF(EF(473201+(-704198+293118)),381258+32825440212200)]](Y,o,U,I)>-521399-(-521439)and(aV[lF[zF(EF(1023989-959821),14845653591470-(-442601))]][c]==nil and not z[c]))then local Y=N[lF[zF(EF((74477+177008)+-188707),-522738+31319424280384)]]()if Y then aV[lF[zF(EF((27274172904%(419243920-(-395475))-18345)%7180655-692677),27248715004711-(-866981))]][c]=true if aV[lF[zF(EF(1619858001%10656546),273017+((-991803+369305)+23683431385595))]]>46943+-46743 then aV[lF[zF(EF(1191956031%8954012-1009119),-625423+12598109328953)]],aV[lF[zF(EF(1665852589%9254393),(20635852893501-903290)-(-249150))]],aV[lF[zF(EF(275358+-211979),21346496858-478714)]]={},{},-712113-(-712113)end aV[lF[zF(EF((1023967+-1730197)-(-767793)),12638495731025-(-568211))]]=aV[lF[zF(EF(2423727843%11378710),852442+(35166062244303-(-715785)))]]+((-632201-(-799720))-167518)iV(Y,c,U,I,Z,function(Y)local o,A=nil,nil for X,Y in ipairs(Y or{})do local c=math[lF[zF(EF(505773+-442232),1048334+801425106653)]](Y-Z)if not A or c<A then o,A=Y,c end end if not o then X[lF[zF(EF(523281+-460932),108654+23525007103471)]](lF[zF(EF(785491+((230923+-418168)+-535595)),12345215613303-(-80519))],lF[zF(EF((261853-622013)-(-423867)),14668831110362-(85794-77532))],U,I,Z)elseif Z<o-(1000692+-1000686)then aV[lF[zF(EF(-1047201+1109396),((748016+-1103650)+15283426848665)-(-379853))]][c]=true X[lF[zF(EF(993390854%10567336),-411175+(977729+9715975835533))]](lF[zF(EF(((-256167+1222360)-972667)-(763657+-833631)),15483349313733-265072)],lF[zF(EF(942085+((188497+(-894910+247235))+-420753)),(9772801721679-635506)-(379352-(-458870)))],U,I,Z,o-Z,o)else X[lF[zF(EF(2257806744%(4264278199%18092785)),-6981+(2502467037292-(-431781)))]](lF[zF(EF(-902303-(-1668484-(-303499+((-178130+(960392+(-430770-814227)))-(-63855))))),33514589314261-(21224+-190750))],lF[zF(EF((847999-501286)-283642),29552218934769-54581)],U,I,Z,o,A)end end)end end end if g~=lF[zF(EF((-141757-255895)+460539),(10801592414434-(-678495))-(-462106))]and not xV(g)then local Y,o,c=X[lF[zF(EF(192174+(-904697-(-775015))),929728+(23253691040618-(-438332)))]]()if c and(Z-c)>q then X[lF[zF(EF(298161386%11040659),515335+26679448139673)]](lF[zF(EF(356802-293294),25692668656418-498805)],lF[zF(EF(2633868823%11863985),716246+28390127271127)],U,I,Z,Z-c,c)Z=c end end if r[lF[zF(EF(185099654%5442270),21005918230477-(-137644))]]()then if not xV(g)and(g~=lF[zF(EF(2215585146%9117373),((((-1362150-((-9549+(-1124474-(-1017296)))-((922218+-1645957)+489655)))-(-945097))+-123039)+(232424-(1288267789%(694151+(913428+5876124))-653204)))+18953667894501)]and r[lF[zF(EF(((457273+(1428894-947045))+1190018600)%((168724591136%3923852907)%27524091)),29080808444949-(-379263))]]({[lF[zF(EF(226450-1143250528%6804091),-537746+20353734735392)]]=U,[lF[zF(EF(-921682+982926),-696158+27496298574721)]]=I}))then return true end r[lF[zF(EF((513686563340%2434551618)%(11172004-(-860969))),(29580290522646-555)-(-171280))]](g==lF[zF(EF(2084415998%11515767),23337104758472-761390)]and lF[zF(EF(-12228-((829173-1038341)+132856)),20511661256353-1025787)]or lF[zF(EF(-907342+970973),32239118022854-(-769420))])end if not xV(g)and kF(U,I)then return true end if X[lF[zF(EF(477833644%3703653),(16778924125583-(-75905))-(-26827))]]and g~=lF[zF(EF(-254474+317026),584062+23959975469445)]then if M[lF[zF(EF(802484-739611),34831398639438-((-1406818-(-1026890))-(-288656)))]]then M[lF[zF(EF(426469+-363858),24872795886037-(-665535))]]={[lF[zF(EF(1003564-942365),-16147+10341165896854)]]=U;[lF[zF(EF(109862+(51356-(450459-351505))),-567760+18723505447976)]]=I,[lF[zF(EF((233510+(1610010-1018115))+-762066),-983487+21360354230135)]]=Z,[lF[zF(EF(-442998-(-505236)),-207574+(1015838+31443174337612))]]=g,[lF[zF(EF(-262226-(-933930+610074)),33050657007085-(-718494))]]=d}end J[lF[zF(EF(-580559-(-643567)),311224+3853265909450)]]=J[lF[zF(EF(1335042779%(1150154200%11069822)),492450+18471931621800)]]+(-235210+235211)return true end local K=N[lF[zF(EF(-337199+401139),17973299051354-(103363+-28579))]]()if K and(g~=lF[zF(EF((23724851%3278118+422262212)%6130096),35779917477748%(45763598378615%188327615488))]and(not((g==lF[zF(EF(((620197-(-918241+496943))-693525)-(((-110530+629022)+709882)-941956)),(-553350-(-694683))+8551284333350)]and K==lF[zF(EF(755028-692371),21075076688788-(-405015))]))and(not((g==lF[zF(EF(1823352266%15194087),4843357203107-(-456863))]and K==lF[zF(EF(2072760536%10908932),939533+3610408913899)]))and not((g==lF[zF(EF(2734461957%12718143),(-586301-(-192590))+27336963999999)]and K==lF[zF(EF(970282+-908505),5418302442714-13880)])))))then J[lF[zF(EF(-320201-(-382116)),-841180+25125385545611)]]=J[lF[zF(EF(-362371+(-580983-(-1004716))),12591978242863-626276)]]+1614732811%8323365 return false end if not xV(g)then local Y=z[XV(U,I)]if Y then local o,c,A=X[lF[zF(EF(2644889437%11066225),82269114295607%10283641254404)]]()Z=Y end end local Q,e,u=X[lF[zF(EF(144696+-82972),3917733859994-(585059-(-170111)))]]()if Q and(X[lF[zF(EF(484249+-422975),-547294+15263558445257)]](Q,e,U,I)<=D and math[lF[zF(EF(-530964+593327),32759940267127-(-36180))]](u-Z)<2817657363%14908240)then return true end if not d and(g~=lF[zF(EF(127345622%(1000141916%4601429)),733690+33335848140444)]and Y[lF[zF(EF(-31916-(-96093)),689066+25282037432483)]](U,I))then oV(lF[zF(EF((284370053404%1304475553)%(148135986%11001740)),32948004458094-1969)])return false end if not d and(g~=lF[zF(EF(-24370-(-87124)),22392564391507-(715426-(-6411)))]and c[lF[zF(EF(558296569%4651951),-723973+25293299258599)]](U,I,Z))then oV(lF[zF(EF((-7936-(509814431%3971978-708852))-(-762556)),(-763937+2833425480641)-(541235-616420))])return false end local t=XV(U,I)local a=W[t]if a and(a[lF[zF(EF(780492220%15927117),-694105+(403435+28556254229476))]]>((-927739-(-650256))-(758115+((591950+-99898)+-1347337)))+180313 and((X[lF[zF(EF(-981083-(-1042332)),(12526218237933-667670)-(-938570))]]()-a[lF[zF(EF(-642318+706430),(1121809-659951)+(-246489+29970494332917))]])<457205565%8626520 and((O[lF[zF(EF(890182869%9469351),19001576791828-(593914+-1148622))]]or O[lF[zF(EF(90046-27027),24906939815873-(-990544))]]))))then return false end local b=N[lF[zF(EF((-835243-(-897189+839143))-(-840473)),14705755698499-858237)]]()if not b then return false end if O[lF[zF(EF(-67516+130470),(4733365750178-(111200241743%(-687776+319186525185%1823923765))%16794257)-(-470109))]]then if X[lF[zF(EF(-949887-(-1011856)),(730427+-1411224)+(26187335072406-(-457562)))]]()<O[lF[zF(EF(1015020566%6077593),17100426189332-633222)]]then J[lF[zF(EF(172791+-110171),430846+16906314839193)]]=J[lF[zF(EF(-836357+897954),28540815567334-331802)]]+524585971%3885822 return false end if not A[lF[zF(EF(578863-517152),27642133938477-(-316439))]](b)then O[lF[zF(EF(428079310%5863238),4519213194391-(134666+(-155155-1005468)))]]=X[lF[zF(EF(1038654-976573),-997508+(13074868552212-149580))]]()+B J[lF[zF(EF((394350105%(203404861-(-131640)))%((-373744+4614)+2013545)),-14850+19984227938641)]]=J[lF[zF(EF(98903891%969029),571132+29784834329869)]]+(-505423-(-505424))return false end O[lF[zF(EF(854073+(-457947-201358514%12564016)),890751+23659920225771)]]=nil end if N[lF[zF(EF(1227420381%4889873),101287+(19182146954378-(55743129203%612736014)%2466188))]]()then M[lF[zF(EF(778085+-715719),15894841359077-879537)]]={[lF[zF(EF(-844308-(-907710)),5576785555479-458583)]]=U;[lF[zF(EF(-589082-(-651324)),(882235+(-788930+26796465331166))-(-160490))]]=I;[lF[zF(EF(503789490%4232999),927721+7626287935389)]]=Z,[lF[zF(EF(961953+-899507),384288+1560135209888)]]=g,[lF[zF(EF((-715689-(-555778))+223815),78696561014996%5246437565823)]]=d}return true end local h=A[lF[zF(EF(-571975-(-634446)),(410659+13884935796593)-109760)]](b)local v=((g==lF[zF(EF(3008834863%12083425),907250+26246067304498)]or g==lF[zF(EF(-946919+1008598),775196+23448772927566)]))and i or y if h and(p[lF[zF(EF(923292+((733855-724589)-869596)),(-258691+23672429168689)-(-334760))]]and(X[lF[zF(EF((393033911106%(1548064712-680038))%9971128),-906514+12560514220621)]](p[lF[zF(EF(489594028%10198572),-389046+2702048758837)]],p[lF[zF(EF(185660290%5016115),34278+26969690450333)]],U,I)<=v and((not xV(g)or(p[lF[zF(EF(-68550+132169),(7216254824174-436727)-752893)]]==g and math[lF[zF(EF(2680594173%13746323),(1689133-743379)+(55692+2489303905864))]](((p[lF[zF(EF(-489258-(-552504)),29737980672511-105815)]]or Z))-Z)<=-946349-(-946350))))))then if p[lF[zF(EF(-77986-(-142008)),(-1532844-(-716594))+24298091484307)]]~=lF[zF(EF(-979328-(-1041374)),13770244802445-(-695844-(-8012)))]then return true end if p[lF[zF(EF(-388867-(-450667)),(11835186706951-(-693435))-396537)]]then return true end end if p[lF[zF(EF(22806663%(((-250382+107019013272)%1092150155)%7043599)),946612+27844353927888)]]and(p[lF[zF(EF(1830248894%9787091),3676063710333-(-828226))]]==p[lF[zF(EF(339009-276093),-987371+3405235208861)]]and((X[lF[zF(EF(-193091+255709),12183626059197-(-948696))]]()-((p[lF[zF(EF(64014-1840),4622923448420-(-392741))]]or 430924670%2534851)))<H and(p[lF[zF(EF(50520448%2102456),(-12823+-943652)+24192334546821)]]and(X[lF[zF(EF(319558+-257522),-547515+6707766082096)]](p[lF[zF(EF((-1418845-(-1013514))-(-466469)),19106552754929-(-250459))]],p[lF[zF(EF(654679762%(667217+2154411)),(-303229-568677)+9499850549309)]],U,I)<=y and((not xV(g)or math[lF[zF(EF(764448513%(-720858+7864660)),844409+6310197918366)]](((p[lF[zF(EF(1485945756%11006531),8.8677950108206e+14%((671884+23336302788436)-((2089447-744198)-657120)))]]or Z))-Z)<=-430252-(-430253)))))))then return true end if h and(X[lF[zF(EF(446604+-384656),90316125186538%((-1011408+(-1006098+87679913438743))%659247496535))]]()-p[lF[zF(EF(170750978%4376635),-372020+1657364551709)]])<((g==lF[zF(EF(441484-380190),23358108756694-(-800873))]and m or P))then return true end local s=(g==lF[zF(EF(203501+-142124),29933351670464-(-302401))]and VV or AV)if g~=lF[zF(EF(-509689+572806),6686488112798-(-83181))]then local Y=X[lF[zF(EF(872770-811220),(75090033475606-930594)%((288815+2422259007373)-161450))]]()if kV[lF[zF(EF(736951805%8097668),25669135641899-852554)]]~=t then kV[lF[zF(EF(47765-((-289722-(-288233-313395))+-325826)),10684689911231-(-719936+553467))]],kV[lF[zF(EF(-50229+111925),32319775757237-218280)]],kV[lF[zF(EF((156959+(-96634+-469520))-(-470600)),(-313475+15416410824600)-924024)]]=t,{},-999296947-703053 end if Y<kV[lF[zF(EF(337534+-273471),30010709570540-(-506323))]]then s=kV[lF[zF(EF(889495657%3615587),2628560871772-581804)]]end end if p[lF[zF(EF(-1015781+1076977),-15239+4419040107225)]]and(X[lF[zF(EF(350834+-287049),25297734805843-(-68460))]]()-p[lF[zF(EF(-209018-(-270517)),24265010082731-678895)]])<s then J[lF[zF(EF(796917-732986),1001365+26646070980281)]]=((J[lF[zF(EF(237849+-173793),12869208824907-(-956345))]]or((-325331+1624455644)-463831)%11434271))+48298679%216586 return true end if g~=lF[zF(EF(-96876+158732),342492+341214739223)]then local Y=X[lF[zF(EF(875792-(918052+-105563)),31883324101677-(-274272))]]()local o=kV[lF[zF(EF(2784801271%13584084),-974768+11155818959167)]]o[#o+2363736097%16414834]=Y while#o>387218926%2027029-56387 and Y-o[625288-625287]>kV[lF[zF(EF((-349820-(-147768+526882))+793005),(34007831203371-926649)-(511892-169298))]]do table[lF[zF(EF(926503+-864793),17260766264258-(239987945%4047973-438716))]](o,120500+-120499)end if#o>=kV[lF[zF(EF(-390599-(74251+-527918)),29280847547811-(-638243))]]and Y>=kV[lF[zF(EF((47986107953%666685219-361707)%(514737+2099854)),1093248184003-(-648591))]]then kV[lF[zF(EF(-532918-(-595659)),44893+10776042658518)]]=Y+kV[lF[zF(EF(1878094427%8201008),4521547046840-(-381925))]]J[lF[zF(EF(((-333621+1131955)+-1610430)-(-873920)),15915442946481-(-574608))]]=((J[lF[zF(EF(965710+(-500670+-402656)),4738936358369-(-984033))]]or 1016613+-1016613))+(322681-1656669944%(1701445616%14438176))X[lF[zF(EF((-902332+-12363)+((752220-(-212003))+14679)),25781544289185-(-76758))]](lF[zF(EF(-720176+782855),-496262+((-1282362-((1566112-(309510-(-647948)))+-1492003))+34590034424946))],lF[zF(EF(491734026%6735245),-153777+22565724918284)],#o,U,I,kV[lF[zF(EF(-751996-(-814808)),26448650470372-(-82882))]],kV[lF[zF(EF(-237516-(-301101)),325437+27563533408398)]],kV[lF[zF(EF(2220320844%10326783),1014292+32338766868151)]])end end if not h then local X=VF(b,g)if X then J[lF[zF(EF(-87318-(46962-197194)),3168357388429-364464)]]=J[lF[zF(EF(550203611%4903717+-925806),10331055198184-698272)]]+(12888+-12887)return false end end if not h and(g~=lF[zF(EF(714082653%14000412),(17101908574050-(-168364))-(-844127+(-20818-(-541384))))]and(g~=lF[zF(EF(-62280+(-286210-(-412647))),22681956221665-(-675614))]and(Q and o[lF[zF(EF(655348842%10921422),-167166+2612137323745)]](X[lF[zF(EF(3321362706%13501219),906348+21801418011773)]](Q,e,U,I)))))then if o[lF[zF(EF(-611597-(-673080)),835437+(747427+4270396838958))]](X[lF[zF(EF(84907679%499080),(882491+-1123153)+((-223543+25613795951360)-(-471148)))]](),U,I)then return true end end if g~=lF[zF(EF(292751262%1556850),-985981+6874664800930)]and(not xV(g)and(Q and not yV()))then local X=c[lF[zF(EF(-163482-(-225363)),(1889484-(297995-(-727557)))+(-329375+11256538158798))]](U,I,Z,Q,e,N[lF[zF(EF(58152205%3057346),14969693628695-(393984-(-874612+1462130)))]])if not X then X=c[lF[zF(EF(602162+-540169),(5521816344255-780184)-946001)]](nil,Q,e,U,I,N[lF[zF(EF(-336678+400074),13075329729831%(((473615+27304449281276)-(-656149))%(22112856401805%192285715233)))]])end if type(X)==lF[zF(EF(1333561962%9196547),919209+5088181336741)]and#X>=194655415%4747693 then return N[lF[zF(EF(-588950+652884),27730155016034-448820)]](X,true)end end if not h and(((g==lF[zF(EF(2630434058%12291461),(276595+(969258326%(-882628+17592642)+-359248))+18172197498688)]or g==lF[zF(EF(87109070%978065),224893+((29246025611168-(-757352))-26040))]))and(Q and X[lF[zF(EF(-587000-(-650936)),-940181+(7779970034302-973326))]](Q,e,U,I)<=(-1177671-(-406464))+(881464-110249)))then local X=A[lF[zF(EF(1037593+-974264),-658090+(3116115866478-2707355566%12248348))]](b)local Y=nil if type(X)==lF[zF(EF(-93080+155758),34461002178885-(-617229))]and#X>1068345612%6594726 then local o=A[lF[zF(EF(283016-219764),27355565689661-904419)]](b)Y=(type(o)==lF[zF(EF(-841299-(-903759)),54987+27142697670359)]and X[o])or X[#X]end if type(Y)==lF[zF(EF(-518154+581551),12026421524741-870783)]and(Y>461601-461601 and Y<117657845%10696167.5)then return N[lF[zF(EF(-204388+268002),(49227+1342662575949)-(-191732))]]({[lF[zF(EF(354881-290737),-1030362+10876835296726)]]=U;[lF[zF(EF(1290828307%6687909),-523010+26664972120579)]]=I;[lF[zF(EF(46434-(-14712)),697296+7.6144929961399e+14%8460547925013)]]=Z})end end local w=Q and(u and((u-Z)>C and(u-Z)<f))local E=not xV(g)and(Q and(not z[t]and(not yV()and((w or(g~=lF[zF(EF(359962+(-885456-(-587076))),(23024-(409989-971443))+23320980292588)]and((g==lF[zF(EF(796783-735426),28896113466682-(-746453))]or g==lF[zF(EF(754761554%12172562),670474302716-792612)]or X[lF[zF(EF(4249458532%16664292),8907555694128-(-513223))]](Q,e,U,I)>=S))))))))if E then local Y=l[t]local o=Y and(Y[lF[zF(EF((948690+-564052)-320663),-437646+18318996716139)]]and(X[lF[zF(EF(1101082429%10101101),28128682761128-(-621272))]]()-Y[lF[zF(EF(2281359607%(14392215-481876)),388554+8102558606202)]])>=H)if not o and not((Y and(Y[lF[zF(EF(1621386518%(10697665-(-1015384-(-1046443)))),97560+15638723060371)]]and(X[lF[zF(EF(1844379987%9706930),19817849650242-29729)]]()-Y[lF[zF(EF((-643399+-94021)-(-801004)),(25060771940772-(-990749))-(166300+-170322))]])<=L)))then return YF(b,U,I,Z,g)end end return DV(b,U,I,Z,g)end function N.waypoint_walk(Y,o)local A,V,k=X[lF[zF(EF((-66311-180123)-(-308318)),(152368+1288371136224)-(-884713))]](Y)if not A then return false end if r[lF[zF(EF((91392-(1288794-(691854-(-51200))))+516769),683449385543-619069)]]()then if r[lF[zF(EF(950472948%(-181064+9872558)+-642543),32656438263212-(-403134))]]({[lF[zF(EF((-828089+1304469)-415078),1029526+23774838474664)]]=A;[lF[zF(EF(424761+-361438),10615473700023-201455)]]=V})then return true end r[lF[zF(EF((-667918+(-118825-104824))-(-954626)),720916+17325282773367)]](lF[zF(EF(2972000260%((1025592+-1577265)+((373860+((450614+-918057)-522548))+16408503))),34983649079850-158310)])end if kF(A,V)then return true end if c[lF[zF(EF(171430-109198),31563072209120-564163)]](A,V,k)then oV(lF[zF(EF((-15670+((((315589449%14340749-(-870647))-696594)-(1146763151%(-958128+11475061)-846069))-937935))-(-321894)),41902+31342189746723)])return false end local F=X[lF[zF(EF(489978532%7537170),28116221398147-(-347851))]]()if(O[lF[zF(EF((715219+-629136)+-24826),29872671311014-(-1041241))]]and(F-((O[lF[zF(EF(-414147-(-167274+-309025)),-60182+16444399477866)]]or 273499-273499)))<524255-524250)or(O[lF[zF(EF(-139923+201796),17237978377463-((283014+-1263110)+741508))]]and F<O[lF[zF(EF((1560496-684423)+-812623),-800056+13464865375967)]])then return false end return N[lF[zF(EF((46676317244%462267833)%11236781),904154+(-632216+17785634667478))]](Y,true,lF[zF(EF(328830-((-1180858-(-498713))-(-947012))),1392136075251-885640)])end function N.waypoint_forget() end function N.path_ahead(Y)Y=tonumber(Y)or((-225198-60164)+-470913)-(-756315)local o={}local c,V,k=X[lF[zF(EF(-884890+946694),-708538+23593837703189)]]()if c then o[369907-369906]={[lF[zF(EF(543790-480800),8682888135898%2894296168175)]]=c;[lF[zF(EF(986242+-924109),-454099+(13819416614243-(-82330)))]]=V;[lF[zF(EF((59415571638%1980989189)%8899645),8874106915998-(-412585))]]=k}end local F=N[lF[zF(EF(1058716005%8896246),10824255125175-489230)]]()if not F or not A[lF[zF(EF(-326665+390468),(-866355+1460071)+12793182253717)]](F)then return o end local r=A[lF[zF(EF(399446+-337321),12730646807838-899996658%7495819)]](F)if type(r)~=lF[zF(EF(31947738%4555000),8120938844873-917482)]then return o end local y=A[lF[zF(EF(-37992-(-100264)),-343409+((530152-(-165648))+4564443879847))]](F)y=((type(y)==lF[zF(EF(-903624+967707),896894+2121725142886)]and y>=273102171%4965494))and math[lF[zF(EF(890316+-828989),23067918663959-419002)]](y)or 1258129636%7912765 local i,P,m,D=1243143696%7144504,c,V,k for c=y,#r,1849923930%8295623 do local A=r[c]local V,k,F,N=pcall(function()return A[lF[zF(EF(1596215693%14510491),12464335062794-(-769334))]],A[lF[zF(EF(969815+((-274642-2246028603%11573514)-(-134924))),-500516+11838421636009)]],A[lF[zF(EF(-620757-(-683366)),(292033-885841020%(1608187904%13521510))+16608442034688)]]end)if V and(type(k)==lF[zF(EF(311726-567656164%(-306203+14145403)),(19951229355413-(-784887))-(1824256143%15071928+-817352))]and type(F)==lF[zF(EF(2788987455%13738540),-10687+31740319018651)])then local c=P and X[lF[zF(EF(2497035496%(-745128+12635472)),2140510489326-(-741888))]](P,m,k,F)or-64173-(-64173)if P and(c>3172583551%15035941 and i+c>Y)then local X=math[lF[zF(EF(3067195064%12621949),18935898780621-(-879960))]](1214688696%8802092,((Y-i))/c)o[#o+(-850338-(-850339))]={[lF[zF(EF(-710369-(-773906)),-713567+(6182512161048-581736))]]=P+((k-P))*X,[lF[zF(EF(754804-691093),848769617345-(-860211))]]=m+((F-m))*X;[lF[zF(EF(648126+(-502132+-82842)),-930949+7.9919057305452e+14%(9402242445456-350869))]]=type(D)==lF[zF(EF((791179+119811561)%2232239),16192072674335-(-363343))]and(type(N)==lF[zF(EF(437901-374217),1940687022481-(-189295))]and D+((N-D))*X)or N}break end i=i+c o[#o+(281516097619%2216775972)%9253467]={[lF[zF(EF(-960208+1023911),-27604+(22787872603781-(-1017252)))]]=k;[lF[zF(EF(208843-(-846828+994186)),8389323025099-(1957368-986223))]]=F,[lF[zF(EF(1332224185%14968118),864087+17568287008694)]]=N}P,m,D=k,F,N if i>=Y then break end end end return o end function N.swim_to(X)return N[lF[zF(EF(880030-816659),30348957704917-(-711975))]](X)end function N.astar_leg(Y,o,c)if V[lF[zF(EF(-172767-(-236987)),6113361964180-(-528230))]]()or X[lF[zF(EF(181306893%2183649),11744243311192-(-950099))]]or X[lF[zF(EF(11571373%225645),4759792395074-412375)]]then return false end local k=N[lF[zF(EF(575015798%10647299),(-194432+-364631)+25307248820250)]]()if not k or N[lF[zF(EF(-907205-(-968839)),-286378+50937947276993%1455370315339)]]()or E then return false end if p[lF[zF(EF((-421926-549126)-(-870038+-165198)),(964190-238038)+6605065548946)]]and(X[lF[zF(EF(532471+-469211),643043+31411709042772)]]()-p[lF[zF(EF(673477+(561832+-1171963)),17398615867114-370419)]])<AV then return false end p[lF[zF(EF((1314625-770943)+-480640),93501811222615%18700362951382)]]=p[lF[zF(EF(-237623+301306),912084311803-341266)]]+(-34108-(-34109))local F=p[lF[zF(EF((83971227220%575185676)%3602788),25083587104124-180229)]]p[lF[zF(EF(739412-675686),(-455458+90510144936971)%357747672704)]],p[lF[zF(EF(2233110804%9502326),(363257+303356)+31316929371878)]],p[lF[zF(EF(482999+-419533),32702135964586-(-631866))]],p[lF[zF(EF(924648793%(1460149840%22983877)),24315828948921-(323298200-18203)%3546851)]],p[lF[zF(EF(-75230-(-136931)),-1017783+15495585745543)]],p[lF[zF(EF(229019-167550),-855541+16591102565599)]],p[lF[zF(EF(2091861665%9866053-195993),-75089+26266021462858)]]=Y,o,c,X[lF[zF(EF((506507+-354101)-(393295-302963)),-910740+(893194+28761498178740))]](),lF[zF(EF(-104555-(-166934)),2.7245007873595e+14%20957698877675)],nil,false p[lF[zF(EF(-269798+331006),23199829197250-(-206632))]]=X[lF[zF(EF(940216+(541817+(-12559+-1408166))),-994924+17528169058028)]]()p[lF[zF(EF(-332042-(537160-931361)),14380481697532-(-598411))]]=nil J[lF[zF(EF((33050600-(-1042477))%8507387),343104+(-24164+6979608360898))]]=J[lF[zF(EF(-159497+221693),-752784+(28271806091675-536588))]]+(879942+880382435)%8313796 X[lF[zF(EF(460184+-396238),14243561889284-(248779889%8868785+-271615))]](lF[zF(EF(1087011-934569572%5157710),-613875+5395332076697)],lF[zF(EF(706916834%9669666-967061),-212751+8385490410808)],Y,o,c)local r=A[lF[zF(EF(-986969+1050004),3844327725385-809596)]](k,{[lF[zF(EF(1097550-(6225767927%138716079)%4848993),18889708785672-579905)]]=Y,[lF[zF(EF(-65146-(-127663)),2853370310766-(-227003))]]=o;[lF[zF(EF((260430+(399710+-623957))+27669),483047+27493128571264)]]=c},function()if p[lF[zF(EF(-916871-(-978602)),6244180731604-(-753572))]]~=F then return end p[lF[zF(EF(-731848+793143),11869002244123-976932)]]=true end)if not r then p[lF[zF(EF(1966477370%8475920),21641545676212-(-662432))]]=true end return r end r[lF[zF(EF(904311-840326),34899093248977-(-534712))]]=N[lF[zF(EF(805733+-741591),758855+1806014061685)]]function N.step_into(Y)local o,c,V=X[lF[zF(EF(21071-(-40730)),7598785123666-669174)]](Y)if not o then return false end local k=N[lF[zF(EF(-40892-(-102671)),(19905654534766-834490)-(745596+-1178116))]]()if not k then return false end if A[lF[zF(EF(-864875-(-927551)),10121860882946-259149)]](k)then return true end if VF(k,lF[zF(EF(16130778%(808750201%4483139)),(-381862+-11765)+34777208053217)])then return false end p[lF[zF(EF(631120-1927063840%(4472644732%24375729-(31603-185872))),(25997589339423-(413061+-340590))-(-914741))]]=p[lF[zF(EF(-267775+(-386376+(448440+267271))),26996589744463-(-832826))]]+(-995597-(-995598))local F=p[lF[zF(EF((((135912-(-440533))-489734)+752789)-(-403123+1180466)),21239552454548-945883180%14324362)]]p[lF[zF(EF(446242979%2336015),-568358+23880504525369)]],p[lF[zF(EF(568693+-504841),6295561615885-130411)]],p[lF[zF(EF(-696344+759764),12659553867328-1001583581%12065051)]],p[lF[zF(EF(((249501-(-625335+323916))+(-930821+((196675-(-845697))-819)))+-598650),28822558564806-(-683533))]],p[lF[zF(EF((440989-18196)+-360253),(-1000320-(-993092))+15306885645510)]],p[lF[zF(EF(210559+-147368),17901987140062-125151)]],p[lF[zF(EF((1296820137-(-344799))%16213787),-778790+((-851790+22076389961705)-(-45414)))]]=o,c,V,X[lF[zF(EF(-121032+182298),19759626679065-(-349113))]](),lF[zF(EF(737010-674287),247718+24355776912063)],nil,false p[lF[zF(EF(-424264-(-486628)),83973+5449005314647)]]=X[lF[zF(EF(655135428%(744036+7244673)),(235829317%921918+(986943+(663146+-2565679)))+12597643144635)]]()E=nil p[lF[zF(EF((19447-733212215%((538859+530539457)%(1031269+9521198)))-(-803116)),-779110+27558002282923)]]=nil J[lF[zF(EF((244868-552822)-(-369847)),-120487+(-519768+14401885463175))]]=J[lF[zF(EF(-741092-(-804059)),(-317196+513916)+((203073-588022)+23914029921931))]]+284274324%2170033 X[lF[zF(EF((346752-708794)+426109),34961255537206-542195)]](lF[zF(EF(504775746%7308011+-460884),26343211323488%(627219758938-(203125+-49216)))],lF[zF(EF(118471+-55061),22427290140209-(-12271))],o,c,V)local r=A[lF[zF(EF(115651-53840),677029+24791739351347)]](k,{[lF[zF(EF(-291901-(-353488)),(13359688301480-864476)-373114)]]=o,[lF[zF(EF(((13904562611-1682976643%(9674061-957011))%((-194164+-568366)+268347088)-(-750943))%10743909),29475012166024-(-581580))]]=c;[lF[zF(EF(639276-576833),1658288160542-(-161136))]]=V},function(Y,o)if p[lF[zF(EF(1817085316%(8963772-(-213109))),383716+21278160380483)]]~=F then return end p[lF[zF(EF(619384-556614),956652+29372713990303)]]=true X[lF[zF(EF(918124-856780),-998552+31338718354769)]](lF[zF(EF(-354702-(-418116)),8401345505175-(-256957))],lF[zF(EF(-695934+760028),-542131+13477559209618)],Y and lF[zF(EF(151427+-88766),-767024+32777868397797)]or tostring(o))end)if not r then p[lF[zF(EF(-779350-(-843189)),1532549329883-811439)]]=true end return r end local function rF(Y,o,c)if type(Y)~=lF[zF(EF(707136-644935),25095784208023-(-76779-(((754884+-1781060)-(-457936))+187032)))]or#Y==(-1013845+(1328567-1018596))+703874 then return-831669+831670 end o=math[lF[zF(EF((295867509-(-41321))%3607872),(-919957+(105246121-(-568767))%(2368499272%17665947))+(17712492347418-383135))]](-926597-(-926598),math[lF[zF(EF(272336-209542),14491025322852-(327962516-(-43304))%4370635)]](o or 205966481%971540))c=math[lF[zF(EF((-807834-(-531745))+339544),33894964650439-163940)]](#Y,math[lF[zF(EF(990768-929597),13254134996684-(132462+-981374))]](c or#Y))local A,V=X[lF[zF(EF((-328809+(((716389245519%4873414632)%30922254-(-140245))%3783477+189680))+-718468),22524560020532-441851)]]()if not A or o>c then return o end local k,F=nil,nil for o=o,c,1009317-(45635499070%585146098)%(8423881-392767)do local c=Y[o]if type(c)==lF[zF(EF(151243-88497),7189981001168%1437998151259)]and c[lF[zF(EF(-13956-(-77889)),884799+12792951452190)]]then local Y=X[lF[zF(EF(2958090804%16164092),-918098+6152274024420)]](A,V,c[lF[zF(EF(-201654-(236657+-500272)),(-510024+7187698155736)-((888686+-96587)+-551348))]],c[lF[zF(EF(-312351-(-376066)),881298+1779297279393)]])if F==nil or Y<F then k,F=o,Y end end end if not k then return o end local r,N=Y[k],Y[k+(-437005+437006)]if N and X[lF[zF(EF(1363355823%14981248),7844896829454-(-359792))]](A,V,N[lF[zF(EF(-76005-(-889450+750729)),30286224880489-(-872946+35776))]],N[lF[zF(EF(-442125-(-503427)),748594+5631589097082)]])<X[lF[zF(EF(((-362934+389143)-799368)+836237),4554011725807-(-402097))]](r[lF[zF(EF(365326+-302336),-984257+26070194079795)]],r[lF[zF(EF((-602822+1596370)+-931428),892697+(19760000400830-523823))]],N[lF[zF(EF((733850+-1277313)+(-1008871+1614939)),220935+24734900074379)]],N[lF[zF(EF((-1015009+1265548)+(-260681+73722)),23611665745766-(-968473))]])then k=k+828500695%4121894 end return k end N[lF[zF(EF((123730258469%505058957-256036)%5899462),411125+7353185291609)]]=rF function N.follow_route(Y,o)if type(Y)~=lF[zF(EF(1044726+-982587),28953836653975-(-825059))]or#Y<(1028126+-1504365)+476240 then return false end if N[lF[zF(EF(31600+30385),27983401829731-925972)]]()then return false end local V=N[lF[zF(EF(393873+-330414),4404322128847-52065)]]()if not V then return false end if N[lF[zF(EF(641445-577507),2797334208079-(466646+(443386+(-268671-(-89319)))))]]()then M[lF[zF(EF(737038877%8010604),3030139945764-(-366708))]]={[lF[zF(EF(1422821401%(7556488-(-51107))-139625),440041+11575997901081)]]=Y}return true end if not o and(p[lF[zF(EF(-272287-(-335176)),3.2126329865597e+14%24712562205988)]]==Y and A[lF[zF(EF(69720+-6177),11429523540681-607323)]](V))then return true end local k={}for o=98681+-98680,#Y,2380912549%16196684 do local c,A,V=X[lF[zF(EF((-447875+361439)-(-150322)),5819207331157-70761)]](Y[o])if not c then return false end k[o]={[lF[zF(EF(117591-53635),15728779589043-(-976092))]]=c;[lF[zF(EF((747652204-207057)%(12761009-508838)),8950913442107-260247)]]=A;[lF[zF(EF(879176-2913946186%(16132839-1038906)),-399697+8596057503091)]]=V}end local F=rF(k,-637773+637774,#k)local r={}for X=F,#k,-600936-((26517120894%1560618453)%15948786-(-847586+1922521255%(((-642998+(5118156197-(214266+-801442)))-990583)%19957315)))do r[#r+((904789-361730)-543058)]=k[X]end if F>(3011422071%377907866)%7626396 then X[lF[zF(EF(49947540%12471424),(629698013598-(-157899))-(-327099-(-483804)))]](lF[zF(EF((-1061125-(-363227))-(-760932)),(640241+-416738)+9064157414903)],lF[zF(EF(-540854+(((368472-52119)+(-1872782-(-819727)))+1340680)),(9540254687960-(-92036))-642812)],F,#k)end local y r,y=c[lF[zF(EF(322202187%3253940),24774374147661-(-1762112-(-890191)))]](r)if y>1785139479%7346253 then X[lF[zF(EF(697450-635725),(-111130+1083418)+(-90063+6892098877180))]](lF[zF(EF(633549-571754),832310+18283880955313)],lF[zF(EF(1033637-135788642%4814864),23963159627719-(-851569))],y)end if#r<3825029031%16630561 or(#r<(296297449-(73401026%12205892-(-254253)))%1450380 and(#k>=33583-33581 and y>-632100+(331939+300161)))then oV(lF[zF(EF(486532-424857),(-1022532+1659152)+27468588847952)])return false end local i,P,m=X[lF[zF(EF(799658-3987991302%15636286),12923094839742-(-915276))]]()local D={}if i then D[(730461+-1208460)-(-478000)]={[lF[zF(EF(269222538%(6077551-(-364551-(-816224-132804)))),-610949+13480414588889)]]=i,[lF[zF(EF(-34502-(-96654)),-957032+21779843901188)]]=P;[lF[zF(EF(2510560218%16736642),-97721+741654465086)]]=m}end for X,Y in ipairs(r)do D[#D+2222266897%15432409]=Y end if N[lF[zF(EF(-1022897+1084587),-123456+12039739984387)]](D)then oV(lF[zF(EF(494253-430303),4945103164843-(-11125))])X[lF[zF(EF((975588+-1734574)+820798),-402384+21047167367171)]](lF[zF(EF(-349918+412451),3688235808289-(-537697))],lF[zF(EF(182687+((996318-(779349-353899))-(539724-(-151595)))),(-486867-123163)+(4173359451946-(-267146+-727355)))])return false end p[lF[zF(EF(331464+-269803),-268760+24936969204178)]]=p[lF[zF(EF(1373066364%(4292246112%(5386990917%23758602))),21517034306380-(-421682))]]+(-859978-(-859979))local d=p[lF[zF(EF(552369+-490320),920850+19374321052360)]]local S=r[#r]p[lF[zF(EF(171510777%2065645),17298901227433-(-919835))]],p[lF[zF(EF((-783131+1973430)%1127626),7.1533595354271e+14%13006108371633)]],p[lF[zF(EF((56683302060%1619532108)%(11881524-(-23967))),25942631553610-(((-462646-5431024%252766)-778492)-(-698458-229178)))]],p[lF[zF(EF(777390738%8352242-(611529-40425)),1074343926058-221925)]],p[lF[zF(EF(289305167%11569752),14158313284601-(-1138031-(-823859)))]],p[lF[zF(EF(((-219980-448496)+(133740+(-1153466-(-887074))))-(-862754)),-481929+((402040+14304014538600)-790378))]],p[lF[zF(EF(83931+((-47651+((38057+859605)+-216832))-655055)),18033351568118-(-704374))]]=S[lF[zF(EF(393696-(104967726-196869)%6143539),920894+5473059540491)]],S[lF[zF(EF((183918883%(-47117+2155443)-(-3828))-436103),563952+(30188045994626-(-316659)))]],S[lF[zF(EF((427969+(842457+285578653))%7966289),-817113+18530476283062)]],X[lF[zF(EF((-1402612-(973616+-1496681))+(1710848-769443)),-1003492+16891585517875)]](),lF[zF(EF((141209003179%(1176106713-(-663582)))%5457097),3874428125%16627009+23123067139664)],Y,false p[lF[zF(EF(216167-153260),26307302163601-431188)]]=X[lF[zF(EF(141917684%(436252389%21305996)),25851548692630-(-802458))]]()E=nil p[lF[zF(EF(1157103445%14110258),735950+(-695509+13705914514215))]]=nil J[lF[zF(EF(273426411%(112164250%16941717)),356603+8030626607738)]]=J[lF[zF(EF(233957122%4032639),34619794778008-64667)]]+(96227+(-965216+868990))local g=A[lF[zF(EF(902219770%4235483),237917+(-837656+19434162916207))]](V,r,function(Y,o)if p[lF[zF(EF(293304+-229824),17986692887105-(-279743))]]~=d then return end p[lF[zF(EF(2303365547%14130690),4305255072777-(-770203))]]=true if Y then c[lF[zF(EF(401752021%4725747),(27581+(-1264+9823598901957))-(-476464))]](true)return end X[lF[zF(EF(1228373456%5877085),719626+(21093509677649-(-527733))%397990843400)]](lF[zF(EF(2030165800%10798427),1285398793%13526345+31744531715625)],lF[zF(EF(2523029399%16708381),30920094286622-1018117)],tostring(o))oV(o or lF[zF(EF(859488-796279),-118810+(3924845911191-(-74777)))],nil,nil,nil,true)c[lF[zF(EF((-182233-(-773930))+(652286+-1182026)),(414097-451836)+26247762262649)]](false)end)if not g then p[lF[zF(EF(583665+((678158+-1170198)-29762)),-751426+6729320573689)]]=true end return g end function N.rejoin(Y)local o=N[lF[zF(EF(351049580%5014118),(74751+-1045577)+(7253737540430-468932))]]()if not o or not p[lF[zF(EF(-856091+920238),822598+21156732532777)]]or not A[lF[zF(EF(1044142516%6867879-163133),(982713+-1737899)+34553173213906)]](o)then return false end if A[lF[zF(EF(652335932%(777990+2057987)),-34761+24899910110846)]](o)then return true end X[lF[zF(EF(856900-793649),748466+(12562839625334-(-1038554)))]](lF[zF(EF(720336689%(1906059706%((-239308-((1275595-(115429-(-158972)))+(-2039054-(472437+-1171762))))+26920205))),9202085741905-843716)],lF[zF(EF(-633442+695673),-29245+(34672790685985-(-553247)))],Y and(lF[zF(EF(685289-(538537291-(52405+-567609))%8546490),11421222232670-(-285862))]..tostring(Y))or lF[zF(EF(553899-490014),32983490001363-144215)])FF(o,{[lF[zF(EF(-897924+960188),-161648+(1425+((418467+-846417)+32561144718849)))]]=p[lF[zF(EF(2008387454%10405820),-1046505+1316700632051)]];[lF[zF(EF(426706390%4688398),27039358136215-(-402204))]]=p[lF[zF(EF(-361839-(-424780)),(654937+18961011514426)-940141)]],[lF[zF(EF(-40104-(-102598)),14650522746263-58610)]]=p[lF[zF(EF(847720+-784061),18715834948949-(-695279))]];[lF[zF(EF(918500847%(16766383-67496)),-583423+12347408523368)]]=p[lF[zF(EF(451144-389588),26040645243044-(-134738))]],[lF[zF(EF(1005698-941708),(-446269+1420791)+3927349263608)]]=p[lF[zF(EF(-467539-(-531464)),274438+13746978331312)]]},Y or lF[zF(EF(-118133+181577),-725607+11257114796912)])return true end function N.replan_fresh(Y)local o=N[lF[zF(EF(359192+-297510),(-77228+34737746519771)-(-645296))]]()if not o or not p[lF[zF(EF(757544+(-500157-(108272+85531))),387681+25688561476752)]]then return false end if VF(o,p[lF[zF(EF(368111-304394),1717968235%16358526+9099765760050)]])or X[lF[zF(EF(-244118+307879),-995568+8519135095552)]]then return false end local V={[lF[zF(EF(407250-345599),-220688+10930797307236)]]=p[lF[zF(EF(167547+-105765),-661555+12968159450146)]],[lF[zF(EF(181816230%6058422),-222771+20353249496073)]]=p[lF[zF(EF(534655-(-297732-(-769446))),672909+2578145860259)]],[lF[zF(EF(700011806%5223500),11682429965948-608759)]]=p[lF[zF(EF((469728-(528958+(126482+(-1907160-(-776941)))))+-882450),-301286+18773844891258)]];[lF[zF(EF(-335680-(-397765)),-209091+13824735778197)]]=p[lF[zF(EF((-1088429-(-885411-(77571+-667619)))+(-664646+798703365%13068574)),(488002-(-193092))+7945299749558)]],[lF[zF(EF(143743-(992780+(704650+-1615087))),(217396+17257592839379)-((32355+-147051)-(-296649)))]]=p[lF[zF(EF(997597-936040),631584+12773900963580)]]}if type(Y)==lF[zF(EF(417590+-354227),-157923+21898682975706)]and Y:find(lF[zF(EF(((731837+420976489154)%2084077913)%13317300),16287270672808-539240)],105033125%7502366,true)then local Y,o,A=X[lF[zF(EF(544808-480996),2.8307710756739e+15%22115399120906)]]()if Y then YV(c[lF[zF(EF(39504473%1972115),31295712550393-600801)]](Y,o,A,V[lF[zF(EF((-9480-251141)+(45679-(-277514))),386977+20299716189644)]],V[lF[zF(EF(-1035587+1098196),-353212+19325126786485)]]),lF[zF(EF(161511-(377427+213714398)%3101355),-439508+23142619433902)])end end T=nil if A[lF[zF(EF(943672-879778),341809+18508898713912)]](o)and(not V[lF[zF(EF(338138-275862),6580032127007-(((967824+-753469)-((-166061+-225168)+325591))-(939460-1012820)))]]and(not A[lF[zF(EF(775324894%5421408),6039042949168-(-55482))]](o)and(X[lF[zF(EF(3347948988%13338196),992699+32705544767902)]]()-((p[lF[zF(EF(328631797%8880247),14842088685433-(-822625))]]or 1000470-1000470)))>=e))then if A[lF[zF(EF(-239537+303199),15106165466577-(-984553+1847666))]](o,Y or lF[zF(EF(129600-66740),807097+14620771838923)])then p[lF[zF(EF(-213005+(220212881938%1915025611-14336)%14612871),-1021090+13134917282445)]]=X[lF[zF(EF(981610+-917608),10776618156797-(-1648628-(-880823)))]]()J[lF[zF(EF(-310413+373949),-894086+9383447117851)]]=J[lF[zF(EF(649816-585796),33046169539244-(-712091+1452232))]]+(440791-(-119349+560139))X[lF[zF(EF(272235785%3628987),26497437661138-(-99229))]](lF[zF(EF(2528614301%13888624+-821670),32820450417959-1015532)],lF[zF(EF((485470-293861008%1430263)-(-233786)),((-556146-(-963849))+-791598)+26420813387332)],V[lF[zF(EF(-406491-(-467970)),983375+14498927630599)]],V[lF[zF(EF(-485455-(-548599)),-152603+11555327756188)]],V[lF[zF(EF(-471688-(-377558+-158204)),-843321+(912699+28187130181527))]],tostring(Y or lF[zF(EF(523121205%2478954),(-793329-59323)+((-763348+745726)+27777965632953))]))return true end end FF(o,V,Y or lF[zF(EF(12870-(-50435)),-366266+10873915795600)])return true end function N.detour(Y,o,c)local V=N[lF[zF(EF((1006263579-(29517+-140338))%7509794),245134+30526294118341)]]()if not V or not p[lF[zF(EF(758619-695196),-329816+11047222362191)]]or type(Y)~=lF[zF(EF(-932551+(-294019+1289067)),16864858014155-(-870838))]or not Y[lF[zF(EF(900437-838978),(31435563587655-(-660644))-3244128482%17343246)]]then return false end if VF(V,p[lF[zF(EF(-1018356+((-18699-(-363429))-(-734897))),2397325395996-(-271714))]])or X[lF[zF(EF(-53102+114408),3281356003449-(((-187886+(-223685-(-954280)))-221451)-1033150))]]then return false end local k,F=X[lF[zF(EF(151955848%7594631),-687001+7764223534800)]]()if not k or X[lF[zF(EF(610870+-547733),455144+33439707236934)]](k,F,Y[lF[zF(EF((2043247662%12453251+(-410848+(-2166303-(-760674))))+965267),24434258152725-(-414712))]],Y[lF[zF(EF(-411516+473653),-149872+21492436130379)]])>(((c and c[lF[zF(EF((21754+251849)-(-777058-(-785684-201804))),25608590868493-(-1001507))]])or a))then return false end local r={[lF[zF(EF(-853025+916097),31011404886399-52690)]]=p[lF[zF(EF(-861675-(-925822)),10510355540870-605127)]],[lF[zF(EF(80564+-19418),166503+34720237188633)]]=p[lF[zF(EF(131361573%3455199),7.0419291963591e+14%28167716789200)]];[lF[zF(EF(220563+-158299),24394933406209-33968)]]=p[lF[zF(EF(311837-249228),(-23426-691995)+5322342710502)]];[lF[zF(EF(-849479-(-913503)),402906+6100838899666)]]=p[lF[zF(EF(-746963+810064),11668592907368-605509)]];[lF[zF(EF(444209+-382522),-19767+34395888878734)]]=p[lF[zF(EF((2762454361-(-323342))%15263623),(153104+17883143113037)-972696)]]}p[lF[zF(EF(-78166+1086630000%(474121185%10800474)),((((1155619-1002910)+-467194)+-361348)+(24206082047134-791811))-(-282085))]]=p[lF[zF(EF(505568+-441653),-939377+(9036347621426-(-301941)))]]+(-316131-(-316132))local y=p[lF[zF(EF(-372864+434140),21081658281615-(-285388))]]p[lF[zF(EF(-634337-(-697407)),-241513+9705794019894)]],p[lF[zF(EF(693148-630936),747114+16780078140926)]]=nil,false p[lF[zF(EF(-144867-(-208273)),-962101+9922636763010)]],p[lF[zF(EF(562737+-501427),16326513973182-530512)]]=X[lF[zF(EF(899072612%10702502),81022+(5740356478135-85572))]](),X[lF[zF(EF(1075734748%12654960),(-517913-1777)+13225919952259)]]()E=nil p[lF[zF(EF(110285+-46563),(1016412+18236518682621)-847630005%5264423)]]=nil J[lF[zF(EF((96874326-(((-355813+-1706302)-(-783420))-(20578-628001)))%9748216),24124995357687-(1131604-474167))]]=J[lF[zF(EF(-920657-(-983492)),-386631+27147268860947)]]+(14094978070%55503213)%877753 T={[lF[zF(EF(-722789-(-187317+-598205)),832827+32484704744167)]]=Y[lF[zF(EF(-837045+899852),29632241470545-(-362315))]],[lF[zF(EF(-220293-(-283919)),1979620447144-926610)]]=Y[lF[zF(EF(((1599626-967020)+-1339488)+768710),-757914+20425842116327)]],[lF[zF(EF(((200272527913%1283821031)%12545678-911811)+(55980-(-308338))),9190917991112-498369)]]=Y[lF[zF(EF(84986501%(5995322263%24125768)),-886365+26894582275242)]],[lF[zF(EF(-412602-(-474387)),-152652+19030157479621)]]=r,[lF[zF(EF(236815-(402631+-227115)),13299399166308-((116187+-1113922)+238188))]]=y;[lF[zF(EF(316744+((-740920+(104419+-534597))-(-916237))),(-84904+31672773157380)-(-480694))]]=X[lF[zF(EF(152385850%1347979),(-720374+27650433273134)-796657)]]()+(((c and c[lF[zF(EF(-199113+260959),113263+27997128293818)]])or t))}X[lF[zF(EF((457442+((-313178+337202)+362128))-782378),19462097219895-(-654520))]](lF[zF(EF((74053522-732212)%(1091846494%9262450)),-618899+20804594205355)],lF[zF(EF(2506337916%14656572),2079834834149-(-354113))],(c and c[lF[zF(EF((-16040-(-272448))-193402),11184961754705-487147)]])or lF[zF(EF(231385991%13607311),920685+(-342302+27891932909433))],Y[lF[zF(EF(3560592980%14897617),(30255902780053-(-497572))-(-411384+360946))]],Y[lF[zF(EF(416131-354993),20500010608429-(-641310+-6066))]],tostring(o))local i=A[lF[zF(EF(-275164+338905),92950+23044449358254)]](V,{[lF[zF(EF(1034419910%(-851671+12879089)),3720847299489-220642)]]=Y[lF[zF(EF(-999025+1062110),609787+(-165857+((22044545344110-(-650423))-81503)))]],[lF[zF(EF(-838644+900701),959831+25086274600135)]]=Y[lF[zF(EF(1530397829%10067998),109221+5708170419249)]];[lF[zF(EF(395030+-331304),(787028+-216310)+((-192317+-674895)+12320960232623))]]=Y[lF[zF(EF(558697-494868),15437659999919-329372)]]},function(X,Y)if p[lF[zF(EF((1741912275-491190)%(5926526-(-875651))),(-440963+(-548915+1659028))+(789175+14515302254045))]]~=y then return end p[lF[zF(EF(-137463+201619),370497+13884070221580)]]=true if not T or T[lF[zF(EF(-528520+(95317802573%2444397005)%13065188),(155680+635008)+(103515+29376266036709))]]~=y then return end dV(X and lF[zF(EF(112959963%3528049),10247059121144-(-509187))]or tostring(Y))end)if not i then T,p[lF[zF(EF((1133720408-(-35046))%8097801),22206479378305-893936)]]=nil,true return false end return true end function N.detour_active()return T~=nil end function N.all_heights(X,Y)local o=N[lF[zF(EF(-107708+170977),780476+9500643817772)]]()if not o or type(X)~=lF[zF(EF(604968756%4415371),18688270512831-958764)]or type(Y)~=lF[zF(EF(-472482-(-534287)),-331367+28409540417713)]then return false end return A[lF[zF(EF(747113-685990),16271946513719-893835)]](o,{[lF[zF(EF((-258315+(101824254-763347))%(4303901541%19727761)),(-9406+24720799681984)-(-229033))]]=X[lF[zF(EF((371316657-(-311302))%2135428),-706655+(28230+74235897711722)%2062108507997)]];[lF[zF(EF((2755649197-(-957514))%10767750),25099692266300-205710)]]=X[lF[zF(EF(254073827%((2895194997-633370)%18536379)),520442+25070171452800)]];[lF[zF(EF(1731032280%7152762),-937438+10839858236352)]]=X[lF[zF(EF(741632531%14260952),13576629730894-(-94593))]]or 596320400%14544400},function(X)pcall(Y,X)end)end local function NF()local Y=X[lF[zF(EF(-285331-(-348883)),329655+2416482871373)]]()local o,c=pcall(function()return Y and Y:is_indoors()end)return o and c==true end local yF=X[lF[zF(EF(81645+-20403),26933912328107-(-848055))]]local iF={[lF[zF(EF(621116-557880),-664246+14517905919636)]]=X[lF[zF(EF((-730506+219283)+572630),28801590397346-(-166482))]][lF[zF(EF((433909-260860)-110868),(-565767+22999913557169)-(-1031086))]],[lF[zF(EF(721749-660121),(9715261552266-(-878219))-(-368463))]]=X[lF[zF(EF((2357369494-741530)%(11037842-(-457599))),2389249713634-(-512956))]][lF[zF(EF(412529172%1973531),91929154974705%13132737749143)]];[lF[zF(EF(543810956%((-1028159-(-571061))+11554007)),25949044731974-926138)]]=X[lF[zF(EF((49071-(-750205))+((-627683-105852)+-3126)),13795027061493-(820088+(-809316+(-744826-(-479508)))))]][lF[zF(EF(606537-544692),-725981+(30083736172506-(-840100)))]],[lF[zF(EF(-273337+336007),22301733323975-(-726757))]]=X[lF[zF(EF(-353326-(73125-490297)),2.0811708343582e+14%(1778779125024-(-86513-(-628163))))]][lF[zF(EF(1344678753%7114366),379550786369-(-697675+-273180))]];[lF[zF(EF(754861+-691955),30247502004974-(-967512))]]=X[lF[zF(EF(74373104%8256668),119718+19444007490074)]][lF[zF(EF((243867789-(-386128+819869))%(235030027%(-444324+17012138))),-20922+20993158983458)]]}N[lF[zF(EF(((10718964739348%218754435728)%1750147145)%12038306),30574246133312-(-872575))]]=iF local PF={[lF[zF(EF((-985459+771090967%4559270)-(-954979+482598)),947953+(-79124+30961391192321))]]=876570+-1000876570,[lF[zF(EF(89235-27948),705076+33755566913398)]]=false}local function mF()local Y=X[lF[zF(EF((1724330-964722)+(17335-714089)),18551847479028-(625673+-361438))]]()if Y-PF[lF[zF(EF(1235373342%8519385),-916037+16935018657597)]]>=-204109.5-(-204110)or Y<PF[lF[zF(EF(-83384+145504),-434096+(-17830+14737403377495))]]then PF[lF[zF(EF(263081-199291),-648348+(33079587577186-(-1100746-(-583764))))]]=Y local o,c=pcall(function()return(X[lF[zF(EF(837168-774636),-234943+28091818707546)]]()):is_ghost()end)PF[lF[zF(EF(165424+-103178),947690+22624516338975)]]=o and c==true end return PF[lF[zF(EF(-367468-(-430727)),38285504972834%9571379888010)]]end N[lF[zF(EF((251121109819%(187909960436%989042226))%(630182+4201745)),918342+87585444152)]]=mF function iF.grade(Y,o,c)if c==nil then c=NF()end local A=c and iF[lF[zF(EF(-853882-(-1115365-(-199795))),29502217257737-(-189487))]]or iF[lF[zF(EF((195291016401%904174546)%10764163),5605838013469-(-602542))]]local V=X[lF[zF(EF(318433000%7765104),25984594082828-27608)]](Y[lF[zF(EF(848650-786596),545035+2848248154836)]],Y[lF[zF(EF(945755320%(5109378-(21118+730236))),8150990449295-257338)]],o[lF[zF(EF(-577667-(-638826)),7388015048960-181385)]],o[lF[zF(EF(-613208+676401),(848199+119739)+(21899022531286-686605))]])local k=((o[lF[zF(EF(472063-410904),-757523+34895174012066)]]or 353121+((899591+-1722454)-(-469742))))-((Y[lF[zF(EF(((-939780+107994870214)%683565535)%7838115),879201+2508282296421)]]or-96663+96663))if V>=iF[lF[zF(EF(637869-574060),-886418+17237947954404)]]then local X=k>=3007201685%12906445 and k/V or((-k/V))*((iF[lF[zF(EF(609060-547425),-804042+7422308636307)]]/iF[lF[zF(EF(475246+((361567+-484352)+-290940)),9003575897933-487383)]]))return X,k>=3614653492%15994042 and k/V>A or(k<-iF[lF[zF(EF(829815463%4277078),133935+30047397489232)]]and(-k/V>iF[lF[zF(EF(150834895%2792050),(-47419+31434431918602)-509398)]]and not mF()))end if k>iF[lF[zF(EF(-540835+604970),7996574460171-(-64107))]]or(k<-iF[lF[zF(EF(200583-138077),666172+(31513714349361-948900))]]and not mF())then return 963154-963055,true end return 977652-977652,false end function iF.first_steep(Y,o,c)if type(Y)~=lF[zF(EF(50622-(-12883)),(-752978-(-715363))+(71020+14157997966196))]then return nil end if o==nil then o=NF()end local A,V=877932526%(10377235-524161)-((1026721029-(-721703))-((-867348+-126730)-39811))%7445418,o and iF[lF[zF(EF(718002-656530),25783821950233-(-895153-127305))]]or iF[lF[zF(EF((-1141382-(-1053226-(562591+(-504758+-1017113))))+744270757%3288322),600369+25151590191829)]]local k=mF()local F,r=1555199555%11184835+-507489,1045724-1045724 for c=(731135638-996722)%(28738+2679820173%(-211764+23602761)),#Y-565859039%6019777,-180686+180687 do local N,y=Y[c],Y[c+(-535755-(-535756))]if type(N)==lF[zF(EF(4279341709%16715937),23837145789688-(-749134))]and(type(y)==lF[zF(EF(1333150474%16457856),12151932018686-(-648199))]and(N[lF[zF(EF(3178708754%15281948),185415+((-605500+5182653971699)-375741))]]and y[lF[zF(EF(2951758077%12095054-501939),(-503008+21014945922055)-429220)]]))then local i=X[lF[zF(EF(286356-222147),3119422917275-(-12314))]](N[lF[zF(EF(-145337-(-206709)),(4363+15740785088645)-(-960390))]],N[lF[zF(EF(-268736-(-734313+404092)),24836325891826-(-32350))]],y[lF[zF(EF((330824+-713925)+447077),-237273+(10877533050791-502652))]],y[lF[zF(EF(847465-785277),13770528617942-(-801765))]])local P=y[lF[zF(EF((4901873%821578-979453)-(-246993)),-299186+17361348020246)]]-N[lF[zF(EF(-930305-(-992495)),240048+3951359838664)]]local m,D=iF[lF[zF(EF(316572+-253489),851834+29893341338614)]](N,y,o)if D and((not o or P<=481808507%11751427 or i>=A or(i<iF[lF[zF(EF(230368585%2112908),(457861971%5196581+21149551800855)-(-72645))]]and P>iF[lF[zF(EF((2346934873-(-617209))%9542646),-54131+30339524442145)]])))then return c,c+(-543971-(-543972))end r=r+i while F<c do local o,c=Y[F],Y[F+(-434151+434152)]local V=X[lF[zF(EF(-443422+3789762448%(16065492-968852)),(192901+34050666)%657032+8908758676475)]](o[lF[zF(EF(2661118966%10435512),967644+22800613803)]],o[lF[zF(EF(361828297%10336173),25624534438334-(674178+(638184+-1568924)))]],c[lF[zF(EF((1402526379-341375)%6176747),799956+14698085038179)]],c[lF[zF(EF(-779061-(415923+(-553299+-703115))),33981894302063-(-844197))]])if r-V<A then break end r,F=r-V,F+905357478%4059899 end local d=y[lF[zF(EF(-152046-(-213434)),26382915514386-(-370994))]]-Y[F][lF[zF(EF(727753-(1232177-565899)),-818820+(((-314338+303329)+(1148504-578295))+23352976022007))]]if((r>=A and d>V*r)or(not k and(r>=iF[lF[zF(EF(531173-467078),-653708+10263459638339)]]and(-d>iF[lF[zF(EF(280114760%8001460),1026966+((-291132+16594137647365)-(536342942-(-254401))%5647996))]]and-d>iF[lF[zF(EF((1081279817-(-356985))%10925003),700395+13544440424180)]]*r)))or(r<iF[lF[zF(EF(-374161+436644),11157465905369-(-505777))]]and((d>iF[lF[zF(EF(948217+-884776),6763574148892-987274)]]or(not k and-d>iF[lF[zF(EF(452974-389274),(-845328+8045345463890)-(48509+-887649))]]))))or(c==#Y-((-676729+(1895258-820127))+-398401)and(r>=iF[lF[zF(EF((970538569-(-652321+1672305))%15636370),(12617653288914-(-679757))-(-284206))]]and d>V*r)))then return F,c+(-270487+270488)end else F,r=c+274746165%(8252794-827222),902181189%14310943+-591780 end end return nil end N[lF[zF(EF(-1019949+1083381),(927373+4064050267821)-(-157252))]]=iF[lF[zF(EF(32876+(381536-351285)),32744229846847-(-595127))]]local function DF(X,Y,o,c,A,V)local k,F=A-o,V-c local r=k*k+F*F local N=r>(616522-(-96404))+-712926 and math[lF[zF(EF(606057+-542088),27013916506841-(-371843))]]((523493+809069837)%3445078,math[lF[zF(EF(-28863+90529),-95737+19709356077198)]](262001+-262000,((((X-o))*k+((Y-c))*F))/r))or(-871604-(-823330))-(-48274)local y,i=o+N*k,c+N*F return math[lF[zF(EF(2021306194%(9592947-(161880-193896))),19693162373151-(-100099))]](((X-y))^(-103589+103591)+((Y-i))^(391235608%3462262))end function N.danger_at(Y,o)if type(Y)~=lF[zF(EF(282229-219860),883822+7214073667249)]or#Y<563524-563522 then return nil end if o==nil then local Y=package[lF[zF(EF(-538615+(-754953+1357238)),2447862817594-(-299355))]][lF[zF(EF(2772148492%((16368188-(-529403))-198280)),((1358143-(-269279))-968192)+15870087969887)]]local c=X[lF[zF(EF((25540158-(-69802))%12773433),(-105705+(((1288831-634999)-1019181)+13605847342745))-(-6468+(-329176-(-1038325))))]]()if type(Y)~=lF[zF(EF(-323760-(-385292)),(-320874-(-337624-(-1042101)))+14496310205194)]or type(Y[lF[zF(EF((-181511-(-495251))-251563),-926535+31043516901965)]])~=lF[zF(EF((424080-(-420213+(583387+429171)))+(463053-(736318-504462))),1007760+32307389482080)]or not c then return nil end local A,V=pcall(Y[lF[zF(EF(1026534+((-349090+30192767%(-179420+7721278))-(948397+265068350)%2503563)),-37750+11846571378017)]],c,Y[lF[zF(EF(-947607-(-1011098)),24827485625221-(-250261))]]or-943978+944068,Y[lF[zF(EF(488967+-424874),662384+16873147216966)]]or-290430-(-290435),true,true)o=A and V or{}local k=package[lF[zF(EF(-180320-(-242799)),-193544+32945776464124)]][lF[zF(EF(146093207%1921468),19059006332625-(565673+-1051054))]]if type(k)==lF[zF(EF(164517191%702794),(423546-((-479634+(602251+-722360))-(-515154)))+((-616993+16799041979124)-(808796+(-1239750-552683))))]and type(k[lF[zF(EF(-414817-(-732090+254528)),32107999989022-((175316617203%1007594495)%11133420+246752))]])==lF[zF(EF(141941+-79805),12222634339881-(-513590))]then local Y,c=pcall(k[lF[zF(EF(12455-(-686019-(-635319))),-433325+5300225995541)]])if Y and type(c)==lF[zF(EF(2711052375%11536125),84875169581785%420174179549)]then local Y={}for X,o in ipairs(o)do Y[#Y+(-721900+721901)]=o end for c,A in ipairs(c)do local V=false for Y,o in ipairs(o)do if o[lF[zF(EF((((-288531+1377438321%10922766)-(-1299119-(-883962)))-1091671577%5218472)+-222127),(3505498804301-(-169452+-391496))-785372)]]and X[lF[zF(EF((1575104-1610605415%15476542)+-466318),(-485275-(-135176))+3305614046392)]](o[lF[zF(EF(855683-(-555507+(2257393-910159))),-1001443+2371513896813)]],o[lF[zF(EF((-772787+560936499)%4746630),31352825081519-(-1538086-(-627669)))]],A[lF[zF(EF(809384+-746953),26686966171806-(-714908))]],A[lF[zF(EF(-17194-(-80221)),974488+2912922969487)]])<331602072%2908790 then V=true break end end if not V then Y[#Y+86111098%610717]=A end end o=Y end end end local c,A,V for o,A in ipairs(o)do local k=((A[lF[zF(EF(-406891+470517),501424+((-905546+18692748274656)-(-283845)))]]or 18138668%1648968))+1225960052%13774832 if X[lF[zF(EF(-211926+274992),17301813209402-1448804994%12590948)]](Y[-949021-(-949022)][lF[zF(EF(1104692-(-983201+2024089)),-59183+(66750+10058913412995))]],Y[(472091481-955146)%13856951][lF[zF(EF(-251481+312725),20595588199987-(-472808))]],A[lF[zF(EF(127421+-65816),-480727+14364319153890)]],A[lF[zF(EF(3309476230%14840414),-312580+(16464784844591-620973))]])>k then for X=-931705+931706,#Y-(871627+-871626),((343359+-902675)-175739)+735056 do local o,F=Y[X],Y[X+(-38614+((960689+-1404577)+482503))]if DF(A[lF[zF(EF(-883952+947981),(511744-599903)+22556997233696)]],A[lF[zF(EF(3738063519%14774712),19548075946094-921286)]],o[lF[zF(EF(372783+-309953),277606+25743784963529)]],o[lF[zF(EF(108348739%13535839),433865+33345509494478)]],F[lF[zF(EF(-910446+974459),24270+21266442147545)]],F[lF[zF(EF(628253+-566339),778145+20529199945773)]])<=k then if not c or X<c then c,V=X,A end break end end end end if not c then return nil end A=c for X=c+(-811490+(484690-(-326801))),#Y-(-642514+642515),1499776801%9034800 do if DF(V[lF[zF(EF((520137+1804220242)%13989753),14416368182241-((-290907+-1019699)-(-938450)))]],V[lF[zF(EF(711958+-648299),-227399+19162014916309)]],Y[X][lF[zF(EF(-941550+(43792407-(715510-540196))%1420479),7278010002640-(-384317))]],Y[X][lF[zF(EF(591905+(-50552+(-1011210-(((194487+-2663463)-(7856-939327))-(75285+-1079553))))),(-260366+(30014149868974-(-686878)))-479449)]],Y[X+980387867%(-813703+11829297)][lF[zF(EF(937260-438347919%5608641),(-403165+-329515)+30521073702153)]],Y[X+(-771572+771573)][lF[zF(EF(-327528+(1314786-925121)),(213224+4393068281186)-823515)]])<=((V[lF[zF(EF(580622641%((-586133+593006329%(-341544+2652027))+6603209)),206714+12458857098857)]]or 51950504%(13611591-623970)))+((-836680+-69176)+905860)then A=X else break end end return c,A+((((133053+407770)+-1026540)+((-1780986-(935355+-1774103))+(1764829-(-28458))))-365331),o,V end N[lF[zF(EF(1232665725%12084342),(-799116+11293724023510)-(1136781-623003))]],N[lF[zF(EF(-669732+733353),19259640071623-(-824690))]],N[lF[zF(EF(1224503128%5123178),28926265227899-861966088%6113214)]],N[lF[zF(EF(3789930062%16196013),27059408723954-(-488019))]]=1.19,(523489+-512559)+-10924,331754454%2256833,954853507%14919586 function N.tolerable_steep(Y)local o,c=(108725011143%(24692223740%1372553891-(-326250)))%14246711,1407413044%6670204 while o<#Y do local A={}for X=o,#Y,-802533+802534 do A[#A+((-1003920+1675915)-(-637276+1309270))]=Y[X]end local V,k=iF[lF[zF(EF(-580043-(-641745)),(906855+(-832670+5961636946050))-834530)]](A)if not V then return true end k=k or V+(652080-652079)local F,r=A[V],A[k]local y=X[lF[zF(EF(700434-636216),-63015+34480272364033)]](F[lF[zF(EF(-497426+(-34628-(-594081))),31527028163259-(-299196-(-689674)))]],F[lF[zF(EF(-1044671+1107823),34263177085026-(-688665+760393))]],r[lF[zF(EF(563665-500625),30129478833297-530197)]],r[lF[zF(EF(281299+(657668-(65284-(-811907)))),995981+30825500242766)]])local i=((r[lF[zF(EF(-569316+(1420550-787799)),53466+25488894532867)]]or 1081853484%11759277))-((F[lF[zF(EF(1071469824%9566132),17210991818395-(-82449))]]or-875264+563686128%3654616))if y>N[lF[zF(EF(1053716-989762),14418268330515-163755)]]or y<(57675756041%337306613)%(3091473413%12685005.5)then return false end if i>=201600576%2317248 then if i/y>N[lF[zF(EF(-269681-(-332545)),-819526+5979388398608)]]then return false end elseif-i>N[lF[zF(EF(477351-1571815543%9409589),((-862199+1787941)+(((((104816+189839656528)%1327607632)%8967237-(-41949))-945114)-887789))+163971816387)]]then return false end c=c+(958149-958148)if c>N[lF[zF(EF(620776-558117),(-374776-(121203+-435829))+6420766238693)]]then return false end o=(o+k)-(-873357-(-873358))end return true end local function dF(Y)if A[lF[zF(EF(-249922+(-337589-(-649333))),-155513+22749681569039)]](Y)then return false end return(X[lF[zF(EF(((-393130+189905022%(924677+62810))+(1451014-1771867818%(-223380+11293534)))-660161),23349179324920-736338)]]()-((p[lF[zF(EF(-8587-(-71753)),((110982+-344596)+3275432306780)-(-1015110))]]or 948971+-948971)))>=e end local SF=-1000627531-(-627531)local function gF()local X=rawget(_G,lF[zF(EF(-78102-(-141002)),989724+26398790298776)])if type(X)~=lF[zF(EF(748543511%7796673),2091768390786-(-1013484))]or type(X[lF[zF(EF(631171+-568541),34496664237402-647124)]])~=lF[zF(EF(938083+-876556),-1009836+14786265120091)]then return lF[zF(EF((17712794780%369355417)%3461054),11301539643307-((-2847458-(-1229036-(-406376)))-(-995970)))]end local Y={}for o=702441-702438,399212-(526524+(-582314+454995)),333543253%8777454 do local c,A=pcall(X[lF[zF(EF(3583028043%(462391+14102506)),(4232461263%18235964-(-230166-(-324539-663274)))+((998200+20033009885874)-984540))]],o,lF[zF(EF(58374+5466),(1655883-645691)+10691121544282)])if not c or type(A)~=lF[zF(EF(-160986-(-224314)),(-1755469-(-724021))+16919665645222)]then break end local V=(tostring(A[lF[zF(EF(977419328%7082305),23548678014371-(638940+-664037))]]or lF[zF(EF(549654-488367),(551955+-1553485)+(11312153411376-(-954478)))])):match(lF[zF(EF(619025-557292),-552170+11095173601613)]..(string[lF[zF(EF(835860-772923),13303951187833-635661)]](1825488264%(-967230+16704197))..lF[zF(EF(711508615%8571624),29418746902660-48153)]))or lF[zF(EF(1268883567%5492732),34298054867005-665534)]Y[#Y+546248129%(6070978-439554)]=V..(lF[zF(EF(-445425+508349),(-48187+11743791831374)-407244)]..tostring(A[lF[zF(EF((903848+(-204835+-818162))+181448),9899197932950-48045)]]or lF[zF(EF(-49731+113343),140082+(12384780425779-278471))]))if#Y>=794452-794449 then break end end return table[lF[zF(EF(-956629-(-1018764)),-305685+31967679787748)]](Y,lF[zF(EF(313704-249606),-1022842+22406758589006)])end local qF=-251355+(-1000243187-(-494542))function N.stop(Y,o)do local X=N[lF[zF(EF(-228602+292350),-839592+31503533157077)]]()if X and(wV[lF[zF(EF((956697+((-307013+-120420)+-319478))+-147433),948677+31567580741127)]]and(wV[lF[zF(EF(2086243999%11989542),-119995+33378243682046)]]()and(p[lF[zF(EF(272525031%((319178+386297649)%8758341)),754723+28472290654352)]]and not p[lF[zF(EF(1352360848%(199294+5388721)),763993+22421125231058)]])))then pcall(wV[lF[zF(EF((-647268-263313)-(-973565)),(4917774686556-(-142117))-(-650880))]],X,Y)end end do local Y=N[lF[zF(EF(810821+-746680),24818447451701-(-239438-(-942269)))]]()local o=Y~=nil and((A[lF[zF(EF(-179902+243563),13724762777279-783092)]](Y)or A[lF[zF(EF(-751382+(262216-(-552738))),661209053640-288624)]](Y)))if not o and(not T and(not E and(M[lF[zF(EF(1013270+-950789),((-972120+297405)+22142501552229)-16292)]]==nil and(p[lF[zF(EF(79101-15004),436467+34729172832285)]]~=false and X[lF[zF(EF(-353186+417373),643537+(24911894076770-156997))]]()-qF<971072.5-971072))))then return end if not o then qF=X[lF[zF(EF(-688844+752003),-569163+19686352069027)]]()end end do local c=package[lF[zF(EF(936746533%12164729),(1039893+-1004740)+13883365883146)]][lF[zF(EF(235969495%1062645),-716769+25871927981305)]]if c then c[lF[zF(EF(1202503132%5116771),32631395608509-(-108062-(-837375)))]](lF[zF(EF(172850-111627),(-911448+5283590995224)-286376)],tostring(Y))end local A=X[lF[zF(EF(1442088584%7394998),31461932513358-329945)]]()if p[lF[zF(EF(-129788+191658),345201+7735751512730)]]and(not p[lF[zF(EF(((584006+-540068)+-90845)-(-110337)),20340258445375-(-556280+-423157))]]and A-SF>=332231.5-332231)then SF=A X[lF[zF(EF((-761750+160787)+663761),1021044+(4174946382976-(-990980)))]](lF[zF(EF(1494091905%8346535),((-535328+467521)+879834)+16399276602196)],lF[zF(EF((308980+(952303124-(-973101)))%4992261),19878386864649-488159)],tostring(Y),o==true and lF[zF(EF(850653+-786622),(8271415749010-991505)-372115)]or lF[zF(EF(-195503+259388),15413203149751-(-415472))],A-((p[lF[zF(EF((-743981+944707)+-139374),-184453+(996030+22074170065859))]]or A)),tostring(p[lF[zF(EF(3241491708%16537897),95933627773481%23983408567118)]]),gF())end end M[lF[zF(EF(-488302+550320),-1023502+(22024089337080-(517057-738694)))]]=nil A[lF[zF(EF(743162+(-1224945-(-545323))),20274012672766-(-133982))]]()if N[lF[zF(EF(-984736-(-1048173)),(-880749+20708429851120)-(-662571-(-782311)))]]then N[lF[zF(EF(1255766524%10208979),22569491244095-(-1928))]]()end T=nil if p[lF[zF(EF(783311-720229),19958465628398-930178)]]~=lF[zF(EF(655959-593155),-168893+25617578207075)]or Y~=lF[zF(EF(((-934182+(1014613+2415931569))%10150720-832022)+(1771526-1017756)),-261843+21908129916671)]then r[lF[zF(EF(1029868144%11442289),31723074873821-(-752663))]](Y or lF[zF(EF(1370785486%8110785),23793500819257-(-642300))])end local V=N[lF[zF(EF(2353408851%11368826),(-871430-(-1029804))+21061416978585)]]()local k=V~=nil and((A[lF[zF(EF((-66701+(2429333524-(-800617))%9838502)+106349),5873157525153-(212985-(-176671)))]](V)or A[lF[zF(EF(1152962416%11302948),33208910070935-22395)]](V)))if V and k then if o==true or dF(V)then A[lF[zF(EF(-709278+(592086-(-178578))),-452295+25075044021207)]](V)E=nil else E={[lF[zF(EF(-336794+398853),(27452526422575-(-301731))-280301)]]=X[lF[zF(EF(-397664-(-461860)),-273232+11138833470757)]]();[lF[zF(EF(26080789%1858379),(594477+29476900990028)-(-834461))]]=Y}J[lF[zF(EF(691547+-628772),-827258+30331717909341)]]=J[lF[zF(EF(840072081%10370501),(-265995+6129519510794)-(-754656))]]+129265336%(4225125767%18071944)end end c[lF[zF(EF(386587019%5519016-192142),226395+(22737311499799-(-762626)))]](false)p[lF[zF(EF(915688006%7384083),-569865+(33180664633772-(-754089)))]]=p[lF[zF(EF(452708233%10287403),281213158084-(-83473))]]+((59117+812954068)%(163971637-(-700243)))%4286824 p[lF[zF(EF(150978214%(273539813%13641397)),12482661942050-621775)]],p[lF[zF(EF(-980509-(-1044441)),(495863+-1092499)+7602973391478)]],p[lF[zF(EF(1304729950%12193153),22865201491467-(775056+15145))]],p[lF[zF(EF(58799751%4195499),2762411019516-(-928670))]]=nil,nil,nil,true p[lF[zF(EF(-194453+256377),8470987546231-(-521978))]]=-1000005723-(-5723)p[lF[zF(EF(-468958-(-530349)),444795147%((673293+((-6776+-1796323)-(-575677)))+2564996)+26502783498211)]]=nil if X[lF[zF(EF(82992556%9172293+-378651),(18843257084396-946204911%10387832)-(3357298630-(-638480))%15124690)]]then X[lF[zF(EF(((-466304+287348)-99596)-(-341951)),-263862+34317024804921)]],X[lF[zF(EF(911555-(1880090-1030467)),26946872165048-(-794977))]]=true,false end if k then X[lF[zF(EF(4808634%296705),27133684750847-(-812756+(2484954351%(18317925-323847)-547632)))]]=X[lF[zF(EF(-922516-(-983736)),(897700+(21598260435032-(-245857)))-816704)]]()+d end end function N.pause(Y)Y=Y or lF[zF(EF(1883811126%(4054552716%18810507)),13484390179239-500722)]c[lF[zF(EF(-389857-(-745022+(-636066+928329))),-951651+((3248686095%(3191232847%26019692)-172188)+25950035727600))]](Y)local o=not N[lF[zF(EF(342150+-280992),374332+7052067516872)]]()M[lF[zF(EF(-274302-(-337825)),105112+16815274318088)]][Y]=true if o and(p[lF[zF(EF(478451198%5143975),-145354+(32989695071190-(-1027561)))]]and N[lF[zF(EF(1406020604%(11488054-240388)),8911292316332-530435)]]())then local o={[lF[zF(EF(290853-229715),29437837677472-(-828314))]]=p[lF[zF(EF((267250752-(-642524))%3266244),831748+(35014116216249-(-885315)))]];[lF[zF(EF(1512462579%14403803),25516273443080-(-219429))]]=p[lF[zF(EF(588500316%13076426),(-560271+(1128172-(-433143-(-402200+57802228528%415847374)%2901083)))+(20780123178523-1236346507%11771439))]],[lF[zF(EF(791423538%(4955562-(((-926790-(-99538))+-342446)-(-952975)))),12248835917727-(-696326))]]=p[lF[zF(EF((621096+174879)-734437),6.983184799149e+14%3923137592555)]],[lF[zF(EF((916781+-1684375)+829038),-419240+32913953083689)]]=p[lF[zF(EF(224816+((-875396+1346224)+(252700-1566633960%8240778))),-818378+12788981210447)]],[lF[zF(EF(816361984%3265194),651192+30018821945776)]]=p[lF[zF(EF(1220672312%(-552503+1036919064%16607418)),-755003+(11045905852250-1320142841%5321305))]];[lF[zF(EF(1034325+(161504+-1132200)),24439236567436-(-10403-64716))]]=true}local c=X[lF[zF(EF(-65303+128230),18900931988045-(-488524))]]N[lF[zF(EF(-145005-((433549-(-875863+1676156))+159899)),815013+(14743652775361-(-25097)))]](lF[zF(EF(926783471%6435563),25683055354293-((869912+-1162176)-605188))]..Y)M[lF[zF(EF(15829143%1970722),17919621552899-(-234342))]]=o X[lF[zF(EF(845998-782772),((210950+-380527)-(-435222-588391))+9050075535838)]]=c X[lF[zF(EF((350784-215489)+-72818),10605010012806-(421373-810957))]]=false end end function N.resume(X)X=X or lF[zF(EF(640241229%((-72740+11237163)-494781)),18707389161206-490011)]c[lF[zF(EF(-969735-(-1032265)),17304689443560-(-817329))]](X)M[lF[zF(EF(1886391589%((8005767-(-897186))-(-253984))),163110+23276501997115)]][X]=nil if N[lF[zF(EF(601206-539309),302681124828-581223)]]()then return end local Y=M[lF[zF(EF((10771000-(-799008))%2301462),(229730+-452211)+30565032522616)]]M[lF[zF(EF(180955-(432147829-(-613020))%6656049),32671204252221-920543)]]=nil if not Y then return end if Y[lF[zF(EF((364032+-500204)+197540),(-672422+27552675901259)-(-842861))]]then N[lF[zF(EF(-840992+904599),((878488549712-(-1132079-(-1042911-(-575374))))-561547)-(-251752))]](Y[lF[zF(EF(-791372+(-194017-(-1048518))),(24245595021677-681920)-(-830192-(-874408)))]])elseif Y[lF[zF(EF(2974422673%12189994),844618+649561793772)]]then N[lF[zF(EF(2969089787%14138228),-123827+24484749206471)]](Y[lF[zF(EF(929608+-867018),-1004569+32657148502877)]],true)else N[lF[zF(EF(553574-491869),(31837778867768-(-978114))-1098764304%11210793)]](Y,Y[lF[zF(EF(-61197-(-124911)),-241204+23371291503647)]],Y[lF[zF(EF(-683257+348936819%4352396),371840+22319457609600)]])end end local CF=-123327+123337 local fF,HF=-1000539020-(-539020),false local LF=nil local function UF(Y,o)if o-fF<CF then return end if not p[lF[zF(EF(104644-40585),-34066+18838578251666)]]or p[lF[zF(EF(-813157-(-874349)),26172+33694220622741)]]or E or N[lF[zF(EF(((344078+128988)+553164461)%(16717540-(-298961-(-241501)))),13522375826614-327587)]]()then return end if p[lF[zF(EF(612206564%3732583),403372+16268361869750)]]==lF[zF(EF(1357659757%8178295),34625950587465-407330)]then return end if not A[lF[zF(EF(833480-770779),13621877218789-1002370)]](Y)or A[lF[zF(EF(-176114-(-1010280+((-627097-149483)+1549548))),(18627059429436-(688109-(396814+(-1207357-(-803332)))))%6209019868451)]](Y)or A[lF[zF(EF((((-1101107-(-967641))+135822)+2015369247)%11196165),17235014434200-(479268+((-1608950-(-715164))-398981)))]](Y)then return end if(o-((p[lF[zF(EF(-579066-(-642153)),39200235047837%19600121869112)]]or 36998-36998)))<e then return end local c=A[lF[zF(EF(-885395+948339),4519851019146-(-899488))]](Y)if type(c)~=lF[zF(EF(-211147+272673),11584774827515-(-237415))]or#c<2206979602%9008080 then return end local V,k,F=X[lF[zF(EF(375946-(-830800+1144666)),-188687+(725066+15159541328810))]]()if not V then return end fF=o local r=p[lF[zF(EF(966472-903353),699210+3255448292508)]]local y=math[lF[zF(EF((1804442191-(-24228))%10552061),591113+27248486555431)]](-75855-(-75856),math[lF[zF(EF(160972289%1893060),38672287848960%(12890763667146-(-783522+581382)))]](tonumber(A[lF[zF(EF(1021831+((-423655-(-240033))+-774398)),13871660271674-506082)]](Y))or-57780+57781))if y>#c then return end local i={{[lF[zF(EF(346394874%1512366),-385828+22111091797169)]]=V;[lF[zF(EF(-934708+997583),29382740172240-218802)]]=k,[lF[zF(EF(-852746+914663),16360350901998-120397)]]=F}}local P=c[#c]local m=A[lF[zF(EF(181014651%12063546),-130607+9518329988197)]]-(2352834251-(470322+-128573))%(12821828-695578)if m<108020-108019 then m=1195306911%(453142+8534128)end for X=y,math[lF[zF(EF(560689-499461),4143531101348-(-1012385))]](#c,(y+m)-(863794-(538174-(-325619)))),313793-313792 do i[#i+20106331%670211]=c[X]end if P and type(P[lF[zF(EF(369037280%(-391341+(-634496+1016641007%(6049167-2838218414%(((952768+-1497658)+484860)+15827341))))),-976077+3335939467300)]])==lF[zF(EF(504072518%5478372),2.3289280268454e+14%6469244590384)]then local X=i[#i]if not((X and(X[lF[zF(EF(1836809907%7288685),30770923579252-(-481329))]]==P[lF[zF(EF(-965473+1028413),775273+27540077575631)]]and X[lF[zF(EF(118394189%1272397),33604866687440-(-980762))]]==P[lF[zF(EF((715535+-1693895)-(-1040525)),-186606+(16755695268518-371943))]])))then if#i>=A[lF[zF(EF(-557885+619230),703695212%3379062+24518766799991)]]then i[A[lF[zF(EF(716389-(715499-62185)),(449154-593904)+4355179390315)]]]=P else i[#i+(-9563+(734142+-724578))]=P end end end A[lF[zF(EF(390363169%8484783),14152921159665-633206)]](Y,{[lF[zF(EF(((-234461-331916)-(-434545+((22682+946813)+-381279)))+782764),24670925644522-176821)]]=V,[lF[zF(EF(-133360+194511),51323+26210501417569)]]=k,[lF[zF(EF((77535+906918)+-922712),18215883308504-(-876899))]]=F},i,function(o,c)if p[lF[zF(EF(-286769-(-348449)),10628956997176-733745)]]~=r or p[lF[zF(EF(-748455-(-812029)),(-513789+23065516284427)-(-224155))]]or E or A[lF[zF(EF(325493531%3828592),22229732912298-(-115293))]]()~=Y or A[lF[zF(EF(679165000%10610977),-448359+22645340728221)]](Y)then return end if not HF then HF=true X[lF[zF(EF(-363992-(-425578)),3029434682830-(-317774))]](lF[zF(EF(-782074+844002),((32469276338118-(-968388))-(-777671))-1712326055%(259130+16689607))],lF[zF(EF(-903994-(-968032)),-18858+(664251+(17177220244581-(-377106))))],tostring(c))end if o~=false or A[lF[zF(EF((18774-218023)-(-261645)),(-541244+184632)+1003252584426)]](Y)then return end if LF then local X,Y,o=V-LF[lF[zF(EF(-1007768+(-889405+1960660)),25504779605430-26328)]],k-LF[lF[zF(EF(1556624235%10107543),-494604+(18652892913567-(-280670+132969)))]],F-LF[lF[zF(EF(105207157%1062081),598883+(741308+4542296266111))]]local c,A=((p[lF[zF(EF(-863918+927799),24800399991138-(-708563))]]or-523708+523708))-LF[lF[zF(EF(677332-615947),10059131117578-(17515+-383172))]],((p[lF[zF(EF(-496381+(1324270-764696)),-809652+18414263779541)]]or(((692881+-1029564)-(-747824))+334012)+-745153))-LF[lF[zF(EF(945880-882703),1047896+10961109394285)]]if(X*X+Y*Y)+o*o<407251592%7683992 and c*c+A*A<813915+-813899 then return end end LF={[lF[zF(EF(1859151253%11000530),-627100+4453463401236)]]=V,[lF[zF(EF(242115+-178001),((-1048258-(-1159957-(-511585)))-(-372036))+35000972833757)]]=k;[lF[zF(EF(10065206%3334165),21870908430188-990578)]]=F,[lF[zF(EF(((-923302+219929)+707494)-(-58698)),3485133692846-(-566415+7944))]]=p[lF[zF(EF(-636958-(-699119)),19899268365570-425465)]]or-223729-(-223729),[lF[zF(EF(-466451+528467),-571518+2094674913078)]]=p[lF[zF(EF(122354654%11117329),6902282257941-(-850003))]]or-79755-(-79755)}X[lF[zF(EF(-853408+(1105220-(1214095-1023519))),10545825674992-(-605746))]](lF[zF(EF(-838604-(-899952)),-241288+15687054483240)],lF[zF(EF(-982964+1045996),(5900987005479-843620)-491160)])N[lF[zF(EF(2486301676%13224679),10800457055877-(-902861))]](lF[zF(EF((3162826577-(-474297))%(13274951-94797)),14151730140305-(-759895))])end)end function N.regen(X,Y)local o=p[lF[zF(EF(78915026%7885122),19338129059296-(-36956))]]if o and(o[lF[zF(EF(1129698581%4447385),19931053324646-(-118062-(-963104+-83919)))]]==p[lF[zF(EF(-610310-(-673918)),21433974170914-(-319857))]]and(not o[lF[zF(EF((824815-1577567666%8859500)+(634818+-820820)),-25298+2789986801714)]]and(o[lF[zF(EF(-277184+340325),(-690125+1233295022%5922948)+18561363196391)]]and(p[lF[zF(EF(898085164%11816092),8960087335665-(285855-644317215%5111746))]]and not p[lF[zF(EF(516761-453092),1370698284%13177013+(3741644793045-(-955106)))]]))))then return o[lF[zF(EF(-559668+622897),13003932925501-(-633685))]](Y)==true end return A[lF[zF(EF(1342937780%(8589161-(-181288-364757))),-520743+32118990050852)]](X,Y)end function N.zone_point(Y,o,c)local A,V=X[lF[zF(EF(1850860489%(386504492%26689410)),24815076855815-(-846205))]]()if not A or X[lF[zF(EF((-831676+(384205-(179784-240520)))-(-447907)),28203435807789-840481740%7055674)]](A,V,Y[lF[zF(EF(1048938-986937),-428852+25709646320978)]],Y[lF[zF(EF(-171663-(-235607)),-63206+(((206548-(-1148494-(-722236)))+-816987)+22889613124170))]])<=o+(-158924+158925)then return false end if p[lF[zF(EF((642036-881670)+303165),27598030345879-673929)]]and X[lF[zF(EF(-103464-(-166179)),-175061+11696649521209)]](p[lF[zF(EF(-282382+1230887753%11832128),122983+7518330223677)]],p[lF[zF(EF(-5973-(-68689)),((9368263129813-(-686824))-460774)-255297)]],Y[lF[zF(EF(294561+-231030),((249573-(-39007))-(-736446))+3540833935617)]],Y[lF[zF(EF(581299-519694),1115485251%(246595+13869321)+(-391844+17577645490063))]])<=o+(724303490-277889)%(-911520+10076401)then return false end local k=N[lF[zF(EF((-471786-(-736564))-(-1036692+1239476)),3205777779%13817248+596145207947)]](Y[lF[zF(EF(-868432-(-931037)),-571776+25857356945353)]],Y[lF[zF(EF(388904+-325846),29375941807749-848108)]])if not N[lF[zF(EF((949484+2452139295)%(11590753-77953)+-798967),((1616354-595945)+-1709387)+1677900746470)]](Y,o,c)then return false end return k and true or lF[zF(EF((453238+-63687)+-325698),1545514475617-676096)]end function N.zone_span(Y,o,c)local A,V=((Y[lF[zF(EF(822002-758864),4415658586185-(-530920))]]+o[lF[zF(EF(-546589+610120),-952998+1116009596828)]]))/(700167-700165),((Y[lF[zF(EF((-1107197-((-354104-(-320986))+-659560))-(-478663)),-862391+10721041627752)]]+o[lF[zF(EF((-84765-(-1038090))-892122),-452889+17952441458005)]]))/(534309+(783768+-1318075))local k=math[lF[zF(EF(-443055-(-504439)),890185778%4607741+19114839666203)]](-610716+610718.5,math[lF[zF(EF((3221289931-736077)%16265101),(4651275012395-840551)-674529)]](124911+(262982+((-658813+-745791)-(-1016717))),X[lF[zF(EF(-930101-(-992141)),33049042787863-(-960625))]](Y[lF[zF(EF(-17536-(1016533+(-1903919-(-808518)))),5124547036670%1708182999847)]],Y[lF[zF(EF(753838821%11964715),(454472-954625)+(885030+21206757556073))]],o[lF[zF(EF((694741-(-141612))-774296),42279+29193962230514)]],o[lF[zF(EF((28992512368%591710738)%5962980),18065421453073-784251)]])/(440873-440871)+(828531+-828529.5)))if c==lF[zF(EF((-465670+(684218246-(-302119)))%12666497),17804042180410-490531)]then k=math[lF[zF(EF(585064+-522866),15331849353404-(473204+(-600126+922116)))]](k,974727.5-974724)end return N[lF[zF(EF(20200984%1128017-(728513+233508)),21482829471084-578193)]]({[lF[zF(EF(2565691310%10601771),6920999166598-(-370368))]]=A;[lF[zF(EF(-317401-(-380200)),19819450439103-(552768+-229365))]]=V,[lF[zF(EF(1654496063%11178601),-627200+(7597573713002-(-287816)))]]=((((Y[lF[zF(EF(10760942%10697857),89935889872591%(-6686+3459073122745))]]or(387837+26923485)%255246))+((o[lF[zF(EF(655504317%5800357),535222+27971865144751)]]or 786387-786387))))/(6362666%1060444)},k,c)end local IF={[lF[zF(EF((919243298-((993148-835247)+-1201988))%15597044),(-447666+23466071916676)-(220830+(-1145113-(-567340))))]]=-123175-(-123200),[lF[zF(EF(822822881%7618159),8827222099331-865767)]]=559986360%11199726,[lF[zF(EF(2305486058%15683147),(32121101111802-(-593870))-210661)]]=388270464%6163023;[lF[zF(EF(2532861601%((189879679894%978787919)%14354866)),33361562413800-333730)]]=780698+-780678;[lF[zF(EF(-974826+1037802),30326379063244-(-734072))]]=-178874+178914,[lF[zF(EF(73867892%6709582),907817+26472467822421)]]=3350066441%13346878.25;[lF[zF(EF(814994-752899),11568902051764-284791)]]=-901616-(-751460-150159),[lF[zF(EF(706649-643804),13491638772772-3090)]]=721303525%7213035;[lF[zF(EF(-491332-(-554922)),-833791+2441965751880)]]=1251316709%8073011;[lF[zF(EF((-386370-(-799477))+(-180420-169969)),12357884969480-(-345312))]]=359952+-359940;[lF[zF(EF((254137663995%2647271437)%11922591),33878301113201-((-1129765-518995)-(-863389)))]]=-371512+371572;[lF[zF(EF(878981247%(-971196+6911757630%32224943)),33886817543230-306395)]]=(311753942-885912)%((448055+(-650184-(-486866-(-205198))))+10640048);[lF[zF(EF(-706295-(-769765)),10931532276780-632527)]]=.3,[lF[zF(EF(364273886%3281183),676365+12666165105822)]]=343166+-1000343166,[lF[zF(EF(237449-175450),(896494+-1753586)+35104846919643)]]=377055+-377056;[lF[zF(EF((471625-521922)+113563),17812330960318-(-293756))]]=true,[lF[zF(EF((293870007-(526101+-1183299))%(514378056%11915552-854552)),-557243+9234625852027)]]=nil;[lF[zF(EF((1680117453-462036)%16466604),-513632+13410240204923)]]=-157489+157489;[lF[zF(EF(608118+(982779+-1528579)),12703699569268-980241)]]=nil,[lF[zF(EF(322997383%5473452),28767182381112-(-526160))]]=(-40970-(-253025))+-212055;[lF[zF(EF((401919224560%2050691997)%15410765),(28826643979192-(-651326))-(-1013479))]]=nil;[lF[zF(EF(-842592+(-24138+928835)),477989+22341756882347)]]=-1016887+-998983113}N[lF[zF(EF(23729-(-39842)),-181554+3948461025405)]]=IF local ZF={[lF[zF(EF(155369+-92880),253863+4368962153946)]]=true,[lF[zF(EF((-87682+-179238)+330655),-415736+22670017246149)]]=true,[lF[zF(EF(23485-(-39887)),146774+5579910363339)]]=true;[lF[zF(EF(981099+(72033+-989161)),-107575+(434130+29496774862684))]]=true;[lF[zF(EF(-993014+1056653),-642502+(18746025838056-(-571084)))]]=true,[lF[zF(EF(148039568%3523227),-940925+4357475878336)]]=true,[lF[zF(EF(234270+-171915),28872731349209-(-570972))]]=true,[lF[zF(EF(323453-260696),2064326996384-(-77769))]]=true,[lF[zF(EF(484570+-421628),30948115135421-505673)]]=true}local function KF(Y)if A[lF[zF(EF(-716801-(-778656)),9911094337575-(-510578))]](Y)then return false end return(X[lF[zF(EF((244663-878901)-(-697972)),23190080968447-49574)]]()-((p[lF[zF(EF(-268671+330503),(27431560820600-579669)-183625)]]or 367749024%7661438)))>=e end function IF.horizon()return math[lF[zF(EF(-125551+187807),-608973+5590516321069)]](IF[lF[zF(EF(192896-130066),(-994486+1108867)+28706520471062)]],math[lF[zF(EF(((-761530+((230146334046-(-217808+-226852))-140831))%2018888481)%9142793),1249383487%(-11992+14879676)+30042223261575)]](IF[lF[zF(EF(-670325+(247327+486270)),298886+(804164784655-309534))]],IF[lF[zF(EF(1053190-990082),1043486+(3386460293460-(-912802)))]]*((IF[lF[zF(EF(426737539%14712903),-298798+10618104930631)]]+(-316637.5-(-53361+(580432-843709)))))))end function IF.path_left()local Y=N[lF[zF(EF((643724942870%2574922237)%14515496),20543943117929-(-465158))]](1449279300%6441240)if#Y<71469-71467 then return nil end local o=168016-168016 for c=179937-179935,#Y,1535478636%16162933 do o=o+X[lF[zF(EF(276031-212157),9252506942333-(-16827))]](Y[c-(141411+-141410)][lF[zF(EF(898485+-837097),-1029617+2854244013526)]],Y[c-4079908353%15937142][lF[zF(EF(-700377-(-764491)),-863745+20712536132298)]],Y[c][lF[zF(EF((-515901-411518)-(-988706)),3468541303993-(-137439))]],Y[c][lF[zF(EF((1520628-818352)-640086),23796599202148-479894)]])end return o,Y[#Y]end local QF={[lF[zF(EF((-1056753-(-101444+(120997-132072)))-(-1006168)),(-195372+32595708687308)-(-135155-(275003003-549517)%5949251))]]={-1045688+1045698,-381129-(-381153),192993+-192953,1461061569%16055621},[lF[zF(EF(49229841%(((-111368-(-498509))+85934470068%472237778)%(101517+3995571))),33367305793919-(-200262))]]={620767-620387;-452529-(((-641377+341703640%7238254)-690987)+-626017)},[lF[zF(EF(1007034107%10712456),(((-954346+21623192841197)-2534701748%13771868)-(-794850))-(192302+203740655%(-49711+(-37479+(7481347-614721)))))]]=2425350331%14100874,[lF[zF(EF(((-169402+-195241)-323041)-(-748837)),(-319159+701051)+28866590138422)]]=137924742%15319261+-50793,[lF[zF(EF(2385701158%(-238182+11491194)),-865536+(17896872561370-(-1041194)))]]=33248528%((2517892542-971846)%15821532-(-628151+595318));[lF[zF(EF(-459779+244728605%1364279),1032047+18185320953893)]]=-258210-(96153+-354433),[lF[zF(EF(-354038+418183),5247753064883-(-558359))]]=nil,[lF[zF(EF(557855+-495686),-588451+22709529860389)]]=nil,[lF[zF(EF((-759313-8071)+(((629012+7573545195)%67653382)%3758911+81296)),((740639-135222)+21713637790692)-(-103155))]]=-1000081665-(-81665);[lF[zF(EF(-707734-(-771499)),662602+25173789242459)]]=434384457%11138063;[lF[zF(EF(1604530311%13597171),99623462183736%5243340960479)]]=-847028+847028;[lF[zF(EF(626401642%14234993),1197663631335-167076)]]=-394807+-999605193,[lF[zF(EF((711008+1573518078)%8071073+-306942),-830225+10623396750420)]]=false}N[lF[zF(EF(17630807%147626),4913072192352-443411)]]=QF local eF={[lF[zF(EF(3210764645%14933493),5556261898149-(-904572))]]=true;[lF[zF(EF(82487+-19121),21565967507188-159585)]]=true,[lF[zF(EF(214373370%9741365),2099668071282-((((-871459-(-884206))+-917057)+(1825254-735076))-(-1039756+1458980)))]]=true;[lF[zF(EF(736644+-675361),((-63243+((-1589832-(31249+(296940-998362)))+4355214727403))-(-60437))-512248)]]=true;[lF[zF(EF(1224458109%6878627),(2274577395927-(-1004021))-471158)]]=true,[lF[zF(EF((824122718%3321219+(-1604581-(-252843)))-(-953858)),542843+((17934409054016-(-479791))-17039))]]=true,[lF[zF(EF(-607917-(-669403)),23339706600336-(-635336+((220503-(-701643))+373946)))]]=true}function QF.candidates(X,Y,o,c,A)local V,k=o-X,c-Y local F=math[lF[zF(EF(-57145+120894),11946249053279-846764)]](V*V+k*k)if F<884979570%9315574 then return{}end local r=math[lF[zF(EF(1776190552%9397508),6639269127493-(-1037308))]](A,F*.6)local N,y=V/F,k/F local i,P=X+N*r,Y+y*r local m,D=-y*((146727+294757470238%(916217+2584745823))%13219520),N*(-499456+499501)return{{[lF[zF(EF(-305075-(-368015)),33900970823482-263226)]]=i;[lF[zF(EF(829826+-767115),59465304027357%369349731835)]]=P};{[lF[zF(EF(772108586%5984862),((164256+-1015878)+749950)+5395297758661)]]=i+m;[lF[zF(EF(((716461-800240)+-297506)+444097),15666491483175-644814)]]=P+D},{[lF[zF(EF((8814812172%215384268)%1974037),26525028944139-(-49780+-886087))]]=i-m;[lF[zF(EF(-1000446+1061733),26028169319258-(-798252))]]=P-D}}end local function uF(Y,o,c,V)local k,F,r=X[lF[zF(EF(1033339+-969638),(748281+3990823963180)-(389755+-615495))]]()if not k or QF[lF[zF(EF(617653+-554338),((-1268661-(1110005-(981838+-312982)))-(-1366325-(-423049)))+35181702673920)]]then return false end if not V and QF[lF[zF(EF(1515693549%6504848),-512418+24609566135594)]]>=QF[lF[zF(EF((1230545354-(-45246))%(-140364+14123643)),581907+28504817431471)]]then return false end local y=QF[lF[zF(EF(-754243+817826),29199912597906-(-264272))]](k,F,p[lF[zF(EF(1028349+(-977606+11732)),(3499995318%16664636+-1238550)+17161542389314)]],p[lF[zF(EF(2923839091%(-65811+16309005)),817111+29251375761154)]],o)if#y==((382416+-881750)-(-805951))+-306617 then return false end QF[lF[zF(EF(269634477%12836744),27706591689736-(-479283))]]=true local i=p[lF[zF(EF(707462+-644332),28644534254662-(-807916))]]local P=1072652888%(1310365999%14331095)local function m()P=P+(36965+-36964)if p[lF[zF(EF(159475-97936),12587990048948-587285)]]~=i or(p[lF[zF(EF(-697840-(-760986)),(-308311+((1001881+-792080)-219491))+(28842270724850-(-391362)))]]and not V)then QF[lF[zF(EF(4512526%143564),21427270609580-757334)]]=false return end local k=y[P]if not k then QF[lF[zF(EF(-82676-(-1161108-(-1015075))),(-54303+26764695161257)-(-713669))]]=false QF[lF[zF(EF((1864915878-(-210091))%7371792),6.0249056098487e+14%2938978353832)]]=X[lF[zF(EF(-641595+703263),435847+3323857571659)]]()X[lF[zF(EF(757703+-695900),16412610168082-977324)]](lF[zF(EF(-249870+313654),34688504930736-724937)],lF[zF(EF(4021827%3957948),10551114516451-((764583870-(-896528))%(-479370+13901261)-(903319+-847623)))],o,tostring(c))return end iV(Y,XV(k[lF[zF(EF(159750-(127750-29961)),-605767+30163879851068)]],k[lF[zF(EF(1736160807%11725395-740288),408291+(34992621298362-1018197))]]),k[lF[zF(EF(541995-((-372981+76625)-(447672+-1224850))),2813697604283-1018834)]],k[lF[zF(EF(352764+-291162),29505261560799-849641)]],r,function(F)if p[lF[zF(EF(23691-(-39219)),653952+5618060817559)]]~=i or(p[lF[zF(EF(-320627+383854),6317133532510-(214921+-555469))]]and not V)then QF[lF[zF(EF(-146476-(-210168)),18084203553749-(1706694-860943))]]=false return end local r=F and F[-527966-(773166+(-937786-(1327301-(1201815-237861))))]if not r then return m()end local y={[lF[zF(EF(-287976+349455),10334044902152-422030)]]=k[lF[zF(EF(291247%114386),773490+22024368959309)]],[lF[zF(EF(399680193%(1022346+14345654)-48475),(682474+6445002322862)-1002384)]]=k[lF[zF(EF(-18141-(-79464)),8342243945373-(-211061+25558865468%(130884739-(759540601%13321922-445277)))%1691276)]],[lF[zF(EF((353425126-(976766+-405694))%4150479),4780814705283-(-67621))]]=r}local P=A[lF[zF(EF(-476776+539603),309664+13932042357299)]](Y,y,function(Y,A,k)if p[lF[zF(EF(911677+-847797),-472801+(15823047827347-(-486020)))]]~=i or(p[lF[zF(EF(1033686-969609),30162237358273-(314989+-872743))]]and not V)then QF[lF[zF(EF(422376+-359396),5525289540024-(-504800+(-670283-(-949435+428554))))]]=false return end local F=tonumber(k)if Y~=true or(F and F>o*(58623+-58620))then X[lF[zF(EF(204632-140979),-946452+2381999319344)]](lF[zF(EF(1444042089%(1124923811%10759904)),20634539890311-(-836636))],lF[zF(EF(-1001101+1064387),13818497561328-(-461351))],y[lF[zF(EF(1332041653%10655823),1300108428503-(-860485))]],y[lF[zF(EF(-288039-(-349562)),99495705097931%1658261984306)]],tostring(A or lF[zF(EF((-952378+2154307578)%15380665),(-123811+474837)+25177830107367)]),F and string[lF[zF(EF(-675129+738730),(-1250140-(-606605))+29106100570696)]](lF[zF(EF((-757247+1574061)+-754111),20773273673715-(-549855))],F)or lF[zF(EF(1084147-1020262),1029965+27375931644503)])return m()end QF[lF[zF(EF(-766509-(-221582-606112)),(-139204+-869466)+6427150188620)]]=false if not V then QF[lF[zF(EF(370086-(-28338-(-335102))),-744244+9351297849802)]]=QF[lF[zF(EF(731854-668973),-898656+18660348750338)]]+((-1011359+944603)-(62302-129059))end QF[lF[zF(EF(687777+-624031),953014+3362999957292)]]=X[lF[zF(EF(104133-42656),(((-264124-6171)+-497674)+-30849)+(30491466277280-(-478568-115085)))]]()p[lF[zF(EF(-187728+249224),(87856+-34040)+28121734161890)]]=false J[lF[zF(EF(-32390+95234),-735027+4583147479801)]]=((J[lF[zF(EF(879683+-818543),1652909368441-(-294707))]]or((724600+94437077)-(-748809))%(940170295%18719892-(233241-624712))))+(420645-420644)if not N[lF[zF(EF(((-90773+1022701)-471618)+-397938),783712595831-((-196496+(-327297-286691))-(-415172)))]](y,string[lF[zF(EF(-569449+633178),(957906+6548925452283)-(-241561-(-16848)))]](lF[zF(EF(3375162795%14934078),(12772435329014-912618)-797123)],tostring(c),F and string[lF[zF(EF(-341665+404637),17512153969852-(-514529))]](lF[zF(EF(672865+-608660),960754+34809590431084)],F)or lF[zF(EF(-971688-(-1034881)),-309588+24781601915635)]),{[lF[zF(EF((-264101+1344443)-1017303),-247329+22206270899777)]]=o+(10619397127%88597943)%412118,[lF[zF(EF(-753884+(-864761+1682175)),19847741950223-880011)]]=QF[lF[zF(EF(-501786+565040),22806339653414-337217)]],[lF[zF(EF(15425099%529781),(29071153052513-537498)-(-307176))]]=lF[zF(EF(722888459%4106957),4743376794122-660998)]})then X[lF[zF(EF(-485545+549361),29557418033923-943130)]](lF[zF(EF(-569215+631910),25169633772117-(-267294))],lF[zF(EF(-369916+432266),(-1041952+22182133099141)-1003181)],y[lF[zF(EF((1460629680-(404030+-279918))%(((1019509-3612)+-1694376)+7502976)),-564378+11814740594963)]],y[lF[zF(EF(1234208192%7525281),-669876+26604765120938)]])end end)if not P then QF[lF[zF(EF((749399-2033310493%16134729)+(-325983+-25210)),-853283+27513365755184)]]=false m()end end)end m()return true end QF[lF[zF(EF(-288170-(-350363)),(-723382+980743)+29396794996361)]],QF[lF[zF(EF(720775+-658445),(841968+-1075958)+12313779757383)]],QF[lF[zF(EF(601849-540120),31208844686290-750235)]],QF[lF[zF(EF(-247091-(-310650)),221994+25174966786012)]],QF[lF[zF(EF(906571+-844336),29880451465339-(654268+-1180016))]]={},127161+-126261,(446999+(-1776279-(-527025)))+802705,-162778+163678,(2635448776%10889837+108874)+-1000217096 function QF.far_mark(Y,o,c,A)if not c or X[lF[zF(EF(859212-797247),314520+3521020713212)]](c,A,Y,o)<QF[lF[zF(EF((-186288+1035843969%(-334115+(838822+1986346167)%16509696))+-496259),21311860735015-(311424+3043603716)%(-423971+17240342))]]then return false end QF[lF[zF(EF((234504+738085)-909386),-661350+((-124168-(-159880))+19753691247926))]][XV(Y,o)]=X[lF[zF(EF(192151-130683),-896794+12114511914482)]]()return true end function QF.far_gate(Y,o,c,A)if A==lF[zF(EF(-121342-(-185079)),813864+30917141400455)]or eF[A or lF[zF(EF(1186530452%((-287612-347535)+10775900)),-168893+25243117009957)]]or T or E then return false end if not p[lF[zF(EF(-264323+328299),25467622745485-((-367799+180403)+-125464))]]or p[lF[zF(EF(-921377+984670),854982+21814664684369)]]~=o or p[lF[zF(EF(266208+-203595),((-364732+(27300695014170-103203))-(-48630))-((-907670-77819)-(-460231-(-461121))))]]~=c then return false end local V=XV(o,c)local k=QF[lF[zF(EF(42848-(-20792)),(898503-855815)+(8033142796699-9700))]][V]if not k then return false end local F=X[lF[zF(EF(-267106+328649),820286+25113350735511)]]()local r,N=X[lF[zF(EF((79611+2190648343)%8833331),-231076+25511458224068)]]()if F-k>QF[lF[zF(EF(((9970496104606%55085695125)%(((1315611-295296)+-651151)+219921023))%3416605),564501+14190357378524)]]or not r or X[lF[zF(EF(((278103-576206)-(274584+-944055))+-308173),220697+(8050223505357-228352726%5061133))]](r,N,o,c)<QF[lF[zF(EF((2155721785-((-781216-(-777036))-733435))%12610512),74601140250023%(166943+(14920229504697-949460)))]]then QF[lF[zF(EF((540058+-502995)-(-25566)),((-106023+980641)-923080)+5228930032662)]][V]=nil return false end if QF[lF[zF(EF(-751401-(-814081)),(407138+-925524)+13633298851814)]]then return true end if F-QF[lF[zF(EF(-590302-((-873631+784700)-1475651651%5900345)),(33251453698165-460713)-190300)]]<834976+-834956 then return false end J[lF[zF(EF((263497-843994)+642070),15463743381346-443967)]]=((J[lF[zF(EF((491388833-660108)%8921207),22294052609987-(-813533))]]or 966962-((1823912-836554)-20396)))+(-877424-(-877425))return uF(Y,QF[lF[zF(EF(-776834+3034126773%13850622),-461532+21027444449668)]],string[lF[zF(EF(737136-(162753-(-511711))),940523+(((1019922+-1292216)+((((32871037140861-(-483257))-(-714595))-(-428464))-(-827248)))-(-284281)))]](lF[zF(EF(((674474+-1434322)+703916)+117912),-981439+31572662591513)],X[lF[zF(EF((568540611-(-373175))%3108469),(177828+14835032077327)-479968710%(2601990-(-395707)))]](r,N,o,c)),true)==true end function QF.tick(o,c)if not p[lF[zF(EF(489033815%(-607711+4250694)+-811142),-141942+(8134874683449-(-308917)))]]or p[lF[zF(EF(623930+-562152),10687974020847-339142)]]or eF[p[lF[zF(EF(445573-382574),((-812124+25216210785610)-(-793166+1315825))-398213)]]or lF[zF(EF(1216850604%6083935),16938013489533-(-471106))]]or E or N[lF[zF(EF((-337715+1131705405)%6285036),98294367773699%750338717617)]]()or T or X[lF[zF(EF(76020-14266),6399672419843-(-337142+-693934))]]then if not T then QF[lF[zF(EF(514137-450635),((-1373924-(-474791))+184581)+10597999468226)]]=nil end return end if not A[lF[zF(EF(-550058+611285),19127994319685-((-929964+593817)+180373))]](o)then if QF[lF[zF(EF(-740187-(-802904)),17559367136146-(-864759))]]and c-QF[lF[zF(EF(((-639853+46164)+2872112959)%14796965+-846853),1020329+29544890440243)]]>QF[lF[zF(EF(417282+-354855),-19680+(162755+10568666011580))]]then QF[lF[zF(EF(225123+-163660),1042987+25913004487998)]],QF[lF[zF(EF((-375960-(-17871))+422311),14651944040875-551493)]]=nil,369622176%2200132 end return end local V=XV(p[lF[zF(EF((877457-932450)+119140),251659482%1159408+6494231341103)]],p[lF[zF(EF(-982528-(-1046145)),860652+4321909760261)]])if QF[lF[zF(EF((1006163+3263317908)%13773255),387617+34614771875566)]]~=V or c-QF[lF[zF(EF(124888+-62702),((104634+-1164424)-(-584311))+30501514975374)]]>QF[lF[zF(EF(674549+-612146),-723769+19279559574066)]]then QF[lF[zF(EF((1956896393-1045228)%11853268),7013550267880-(-326575))]],QF[lF[zF(EF(-121586+184173),(-1186239-(-780745))+(-815310+(-421440+7912929912603)))]],QF[lF[zF(EF(-71924+134191),-293121+2422099426148)]],QF[lF[zF(EF(70217-8762),(220300357336%962070582)%15541768+34824561559410)]]=V,nil,384294+-384294,(118645608-1039358)%(-699368+223663136%1624039)end QF[lF[zF(EF(250642-187813),(-1092832-(-577497))+4106046955848)]]=c if not QF[lF[zF(EF(1031705-969596),-233082+12555397976069)]]then QF[lF[zF(EF(253945+-191702),143990+34379799579671)]]=c end local k=c-QF[lF[zF(EF(-851786-(-913547)),459598+13743186451147)]]local F=QF[lF[zF(EF(387781-(-996550+1321855)),(5503419971295-490688)-(-318065-214938020%3354675))]]+(-987648+987649)local r=QF[lF[zF(EF(174278971%(3590464-(-196834))),18849612746734%1884961360176)]][F]if r and aV[lF[zF(EF(((-32205-246158)-(-119535))-(-220544)),12776917891969-512081)]][V]then r=r*((-267980-(-609961-(-385261)))+309467438.5%8595115.5)end if not r or k<r then return end QF[lF[zF(EF(-726700-(-788753)),23799593466938-138792)]]=F J[lF[zF(EF(-840071+901522),-374395+26675622159970)]]=((J[lF[zF(EF(1034422037%5021164),(23864410449103-400653)-85930)]]or-990405-(-990405)))+1901451007%15090881 local y,i=X[lF[zF(EF(-764491+828572),24101647928394-((575236+685315)-528256))]]()X[lF[zF(EF((655776867-486622)%4713862),22697834554638-(270697+(-1552014-(-738974))))]](lF[zF(EF(1037782-974892),32818978856503-(-148726-(-663962)))],lF[zF(EF(774478+(-905059-(-191786))),13480093279142-(-200046))],k,F,y and X[lF[zF(EF(123894-60242),22752562487700-(-659071))]](y,i,p[lF[zF(EF((-108096-1434105898%9493091)+819499),696854+(27932026211306-1030450))]],p[lF[zF(EF(1169919481%(13443853-303286)+-345517),4504164363543-(-1006940))]])or-208977-(-208976))if F==(359421+-837960)+(-728230+1206770)then if not SV(o,p[lF[zF(EF(-718655+782553),(10426983047979-(-175840))-606324)]],p[lF[zF(EF(1644412154%(155405+(-605402+15535775))),(25595482039814-1865564541%15160329)-(662364+-1054981))]],p[lF[zF(EF((801336-(-234254))+-974131),109730+(8028277809721-(-428893)))]],p[lF[zF(EF(-20005-(-82993)),-809818+15620404477525)]],lF[zF(EF(1070411296%(2241924815%15510395)),16315878306286-(-200505))],p[lF[zF(EF(200253640%6231263-940531646%(9898215-(852634-78128))),163947+14751106925240)]])then uF(o,QF[lF[zF(EF(293609+-231400),10845840136207-597829)]][484224-484223],lF[zF(EF(-229887-(-291893)),11737082616732-(-13123))])end elseif F==1400921762%9530080 then if not uF(o,QF[lF[zF(EF((49355069275%388706353)%15120242),29682733819873-(-4556))]][543431-((-407083-(-185303))+765210)],lF[zF(EF((59397490465%540001172)%3276218),14286530865999-(-267482))]..(string[lF[zF(EF(171484679%808595),11979127447201-871253)]](lF[zF(EF((680401826-(-274108-192864))%(-627124+4307160)),(-251798+20107578824145)-(319029+-241043))],k)..lF[zF(EF(-329185-(-391722)),750145+33354993619441)]))then QF[lF[zF(EF(-941460+1004173),394568+33990557800233)]]=368669+-368667 end elseif F==565765893%(-437324+15728294)then if not uF(o,QF[lF[zF(EF((530102-(-109403))+-578181),15778003979927-(812066+-1769509))]][212640+-212638],lF[zF(EF(638560-576601),713681+23418792367518)]..(string[lF[zF(EF(701607-638863),-691765+4422683048949)]](lF[zF(EF(950945629%(5455297555%21880327)),768305+(25332052952556-(84022-243294)))],k)..lF[zF(EF(-195641-(-258670)),-277888+32285888747827)]))then QF[lF[zF(EF((380318220091%1785568680-(-1005353))%9312054),(108308640037-24407)-986116)]]=-832801-(-832804)end else J[lF[zF(EF(2219231353%14994380),18613755448338-(-711894-(404346466%4166339-945942)))]]=((J[lF[zF(EF(-32677-(-96746)),((415880+49590)+5044836340044)-(-91061))]]or-907402+907402))+(358060-358059)oV(lF[zF(EF(446860677%(3155036-(-730152))),-19303+26433176178277)],p[lF[zF(EF(445252-382192),8278914272505-(-764550-(-214569)))]],p[lF[zF(EF(773155-711373),(34213267995654-950686)-1025636)]],p[lF[zF(EF(-40858+103898),1.1275157029344e+14%1588050379398-529008)]],false)Y[lF[zF(EF(470326105%12709786),15578700022504-(-344936))]]({[lF[zF(EF(-88008+151476),199727+30192337943306)]]=p[lF[zF(EF(-340475+(65306-(-339047))),1555122347031-(-952747))]];[lF[zF(EF(447960378%13996788),-501633+38609867873)]]=p[lF[zF(EF(-255161+317156),20346041945780-114536)]],[lF[zF(EF(134995156%9638021),-957899+23236166267119)]]=p[lF[zF(EF(1237476390%14223140),-686373+28058585027960)]]},(78966+-730716)-(-651758),lF[zF(EF(587814629%7836683),668076+1954876829652)]..(string[lF[zF(EF(-912068-(-973418)),(25871346214348-860444)-312472)]](lF[zF(EF(2418327885%16014993),((-426658+20688491400977)-271254)-507337)],k)..lF[zF(EF(-280570+344161),7.7980848454088e+14%5198723274511-(745058-(301734-397829)))]))X[lF[zF(EF(-1027859+1089888),-638071+9325731059791)]](lF[zF(EF(((1138721295%11733238+-1515714)+(179991-(-874107)))-74312),768433+2867580546441)],lF[zF(EF(-722149+783664),-311321+(15680876861421-(-157967)))],k,p[lF[zF(EF(-32598-(-95445)),29660798691533-(-86914))]],p[lF[zF(EF(-1023811+1085070),(66835+-577116)+(7932195496442-157450))]])QF[lF[zF(EF(-649457-(2111729317%10007874-779131)),34387470850019-(757243+(((1021986+-1470232)+-375083)-(-995678))))]],QF[lF[zF(EF(531483-470136),-770785+8154046412351)]]=nil,667705+-667705 N[lF[zF(EF((-991361-(206639+(-1079275-(-503039+-284536))))+(160157-(-809975))),1570039398728-818287)]](lF[zF(EF(((1703073-878719)+26198949)%187219),(-738974+25712440114257)-(-930465))],true)end end function IF.tick(Y)local o=X[lF[zF(EF(-193405-(-257352)),(-598635-373379)+5853358013923)]]()if o-IF[lF[zF(EF(896744-834123),21092566227447-(-342741))]]<IF[lF[zF(EF(2515604335%14292843),350373+10513003421734)]]then return end IF[lF[zF(EF((844264+-1555804)+774382),529638+17256248593348)]]=o if not p[lF[zF(EF(784720+-722568),1023621+19440948990156)]]or p[lF[zF(EF(-984086+1045838),(-703477+-286)+22636556382623)]]or ZF[p[lF[zF(EF((((-525516-(-102568))-(-768257))+124627372051%556401600)%11460344),10272847930746-662997)]]or lF[zF(EF(576856-515567),23243630385120-(-887645))]]or T or E or N[lF[zF(EF(1072572-1009319),-854207+18233287580955)]]()or X[lF[zF(EF(673492480%16425117),13637733610976-746685)]]or not A[lF[zF(EF(791834+-730054),81995979627375%752256749866)]](Y)then IF[lF[zF(EF(942629+-880291),445174269%10352802+32403296215259)]],IF[lF[zF(EF(850150-788476),30116606564199-(1905227-890786))]],IF[lF[zF(EF(743897+-679761),(-1570037-(-687605))+(24124781264326-(-150114)))]]=nil,nil,false return end local c,V=X[lF[zF(EF(887057-824149),-365192+(((-844614+(9702050219614-(110229-(-496970))))-(37669717%2883061+-714481))-(-686651)))]]()if not c then return end if IF[lF[zF(EF((247662+203029)+-389279),24833728924359-27597)]]and o>IF[lF[zF(EF((253341939835%(257989+2483619192))%11077499),-528693+(-41837+1936564358250))]]then local k=X[lF[zF(EF(855043+-791998),(-837291-(-192837))+33286120739648)]](c,V,IF[lF[zF(EF(((-1021489+918489)+-339039)-(-503827)),6581363796849-34598)]][lF[zF(EF(123641998%980795),(148984+(-10398+849472))+32940787599037)]],IF[lF[zF(EF(466095+-402518),3334006654073-639336)]][lF[zF(EF(-589715-(-651398)),966324+30756339291083)]])/((o-IF[lF[zF(EF(864221310%3470519),(526032+1811466227321)-(-594119+-350143))]]))if k>(-269136+612010)+-342873 and k<284433-284393 then IF[lF[zF(EF(354100-289910),(-485884+466873)+7044815420369)]]=IF[lF[zF(EF(-640688+(160487+(2402252453-960784)%(2897218411%18151097-(-930999)))),27254840867845-842835)]]*.8+k*.2 end if k<(-830289-(-99749))+730540.5 then IF[lF[zF(EF(-613740-(-677060)),(902725+23418919907299)-884888)]]=IF[lF[zF(EF(34891+28273),(-1028918+1167627)+23068840917057)]]or o if not IF[lF[zF(EF(328265-((-565470+18415)+813070)),628512+(-181359+28592502827899))]]and o-IF[lF[zF(EF(2184485808%((391847+9068733)-(-291307))),23585841437680-942109)]]>=.6 then IF[lF[zF(EF(13048116%(317860+609631)),810036+15372015033103)]]=true J[lF[zF(EF(804456-742688),224843+23060178756715)]]=((J[lF[zF(EF(253045399%8432707),190442+15468458376378)]]or 112647+(-199989+(152415-65073))))+((550622+41330)+-591951)X[lF[zF(EF(780661-718141),17833154506768-(-763023))]](lF[zF(EF(401193-338009),(28252857718957-563948)-(-372316+(-236981-338289)))],lF[zF(EF(1006268-944928),9429384967386%1347056693222)],o-IF[lF[zF(EF((1158046-843342)-252257),437628+11861515540761)]],tostring(A[lF[zF(EF(506045785%3538349),31804354528911-(-335788))]](Y)),o-((p[lF[zF(EF(907562-843698),34187175580367-656960)]]or o)),tostring(p[lF[zF(EF(-933315+(511181+2737865493)%16008071),(-438297+-21659)+27144047429899)]]),tostring(IF[lF[zF(EF(365591+-302246),891887+1561955515744)]]or lF[zF(EF(1672556619%12032322),(((-493796-(-539358))+(-368046+1042866))+30785625936706)-(-10139))]))end else IF[lF[zF(EF(((439380971926-1024901)%(393306353015%2809408027))%12466387),3767720421248-(((958394+190413967167%857786432)-394752)%(624927+9918134)-(-546367+652170)))]],IF[lF[zF(EF(486749-423492),-122446+3130092165227)]]=nil,false end end IF[lF[zF(EF((-1432611-(-699103))-(-797259)),1747764089650-(-128914))]],IF[lF[zF(EF(-446049+508877),(687572-821284)+22329563979997)]]={[lF[zF(EF(1277781314%12285747),18219164042634-(1136944-704627))]]=c;[lF[zF(EF(-73422+135335),-241709+(27436506385628-(-436103)))]]=V},o pcall(QF[lF[zF(EF(679034-(560625-(-723668-(-1358458-(-690373))))),32220820475319-((-476775+663018959000)%2797579319)%((153183-617416)+14767833))]],Y,o)if IF[lF[zF(EF(1338127761%15929342),35183134739367-(-199378))]]~=p[lF[zF(EF(221224-(322406-165231)),(((-255256-439212)+2205043305725)-(-411196))-903044)]]then IF[lF[zF(EF(746535063%(7751989-1027018)),(974065+-1991086)+((-351189+18285782350232)-982453))]],IF[lF[zF(EF(2102993683%11491424),-232915+3288947444899)]]=p[lF[zF(EF(2657058453%(678447+14416329)+-314107),19561648302068-213617)]],false IF[lF[zF(EF((((961854-184933158%784740)+-780545)+(-30446-(-1012535)))+(-289836-291794)),(933160+(-57122+-489757))+23179067071593)]],IF[lF[zF(EF(-718908-(-782251)),13483626943734-(-791632))]],IF[lF[zF(EF(1426228041%10643019),(-635574-(-207797))+14192513389199)]]=p[lF[zF(EF(582651-1989062146%12585715),19680642974019-545944)]],c,V end if A[lF[zF(EF((-454599+965433)-1457417260%12560072),-309847+6403654880358)]](Y)then return end if p[lF[zF(EF(-1031935+1094839),50866609078114%12716655122799)]]==p[lF[zF(EF(429458+-365657),25660195%267711+25447809423881)]]then return end if not IF[lF[zF(EF(-750494+813767),943679+22035533712268)]]then IF[lF[zF(EF(592358+-528785),-439957+25168211980150)]]=true IF[lF[zF(EF(-120871+79550645%364066),30349782090630-791335)]]=IF[lF[zF(EF(365047432%6292855),943704+1908170371034)]]*.7+math[lF[zF(EF(379295+-315991),1.123914358e+15%20813228970838)]](1019071-1019071,math[lF[zF(EF(906911-843147),20342592282607-(-465716+1062079))]]((119211437487%(1833778107-(-789518-(-481471)))-1026384)%9993974,o-p[lF[zF(EF(-144196-(-207186)),16295083517411-(-928331))]]))*.3 end local k=A[lF[zF(EF((68025906271%(353422401-(-899492)))%11301967),18897003117485-(-957299))]](Y)or lF[zF(EF(-685226-(-749111)),480197+16947596280571)]if k:find(lF[zF(EF(1316242203%7976854),11113178781098-(-604276))],-415689+415690,true)or k:find(lF[zF(EF(96073-31965),1041434+11071850515924)],-86799-(-86800),true)then return end local F=X[lF[zF(EF(177266150%2812738),20843376507371-((-818830+184598)-(-983532)))]](c,V,p[lF[zF(EF(885410+-821699),-510202+16774013466297)]],p[lF[zF(EF((369120-728138)-(-422493)),10076253035260-635382)]])if F<IF[lF[zF(EF(97257433%(4129422-529561)),-845494+30425923203000)]]or not KF(Y)then return end if F>=IF[lF[zF(EF(932088+-870211),-278190+23627507128032)]]and(o-((IF[lF[zF(EF(-53524+((-1677005-(-865242-(-135215)))+1064040)),636712+5066309913840)]]or p[lF[zF(EF(-515419-(-576904)),4500+33661725764920)]]or o)))>=IF[lF[zF(EF((476412+493195321)%(-935116+7345609)),30738855649367-(-897521))]]then local A,k=IF[lF[zF(EF(1498901748%9367745),(18227274675998-124873)-((-751616+750630)+43664770)%10845493)]],IF[lF[zF(EF(-289220+352965),799370+23328492552804)]]local r=A and X[lF[zF(EF(484060427%(3626503-1043474)+-971829),(-728915+20480401663339)-670490)]](c,V,A,k)or(461818+-1004428)-(-542610)local N=o-((IF[lF[zF(EF(2353701078%(14330863-(-197760))),-690584+2249882700157)]]or p[lF[zF(EF(259926614%2498681),(837990-(-15168))+21861138387906)]]or o))IF[lF[zF(EF(765512472%((202583+4716809493)%24399164)),10319596823142-998747)]],IF[lF[zF(EF(32620934%10658688+-582509),28646172929849-(-683912))]],IF[lF[zF(EF(112290-50910),21839774660915-1043624159%12722912)]]=o,c,V if A and r>=IF[lF[zF(EF(-585533-(-646852)),801355+34140355563545)]]then return end IF[lF[zF(EF(568496+-504947),26730172104278-(-460582))]]=-233883+233883 J[lF[zF(EF(700829+-638462),24327723077805-530784)]]=((J[lF[zF(EF(-172031+234225),6913578679921-8311)]]or 510446816%(788407+15163056)))+1992374270%10011931 X[lF[zF(EF(98279385%3637682),22813547161163-(-445702+-96895))]](lF[zF(EF(2412997355%(-473995+16453702)),(724758+(-437971+2304194175920))-(-747641))],lF[zF(EF(1472535423%9260834),17118216688730-(1289473-654733))],F,r,N)IF[lF[zF(EF(-44406-(-106961)),-194279+2054195439594)]]=lF[zF(EF(1294554012%(9279388-706605)),20289778879396-489932)]FF(Y,{[lF[zF(EF(1054097055%(15961778-244885)-(-420295+2084923026%10684616)),10099117344234-(-864726))]]=p[lF[zF(EF((489438310565%2146685375)%16095244),(971010+-159115)+13659653892228)]];[lF[zF(EF(-174455+236416),499641+(26879194585543-(-424421)))]]=p[lF[zF(EF(-734420+798269),877005+28095549860333)]],[lF[zF(EF(289357700%(-423008+14198946)),(3208201600%(6490510712%25691373)+-903486)+((25893785038498-326007)-(-56416)))]]=p[lF[zF(EF((717423758647%3027138552)%15170836),29692628920772-609115)]];[lF[zF(EF(1182909031%(947902+5377473)),(21955199100472-(-456328))-149622)]]=p[lF[zF(EF(458650539%7268482-672701),2476499571951-730963)]],[lF[zF(EF(-163091+226464),(-872843+(467146+(1588768377409-(-828693))))-202363)]]=p[lF[zF(EF(501834-438908),16973781836214-(-514876-(-292150+16636)))]]},lF[zF(EF((-58239+1553337092)%10938143),(32636094716285-359844)-(-22368))])return end local r=XV(p[lF[zF(EF(-588088-(-651878)),13429757213719-227450)]],p[lF[zF(EF(973226-911610),(-167471+(-78793+35074267296594))-(-180055))]])if IF[lF[zF(EF(493826927%12993792),-298924+11265625148792)]]~=r or o-IF[lF[zF(EF(199778703%2622522-404188),(-950934+236178104%1160844)+25820498820988)]]>IF[lF[zF(EF(((791054-(-46256))+-1000828)-(-225901)),653179+12487509721122)]]then IF[lF[zF(EF((-24741+-47060)+858373930%7946656),-601841+32871336764978)]],IF[lF[zF(EF(406765201%8653259),33335528060779-(-336403-18337))]],IF[lF[zF(EF(2397738715%11695985),7.2965959128652e+14%18241489944947)]]=r,381914+-381914,nil end if IF[lF[zF(EF(422198-359083),12187316347029-70343)]]>=IF[lF[zF(EF(825229-764008),-233690+7678928141725)]]then return end if IF[lF[zF(EF((1809460520-293928)%10220924),215291417338-(190245+203550))]]and F>IF[lF[zF(EF(962011-898829),(1037176-286006)+27304222701319)]]-IF[lF[zF(EF(546057+-482746),1219+((1034269-391232)+10701241074455))]]then return end local y,i=IF[lF[zF(EF((-1120800-(-622132))+560931),(887530+21420282307291)-490101)]]()local P=IF[lF[zF(EF(-719291+781509),-698561+(-103720+(3646581849361-979746)))]]()if p[lF[zF(EF(-289913-(-351932)),95216311227094%19043263457633)]]==p[lF[zF(EF(243340422%(1401048934%7754849)),(664564+55021783978409)%11004358641020)]]then P=math[lF[zF(EF((201028164-(-795454))%1588669),2182021619718-(-378812))]](P,BV[lF[zF(EF(546539827%6281348),-652088+23227665823121)]])end if not y or y>=P then return end if X[lF[zF(EF(-466528-(-528776)),-545289+19351112899295)]](i[lF[zF(EF(625186+-563884),((-739692+468314)+((-679041+693695)+216101))+33082460768493)]],i[lF[zF(EF(390740+-328816),3119929507610-(-34514))]],p[lF[zF(EF(713222+-649883),-542495+(774493+3735141807350))]],p[lF[zF(EF(894526-831501),9518659635600-852532)]])<=IF[lF[zF(EF((-616694+16914129)%(6115225-703251)),13718826487196-21543)]]then return end IF[lF[zF(EF(49617113%1126229),18354+(1014147518%4204150+14106675472569))]],IF[lF[zF(EF(23409833%(1375148-958242)),12862121046349-(-92232+-553122))]],IF[lF[zF(EF(1364325703%13642623),82291545%1409330+21202378684281)]]=IF[lF[zF(EF((518027-828708)+373721),13952136777924-(-117060))]]+333103785%(760723+5645119),F,o J[lF[zF(EF((-1096492-(-814746))-(-345712)),-506250+32987497018291)]]=((J[lF[zF(EF((-164221+204276)+21894),-674028+11149034961265)]]or-160866-(-160866)))+((124409+(4084252885-333685))%170743146)%1255610 X[lF[zF(EF(1009742105%7766771),28306238769139-55781)]](lF[zF(EF(845166-(473771-(-307941))),(-33298-(-199775))+(13188926334667-(-782449)))],lF[zF(EF(1972029887%((7009376908-57189)%30025747)-506859),950678+15374117252109)],y,P,IF[lF[zF(EF(-663357+726565),265067+18410520027899)]],IF[lF[zF(EF(414870-350953),50520489685153%202082000219)]],F)IF[lF[zF(EF(-474476-(-536218)),((-1560778-(-929219))-(-236585))+28866781255683)]]=lF[zF(EF(314301-252061),13217777218957-478932)]N[lF[zF(EF(138108+-74216),(190495+29589388227473)-(-844499))]]={[lF[zF(EF(((-273717-(-15415))-381574)-(-702089)),157312+(1010481+26684560899767))]]=p[lF[zF(EF((-555584+((279281+(81381850112-(-490288)))%1535702778-341167))%(7877839-((-284664+1320076)+((305856+-709870)+-1087530)))),(1632632989590-628709)-(190462+-461595))]];[lF[zF(EF(1117261161%8463633),500202+13015858286267)]]=p[lF[zF(EF(147435076%3007588),-577834+16204831667610)]],[lF[zF(EF(795716+-732644),-298066+16793235102422)]]=o}FF(Y,{[lF[zF(EF((57108773575%1298237817)%(10197067-(-418519))),-808608+33731396339030)]]=p[lF[zF(EF(69328-6723),-624571+33743671264954)]];[lF[zF(EF(1835566209%((-1009101+674635)+11325509)),472873+16968252524714)]]=p[lF[zF(EF(401045+-337992),(27252642157011-1019259)-(-629920+2724293531%17796421))]];[lF[zF(EF(-288599-(-351624)),129535+1237575140642)]]=p[lF[zF(EF((-402689-(-814387))+(-418757+(800817+-730705))),25026668672139-(-106583))]];[lF[zF(EF(-39975-(-103471)),28354071950205-764691)]]=p[lF[zF(EF((281872+367883528)%5494067),121123+24644797799651)]],[lF[zF(EF(-590433+654077),358910+(-162542+19152370138682))]]=p[lF[zF(EF(-926709-(-989747)),25336626403313-912743)]]},lF[zF(EF(-879209+519456932%2049464),17563560788747-237274)])end function N.pulse()do local Y=N[lF[zF(EF(-756916-(-820201)),(-494790-(-39492))+23909818743501)]]()if Y and(p[lF[zF(EF(-990909+1053739),18913654270771-((-851435+(72129-(-47082)))+918298))]]and(not p[lF[zF(EF((-249138-370062)-(-682999)),318705+5565638189269)]]and(AF[p[lF[zF(EF(799764768%3719550),11803503343140-(-491514))]]or lF[zF(EF(514269-450877),859978+(811534+1096430900752))]]and(not p[lF[zF(EF((1700047986-(-795372))%15747983),345430+33381249797899)]]and(wV[lF[zF(EF(1758112965%((185851+14718707)-(-382844))),12029066437423-(-309744))]]()and(A[lF[zF(EF(248820+-187450),-347679+7790547685)]](Y)and(not A[lF[zF(EF((679407+836953453)%6250535),-369102+4085682133100)]](Y)and(X[lF[zF(EF(191630982%1419022),-404618+23299978847670)]]()-((p[lF[zF(EF(1302908891%13431389),(59707-460335)+(-477598+20734662875285))]]or 616934-616934)))>=e)))))))then wV[lF[zF(EF(1417781457%(5052812637%20588866)),14342545733015-((-20841+(-643800-73066))-(-1202339-(-647956))))]](Y,lF[zF(EF(-707783-(857413+-1627166)),29102105053718-398575)])N[lF[zF(EF(140957876%1619492),18221721834614-474866)]](lF[zF(EF(581816-(689829+-170463)),(1279443-240507)+8303414570727)])end end zV()MV()do local X=N[lF[zF(EF((339878827-341691)%4587491),-186802+(130967+13016302009871))]]()if X then pcall(TV,X)end end tV(X[lF[zF(EF(-445081+508342),499893+28331945147062)]]())pcall(IF[lF[zF(EF(9171418%(-578289+974376)),692571014321-(-85309))]],N[lF[zF(EF(-130914-(-297753-(-105377))),20754276508634-108856)]]())local Y=oF()if Y and Y[lF[zF(EF(636421+(-1458750-(-884531))),-345745+19064206351858)]]then local o=Y[lF[zF(EF(581986-(202397-(-317600))),225855+30128225555345)]]Y[lF[zF(EF(1334970380%12026187),21136995708646-382104)]]=nil M[lF[zF(EF(-214575-(635331+-911994)),343606+27775638802179)]],M[lF[zF(EF(328764245%16435154),-400582+3129439923609)]]={},nil N[lF[zF(EF(54261922%488294),23983011783442-506691)]](o)X[lF[zF(EF(370769+(371440-678231)),((612605+-998789)+23740132891038)-(-543026))]](lF[zF(EF(484904-423254),1060229245940-(-179405))],lF[zF(EF(-593013-(-238993+-417936)),-1002122+21539542448914)],o)end local o=N[lF[zF(EF((2105130187-629267)%(659556+11297475)),27995114925022-(-454917))]]()if not o then return end local V=A[lF[zF(EF(-3407+66301),31267140889309-311293)]](o)if V then if n~=V then n=V X[lF[zF(EF(32959452%200591),-420820+19917160815597)]](V)end if not N[lF[zF(EF(40220-(((-35166+(((1350787-522696)+-1267138)+135936))-(-907807))-592545)),769871+8024995403208)]]()and(not A[lF[zF(EF(118135757%3578019),426433+25883191635722)]](o)and A[lF[zF(EF(604586778%13141844),31868312178363-907188)]](o))then n=nil X[lF[zF(EF(821274873%((10135981-(-818382))-115624228%(74069053%7346835))),-307396+6722282225877)]](lF[zF(EF(2930207365%16743682),22595729413179-395234)])end else n=nil N[lF[zF(EF(-759104+823276),-564234+7327599541009)]]()N[lF[zF(EF(-135360-(-197736)),((150393+85997718582952)-(-662551))%21499432972241)]](o)UF(o,X[lF[zF(EF(949040+(166380+-1053553)),-511890+7090434513236)]]())local Y=A[lF[zF(EF((905772+32182)+(37411+-912430)),5675263983414-325532)]]()if Y and(Y[lF[zF(EF(173718+-112300),364534+17643586772171)]]==true and(p[lF[zF(EF(-627530+690360),28849764751318-(-630443))]]and(not p[lF[zF(EF(1326595798%9276465),16567713388004-838760)]]and(p[lF[zF(EF(1203699100%14329016),(30528615343960-(-345842))-(-97377))]]~=lF[zF(EF(5346+58222),(24299969069936-(-839592))-(-188944))]and(not xV(p[lF[zF(EF(509504043%2122675),29833459465397-470854)]])and(p[lF[zF(EF(-733397+794934),-347643+(557877+22864437636883))]]~=p[lF[zF(EF(-260443+322765),24811786300941-(-100776))]]and((Y[lF[zF(EF((-1389006-(222607+-611566))+1063119),-485662+18364390027972)]]or-612984-(-612984)))>=((p[lF[zF(EF(371761+-309571),951540+(-555602+15457789606038))]]or 65133+-65133))))))))then p[lF[zF(EF(641661865%10518031),(15886195143672-263075)-(-145552))]]=p[lF[zF(EF(-540550-(-603054)),-377178+(-1043290+2593348750478))]]local Y=XV(p[lF[zF(EF(580191050%13473928+-750118),-825788+19874510571603)]],p[lF[zF(EF(-291564-(-353968)),23374910165522-(-423342))]])if not z[Y]and not yV()then X[lF[zF(EF(645955-582779),12677537618192%528230951780)]](lF[zF(EF(585913-521933),415292+26434558099999)],lF[zF(EF(563331481%3274818),(-797676-116974)+(-643543+((107731+-1053431)+10622371566558)))],p[lF[zF(EF(214094+(-1101075-(-949714))),-65609+7933889167709)]],p[lF[zF(EF((68620829156%730025774)%10405258),959072929%(7423096-1034644)+24018625497334)]])YF(o,p[lF[zF(EF(403469653%6613227),-464875+(32926182071431-(-92064)))]],p[lF[zF(EF(508872698%8480157),539631+18894286510135)]],p[lF[zF(EF(785021861%7201457),883219+(-998054+21782769830372))]]or 3499522266%16429682,p[lF[zF(EF(483655+-421760),23296630448347-(-531088))]]or lF[zF(EF(-882427-(-841102-104871)),15015965320458-2839635122%15684729)])end end end if E then if not A[lF[zF(EF(312940-250753),-568818+20775088555162)]](o)and not A[lF[zF(EF(-904216+966313),-447688+(965856+26561082806030))]](o)then E=nil elseif not A[lF[zF(EF((169772008328%884256491)%10463764),(-432038+20828388256440)-(231080+-872739))]](o)and((X[lF[zF(EF((144253691442%759292146)%4853339),759172+14505137471601)]]()-((p[lF[zF(EF(-886078-(-950026)),24174113343886-(-664651))]]or 1346339394%(3001806245%18314017))))>=e)then A[lF[zF(EF((-252680-93187123%1022235)-(-479315)),13009553617751-(-88490))]](o)X[lF[zF(EF((496823+100549546)%(-884849+4040622)),450800+6203604261441)]](lF[zF(EF((((249082+934797093%13539515)+-1135080)-650452)+1030014),32909743258399-(79677+-738534))],lF[zF(EF((66126853808%661401964-1043688)%(628845+2794190)),16144333458372-(16158-700494))],tostring(E[lF[zF(EF(940193807%8786285),11191060192069-275098)]]))E=nil end end if p[lF[zF(EF(25945+169629109%1785198),(-284171+1170249)+16538223158115)]]and(not p[lF[zF(EF(-110496-(-172786)),19878634372272-43069)]]and(not p[lF[zF(EF((62943272-(-46090))%1797937),371322+15703709954578)]]and(X[lF[zF(EF(1993004228%8936958),-720269+30545313147114)]]()-p[lF[zF(EF(149479106%1245142),-471661+18225617160669)]])>=u))then local Y=A[lF[zF(EF((-390831-(-3460))-(-450027)),12452975637375-(-1006787))]](o)if Y==lF[zF(EF(588586-(1118122-592532)),552730+21788377242746)]or Y==lF[zF(EF(716982+-653936),889469+32922476558161)]then p[lF[zF(EF(128985952%16115476),-558735+29307668572727)]]=true X[lF[zF(EF(433798-371014),(-711129+389057)+11305600401273)]](lF[zF(EF((813778+-711557)-38707),33796741994335-(-938027))],lF[zF(EF(477741520%6634425),5489945088250-1045557)],p[lF[zF(EF(861598967%8284017),-309591+(465157+34270159268529))]],p[lF[zF(EF(-283983-(-138105+-210058)),9823904768257-413231)]],Y)elseif Y==lF[zF(EF(943304+-881151),(-945592+-37106)+(11008125955461-(-772264)))]then p[lF[zF(EF(4740+57682),15975466304914-613063)]]=true oV(lF[zF(EF(-200812-(-262960)),428273+17166915851608)],p[lF[zF(EF(-796309-(-859115)),23257861757434-85819482%2740863)]],p[lF[zF(EF(621247619%7484145),(133800+488693)+1888629686438)]],p[lF[zF(EF(1773515790%9635522+-517069),-891577+22664717159477)]])end end if T and((p[lF[zF(EF(941855519%(10244132-330510)),((-55248+-612320)+-351347)+24366222152545)]]or X[lF[zF(EF((137162555-(-1002136))%1401140+-789606),16396167671803-939416)]]()>T[lF[zF(EF(206200505%1212579),20987645564798-((-1835067-(-316767))-(-478037)))]]))then dV(p[lF[zF(EF(-691706+668590549%(11634114-(270705+-1003901))),20496481496035-(142172015%14170756+-910700))]]and lF[zF(EF(-605935-(-667980)),34774944585628-(-857054))]or lF[zF(EF(206662+-143098),535330+17481746653129)])end c[lF[zF(EF(986687+-925276),24866307021717-1011332)]]()if p[lF[zF(EF((91495747833%775510254)%4275200),8094810180275-(-592552))]]~=lF[zF(EF(1684289265%((60682157119%1291403052)%9612460)),-154446+(1006592+(694732+22935430301374)))]and A[lF[zF(EF(-564719+626925),1186125524036-456325)]](o)then c[lF[zF(EF(-231276-(-292645)),(-983004+1303151)+30629177734025)]](X[lF[zF(EF(116808690%5837295),1593458143973-(-706570))]]())end c[lF[zF(EF(-819822+882279),31628234131214-(-361877))]]()end function N.last_fail_reason()return O[lF[zF(EF(893049-830869),17396838264550-(-677462))]]end function N.reached_short(Y)local o,c=X[lF[zF(EF(-196137-(-257495)),3376213875679-(-879538))]](Y)if o and r[lF[zF(EF(-15870+78514),(575525+330841)+17309537428040)]](Y)then return false end return o~=nil and(NV[lF[zF(EF(896731-832568),308654+30189774138377)]]==XV(o,c)and(X[lF[zF(EF(-316995+380652),438876+12079690809826)]]()-NV[lF[zF(EF(-833929+897397),34741765429185-1030713)]])<rV)end function N.last_fail_offmesh()return O[lF[zF(EF(817696-754838),34457353312889-935134)]]==true end function N.clear_fail()O[lF[zF(EF(751758224%6593827),311526+14107401707247)]],O[lF[zF(EF((34825746016%849566946)%3318919),975920+(-500296+17284268007582))]]=nil,false end function N.pending()if r[lF[zF(EF(-801225+862631),544453+(-821516+7084777418793))]]()then return true end local Y=N[lF[zF(EF(-864769+927364),4.9085867491327e+14%6135733620530)]]()if Y and(p[lF[zF(EF(1401647955%7078710),-40402+30551200578714)]]and(not p[lF[zF(EF(504628+-442808),-445022+16755687132056)]]and A[lF[zF(EF(879378-818138),247376+(406162+12002183283510))]](Y)))then return true end return p[lF[zF(EF(415523-352647),-106965+17513118695071)]]~=nil and(p[lF[zF(EF(2933777616%16668841),345272+30275595267879)]]==p[lF[zF(EF(-703797+765135),18461851979712-(-649314))]]and(X[lF[zF(EF(-161347-(-1217441-(-908752+-84371))),-113446+33719908711062)]]()-((p[lF[zF(EF((-28231+12498329314%116889218)%(-799524+5707835)),79603+19612247737185)]]or-742422-(-1047378+304956))))<H)end function N.server_trouble(X)return h[X]==true end local tF,aF,bF={},119930-119930,(482447+(-572585-(120841+590109)))-(-801088)function N.reachable(Y)local o,c,V=X[lF[zF(EF((-118147+(-222956-(193638-607190)))-(-694683+703044)),-846531+9093836123809)]](Y)if not o then return true end local k,F=X[lF[zF(EF((861894+-1474614)+676764),14952589803395-102944)]]()local r=not k or X[lF[zF(EF(((-1364380-(-771296))+756023)-(874652+-775823)),28159351937715-(621566+-1501957))]](k,F,o,c)>Q local y=XV(o,c)local i=X[lF[zF(EF((899804+2685538192)%14520946),(10796360862740-202421)-79068)]]()local P=tF[y]if P and(i-P[lF[zF(EF(304962483%((74420419196%1181464336)%12142931)),711297+26485558296668)]])<(((P[lF[zF(EF(265132+((-155444+198266)-(-797073-(-1798916-(-756011))))),3896926482022-(-872544))]]==false)and Z or I))then return P[lF[zF(EF(812204-(1188317-439520)),11919253796413-(-153339))]]~=false or r end local m=N[lF[zF(EF(2744298641%16733145),17845685585655-(-604900))]]()if not m or i<bF then return true end bF=i+K if aF>(((1516152-586703)-253594)+-587386)-(-44930+133099)then tF,aF={},1294476762%9881502 end if not P then aF=aF+987715639%5427009 end P={[lF[zF(EF(-504024-(-567857)),125773+15324986665614)]]=nil,[lF[zF(EF(800768+-737823),((12549366352056-(-158704))-627706)-13873)]]=i;[lF[zF(EF(-852837-(-916615)),70569+1972376350931)]]=nil}tF[y]=P A[lF[zF(EF(-743853-(-805192)),2.8300998461929e+15%17578260013017)]](m,{[lF[zF(EF((6039270534%30383750)%2903129),627878+28231674438140)]]=o,[lF[zF(EF(-772301-(-834262)),-622855+4796999973321)]]=c,[lF[zF(EF(-324091+(1170145-(156393+628059))),7587419919740-(-604853))]]=V},function(Y)P[lF[zF(EF(92435+-28586),25235261552565-474473)]]=X[lF[zF(EF(2739661122%12801863),(25373939810290-941448)-(-1043786))]]()if Y==true then P[lF[zF(EF(((((455129+-46607)-575769)+963215)+75381239)%746211),73884+32320765881910)]]=true return end if r then P[lF[zF(EF(-376015+437865),-835255+16904836402772)]]=true return end iV(m,y,o,c,V,function(Y)local k=nil for X=19024+-19023,#Y,-935314+935315 do if math[lF[zF(EF(-981818+1043690),-255067+30207208005955)]](Y[X]-V)>g then k=Y[X]break end end if not k then P[lF[zF(EF(264227594%3036393),-403593+(977573+29703874856014))]],P[lF[zF(EF(912676469%6710391),(-695331-(832896+-997212))+11874509023088)]]=false,X[lF[zF(EF((467132-(994007-783397))+-194670),((-201531+-457207)-(-227881))+(10177145116147-948633))]]()return end A[lF[zF(EF(223836049%1621538),29908359610835-670457)]](m,{[lF[zF(EF((1913062452%7839661+-919160)-(-797050)),471360+5348427230184)]]=o;[lF[zF(EF(-664774-(-727834)),7682844109954-112432)]]=c;[lF[zF(EF(601498-173062610%809972),-277768+9513523190648)]]=k},function(Y)P[lF[zF(EF(34681886%((872647213-(-843898))%(580095+6185444)+994384)),3448472386907-(-145012))]],P[lF[zF(EF(506812-(382653+62554)),12553039886049-430301)]]=Y==true,X[lF[zF(EF(-229941-(-293303)),33925422505782-201732)]]()if Y==true then P[lF[zF(EF(-15908+(432632-((-443809+373924974%5486979)-(758760-745831)))),725774+2354128204265)]]=k R(z,lF[zF(EF(-257135+318368),-48834+16729069894633)],y,k)end end)end)end)return true end function N.node_reachable(X)return N[lF[zF(EF(1271378314%8475443),456932+25472474678359)]](X)end function N.reach_z(Y)local o,c=X[lF[zF(EF(862935-801025),158903975%1053357+18393780836854)]](Y)if not o then return nil end local A=z[XV(o,c)]if X[lF[zF(EF((55299731422%325351322)%4440792),(28142786127005-(((800573+(-1836812-(-11635)))+1124714)-(-672682)))-(-1009447))]](A)then return A end return nil end function N.reach_forget(Y)local o,c=X[lF[zF(EF(699692+-636065),33553347764608-(2574655826%(15580408-(1616727-999803))+-501201))]](Y)if not o then return end local A=XV(o,c)if tF[A]then tF[A]=nil end end function N.path_probe(Y,o,c)local V=N[lF[zF(EF(860584+-796711),28582898032439-288894)]]()if not V then return false end local k=p[lF[zF(EF(67379+(-714147-(-708374))),(531654+19070542924917)-(-832483+1207553))]]if A[lF[zF(EF(561736-500202),-616643+7671184711234)]](V)or(k and(k[lF[zF(EF(-741041-(-1001433+197649)),-350627+16957204335087)]]==p[lF[zF(EF(31471138%407903),(-351816-383657)+14107471986933)]]and(k[lF[zF(EF(360522159%12873562),-236783+(740692+31463428162256))]]and(not k[lF[zF(EF(78322+-15730),19368015522160-(-908607))]]and not k[lF[zF(EF(((1216151751-(-805))-(-673231))%10311548),105455+6228476617852)]]))))then J[lF[zF(EF(1294396452%7312614),22092779162531-364850)]]=((J[lF[zF(EF(-407091-(-468481)),-20402+19073484093367)]]or 1013682717%(1579488248%14443985)))+(337746-337745)return false end return A[lF[zF(EF(338630+-276255),((-230487+870868)+5234904890050)-1041122)]](V,X[lF[zF(EF(1520200730%(34727+12324116)),163914+18160737150158)]](Y),X[lF[zF(EF(-474726-(-536085)),24317991314278-8554)]](o),c)end function N.validate(Y,o)local c=N[lF[zF(EF(407327671%(11606650-(-734678))),(23395875833122-682293)-(-479467))]]()if not c or type(o)~=lF[zF(EF(88009+-26835),32914502978048-((272863382%8257913-(-254787))+(-1047422-402541)))]then return false end local V=X[lF[zF(EF(1052304-988101),197552+6652807178732)]](Y)if not V then return false end return A[lF[zF(EF(405744+-342718),27049701458809-139460)]](c,V,o)end function N.raycast(Y,o,c)local V=N[lF[zF(EF(338739+-277414),(-485420+11508226825827)-117185)]]()if not V or type(c)~=lF[zF(EF(2557978190%(857401856%5752228+(-799995+11006508))),15760685604396-838341)]then return false end local k,F=X[lF[zF(EF(73887+-11462),-191276+20408285673047)]](Y),X[lF[zF(EF((-719792+(-578647+1424001))-62178),(-820457+313210)+22028469733809)]](o)if not k or not F then return false end return A[lF[zF(EF(801046698%4150170),9768431957282-674194)]](V,k,F,c)end function N.remember_floor(X,Y,o)o=tonumber(o)if not X or not Y or not o then return end R(z,lF[zF(EF(843420-352397116%5409482),-502422+83941270955375%13990212550991)],XV(X,Y),o)end function N.reach_settled(Y)local o,c=X[lF[zF(EF(2285170546%(13258058-(1029214+-1134355))),-389390+14829619265265)]](Y)if not o then return true end local A=tF[XV(o,c)]return A~=nil and A[lF[zF(EF(2700110117%14438749),19628566827217-826355)]]~=nil end local hF={[lF[zF(EF((476596+-779260)+364061),-542980+13030335340129)]]=nil,[lF[zF(EF(391069806%1678140),18881040620653-(-970114))]]=false}local BF=48790-48782 function N._node_reset()hF[lF[zF(EF((42737184-451701)%6031977),-347386+28888854118187)]],hF[lF[zF(EF(-570228-(397900+-1032194)),21457001939459-439029)]],hF[lF[zF(EF(1330083536%10472603),-1035911+(5153497145324-(-57290)))]]=nil,false,nil end function N.follow_nodes(Y)if type(Y)~=lF[zF(EF(320944667%10696038),-471931+27623276645438)]or#Y<803280459%13614923 then return false end if N[lF[zF(EF(2397634661%9628806),(28067444277614-((803709+145887)+-981912))-960805)]]()then return false end local o=N[lF[zF(EF(-37944-(-190907-(-91654))),23389835029817-(-189505))]]()if not o then return false end local c={}for o=-58084-(-58085),#Y,-267300+267301 do local A,V,k=X[lF[zF(EF(874332-812349),2386512591308-(-395785))]](Y[o])if not A then return false end c[o]={[lF[zF(EF((268661-(-515486))+(-1054934-(-614368+281255))),4356233116089-176944)]]=A;[lF[zF(EF(463733775%6719856),14575598641934-(-641850))]]=V;[lF[zF(EF(493540169%2667441),15284023854861-205740)]]=k}end local V=c[#c]local k=string[lF[zF(EF(36758407%(2439554148%14172889)-(109024-(-446791-(455472+-660585)))),865633+(6414574089147-(336313-660101)))]](lF[zF(EF(390967623%6408255),27832825387314-(-4950))],#c,math[lF[zF(EF((19634132385%255202321)%6819831),12185966122783-(-855864))]](V[lF[zF(EF(983254-920252),10416172431039-(-956321))]]),math[lF[zF(EF(-803024-(-42900+-824209)),-486956+13195926520085)]](V[lF[zF(EF(286804+(425692+-650306)),15646162490024-(-415993))]]),math[lF[zF(EF(427871-(-925275+1291937)),9956075364882-144368)]](c[190895485%(845193+378496)][lF[zF(EF(1381463939%(2225228788%(15008267-(-920427)))),(-2319-(724113-(-1005224+1469982)))+8356885578145)]]))if hF[lF[zF(EF(709730595%3058912),-366657+27345065885705)]]==k and(hF[lF[zF(EF(933875+-872024),12485720748787-141106)]]and X[lF[zF(EF(1646850816%10556333),(843106+-486874)+30281803996850)]]()<hF[lF[zF(EF(253667-189634),4.5952725787513e+14%11207982072286)]])then return false end if hF[lF[zF(EF((422466+(1821259171-(782228+-1351740)))%14577506),25120099617356-(-4775))]]and(hF[lF[zF(EF(22841954%145088),(437647234%4050526+(-387260+-823983))+22239056263978)]]and X[lF[zF(EF(67298+-6118),29867784597058-(-91438))]]()-hF[lF[zF(EF(262666+-199203),-268598+33133831584158)]]>BF)then hF[lF[zF(EF(137360+-75163),13262827152178-22864)]]=false X[lF[zF(EF(-401731-(-126194-336698)),14806316952502-((617719-274891)+242519))]](lF[zF(EF(-660205-(-723955)),(((-216853-(-625281))+-695103)-723318)+(525819+29500761547308))],lF[zF(EF(72284-9469),-120477+19100884178102)],BF)end if hF[lF[zF(EF(298018+-235548),12005903443996-344777)]]==k and((hF[lF[zF(EF(1622972872%6491647),-1029714+12111474201920)]]or(p[lF[zF(EF(81953869%338390),3619697291357-(-735260))]]and A[lF[zF(EF(942772+-881316),698322+13035220947975)]](o))))then return true end if N[lF[zF(EF(-327138-(-389383)),-1045031+(25047894840838-29873))]]()then M[lF[zF(EF(760429-696304),-140191+31522447170542)]]={[lF[zF(EF(820614+-759004),800088+18793896949144)]]=c}hF[lF[zF(EF(1022370-959071),1697480715107-(-119293))]],hF[lF[zF(EF(-58114-(-120495)),-302669+(868927884632-110384))]]=k,false return true end hF[lF[zF(EF(-858907+(122398-(-1012596+213731))),541297+16571483165578)]],hF[lF[zF(EF(-560430-(-624024)),-259841+9961471247789)]],hF[lF[zF(EF(-820449+1628580196%8612162),933230+1690697332572)]],hF[lF[zF(EF(-358919+423113),(230809-251015)+2154776398524)]]=k,true,nil,X[lF[zF(EF(704529-105933168%(176761+908708)),19269010391506-(1042940-(2325645414-582785)%12364756))]]()local F=A[lF[zF(EF(-459283-(-156410-366365)),16513869799105-782031)]](o,c,function(Y,o)if hF[lF[zF(EF((712063+-1102878)-(-453633)),-928394+1854834432095)]]~=k then return end hF[lF[zF(EF((1701096087-863296)%14910217+-405567),((-449927+-1375894)-(-1009293))+25874683883548)]]=false if not Y or type(o)~=lF[zF(EF(-334577-(-396069)),-192976+(592413+28926691079891))]or type(o[lF[zF(EF(1767966094%11118881),1923360041651-(-471653))]])~=lF[zF(EF(-20972+84779),(9781460036818-1015647)-(1010363+-1503947))]or#o[lF[zF(EF(311809775%10749884),33691406851655-605359)]]<408331125%7162483+-69592 then hF[lF[zF(EF(2848621904%14533463),7785090759963-910209)]]=X[lF[zF(EF(951306-888888),595523+8046978266829)]]()+(796423+534574714)%14088714 oV(lF[zF(EF(92954728%11611502),-366776+11543008818681)])X[lF[zF(EF(957668+-894107),-463393+29060102460187)]](lF[zF(EF(547268098%8970603),664665+19709081727645)],lF[zF(EF(-418803-(-481069)),((-1008622+917670)+(-1231465-(-1009877)))+34140194855839)])return end if not N[lF[zF(EF(-472104+534077),31581677428495-855541755%4093210)]](o[lF[zF(EF(157062+-94703),16748227121280-(-686437))]],true)then hF[lF[zF(EF(-129568-(-191197)),12688239832104-(-298889-(-610849)))]]=X[lF[zF(EF(1642577125%((487289754169%1949224106)%9250582)),-941616+27201525486878)]]()+(412558+-412553)end end)if not F then hF[lF[zF(EF(-381327+444820),-812193+109748496154)]],hF[lF[zF(EF(156257-94727),18231580157630-849439)]]=false,X[lF[zF(EF((1050906-(628610+156611785)%973192)-432849),18276280137253-712755)]]()+(-590103+590108)oV(lF[zF(EF((162129-635107)-(-534727)),1135706381817-698596)])return false end return true end N[lF[zF(EF(-654861-(-717961)),73815512716754%934373761134)]]=N[lF[zF(EF(((1023426387-(-1033997))-299542)%5657824-(838854-805406)),24896+25738380995009)]]function N.detour_path(Y,o)if type(Y)~=lF[zF(EF(533811-(102568+(-185860+((943021+(386372214-(-324034)))-502602)%11045169))),-547842+14190502179890)]or#Y<((35980-(-133217))+307796)+-476991 then local X=type(Y)==lF[zF(EF(324804-262908),((199964+663681)+-192472)+34531912933715)]and Y[#Y]or Y return N[lF[zF(EF(67110-193237802%(-215642+7647659)),996873+18657062595303)]](X,o)end local c=N[lF[zF(EF(1083120-1019373),23516845199210-(-1119984-(-542657)))]]()if not c or not p[lF[zF(EF(689879+-628373),-664679+(903669+26570892357872))]]then return false end if VF(c,p[lF[zF(EF(953635+-890930),6065056255800-925012)]])or X[lF[zF(EF(561328424%4419406),((-445408-(-271378))+12514425007648)-122891)]]then return false end local V={[lF[zF(EF(975798+(-842907-117525844%1631330)),8491501725344-(-738701))]]=p[lF[zF(EF(544193464%3752628),-509065+7759623599517)]];[lF[zF(EF(-635656-(-698503)),6301512955314-(-510453))]]=p[lF[zF(EF(1007960617%13999399-(-58324)),916060+25581389614664)]],[lF[zF(EF(((726667+-766514)+820439871)%12429340),490083+9945903975287)]]=p[lF[zF(EF(-254238-(-318087)),8365614452299-(-109593))]],[lF[zF(EF(-839064-(-900491)),-576337+10509782472374)]]=p[lF[zF(EF(496648-434125),1433055006%10456563+(29998633745415-749426))]];[lF[zF(EF(708668-645026),1683819276088%420955598163)]]=p[lF[zF(EF(-367353+429764),9322908575131-(-186078))]]}local k={}for o=-503516+503517,#Y,2540575303%13659007 do local c,A,V=X[lF[zF(EF(466886+-404481),24739418246530-1232131059%5779958)]](Y[o])if c then k[#k+37926526%2917425]={[lF[zF(EF(418639+-355262),(-1025128+1297742)+22163215616140)]]=c;[lF[zF(EF((-522195+(-429704+1178444))-165301),55687+(-363559+(491183+33600222141543)))]]=A;[lF[zF(EF(1033772+-970880),22046944229507-(-895284-(-118415)))]]=V}end end if#k<((84925149-834472)%7601400+-830034)+3069132615%15983218 then return N[lF[zF(EF(1801065243%16675959),24761634919420-(-788883))]](Y[#Y],o)end if N[lF[zF(EF(194526+-132261),(-103129-267402)+25984219992988)]](k)then return false end local F=k[#k]local r,y=X[lF[zF(EF((3254840683-164819)%14929420),10317922940730-(-190026))]]()if not r or X[lF[zF(EF(-560976-(-623914)),2.2230964216324e+14%12350536093845)]](r,y,F[lF[zF(EF((356559-750621)-(-457003)),31201374857227-(-134354))]],F[lF[zF(EF(2435395645%(103324+9756318)),47474+(-788539+4993285090569))]])>a then return false end p[lF[zF(EF(-276628+340282),10562088155248-(-650052))]]=p[lF[zF(EF(318986+-256694),(35006-683695)+(34229743585334-(-769739)))]]+(764260-(-824493+1588752))local i=p[lF[zF(EF((334523-851628)+579224),440284+(-994326+27837800572374))]]p[lF[zF(EF((1135797936-(-983554))%4857767),858544+34064808515959)]],p[lF[zF(EF((17371777-(-540656))%8925172),14114867115317-358036)]]=nil,false p[lF[zF(EF(1071354-1009529),574816+2884725559299)]],p[lF[zF(EF((42844730389%(289951+208715469))%1729686),3554309659343-(-146174))]]=X[lF[zF(EF(-221251-(-283434)),-1005319+33040657673287)]](),X[lF[zF(EF(577561-641499263%4930659),91707085512502%664544100118)]]()E=nil p[lF[zF(EF(891626-(1621748-792641)),-1459+28151786881571)]]=nil J[lF[zF(EF(-654043-(-717661)),(942769+18051336399196)-(-649905))]]=J[lF[zF(EF(-53643+116436),8410408640990-(-954528))]]+(912689-912688)T={[lF[zF(EF(((341242+-832986)+(364497141298-60709777%820524)%(2917055421-1003298))%(244922733%28877714)),983278+5480955553200)]]=F[lF[zF(EF((-416611+-382536)+862092),5482828399646-338230)]],[lF[zF(EF(245667+-182811),(33238054089542-973104)-681680347%2873567)]]=F[lF[zF(EF(1048878-985002),446981+(20266182818897-469909))]];[lF[zF(EF((-601446+-194339)-(-858787)),-749299+10683925697607)]]=F[lF[zF(EF(120059+-57326),19115868687659-601792)]];[lF[zF(EF(-132188+194872),934232+14771551338395)]]=V,[lF[zF(EF(627803+-564076),170172548%(751856-(-761277))+901010111187)]]=i,[lF[zF(EF(104171+-41629),34592982393778-(-684399-(-327973)))]]=X[lF[zF(EF(((-236150+770751)+-1518978)-((483234+-1750383)-(-220762))),12205791606705-559330)]]()+t}X[lF[zF(EF(85719-21683),-761338+(-807382+6036556696968))]](lF[zF(EF(220713-159193),16738056287035-(-756756-(-1137205-(-916528))))],lF[zF(EF(550819-487940),(-841030-((170588-(-716158))-968784))+(-499977+3057844910526))],#k,F[lF[zF(EF(3420470853%14133920),7959198103714-89669984%(39702+2083802))]],F[lF[zF(EF((828098087-(-1000539))%5797452),8155956267668-206581)]],tostring(o))local P=A[lF[zF(EF(317154+-252971),80056104887138%1906097857544)]](c,k,function(X,Y)if p[lF[zF(EF(((((-1224490-(998807377%13494351-((-1287264-(-510107))+565006060%13415483)))+477626)-16311)+-53301)+324793),732316+18360321814834)]]~=i then return end p[lF[zF(EF(975468-913608),17397945625613-(-184328))]]=true if not T or T[lF[zF(EF(216526+(2055772744%14893220-662059)),12709017155599-418781)]]~=i then return end dV(X and lF[zF(EF(884191321%3827400),838382+26474276020364)]or tostring(Y))end)if not P then T,p[lF[zF(EF(-11050+73936),29949075412633-(-406440))]]=nil,true return false end return true end function N.nav_ready()local X=N[lF[zF(EF(994945+-932022),(-113114+275643)+19585507107726)]]()return X~=nil and A[lF[zF(EF(105791+-42225),676217+(-224804+24524562754308))]](X)end local vF={[lF[zF(EF(429035206%3108487),901772+26030984440845)]]=78830039%2542904,[lF[zF(EF(308888308%9962099),623115+11053749741312)]]=false;[lF[zF(EF((-308911-(-905504))+-533380),21165867362976-(-307951))]]=false}N[lF[zF(EF(-205481-(902259+-1170934)),11456533432914-(-573847))]]=vF function N.kite(Y,o,c)if vF[lF[zF(EF((172804-208726)+99660),707365+26841297978133)]]then return false end local V=N[lF[zF(EF(-13171+76411),((-847745-(-917042))+161888)+17220319017406)]]()if not V then return false end return A[lF[zF(EF(1041291-(-527435+1506272)),17777841481760-(-406170))]](V,X[lF[zF(EF(-81872-(-144697)),307888+27713891614414)]](Y),X[lF[zF(EF(-516841+(350559-(-230125))),17005678601478-822848)]](o),vF[lF[zF(EF(731450407%(3774625-739827)),-371203+(6706697056504-389969))]],function(Y,o,A)if A and A[lF[zF(EF(390996038%3619740),32041506214624-(1576560-(1434181-858203)))]]then vF[lF[zF(EF(922172318%11975433),27526+20389944364979)]]=true if not vF[lF[zF(EF(-898904+960827),20173470846815-854613)]]then vF[lF[zF(EF((852093+-971123)+2622460775%12668017),(((-501711-(-489169))-(90173-(-752696-(-767765))))+(8924353955063-636754))-(-1208400-(((-168103+-65427)+530034)-780253)))]]=true X[lF[zF(EF(939245+-876287),-1000349+1791479669133)]](lF[zF(EF(-28603-(651571+-741309)),25795155174091-842720)]..(tostring(A[lF[zF(EF(2179362719%9273613),20555107318469-403238)]])..lF[zF(EF((272880+2568331039)%13104803),18836182785566-(-47611))]))end pcall(c,nil)return end local V=Y and Y[#Y]or nil local k,F,r if V then k,F,r=X[lF[zF(EF(14850+46454),5831769979115-(-158025))]](V)end if k then J[lF[zF(EF((992951+-715508)-216062),-307317+29207114564280)]]=((J[lF[zF(EF(-808712+871705),1882366477449-(227181559655%(-311516+1033023619))%(((916870+4215372)-(-852943))-997661))]]or 336116+-336116))+1502894289%14178248 pcall(c,{[lF[zF(EF(4068111137%16536785),19711+16290108096345)]]=k,[lF[zF(EF(1109469-1047143),10634378157478-(-810265))]]=F,[lF[zF(EF(-279261+343180),22749308585167-(-203117))]]=r})else if A and A[lF[zF(EF(274375-212756),11473430168326-162490)]]then X[lF[zF(EF(1685805125%16366426),(-373902+3818023831)%16965340+25196747233600)]](lF[zF(EF(80877+(2012532893%8244965-780118)),11666792794950-41469)],lF[zF(EF(891840196%((853663+(-182842+((598260+-78580)+(2908111834-556011))%(-99131+2340092094%22374271)))-167735)),19855426324867-549183)],A[lF[zF(EF(88269697%909339),((-752269+-84910)+((-3211+-1042845)+1122556))+12316920049288)]])end pcall(c,nil)end end)end local sF={[lF[zF(EF(387181-325890),4502634814115-371692)]]=697392-697362,[lF[zF(EF(-934383-(-996507)),-601303+19754204464175)]]=false;[lF[zF(EF((-1403216-(-906972))-(-558173)),(1840603-796407)+23753306972595)]]=false}N[lF[zF(EF(367412+-303351),400748+4786592529640)]]=sF function N.flee(Y,o,c)if sF[lF[zF(EF((-535023+422923794)%13594264-904445),18798674824770-(-28686+687592))]]or type(o)~=lF[zF(EF(459628-397811),905165+(22616987971050-(-2024)))]or#o<-127573+(-928820+1056394)then return false end local V=N[lF[zF(EF(((5258885329243%(-479658+657362794757))%2762039001)%11585732),604327+27287109125562)]]()if not V then return false end local k={}for Y=(829005+-28171)+((-177612+-819463)-(-196242)),#o,-968478-(-960726-(8395681-163788754%(-394607+1228877))%8116094)do k[#k+((476427+(-323026+(-869513+-218012)))+934125)]=X[lF[zF(EF(-302671+366015),999656+11276603542385)]](o[Y])end return A[lF[zF(EF((2237290097-73563)%16094622),(3830773005323-(-1397674-(-703367)))-(-965915))]](V,X[lF[zF(EF(-624818-(-681045-7819)),-121970+8172736938462)]](Y),k,sF[lF[zF(EF(976080+-913311),(-600240+3403152438839)-124463)]],function(Y,o,A)if A and A[lF[zF(EF(638123+-575896),372194+30904802846079)]]then sF[lF[zF(EF(-405687-(-468820)),697338+((-1908071-(-803118+-109123))+10532576617234))]]=true if not sF[lF[zF(EF(573751+-511988),994921+24141788721634)]]then sF[lF[zF(EF(190145-128809),566244+9212228034116)]]=true X[lF[zF(EF(401271+-338197),32609925068739%(-636043+509530966265)-(-530984))]](lF[zF(EF(((2551408187-(-640642))-(-934010))%12638215),(932541+(5667139317070-791104))-213031)]..(tostring(A[lF[zF(EF(701753+-637965),17807278481041-(-495952))]])..lF[zF(EF(2043472642%8076719),13549017659450-175574258%(713766+15210333))]))end pcall(c,nil)return end local V=Y and Y[#Y]or nil local k,F,r if V then k,F,r=X[lF[zF(EF(-142463+356325868%11128745),(2833624785060-(670648+((610257+((-706314-(-580411))+(-939367-287511)))-(-601756))))-656263)]](V)end if k then J[lF[zF(EF(1181634727%6564289),15028197673902-(-420522))]]=((J[lF[zF(EF((325356964172%1594948518)%11218726+(414912+-927055)),11838803235373-(-1020809))]]or 3830075136%(-666066+15627297)))+(810019+-810018)pcall(c,{[lF[zF(EF(703666-564455439%(631116391%(3195360107%24844190))),26862675844296-541674)]]=k,[lF[zF(EF((15482071-464287)%69232),(-383303-(-130162))+31763439444757)]]=F,[lF[zF(EF(-533598+1002467834%((445026+(580506+6762454))-198060)),29136843712126-(-915973))]]=r})else if A and A[lF[zF(EF(3537175822%(-1017672+(427600+15146091))),6550003987461-485119)]]then X[lF[zF(EF(2006502710%16446219),-183782+12201397721313)]](lF[zF(EF(1851351400%13415125),-719668+(514169+13500166201959))],lF[zF(EF(846204+-782885),8922814025425-(-919072))],A[lF[zF(EF(-291829+(919839731-(-487425))%15332881),20280703549287-371713)]])end pcall(c,nil)end end)end local wF={[lF[zF(EF(-831898+895228),30521630280960-(-115952))]]=34608370%229194.5;[lF[zF(EF(1537748021%12013171),9464664073610-(1004031+-148882))]]=-999453417-546583;[lF[zF(EF(-343996+((1253607634-(634077+-1362532))%16080244-(-330509))),32605037806560-1044854)]]=nil}function N.status()local Y=X[lF[zF(EF(1006513-944994),-7099+20116214226642)]]()if(Y-wF[lF[zF(EF(1071526203%5919690),73977879760043%1155904514886-(-1020206))]])<wF[lF[zF(EF(2806208197%11790532),25932208124912-111099)]]then return wF[lF[zF(EF((43108193524%(418486928-(-166246)))%4360287),9.0347329672377e+14%6499807921937)]]end wF[lF[zF(EF(3219376665%(-514556+((452542+16141370)-(-345723)))),-886529+29475428807234)]]=Y local o=N[lF[zF(EF(-702813+764111),6020149435218-603846)]]()if not o then wF[lF[zF(EF(1353260298%6699002),7462791305860-903240)]]=nil return nil end local c={[lF[zF(EF(2064524298%11219906),(445517-1018772)+28788442327245)]]=A[lF[zF(EF((-122314+-97975)-(-284017)),19008098064180-107238)]](o);[lF[zF(EF(1326822196%7992531),(134102+4285271630626)-713440)]]=A[lF[zF(EF(1013966302%14484333),67052+(-187099+9655865862915))]](o),[lF[zF(EF(209325542%13950769),551353+10148045922082)]]=A[lF[zF(EF(-232917-(-295204)),(511995054%5747496-516327)+28048959817742)]](o);[lF[zF(EF(-884708-(-946279)),27517685524416-(-835285))]]=A[lF[zF(EF((-1010370+175942741%1908955)-(-755109)),(-87298+-119304)+31912037569752)]](o);[lF[zF(EF(220394-157832),28189279878256-(-916353-(-272419)))]]=A[lF[zF(EF(222138861%13879826),23561897515932-623434)]](o)}local V=A[lF[zF(EF(1069455120%(6512153-70033)),(399781-304935)+11870553269372)]](o)local k,F,r=X[lF[zF(EF(269499-205542),32534512772363-116934)]]()if V and k then c[lF[zF(EF(277492898%13871495),15949512731385-707069)]]=X[lF[zF(EF(-363333-(-425915)),29676625760574-(-492585))]](k,F,r,V[lF[zF(EF(777148-(1321475-607442)),502874+22760044794643)]],V[lF[zF(EF(910086606%13382696),350214+30903887411259)]],tonumber(V[lF[zF(EF(1009586887%6962235),5815066883664-(718989+-577062))]])or r)end wF[lF[zF(EF(-104358-(-218970-(-50541))),524575+4411601332676)]]=c return c end function N.status_text(X)if type(X)~=lF[zF(EF(-611547-(-675450)),(377243+-988342)+14685157544030)]then return nil end local Y={}local o=X[lF[zF(EF((-479787+-358876)+(327865095052%1517939219)%(3484449567%(203805+16201231))),326688+22737808387025)]]if X[lF[zF(EF(-54662+117999),(((-172674+(-210942+-355723))+(301563+28502349462460))-952723)-238209)]]==lF[zF(EF(273148+-209314),23064375462176-28564)]and(o and(o[lF[zF(EF((-893543+326887)-(-628973)),24785415919835-779931)]]and o[lF[zF(EF((190731526446%2119353624)%14059950),(-663163+8720168131964)-(-1866887-(-862353)))]]>2109407676%9676182))then Y[#Y+(872540+-872539)]=string[lF[zF(EF(652875763%7019485),33671+4306147492050)]](lF[zF(EF(170241016%1070309),-32978+33704709267479)],o[lF[zF(EF(653381+((-502662-(-876272))-965553)),-1027947+28487866638513)]]or 351195-351195,o[lF[zF(EF(134843985%(-1023362+1582622)),499951+3885595287076)]]or 2456306073%9944559,o[lF[zF(EF(850056-788925),-835763+10016047512482)]])end if X[lF[zF(EF(-164397+227152),176242+1495462507604)]]then Y[#Y+908394253%6137799]=string[lF[zF(EF(2124449271%10461126-779277),7591681406911-829445)]](lF[zF(EF(-234443+298039),-747007+27928156345820)],X[lF[zF(EF(-678076-(-740619)),(621123+6479123680561)-(-377056))]])end if X[lF[zF(EF(783695+-720527),828455+(23132689199174-(-491636)))]]and X[lF[zF(EF(560935-498381),5320881997004-278958)]][lF[zF(EF(-665221+728574),((23290397941581-(-322692))-727739)-(-946454))]]then Y[#Y+(-298848+298849)]=string[lF[zF(EF(-504853+(1572451-1004291)),-100258+20271579075424)]](lF[zF(EF(779097-(1031434-314275)),170102+(620555+2635071020392))],X[lF[zF(EF(-309497-(-371727)),(846021+20031081814987)-364696)]][lF[zF(EF(379602-316894),(33791258330562-(-716549))-(-860927))]])end if X[lF[zF(EF((-82422+911038)+-765993),874071+(911038+23716314079605))]]and X[lF[zF(EF((-914564+143393951)%(916105+10039093)),(-372885+30776882856563)-(1059121-466240183%3984857))]]>(260741+-97805)-162936 then Y[#Y+(21496963997%488764399-136185)%9410954]=string[lF[zF(EF(602251927%11807629),-210420+26917523330750)]](lF[zF(EF(1552306521%6605298),7487369876624-(-194990))],X[lF[zF(EF(24987-(-36245)),-492658+8561452023613)]],X[lF[zF(EF(-754541+818648),32289745416490-(-786918))]]==288896+-288895 and lF[zF(EF(-519622-(-583507)),-624615+20591891922172)]or lF[zF(EF(61821110%671299),399282634958-377976)])end if X[lF[zF(EF(15089471%(810559+-184439)),3059567803405-301654)]]and X[lF[zF(EF(2623566235%14575027),(1000542+-340695)+((((-550339-(-716777+2937002305%12991782))+2292126903%13091223)+(34594415024713-(-986201)))-326797))]]>853825764%(4384745-538683)then Y[#Y+2455774879%11062049]=string[lF[zF(EF(1166365036%5424659),16312314098508-653125)]](lF[zF(EF(158432452%15837106),(-815185+1842292)+21953258200397)],X[lF[zF(EF(444361090%((2286627222-(388018+-873725))%(152031+12740323))),4771301357435-257715)]],X[lF[zF(EF(1037870371%(-143950+4311850)),-1037957+32833828826352)]]==2624598741%((-578107+1360014)+11425529)and lF[zF(EF(350037-286152),2380440241276%1190222387882)]or lF[zF(EF(-712926+776249),((3239953153%13609102+-2256550)-(-313970))+5358043761072)])end if#Y==507905294%2298214 then return nil end return table[lF[zF(EF(609436-546249),-995427+14267547827028)]](Y,lF[zF(EF(-66988-(-415529-(-286423))),(199200+-50606)+(86884+20739353579469))])end local pF={[lF[zF(EF(409535-346513),2571732654694-(230901-221548))]]=nil,[lF[zF(EF(939154266%(16148171-(-621332))),-566608+3142914478337)]]=nil;[lF[zF(EF(298134283%4319889),27537234536596-445563)]]=false}function N.plan_grind_route(Y)if type(Y)~=lF[zF(EF(388151370%2296381),23598624896839-(-51530+-988444))]or Y==pF[lF[zF(EF(475421+((-1396290-(-972702))-(-126-10771))),95104+(((-514515-(-353355))+-450460)+29486943019796))]]or pF[lF[zF(EF(1439875370%8779348),3552621543135-(-1319904-(-395705)))]]then return end local o=N[lF[zF(EF(-215122+277133),16148172786007-459836)]]()if not o then return end local c={}if type(Y[855345+-855344])==lF[zF(EF((-517732+86197597)%(246279042%(781730+14378057))),(32498011198804-(-172445))-(-984672))]then for X=(-1041002+963706)+77297,math[lF[zF(EF(224280471%(-475129+10223729)),649029+14963820941384)]](#Y/((1778324073%8674656+389913)+((-818251+((-50869+-61801)-(-133931)))+387487))),375572-375571 do local o=((X-(534969+-534968)))*(((-84555+37576834905)%(586381427-(-851232)))%3748986)c[X]={[lF[zF(EF(((1953895598-(-606507))-529530)%9672818),26055764836242-(-31294))]]=Y[o+(593928-593927)],[lF[zF(EF(-938118+999891),997473+(28329716656292-919736))]]=Y[o+303492926%3613011];[lF[zF(EF((-13422+-184483)-(-259051)),16691902008222-272215)]]=Y[o+(380161607%(3058657-(-851973+-176424))+-65582)]}end else for o=-660004-(-660005),#Y,(-950533+1946880)-(-1021519+2017865)do c[o]=X[lF[zF(EF(-26037+88606),7008404849410-(-187324))]](Y[o])or{[lF[zF(EF(1191935631%16106394),-394287+21342928971252)]]=(-971965+1836091)+-864126,[lF[zF(EF((-532472+((844435+-124053)-824046))+192998024%13735709),29531982153713-173077)]]=862328460%12318978;[lF[zF(EF(-171585+233004),34791617429361-(-19717-(368408-(-589091))))]]=(666006+-652754)+-13252}end end pF[lF[zF(EF((-446669-(-795747))+-287773),(21780645260056-(683480+-1038028))-(858711+-1610613))]],pF[lF[zF(EF(-894245+956909),-391250+10135503189603)]],pF[lF[zF(EF(1764154516%(2127388660%21581648-(-777715))),22588117242966-(-916883))]]=Y,nil,true local V=A[lF[zF(EF(260136-198665),811076+23267432802154)]](o,c,function(X,Y)pF[lF[zF(EF(-397395-(-460374)),-399600+33830369758042)]]=false if X and(type(Y)==lF[zF(EF(1050597-987494),414648+(2734300452303-(-1006671)))]and type(Y[lF[zF(EF(346026626%(3322865-340426)),(937724+576434787226)-15432)]])==lF[zF(EF(63552106%(8859331-922997)),(((-1233706-(-379709))-(-822147))+12505)+(21560651798926-(-832338+743060)))])then pF[lF[zF(EF(-141554+((-839471-(-814481))+228621)),3563386308478-(1671367-831486))]]=Y[lF[zF(EF(3256447834%(((6888267132814%70288608598)%1232876141)%17625588)),-612346+24897523416016)]]end end)if not V then pF[lF[zF(EF((74903179149%741672978)%15655696),20706134045052-295614)]]=false end end function N.grind_visit_order()return pF[lF[zF(EF(2470443681%10001539),18239777027265-267273)]]end local OF={[lF[zF(EF(659467+(-243217-353096)),972935+2057053243475)]]={},[lF[zF(EF(131636-68825),9775079940376-(-840937))]]=-1000203406-(-203406),[lF[zF(EF(273280003%8279307),25471444721116-(-942352))]]=3790949997%16200641,[lF[zF(EF(749883-(50699228134%482859778)%11734751),19863174010819-(-637791))]]=(330862+-1044417)+713559;[lF[zF(EF(1452910356%16509616),115950+4252733902283)]]=(1396146-793664)+-602372,[lF[zF(EF((536059545%(3738005547%14650548)+(-2372932-(-1010272)))-(-664963)),(-35624-(-105672))+3135418765771)]]=false}N[lF[zF(EF(309632293%6879356),107290+19118794390299)]]=OF function N.avoided(Y,o)local c=X[lF[zF(EF(735976-672727),34050927335352-(412843+-1006417))]]()for A=#OF[lF[zF(EF((1061486-957858)+-41328),528505+(31427238289919-(-690562-(-1960))))]],2381051289%15461372,595296-595297 do local V=OF[lF[zF(EF((838381-(-35228))-811949),16483257819587-202456)]][A]if(c-V[lF[zF(EF(867174111%(13428977-(712012-421088))),(225640+-624377)+11621392878093)]])>OF[lF[zF(EF(-121006+182941),-515930+2952834540686)]]then table[lF[zF(EF(-70557+132350),438945+71561178181449%2650414311045)]](OF[lF[zF(EF(98688-37473),(-864848+927088)+10639785000061)]],A)elseif X[lF[zF(EF(309689-248074),24171311068916-681491)]](V[lF[zF(EF(1039005177%14039758),72813+30962635504430)]],V[lF[zF(EF(356414263%3873389),34401041393290-(-1023694))]],Y,o)<=OF[lF[zF(EF(146043-84742),16871030126280-(889143+-1685340))]]then return true end end return false end function N.avoid_area(Y,o,c)local V,k,F=X[lF[zF(EF(-725334+789323),((8090203721466-637343)-(-566161))-615012)]](Y)if not V then return false end if N[lF[zF(EF(-775012+838594),4909964216146-36019)]](V,k)then return true end if#OF[lF[zF(EF(157266409%6550209),(-746748+(25482471686947-((-212545+-408277)-(-600113))))-401790)]]>=A[lF[zF(EF((7956826532%(-1040685+70954373))%(2136921565%14436302)),14901036781074-422022)]]then return false end local r=N[lF[zF(EF((-407477+165957920)%(14527002-808917)-(-494137+261484661)%1625752),(453955+27921408319090)-722360)]]()if not r or not A[lF[zF(EF(2715531862%13997264),10721408141277-1001304)]](r,{[lF[zF(EF(625183-563753),282846+6385236178039)]]=V;[lF[zF(EF(2196058733%13724975),6595218241015-(-387511))]]=k;[lF[zF(EF(-189817+253830),661055+107503410256)]]=F},o)then return false end OF[lF[zF(EF(496032+-433817),29090439886151-750361328%6523472)]][#OF[lF[zF(EF(2172170433%(3310186742%25361011-(-758280))),853764+22470155515326)]]+2277885936%13478615]={[lF[zF(EF(-990500+1052764),24193861928076-(-483))]]=V;[lF[zF(EF(22297+41532),28866804573294-(-83268+-724503))]]=k;[lF[zF(EF(-157336-(-219795)),7734828083306-650470)]]=X[lF[zF(EF((2922-(588276+-1080769))-434155),-358614+14449963019773)]](),[lF[zF(EF(-531410+(868492+-275025)),-317793+28582609423249)]]=o}J[lF[zF(EF(91544075%(-1020182+8057205)),-34302+31122315679985)]]=((J[lF[zF(EF(-783081-((-288561-(-79122))-636104)),643685+27554994781074)]]or 644619+-644619))+(905789-905788)OF[lF[zF(EF(435285+-372268),(795459+5848282760017)-237809990%4945844)]]=true X[lF[zF(EF(50707+12687),8072278519961-(564358+(((((872997-(1508040-594726))+(-680714+280752))-1735901902%6943531)-(997784+-1012725))+-246263)))]](lF[zF(EF(-69363-(650136+-781205)),1262810980586-102298)],lF[zF(EF(77818776%546961+-87968),32637903578720-649076)],tostring(c),o,V,k)N[lF[zF(EF(685650-624494),11657581276144-(-902093))]](r)return true end local WF=-868484+-999131516 function N.restore_stuck_zones()local Y=X[lF[zF(EF((61955629217%439457740)%3017371),27513637669300-481072)]]()if Y-WF<((111075+83945)-(-38149))+-233167 or type(c[lF[zF(EF(((-1027102-(-277821))+25443)+785824),2036053174456-81797)]])~=lF[zF(EF(-892129+954910),(-713550+((33316237227939-(-1020410))-(-248204)))-(-131878))]then return end WF=Y local o,A,V=X[lF[zF(EF(428545+-364638),1195759843274-(-553788))]]()if not o then return end for Y,c in ipairs(c[lF[zF(EF(144148247%2881720),22237601804099-477387)]]())do local k=X[lF[zF(EF(1062104-1000245),(1018025+-1603553)+10096405823859)]](o,A,c[lF[zF(EF(-748209+811105),(296106+(5660270887921-907703))-(-96807))]],c[lF[zF(EF((59192773455%1057052499)%5145473),37341403427838%7468281080687)]])local F=math[lF[zF(EF(654355+-592072),573351+34759146566436)]](1671932146%11451590,c[lF[zF(EF(170054-108032),500398+13939181039088)]])if k>F+157780422%(11019079-(449203+-700154))and(k<(316385-(-221507))-537772 and math[lF[zF(EF(1004781286%13396258),(1949791000937-((891333-247990)-631344))-((959723-86081)+-584411))]](((V or(1142747461-449587)%(5091769-(-591305))))-c[lF[zF(EF(6041+((-56293-(-314029))+-200487)),574344+11202972583460)]])<=6877133%((33790-17104)+(6348467-(-511972))))then N[lF[zF(EF((-56858-234166)+354883),5091669039022-(167065-813229))]]({[lF[zF(EF(-646883+708107),392415+31949300082100)]]=c[lF[zF(EF(783631933%6074188),292077+13346385782282)]];[lF[zF(EF(1309503719%8558441),24857988708587-280246)]]=c[lF[zF(EF(652494+-588351),28796330112155-(-558322+1039767))]];[lF[zF(EF(((-849571-840202)-(-721215))-(970975+-2001959)),-412752+19434985490019)]]=c[lF[zF(EF(117926+-56390),221684+9165132352726)]]},F,lF[zF(EF(851970-790802),(-171380-(-723787))+2910012786566)])end end end function N.flush_avoidance(Y)if not OF[lF[zF(EF(568687-506656),18072508725457-(747544+(-697417-1940712376%9702672)))]]or p[lF[zF(EF(545604-482049),15455247632755-(-841245))]]==lF[zF(EF(-420269+483844),23101824686186-(1010569-(1100174430-358660)%17440896))]or E or next(M[lF[zF(EF(540277-476690),30199632995074-885315)]])or X[lF[zF(EF(3093374713%(((774248+214296)+-621438)+13200058)),(408393+-1176086)+15083865859401)]]then return end local o=X[lF[zF(EF(1148594645%9816518),-990712+2653367875391)]]()if not p[lF[zF(EF(-708010+418063160%3260093),6240569037791-(-796415))]]or p[lF[zF(EF((294537639661%1742839506)%12255715-229947),-986485+2478357708944)]]or not A[lF[zF(EF((1237627-304911)-870506),1003736+31720493202107)]](Y)or A[lF[zF(EF(982934455%13650978),835713+4473080698205)]](Y)or o-((p[lF[zF(EF(-950800-(-1013069)),54151+25107850281520)]]or o))<e or o-OF[lF[zF(EF((417016-239264)-115691),4.270672964038e+14%12201922910457)]]<OF[lF[zF(EF((250111940540%1191039764)%15384008),5284256827397-243941)]]then return end OF[lF[zF(EF((-684543+254700)-(-492368)),(-709055+-25514)+1422169742734)]]=o if A[lF[zF(EF(-483176+547380),952981+34266386273403)]](Y,lF[zF(EF(-656075+718073),(672516+18212035686721)-(-477103))])then OF[lF[zF(EF(-980158-(-224975-817464)),-647087+10011246286988)]]=false J[lF[zF(EF(421112907%2137318),34149665034799-(-7900))]]=((J[lF[zF(EF((-444897+244335)+(-105690+368596)),549045+(-894736+8953199235609))]]or 24776000%1238800))+(118299608219%1148635295)%(-851862+14739766)end end function N._reset()p={[lF[zF(EF(2156068379%9539850),(-192605-85998)+29530874402959)]]=1847876085%(1562075849%14912275);[lF[zF(EF(80958+-19635),21757562856920-(2099972964%8432738-258189))]]=nil,[lF[zF(EF(-737161-(-799960)),10980405494812-(-758332))]]=nil;[lF[zF(EF(970992+-908388),-186634+20608061504915)]]=nil,[lF[zF(EF(647829490%10796104),-399960+11686572317872)]]=nil;[lF[zF(EF(206894-144127),28182869429234-(-72335))]]=817796533%12765550+-801333;[lF[zF(EF(141912-78778),(-423015+(-89227-328131))+14931142495389)]]=nil,[lF[zF(EF(-788982+(1008305-155802)),709509+6123390884627)]]=false}O={[lF[zF(EF(976954+-913146),17007034820739-(-800496))]]=nil,[lF[zF(EF(-839352-(-903152)),-710656+9986407283802)]]=false;[lF[zF(EF(-339921+402783),21525786988137-(68134-(-349585+-303483)))]]=-501589+(885438+(-507927-(-124078)))}W,z,l,tF,aF={},{},{},{},-1021048-(-1021048)j={[lF[zF(EF((564688+(-72566-491019))+62215),23937283802018-342080814%1885574)]]=55340-55340;[lF[zF(EF(-227127+290306),10038769674623-(-742106-(-316679)))]]=-526727-(-526727),[lF[zF(EF(-541498-(-604988)),(26892942517762-852555)-863375)]]=1917599925%12131426+-834617}E,M,T=nil,{[lF[zF(EF(512283-449695),338746+(55482+7422131544485))]]={};[lF[zF(EF(-746751+808261),(-19741+(752435+5904930125839))-(-377880))]]=nil},nil G=nil NV[lF[zF(EF(418523-354397),8956867709340-6113)]],NV[lF[zF(EF((702733+-1672861)-(-1033906)),580488+(3528+16809939708636))]]=nil,-1000209886-(-209886)hF={[lF[zF(EF(698886524%16251749),-376508+28826838926829)]]=nil;[lF[zF(EF(1485690073%9114271),-477904+((692442+(-707298+27816254946450))-712635))]]=false}OF[lF[zF(EF(3418043443%16276102),18394854621489-(-653380))]],OF[lF[zF(EF(575356661%6120156),(1333859-407517)+(946952+22045985077890))]],OF[lF[zF(EF(632372-569387),-660271+1668420613042)]]={},-1000243775-(-243775),false fF,HF,LF=-999409917-590083,false,nil r[lF[zF(EF(-419925+(-125473+609299)),27679876577579-(868515+-84686))]]()end return N end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- movement/nav.lua - travel through Sentinel Navigation
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- ============================================================================
+-- 1.10.0 SENTINEL PORT (docs/SENTINEL_PORT_GUIDE.md; the reference is
+-- restedXP_questing 4.7.0 movement/nav.lua). Sentinel Navigation / Sentinel are
+-- gone from this layer: no the Sentinel client, no the Sentinel UI (input driver,
+-- stuck window), no query.find_path(s), no exact 5 yd / 15 yd window walk
+-- (movement/guide_path is retired), no straight-line fallback walker. Every
+-- Sentinel call goes through movement/sentinel.lua (S.*). Sentinel walks its
+-- own path: this layer hands it destinations and reads how they end.
+--
+-- WALK = move_to(target, cb(success, reason)). A new destination while a walk
+-- runs is another move_to - Sentinel re-plans without stopping (0.12 s,
+-- recorded) - at most every RETARGET_GAP s (combat COMBAT_GAP s): one path
+-- request a second, never per frame. The same destination (within SAME_DEST
+-- yd) while walking is a no-op, so callers can ask every tick.
+--
+-- WALKS ARE OURS TO TRACK: a walk replaced by a newer move_to, or stopped,
+-- gets NO callback (recorded). Each walk carries a token (cur.id); a newer
+-- walk or a stop retires it and its callback, should one ever come, is
+-- ignored. A walk the Sentinel UI ended (no callback) is closed by the pulse
+-- from get_state().
+--
+-- HEIGHTS: an off-mesh target costs ~6 s of library retries before Sentinel
+-- snaps it (recorded), so an out-of-combat walk of FLOOR_FIRST yd or more asks
+-- the navmesh floors there first (get_all_heights, one request per spot,
+-- nearest the guess) and walks at that height. A walk that still ends
+-- "unreachable" tries the next floor (retry_at_ground). The height found is
+-- kept (N.reach_z).
+--
+-- HOLDS: Sentinel has no pause / resume. A hold (a cast, loot, a mana gem)
+-- stops the walk and remembers where it went; when the last hold lifts the
+-- same destination is walked again.
+--
+-- STOPS: never on a walk still waiting for its path or younger than
+-- FRESH_LEG s (the 2.181.0 / 3.7.1 crash pattern). Such a stop is deferred to
+-- the pulse (after the path is ready); a new walk meanwhile replaces it.
+--
+-- FAILURES: the reason of the last failed walk is kept (last_fail_reason /
+-- last_fail_offmesh). "unreachable" twice at one spot in FAIL_WINDOW s
+-- blacklists it (movement/zones); "server_timeout" backs off SERVER_BACKOFF s.
+-- A walk that ENDED max_stuck_exceeded / unreachable confirms the player's spot
+-- as a black point of movement/memory (bookkeeping kept from 1.9.x; it goes to
+-- this session's zones too, so the spot is refused at once).
+--
+-- ZYGOR SURFACE (what movement.lua / quest/engine call), mapped on Sentinel:
+--   waypoint_walk(dest, key)  1.20.0: a guide nav_to (key ignored, no per-key
+--                             gate); the quest walker walks RestedXP's chain
+--   step_into(pos)            the last yards into a portal: move_direct (doc)
+--   path_ahead(yards)         Sentinel's get_current_path from get_path_index
+--   replan_fresh / rejoin     the current destination issued again (a fresh
+--                             Sentinel path from here, no stop)
+--   detour(pt) / detour_active  walk pt, then the destination again
+--   all_heights(pos, cb)      get_all_heights through the adapter
+--   steep_at(points)          slope check of a path's own points (pure)
+--   mem_black(rec, why)       a movement/memory black point -> session zones
+--
+-- NO SENTINEL (library missing, no maps for this game version): no movement
+-- at all, and the reason is logged (once per reason).
+-- ============================================================================
+
+local R = require("movement/core")
+local Z = require("movement/zones")
+local MT = require("movement/mount")         -- 3.8.0: mount for travel (the 1-60 way)
+local MEM = require("movement/memory")       -- 1.9.0: black points (bookkeeping)
+local S = require("movement/sentinel")       -- 1.10.0: every Sentinel call
+local EL = require("movement/elevator")      -- 1.22.0 / 1.66.0: Telredor and Aldor Rise lifts
+local BT = require("movement/boat")          -- 1.2.32: Stormwind Harbor <-> Auberdine boat
+local FR = require("movement/front")         -- 1.2.34: Simple Movement facing / keeping enemies in front
+local AS = require("movement/astar")         -- 1.30.0: local A* fallback (opt-in, off by default)
+
+local N = {}
+
+local SAME_DEST = 2.0          -- yd: the same destination
+local SAME_DEST_GUIDE = 6.0    -- 1.67.0: guide / npc walks retarget less (talk/accept jitter)
+local RETARGET_GAP = 1.0       -- s between two travel retargets (one path request a second)
+local COMBAT_GAP = 0.5         -- s between two combat retargets (a moving target)
+local UNDERFOOT = 1.0          -- yd: a destination this close is reached
+local QUIET_STOP = 0.3         -- s callers wait after a real stop (is_quiet)
+-- 1.20.1: was 40 - the 1.20.0 patrol ring puts points 25 yd off a lone waypoint at the
+-- CENTRE's height; on uneven ground those were off-mesh targets (Sentinel retries one
+-- ~6 s, then snaps it and ends the walk "arrived" short of it)
+local FLOOR_FIRST = 20         -- yd: farther travel walks ask the floors there first
+N.FLOOR_LAYER = 8              -- 1.67.0: a mesh floor farther than this from the measured height is another layer
+local HEIGHT_SAME = 2.0        -- yd: a height this close to a tried one is the same
+-- 1.73.0 / 1.74.0: dest this far ABOVE the player is a flyer / cliff mesh
+-- (Naphthal'ar at z 79 while the thicket is at 12) - walk the player's floor,
+-- not up the mountain. Dest this far BELOW the player still asks the mesh
+-- floors so the walk is on walkable terrain (Sentinel move_to), not a flyer /
+-- lake-bed Z. Off-mesh dests snap to the nearest reachable point.
+local CLIMB_ABOVE = 45
+local DIVE_BELOW = 12
+local DIVE_MAX = 45
+local HEIGHT_SCAN_HOLD = 10.0  -- s: a floor query with no answer holds new walks there no longer
+local FAIL_WINDOW, FAIL_BLACKLIST = 120, 2
+local REACH_TTL, REACH_TTL_BAD, REACH_GAP = 120, 45, 0.25
+local REACH_TRUST_FAR = 150    -- yd: farther answers are guesses, never "unreachable"
+local FRESH_LEG = 1.0          -- s: a leg younger than this is never stopped (3.7.1)
+local LOST_WALK = 2.0          -- s: an idle client this long after our walk began = it ended
+local DETOUR_MAX_S = 15        -- 1.7.23: a detour leg ends after this at the latest
+local DETOUR_MAX_YD = 40       -- audit N2: farther detour points are refused
+
+-- Sentinel failure reasons (doc): unreachable, server_timeout,
+-- max_stuck_exceeded, max_repath_exceeded
+local OFFMESH = { unreachable = true }
+local SERVER_CODES = { server_timeout = true, server_down = true, map_not_loaded = true }
+local SERVER_BACKOFF = 3.5
+local GIVE_UP_CODES = { max_stuck_exceeded = true, max_repath_exceeded = true }
+local HEIGHT_RETRY = { unreachable = true }
+-- 1.2.40: the server's HTTP 422 "Position not on navmesh" is a wrong-height destination, like "unreachable":
+-- the floors at the spot are tried (log 2026-11-18: 7 walks in a row to z 311 under a z 406 hill, 20 s each)
+local function mesh_code(code) return type(code) == "string" and code:find("navmesh", 1, true) ~= nil end
+
+-- the walk this layer asked for
+local cur = { id = 0, x = nil, y = nil, z = nil, mode = nil, t = 0, route = nil, done = false }
+local fail = { reason = nil, offmesh = false, t = 0 }
+local fails_at = {}            -- dest key -> { n, t }
+local zfix = {}                -- dest key -> corrected z
+local zscan = {}               -- dest key -> { tried = { z, ... }, t, list, asking }
+local stats = { issued = 0, refused = 0, floors = 0, deferred_stops = 0 }
+N.stats = stats
+local stop_req = nil           -- { t, reason } a stop waiting for a safe moment
+local held = { reasons = {}, dest = nil }
+local det = nil                -- 1.7.23: { x, y, z, dest = { x, y, z, mode, route }, id, until_t }
+
+-- fails_at / zfix / zscan are keyed per destination and would grow for a whole
+-- session; past CACHE_MAX keys each is emptied (all are re-learnt).
+local CACHE_MAX = 256
+local cache_n = { fails = 0, zfix = 0, zscan = 0 }
+local function cache_put(tbl, which, k, v)
+    if tbl[k] == nil then
+        cache_n[which] = cache_n[which] + 1
+        if cache_n[which] > CACHE_MAX then
+            for key in pairs(tbl) do tbl[key] = nil end
+            cache_n[which] = 1
+        end
+    end
+    tbl[k] = v
+end
+
+-- ----------------------------------------------------------------------------
+-- the client
+-- ----------------------------------------------------------------------------
+local request_warned = nil
+local warned = nil             -- the last "no navigation" reason logged
+
+--- Sentinel's shared client, or nil: the library is missing, or this game
+--- version has no maps on the server (the launcher says so in MASTER_FARMER.nav).
+function N.client()
+    local info = S.info()
+    local why = nil
+    if info.kind ~= "sentinel" then
+        why = "not loaded through Master Farmer's Sentinel entry - the bot will not move"
+    elseif not info.supported then
+        why = "Sentinel navigation has no maps for this game version - the bot will not move"
+    end
+    local c = nil
+    if not why then
+        c = S.client()
+        if not c then why = "the Sentinel Navigation library is not loaded - enable it and reload" end
+    end
+    if why then
+        if warned ~= why then
+            warned = why
+            R.log(why)
+        end
+        return nil
+    end
+    warned = nil
+    return c
+end
+
+--- Why the bot cannot navigate now (for the GUI), or nil.
+function N.unavailable() return S.unavailable() end
+
+-- Legacy input-driver compatibility: Sentinel has no driver setting and
+-- its UI owns the tuning - kept as no-ops so gui Start / Stop, mapwalk and
+-- unload stay as they are.
+function N.want_input_driver(_) end
+function N.driver_claimed() return false end
+function N.release_driver_now() end
+
+local function key_of(x, y)
+    return string.format("%d|%d", math.floor(x / 4), math.floor(y / 4))
+end
+
+-- ----------------------------------------------------------------------------
+-- gates: who may start a walk now
+-- ----------------------------------------------------------------------------
+--- Why travel is refused now, or nil. Combat owns the player while a fight
+--- asks for it every tick (movement/combat sets R.combat_until); a rest or a
+--- backpedal holds everything.
+function N.transport_blocked()
+    local c = S.client()
+    return c and S.request_blocked(c) or nil
+end
+
+--- 1.2.51: Sentinel is still planning this walk's path (the server is slow, not
+--- the walk stuck). The quest stall clock waits for it, within a cap.
+function N.awaiting_path()
+    local c = S.client()
+    return c ~= nil and S.path_pending(c) or false
+end
+
+function N.refusal()
+    -- 1.67.0: HTTP 414 is an oversized zone / check_path payload, not a
+    -- travel refusal. move_to / replan still run; add_zone / find_path /
+    -- check_path stay gated in the adapter.
+    if EL.riding() then return "elevator" end            -- 1.22.0: on / stepping onto the lift
+    if BT.riding() then return "boat" end                -- 1.2.32: boarding / riding / leaving the ship
+    if FR.active() then return "front" end               -- 1.2.34: a Simple Movement turn / kite owns the keys
+    if R.resting then return "resting" end
+    if R.backpedal_until then return "backpedal" end
+    if (R.combat_until or 0) > R.now() then return "combat" end
+    -- 3.0.2: standing at an NPC (movement.interact) - its window / gossip /
+    -- purchase gets NPC_HOLD s before any walk starts again
+    if (R.npc_until or 0) > R.now() then
+        -- the game answered "too far away": nothing opened, the caller walks
+        -- up to the NPC - the hold is lifted for that walk
+        local ev = package.loaded["events"]
+        if R.npc_ev_t and type(ev) == "table" and type(ev.too_far_since) == "function"
+            and ev.too_far_since(R.npc_ev_t) == true then
+            R.npc_until, R.npc_ev_t = nil, nil
+            return nil
+        end
+        return "npc"
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- state
+-- ----------------------------------------------------------------------------
+--- Sentinel is navigating (is_moving: true only while "navigating").
+function N.busy()
+    local c = N.client()
+    return c ~= nil and S.moving(c)
+end
+
+--- The walk's own goal (a detour keeps the real goal here), or nil.
+function N.destination()
+    if cur.x and N.busy() then return cur.x, cur.y, cur.z end
+    return nil
+end
+
+function N.mode() return N.busy() and cur.mode or nil end
+
+--- Sentinel's dotted state, or nil.
+function N.full_state()
+    local c = N.client()
+    return c and S.full_state(c) or nil
+end
+
+--- Sentinel's own stuck recovery runs (navigating.recovering.*).
+function N.recovering()
+    local c = N.client()
+    return c ~= nil and S.recovering(c)
+end
+
+--- The path Sentinel follows (vec3[]) and the index being walked to, or nil.
+function N.path_points()
+    local c = N.client()
+    return c and S.current_path(c) or nil
+end
+function N.path_index()
+    local c = N.client()
+    return c and S.path_index(c) or nil
+end
+
+-- 1.9.0: a black point (movement/memory) also goes to this session's zones at
+-- its radius, so the walk refuses the spot at once; the file is the copy that
+-- survives a reload
+local function mem_black(rec, why)
+    if rec and MEM.active(rec) then
+        Z.blacklist_area({ x = rec.cx, y = rec.cy, z = rec.cz }, rec.radius, "stuck here (" .. tostring(why) .. ")")
+    end
+    return rec
+end
+N.mem_black = mem_black                  -- 1.9.2: movement.lua's stuck-episode confirm
+
+--- `walked`: a walk ENDED with `code` (a move_to / follow_path callback), not a
+--- planning answer - only then can the player's spot be a black point.
+local function record_fail(code, x, y, z, walked)
+    if walked then
+        local px, py, pz = R.here()
+        if px and MEM.BLACK_CODES[code] then
+            mem_black(MEM.confirm_stuck(px, py, pz, code), code)   -- 1.9.2: once per cell per episode
+        elseif px and code == "max_repath_exceeded" and (x or cur.x) then
+            mem_black(MEM.note_replan(px, py, pz, x or cur.x, y or cur.y), code)
+        end
+    end
+    fail.reason, fail.offmesh, fail.t = tostring(code or "failed"), OFFMESH[code] == true, R.now()
+    if SERVER_CODES[code] then fail.server_until = R.now() + SERVER_BACKOFF end
+    fail.give_up = GIVE_UP_CODES[code] == true
+    if not x then return end
+    local k = key_of(x, y)
+    local e = fails_at[k]
+    local t = R.now()
+    if not e or (t - e.t) > FAIL_WINDOW then e = { n = 0, t = t } cache_put(fails_at, "fails", k, e) end
+    e.n, e.t = e.n + 1, t
+    if e.n >= FAIL_BLACKLIST and fail.offmesh then
+        Z.blacklist_area({ x = x, y = y, z = z }, 6, "no path there (" .. fail.reason .. ")")
+        fails_at[k] = nil
+    end
+end
+
+-- ----------------------------------------------------------------------------
+-- fresh legs (3.7.1, crash logs 2026-10-16 17:30 - 18:06)
+-- ----------------------------------------------------------------------------
+local FALSE_ARRIVAL = 5.0      -- yd: an "arrived" farther from the goal is not one
+-- 1.20.1 RAPID WALKS (crash 2026-10-25 14:54, 1.20.0, ~2 s into a fresh walk after a walk
+-- that ended "arrived" 5 yd short): 1.20.0 dropped the 1.5.0 one-walk-per-waypoint gate,
+-- and nav_to paced retargets only WHILE Sentinel walks. A goal Sentinel snaps (off the
+-- navmesh) ends "arrived" short at once; the quest walker, still short of it, asked
+-- again the next tick - a loop of sub-second walks (the 2.181.0 / 3.7.1 crash pattern).
+--   * START_GAP: a new walk never starts within START_GAP s of the last one (combat
+--     COMBAT_START_GAP), Sentinel busy or not - at most one walk a second;
+--   * SHORT: an "arrived" SHORT_OK yd or less short of the goal is where the navmesh
+--     ends - N.reached_short(pos) says so for SHORT_HOLD s (quest/engine near() counts
+--     it as there); farther short is a failure of the place ("arrived_short", off-mesh).
+local START_GAP, COMBAT_START_GAP = 1.0, 0.5
+local STORM = { key = nil, ts = {}, until_t = -1e9, N = 5, S = 12, GAP = 4.0, HOLD = 30 }   -- 1.2.58
+N.STORM = STORM
+local SHORT_OK, SHORT_HOLD = 15, 10
+local short = { key = nil, t = -1e9 }
+N.START_GAP, N.SHORT_OK = START_GAP, SHORT_OK
+
+--- Seconds since the running leg started (huge when none runs).
+function N.leg_age()
+    if not cur.leg_t or not N.busy() then return 1e9 end
+    return R.now() - cur.leg_t
+end
+function N.leg_fresh() return N.leg_age() < FRESH_LEG end
+
+--- An "arrived" far from the goal is not counted (logged once per leg).
+function N.false_arrival(x, y)
+    local hx, hy = R.here()
+    if not hx or not x then return false end
+    local d = R.dist2(hx, hy, x, y)
+    if d <= FALSE_ARRIVAL then return false end
+    R.trail("nav", "walk ended as 'arrived' %.0f yd short of (%.0f, %.0f) - not counted", d, x, y)
+    return true, d
+end
+
+-- ----------------------------------------------------------------------------
+-- heights: the navmesh floors at a spot
+-- ----------------------------------------------------------------------------
+local function swimming()
+    local ok, v = pcall(function() return core.character.is_swimming() end)
+    return ok and v == true
+end
+
+--- The floors at (x, y), asked once per spot per FAIL_WINDOW s: cb(list).
+--- True when the list is known or the query went out.
+local function floors_for(c, k, x, y, z, cb)
+    local st = zscan[k]
+    if st and (R.now() - st.t) > FAIL_WINDOW then st = nil end
+    if not st then
+        st = { tried = {}, t = R.now(), list = nil, asking = false, waiting = {} }
+        cache_put(zscan, "zscan", k, st)
+    end
+    if st.list then cb(st.list, st) return true end
+    st.waiting[#st.waiting + 1] = cb
+    if st.asking then return true end
+    st.asking = true
+    stats.floors = stats.floors + 1
+    local sent = S.floors(c, { x = x, y = y, z = z }, function(list)
+        st.asking, st.list = false, list
+        local w = st.waiting
+        st.waiting = {}
+        for i = 1, #w do pcall(w[i], list, st) end
+    end)
+    if not sent then
+        st.asking, st.list, st.waiting = false, {}, {}
+        cb(st.list, st)
+    end
+    return true
+end
+N._floors_for = floors_for     -- tests
+
+local function untried(st)
+    for i = 1, #(st.list or {}) do
+        local v, fresh = st.list[i], true
+        for j = 1, #st.tried do
+            if math.abs(v - st.tried[j]) <= HEIGHT_SAME then fresh = false break end
+        end
+        if fresh then return v end
+    end
+    return nil
+end
+
+-- 1.30.0 LOCAL A* FALLBACK (movement/astar, opt-in): a walk Sentinel ends
+-- "arrived" short of its goal or "unreachable", with the goal within AS.MAX_YD of
+-- the player, is handed to the local grid search; its path is walked leg by leg
+-- (N.astar_leg, Sentinel move_direct). Its failure is the old outcome (as close
+-- as the navmesh goes / the recorded failure).
+local function astar_try(x, y, z, mode, code)
+    if mode == "combat" or mode == "astar" or mode == "swim" or mode == "portal" then return false end
+    -- 1.67.0: talk / accept / turn-in off-mesh still searches when the GUI
+    -- box is off (AS.ON remains the kill switch).
+    local force = (mode == "guide" or mode == "npc")
+    return AS.start({ x = x, y = y, z = z }, function(ok, why)
+        if ok then
+            fail.reason, fail.offmesh = nil, false
+            short.key = nil
+            return
+        end
+        if code == "arrived_short" then
+            short.key, short.t = key_of(x, y), R.now()          -- as close as the mesh goes, as before
+        else
+            record_fail(code, x, y, z, false)
+        end
+    end, force)
+end
+
+-- ----------------------------------------------------------------------------
+-- issuing walks
+-- ----------------------------------------------------------------------------
+local issue_walk
+local detour_done
+
+--- "unreachable" at (x, y, z): walk again at the next floor found there.
+--- True when a retry is under way (it reports the failure itself).
+local function retry_at_ground(c, id, x, y, z, code, mode)
+    if swimming() then return false end          -- R9.2 (the floor query answers the bed)
+    local k = key_of(x, y)
+    cur.scanning, cur.scan_t = id, R.now()
+    floors_for(c, k, x, y, z, function(list, st)
+        if cur.scanning == id then cur.scanning = nil end
+        st.tried[#st.tried + 1] = z
+        if cur.id ~= id then return end           -- superseded meanwhile (the list is kept)
+        local hz = untried(st)
+        if hz then
+            cache_put(zfix, "zfix", k, hz)
+            R.trail("nav", "(%.0f, %.0f): %s at z %.1f - walking again at a floor there, z %.1f (%d found)",
+                x, y, tostring(code), z, hz, #list)
+            issue_walk(c, x, y, hz, mode, true)
+        else
+            zfix[k] = nil                         -- no floor worked: no height is kept for the route
+            if not st.spent then
+                st.spent = true
+                R.trail("nav", "(%.0f, %.0f): no floor with a path found (%d found) - %s", x, y, #list, tostring(code))
+            end
+            if astar_try(x, y, z, mode, code) then return end                  -- 1.30.0
+            record_fail(code, x, y, z, mode ~= "combat")
+        end
+    end)
+    return true
+end
+
+-- PRECOMPUTED PATHS (ported from Forever Questing 1.29.0). A move_to makes Sentinel go
+-- awaiting_path and ask its server AFTER the walk is issued; here the path is planned
+-- FIRST with the declared plan_route (planning only - nothing walks, the player keeps
+-- running the old walk meanwhile, so a retarget never stops) and only then handed to
+-- Sentinel as follow_path(waypoints), a path it already has.
+--   * anything the plan cannot answer (no path, an error, WAIT_S with no reply, no
+--     plan_route in the library, a plan that ends END_YD short of the goal) is a plain
+--     move_to, exactly as before - Sentinel plans that walk itself;
+--   * walks of MIN_YD or more in the "move" and "guide" modes only; short hops, combat,
+--     NPC, corpse, portal, swim, A*, elevator and recorded-route walks are not touched;
+--   * steep ground on the plan becomes an avoidance zone (N.zone_span) and the path is planned
+--     again, up to PRE.TRIES times; the zone call is the adapter's guarded add_zone.
+N.PRECOMPUTE = true
+local SEG = { key = nil, last = nil, n = 0 }     -- audited-prefix segments walked toward one goal
+local SIDE_BATCH = 3                              -- 1.2.84: both sides of this many nearest offsets are asked together
+local SIDE_OFFSETS = { 15, 30, 55, 90, 140 }      -- 1.2.39: yd beside a steep span, nearest ring first
+local PRE = { MIN_PREFIX = 12, MAX_SEGMENTS = 80, MIN_YD = 15, WAIT_S = 2.0, END_YD = 6, TRIES = 2, REGEN_GAP = 1.5, MODES = { move = true, guide = true } }
+N.PRE = PRE
+
+-- 1.2.19 THE SAME STEEP SPAN, AGAIN AND AGAIN. A route whose plan crosses ground this layer judges impassable was planned,
+-- walked up to the span, planned again (the same span), for ever: the log shows 8 audited-prefix segments toward one inn and
+-- Sentinel hand-offs that ended "navigating.recovering". The third time the same span (within SB_SPAN yd) blocks the same
+-- goal inside SB_TTL s, the goal is given up for a while (the area blacklist every caller already honours) instead of tried
+-- again. A ghost on a corpse run is never given up on: it must get to the body.
+local SB = { key = nil, x = nil, y = nil, n = 0, t = -1e9 }
+local SB_SPAN, SB_MAX, SB_TTL = 25, 2, 600
+local function steep_block(x, y, z, sx, sy, force)
+    if type(N.ghost_now) == "function" and N.ghost_now() then return false end
+    local now = R.now()
+    local k = key_of(x, y)
+    if SB.key ~= k or now - SB.t > SB_TTL or not SB.x or R.dist2(SB.x, SB.y, sx, sy) > SB_SPAN then
+        SB.key, SB.x, SB.y, SB.n = k, sx, sy, 0
+    end
+    SB.n, SB.t = SB.n + 1, now
+    if force then SB.n = SB_MAX end
+    if SB.n < SB_MAX then return false end
+    SB.key, SB.n = nil, 0
+    Z.blacklist_area({ x = x, y = y, z = z }, 8, "the route crosses steep ground (blocked " .. SB_MAX .. " times)")
+    stats.steep_giveups = (stats.steep_giveups or 0) + 1
+    R.trail("nav", "the route to (%.0f, %.0f) crosses ground too steep to walk - giving this destination up for a while", x, y)
+    return true
+end
+N._steep_block = steep_block
+
+--- The planned points from the one nearest the player on (the point the player already
+--- stands on is dropped), as plain {x, y, z}.
+local function pre_trim(points)
+    local hx, hy = R.here()
+    local first = 1
+    if hx then
+        local best, bd = 1, math.huge
+        for i = 1, #points do
+            local d = R.dist2(hx, hy, points[i].x, points[i].y)
+            if d < bd then best, bd = i, d end
+        end
+        first = (bd < 2 and best < #points) and best + 1 or best
+    end
+    local out = {}
+    for i = first, #points do
+        local p = points[i]
+        if type(p) == "table" and tonumber(p.x) and tonumber(p.y) then
+            out[#out + 1] = { x = p.x, y = p.y, z = p.z or 0 }
+        end
+    end
+    return out
+end
+
+-- 1.2.75 LONG ROUTES AND SPLICED RE-PLANS (user: "paths should be able to be generated for long distances, 500+ yards at a time,
+-- while regenerating while the player is running without stopping, by looking ahead").
+--
+--   ANCHORED PLANS. Sentinel's server answers a SHORT query fast and may never answer a very long one (a 1213 yd and a 5389 yd
+--   query got no reply in the logs). plan_route takes a LIST of nodes and plans leg by leg, so a goal more than LONG.MIN_YD
+--   away is planned as start -> anchor -> anchor -> goal: anchors every LONG.SEG_YD yd along the line, each snapped to a
+--   real mesh floor (floors_for, the floor nearest the interpolated height). One request, one reply, 500+ yd of path.
+--   An anchor without a floor is dropped; an anchored plan that fails is asked again plainly (st.no_anchor), then the old ladder.
+--   PARTIAL PLANS. A plan that ends short of the goal but gets LONG.PARTIAL_GAIN yd closer is walked as far as it goes and the
+--   rolling horizon (LA, 150 yd for a partial path) plans the next stretch while the player is still running.
+--   SPLICED RE-PLANS. The horizon's re-plan starts at a SPLICE POINT on the running path, speed x (latency + 1 s) yd ahead of the
+--   player (25 - 70 yd), not at the player: when the reply comes the running path up to the splice point is kept and the new
+--   plan continues from it, so the player never backtracks or stops. A failed splice leaves the running path alone.
+-- 1.2.77 PLAN LATENCY, HEDGED PLANS, NEXT-LEG PREFETCH (user: "watch the logs for the time Sentinel takes to create paths; find a
+-- quicker method of generating and regenerating paths to the Zygor waypoints").
+--   LOGS (222 sessions, 983 plan requests, 2026-11-09..19): when the server answers it answers FAST - median 0.05 s, p90 0.10 s,
+--   independent of the path's length (0-400 points: 0.04-0.05 s). 55 requests (about 7 %) got NO reply in 3 s, and what followed
+--   was slow: 35 ended in a walk-loop blacklist after 12-105 s, 9 got a plan after 22-97 s, only 5 recovered at once. The cost
+--   is the tail, not the typical plan.
+--   HEDGED PLANS: a plan with no reply after HEDGE_AT[1] s (10x the median) is not waited for - a second request goes out at once,
+--   a third at HEDGE_AT[2]: a far goal (300+ yd) gets a short first leg (a partial plan the horizon continues), a near goal
+--   another mesh floor of the goal. The first valid reply wins, later replies are ignored, a failed reply waits for the others.
+--   PREFETCH: while a leg runs, the path to the guide's NEXT waypoint (N.hint_next) is planned from this leg's end and kept; when
+--   the guide asks for that waypoint the path is already there (no wait at all at a waypoint change).
+local PS = { n = 0, lat = {}, hedged = 0, hedge_wins = 0, prefetch_asked = 0, prefetch_used = 0, no_reply = 0, t0 = nil }
+N._PS = PS
+local HEDGE_AT = { 0.3, 0.8 }        -- 1.2.79: was { 0.5, 1.3 }
+local PF = { NEAR = 140, MAX_AGE = 120, plan = nil, asking = false, key = nil }
+N._PF = PF
+
+local function ps_report(now)
+    PS.t0 = PS.t0 or now
+    if now - PS.t0 < 120 then return end
+    local n = #PS.lat
+    if n > 0 or PS.hedged > 0 then
+        local a = {}
+        for i = 1, n do a[i] = PS.lat[i] end
+        table.sort(a)
+        R.trail("nav", "plan stats (%.0f s): %d plan(s), median %.2f s, p90 %.2f s, max %.2f s; hedged %d (won %d), prefetch %d asked / %d used",
+            now - PS.t0, n, n > 0 and a[math.ceil(n * 0.5)] or 0, n > 0 and a[math.max(1, math.ceil(n * 0.9))] or 0, n > 0 and a[n] or 0,
+            PS.hedged, PS.hedge_wins, PS.prefetch_asked, PS.prefetch_used)
+    end
+    PS.lat, PS.hedged, PS.hedge_wins, PS.prefetch_asked, PS.prefetch_used, PS.t0 = {}, 0, 0, 0, 0, now
+end
+N._ps_report = ps_report
+
+-- 1.2.79 LEG-LIMITED PLANNING (user: "build it" after the 17:05 log): plans of up to ~200 yd answer in 0.01-0.06 s, but 500-840 yd
+-- queries (one anchor, or none) got NO reply 14 times in one trip, and every spliced re-plan asked for the whole remaining goal, so
+-- the re-plans failed the same way. Replies are instant or never, so the server is now never asked for more than LEG.YD yd: a goal
+-- farther than LEG.DIRECT is planned as start -> (bypass points) -> a floor-snapped LEG POINT LEG.YD yd along the way; the plan is
+-- walked as a partial path and the horizon plans the next leg from a splice point 150 yd before this one ends. A leg that gets
+-- no reply or no path is asked again at once with a shorter leg (LEG.HEDGE yd), and a far goal that cannot be planned at all is
+-- walked as a short leg (N.detour) instead of being handed to Sentinel's own long plan (10-66 s of awaiting_path in the logs).
+local UG = { seen = {}, under = {}, n = 0 }          -- 1.2.80: goals asked about / flagged underground
+function N.is_underground(x, y) return UG.under[key_of(x, y)] == true end
+local NR = { N = 3, TTL = 600, RADIUS = 20, by = {} }          -- 1.2.79c: unanswered plans per goal
+N._NR = NR
+local LEG = { YD = 300, DIRECT = 380, HEDGE = { 150, 80 }, WAIT_S = 2.0, NEAR_LEG_MIN = 180 }
+N.LEG = LEG
+
+local LONG = { MIN_YD = 450, SEG_YD = 320, LAST_YD = 150, MAX_ANCHORS = 6, FLOOR_DZ = 60, PARTIAL_GAIN = 120, PARTIAL_SHORT = 80, WAIT_S = 6.0,
+    AHEAD_MIN = 25, AHEAD_MAX = 70, PARTIAL_H = 150 }
+N.LONG = LONG
+
+--- Anchor points along the line start -> goal: { x, y, z0 } every SEG_YD yd, none within LAST_YD of the goal.
+function LONG.anchors(sx, sy, sz, gx, gy, gz)
+    local dx, dy = gx - sx, gy - sy
+    local len = math.sqrt(dx * dx + dy * dy)
+    local out = {}
+    if len <= LONG.MIN_YD then return out end
+    local d = LONG.SEG_YD
+    local ES = package.loaded["esp"]
+    while d <= len - LONG.LAST_YD and #out < LONG.MAX_ANCHORS do
+        local f = d / len
+        local ax, ay = sx + dx * f, sy + dy * f
+        -- 1.2.78: an anchor never sits inside a remembered camp / elite / much higher level mob's circle
+        if type(ES) == "table" and type(ES.push_out) == "function" then
+            local okp, px, py = pcall(ES.push_out, ax, ay)
+            if okp and type(px) == "number" then ax, ay = px, py end
+        end
+        out[#out + 1] = { x = ax, y = ay, z0 = sz + ((gz or sz) - sz) * f }
+        d = d + LONG.SEG_YD
+    end
+    return out
+end
+
+--- 1.2.78 ESP BYPASS POINTS (user: the ESP returns navigation data for the Sentinel plan generation): hazards on the way (camps of
+--- 4+, elites, much higher levels - remembered as well as seen) become VIA nodes of the very first plan_route request, one point
+--- beside each on the side away from it, so the plan is made around them instead of through them and audited afterwards.
+--- { x, y, z0, why } nearest the start first; empty when the way is clear or the ESP knows nothing.
+function LONG.hazard_vias(sx, sy, sz, gx, gy, gz)
+    local ES = package.loaded["esp"]
+    if type(ES) ~= "table" or type(ES.bypass) ~= "function" then return {} end
+    local ok, list = pcall(ES.bypass, sx, sy, gx, gy)
+    if not ok or type(list) ~= "table" then return {} end
+    local len = R.dist2(sx, sy, gx, gy)
+    local out = {}
+    for _, v in ipairs(list) do
+        local f = len > 0 and math.min(1, math.max(0, (v.along or 0) / len)) or 0
+        out[#out + 1] = { x = v.x, y = v.y, z0 = sz + ((gz or sz) - sz) * f, why = v.why, along = v.along or 0 }
+    end
+    return out
+end
+
+--- The leg point `yd` along the line start -> goal (pushed out of a remembered hazard circle): { x, y, z0 }.
+function LEG.point(sx, sy, sz, gx, gy, gz, yd)
+    local dx, dy = gx - sx, gy - sy
+    local len = math.sqrt(dx * dx + dy * dy)
+    if len < 1 then return nil end
+    local f = math.min(1, yd / len)
+    local lx, ly = sx + dx * f, sy + dy * f
+    local ES = package.loaded["esp"]
+    if type(ES) == "table" and type(ES.push_out) == "function" then
+        local okp, px, py = pcall(ES.push_out, lx, ly)
+        if okp and type(px) == "number" then lx, ly = px, py end
+    end
+    return { x = lx, y = ly, z0 = sz + ((gz or sz) - sz) * f }
+end
+
+--- Snap each anchor to a mesh floor (all asked at once); cb(list of { x, y, z }) - anchors without a floor are dropped.
+function LONG.resolve(c, anchors, cb)
+    local n, done, out = #anchors, 0, {}
+    if n == 0 then return cb({}) end
+    local function one_done()
+        done = done + 1
+        if done < n then return end
+        local list = {}
+        for i = 1, n do if out[i] then list[#list + 1] = out[i] end end
+        cb(list)
+    end
+    for i = 1, n do
+        local a = anchors[i]
+        local asked = floors_for(c, key_of(a.x, a.y), a.x, a.y, a.z0, function(fl)
+            local best, bd = nil, nil
+            for _, h in ipairs(fl or {}) do
+                local dz = math.abs(h - a.z0)
+                if dz <= LONG.FLOOR_DZ and (not bd or dz < bd) then best, bd = h, dz end
+            end
+            -- 1.2.79: an EMPTY answer is "floors unknown" (the query failed): the interpolated height is used and a shorter leg follows
+            -- when the plan has no path; floors that exist but none near the height drop the point
+            if not best and (not fl or #fl == 0) then best = a.z0 end
+            if best then out[i] = { x = a.x, y = a.y, z = best } end
+            one_done()
+        end)
+        if not asked then one_done() end
+    end
+end
+
+--- A point on the RUNNING path `ahead` yd beyond the player (the splice point): { x, y, z } or nil.
+function N.splice_point(c)
+    local pts, idx = S.current_path(c), S.path_index(c)
+    if type(pts) ~= "table" or #pts < 2 or not idx then return nil end
+    idx = math.max(1, math.min(#pts, math.floor(idx)))
+    local hx, hy = R.here()
+    if not hx then return nil end
+    local ahead = math.max(LONG.AHEAD_MIN, math.min(LONG.AHEAD_MAX, (N.LA and N.LA.speed or 7) * ((N.LA and N.LA.latency or 0.3) + 1.0)))
+    local acc = R.dist2(hx, hy, pts[idx].x, pts[idx].y)
+    local k = idx
+    while acc < ahead and k < #pts do
+        acc = acc + R.dist2(pts[k].x, pts[k].y, pts[k + 1].x, pts[k + 1].y)
+        k = k + 1
+    end
+    -- 1.2.78: a splice point never sits inside a remembered hazard: the next path point out of every circle is taken
+    local ES = package.loaded["esp"]
+    if type(ES) == "table" and type(ES.inside) == "function" then
+        local tries = 0
+        while k < #pts and tries < 40 do
+            local okh, hz = pcall(ES.inside, pts[k].x, pts[k].y, 0)
+            if not okh or not hz then break end
+            k, tries = k + 1, tries + 1
+        end
+    end
+    local p = pts[k]
+    if type(p) ~= "table" or not tonumber(p.x) then return nil end
+    return { x = p.x, y = p.y, z = p.z or 0 }
+end
+
+--- The running path from the player's index up to the point nearest `sp` (within 4 yd), as {x,y,z}; nil when the splice point
+--- is no longer ahead on that path.
+local function running_to(c, sp)
+    local pts, idx = S.current_path(c), S.path_index(c)
+    if type(pts) ~= "table" or not idx then return nil end
+    idx = math.max(1, math.min(#pts, math.floor(idx)))
+    local found
+    for k = idx, #pts do
+        if R.dist2(pts[k].x, pts[k].y, sp.x, sp.y) <= 4 then found = k break end
+    end
+    if not found then return nil end
+    local out = {}
+    for k = idx, found do out[#out + 1] = { x = pts[k].x, y = pts[k].y, z = pts[k].z or 0 } end
+    return out
+end
+
+--- Start walk `id` to (x, y, z) as plan -> audit -> follow_path. True when the plan request
+--- went out (its reply starts the walk, or falls back to move_to); false when this walk is not
+--- eligible and the caller issues the move_to.
+--- 1.2.77: once per session the Sentinel settings that every plan_route now carries are written to the log, so the log says which
+--- in-game settings (string pulling, partial paths, off-mesh snapping, wall clearance ...) the plans were made with.
+local function log_sentinel_options(c)
+    if N._opts_logged then return end
+    N._opts_logged = true
+    local opts = S.path_opts(c)
+    if type(opts) ~= "table" then
+        R.trail("nav", "Sentinel path options: none (the client has no get_path_opts) - plans use the server defaults")
+        return
+    end
+    local keys = {}
+    for k, v in pairs(opts) do
+        local t = type(v)
+        if type(k) == "string" and (t == "number" or t == "boolean" or t == "string") then keys[#keys + 1] = k end
+    end
+    table.sort(keys)
+    local parts = {}
+    for i = 1, math.min(#keys, 40) do parts[#parts + 1] = keys[i] .. "=" .. tostring(opts[keys[i]]) end
+    R.trail("nav", "Sentinel path options (the in-game settings, passed with every plan_route): %s",
+        #parts > 0 and table.concat(parts, ", ") or "(no scalar fields)")
+end
+
+-- 1.2.88 COMBAT PAUSE (user: "pause pathing if the player enters combat, use the same route that was calculated after combat has
+-- ended"): when a fight displaces or stops a travel walk, the not-yet-walked part of its path is kept here; the next travel walk to
+-- the same destination (after the fight, within TTL s, player within NEAR yd of the path) walks the SAME path again instead of
+-- asking Sentinel for a new plan. Functions are defined below start_blocked.
+local CP = { TTL = 240, NEAR = 90, snap = nil }
+-- 1.2.88 FLATTEST TERRAIN (user: "choosing the flattest terrain regardless if it adds more distance"): a plan whose path climbs / drops
+-- more than TRIGGER yd per yd walked (total |dz| steps over the length) is walked at once, and the via routes round it are asked;
+-- the FLATTEST one (least total |dz|, not the shortest) that is at most GAIN of the plan's roughness replaces it.
+local FLAT = { TRIGGER = 0.10, MIN_YD = 40, MAX_YD = 450, GAIN = 0.8, MOVED_YD = 30 }
+local function roughness(list)
+    local rg, ln, worst, wd = 0, 0, 1, 0
+    for i = 2, #list do
+        local a, b = list[i - 1], list[i]
+        local dz = math.abs((tonumber(b.z) or 0) - (tonumber(a.z) or 0))
+        if dz < 0.05 then dz = 0 end
+        rg = rg + dz
+        ln = ln + math.sqrt((b.x - a.x) ^ 2 + (b.y - a.y) ^ 2)
+        if dz > wd then wd, worst = dz, i - 1 end
+    end
+    return rg, ln, worst
+end
+local function pre_start(c, id, x, y, z, finished)
+    if not N.PRECOMPUTE or not PRE.MODES[cur.mode or "move"] or swimming() then return false end
+    log_sentinel_options(c)
+    local hx, hy = R.here()
+    if not hx or R.dist2(hx, hy, x, y) < PRE.MIN_YD then return false end
+    local goal = { x = x, y = y, z = z }
+    local st = { id = id, done = false, started = false, planning = false, tries = 0, t0 = R.now(), regen_t = -1e9 }
+    -- 1.2.75: the horizon asked for the NEXT stretch of the walk that is running to this very goal - spliced, not from the player
+    local req = N._splice_req
+    N._splice_req = nil
+    if req and R.now() - req.t < 1.0 and R.dist2(req.x, req.y, x, y) < 3 and S.moving(c) and not S.path_pending(c) then
+        st.splice = N.splice_point(c)
+    end
+    local request
+    local function fallback(why)
+        if st.done or cur.id ~= id then return end
+        st.done = true
+        if st.splice then
+            -- 1.2.75: a spliced re-plan that found nothing. A LONG goal (the server may never answer a plain query for it) keeps
+            -- the running path - it is walked to its end and the horizon asks again; a nearer goal falls back to Sentinel's own plan
+            local fx0, fy0 = R.here()
+            if fx0 and R.dist2(fx0, fy0, x, y) > LONG.MIN_YD then
+                stats.splice_fails = (stats.splice_fails or 0) + 1
+                R.trail("nav", "spliced re-plan unavailable (%s) - the running path stays", tostring(why))
+                return
+            end
+        end
+        if cur.scanning == id then cur.scanning = nil end
+        stats.pre_fallbacks = (stats.pre_fallbacks or 0) + 1
+        if st.sent_any and not st.winner then pcall(S.log_unanswered, c, tostring(why), x, y, st.sent_t and st.sent_t[1]) end
+        -- 1.2.79c NEGATIVE MEMORY (log 17:16-17:22: the same goal got no answer in 5 asks, 60 s of awaiting_path each time): a goal whose
+        -- plan has gone unanswered NR.N times within NR.TTL s is not handed to Sentinel again - it is given up at once (the area
+        -- blacklist every caller honours; the guide moves on)
+        -- 1.2.89: counted BEFORE the short-leg fallback (log 18:40-18:45: the leg fallback returned first, so 8 walks and a
+        -- 55 s walk loop passed before the goal was given up). Each unanswered ask now counts at once.
+        if st.sent_any then
+            local nk = key_of(x, y)
+            local e = NR.by[nk]
+            local tnow = R.now()
+            if not e or tnow - e.t > NR.TTL then e = { n = 0, t = tnow } NR.by[nk] = e end
+            e.n, e.t = e.n + 1, tnow
+            if e.n >= NR.N then
+                NR.by[nk] = nil
+                stats.pre_nr_giveups = (stats.pre_nr_giveups or 0) + 1
+                R.trail("nav", "no plan for (%.0f, %.0f) was ever answered (%d asks in %.0f min) - giving the goal up for a while instead of waiting for Sentinel",
+                    x, y, NR.N, NR.TTL / 60)
+                S.log_unanswered(c, "give-up", x, y, st.sent_t and st.sent_t[1])
+                record_fail("no_path", x, y, z, false)
+                Z.blacklist_area({ x = x, y = y, z = z }, NR.RADIUS, "no plan answered " .. NR.N .. " times")
+                cur.done = true
+                return
+            end
+        end
+        -- 1.2.79: a FAR goal is never handed to Sentinel as one long plan (10-66 s of awaiting_path in the logs): a short leg is
+        -- walked (N.detour: the leg, then the real goal again, planned from there)
+        local fx0, fy0, fz0 = R.here()
+        if fx0 and st.sent_any and R.dist2(fx0, fy0, x, y) > LEG.NEAR_LEG_MIN and not st.leg_fallback then
+            st.leg_fallback = true
+            local lp = LEG.point(fx0, fy0, fz0, x, y, z, LEG.HEDGE[1])
+            if lp then
+                R.trail("nav", "plan unavailable (%s) for a goal %.0f yd away - walking a short leg (%d yd) instead of a long Sentinel plan",
+                    tostring(why), R.dist2(fx0, fy0, x, y), LEG.HEDGE[1])
+                local asked = floors_for(c, key_of(lp.x, lp.y), lp.x, lp.y, lp.z0, function(fl)
+                    if cur.id ~= id then return end
+                    local best, bd = nil, nil
+                    for _, h in ipairs(fl or {}) do
+                        local dz = math.abs(h - lp.z0)
+                        if dz <= LONG.FLOOR_DZ and (not bd or dz < bd) then best, bd = h, dz end
+                    end
+                    if best then
+                        cur.done = false
+                        if N.detour({ x = lp.x, y = lp.y, z = best }, "no plan for a far goal", { max_yd = LEG.YD + 80, max_s = 70, label = "short leg" }) then
+                            return
+                        end
+                    end
+                    local sent2 = S.move_to(c, goal, finished)
+                    if not sent2 then cur.done = true end
+                end)
+                if asked then return end
+            end
+        end
+        R.trail("nav", "precomputed path unavailable (%s) - Sentinel plans this walk itself", tostring(why))
+        local sent = S.move_to(c, goal, finished)
+        if not sent then cur.done = true end
+    end
+    st.fallback = fallback
+    local launch
+    st.launch_saved = function(list)
+        if not S.follow_path(c, list, finished) then CP.snap = nil return false end
+        st.started = true
+        cur.leg_t = R.now()
+        if st.partial then cur.pre_partial = id end
+        stats.pre_walks = (stats.pre_walks or 0) + 1
+        return true
+    end
+    function launch(list)
+        if not S.follow_path(c, list, finished) then
+            if st.started then return end
+            return fallback("follow_path refused")
+        end
+        local first = not st.started
+        st.started = true
+        cur.leg_t = R.now()
+        if st.partial then cur.pre_partial = id end
+        if first then
+            stats.pre_walks = (stats.pre_walks or 0) + 1
+            R.trail("nav", "precomputed path: %d points planned in %.2f s, walked with follow_path", #list, R.now() - st.t0)
+        else
+            stats.pre_regens = (stats.pre_regens or 0) + 1
+        end
+    end
+    -- 1.2.39 ROUTE AROUND STEEP GROUND, EITHER DIRECTION. The zone replans (PRE.TRIES) can leave a steep span on the plan
+    -- (Darkshore: ~2 "too steep" give-ups per 4 min). Before the audited prefix / give-up, Sentinel is asked for routes THROUGH
+    -- a via point beside the span, on BOTH sides (left = +1, right = -1; WoW x is north, y is west; perpendicular to the climb, SIDE_OFFSETS yd out, nearest ring first). Each
+    -- answer is audited like any plan; at a ring the shorter clean route wins and is walked with follow_path. Nothing here
+    -- walks: Sentinel plans (plan_route with a via node), this layer only picks. `after(false)` hands back to the old ladder.
+    local function try_sides(audit, i, e, after)
+        local a = audit[i]
+        local b = audit[e or i + 1] or a
+        local dx, dy = b.x - a.x, b.y - a.y
+        local len = math.sqrt(dx * dx + dy * dy)
+        if len < 0.5 then
+            dx, dy = x - audit[1].x, y - audit[1].y
+            len = math.sqrt(dx * dx + dy * dy)
+        end
+        if len < 0.5 then return after(false) end
+        local px, py = -dy / len, dx / len
+        local mx, my = (a.x + b.x) / 2, (a.y + b.y) / 2
+        local ring = 0
+        local function plan_len(list)
+            local d, qx, qy = 0, audit[1].x, audit[1].y
+            for k = 1, #list do d = d + R.dist2(qx, qy, list[k].x, list[k].y) qx, qy = list[k].x, list[k].y end
+            return d
+        end
+        -- 1.2.87: a PARTIAL plan (a 300 yd leg of a long walk) is re-routed to the END OF THE LEG, never to the far goal: the via
+        -- routes were asked as start -> via -> (goal 1680 yd away) - a long query, which Sentinel never answers (log 18:17: 7
+        -- plan_route calls a second, no reply, a restart storm, then a 150 yd short leg)
+        local tgt = (st.partial and audit[#audit]) or goal
+        local next_ring
+        local why_n = { noplan = 0, short = 0, steep = 0 }      -- 1.2.44: why the via routes were unusable (logged when none was)
+        local function ask(sign, off, done)
+            local via = { x = mx + px * sign * off, y = my + py * sign * off, z = a.z or audit[1].z or 0 }
+            if not st.flat then st.planning, st.plan_t = true, R.now() end
+            local sent = S.plan_route(c, { { x = audit[1].x, y = audit[1].y, z = audit[1].z }, via, { x = tgt.x, y = tgt.y, z = tgt.z } }, function(ok, data)
+                if st.done or cur.id ~= id or cur.done or (st.started and not st.flat) then return end
+                local pts = (ok == true and type(data) == "table" and type(data.waypoints) == "table") and data.waypoints or nil
+                local last = pts and pts[#pts]
+                if not pts or #pts < 2 then why_n.noplan = why_n.noplan + 1 return done(nil) end
+                if type(last) ~= "table" or not tonumber(last.x) or not tonumber(last.y)
+                    or R.dist2(last.x, last.y, tgt.x, tgt.y) > PRE.END_YD then
+                    why_n.short = why_n.short + 1
+                    return done(nil)
+                end
+                local list = pre_trim(pts)
+                if #list == 0 then return done(nil) end
+                local chk = { { x = audit[1].x, y = audit[1].y, z = audit[1].z } }
+                for _, q in ipairs(list) do chk[#chk + 1] = q end
+                if N.steep_at(chk) or (st.danger_mode and N.danger_at(chk, st.danger_list)) then why_n.steep = why_n.steep + 1 return done(nil) end
+                local rgh = roughness(chk)
+                if st.flat and rgh > st.flat.base * FLAT.GAIN then why_n.steep = why_n.steep + 1 return done(nil) end
+                return done({ list = list, len = plan_len(list), rough = rgh })
+            end)
+            if not sent then st.planning = false why_n.noplan = why_n.noplan + 1 return done(nil) end
+        end
+        -- 1.2.84 PARALLEL VIA ROUTES. Both sides of the first SIDE_BATCH offsets are asked AT ONCE (6 plan_route calls), later offsets
+        -- one ring (both sides) at a time. The nearest ring that has a clean route still wins (the shorter side of it): as the answers
+        -- arrive the rings are judged in order, and a ring is decided as soon as its two sides are both answered and every nearer ring
+        -- has been. (Measured: left-then-right ring by ring took 0.45 s per plan; replies are instant or never, so asking together
+        -- costs one reply time, not six.)
+        next_ring = function()
+            local first = ring + 1
+            if not SIDE_OFFSETS[first] then
+                R.trail("nav", "plan audit: no way around the steep span at (%.0f, %.0f): %d via routes asked out to %d yd - no plan %d, ended short %d, still steep %d",
+                    mx, my, 2 * #SIDE_OFFSETS, SIDE_OFFSETS[#SIDE_OFFSETS], why_n.noplan, why_n.short, why_n.steep)
+                return after(false)
+            end
+            local last = first == 1 and math.min(SIDE_BATCH, #SIDE_OFFSETS) or first
+            ring = last
+            local res, left_n, settled = {}, 0, false
+            for r = first, last do res[r] = { pending = 2 } end
+            local function judge()
+                if settled then return end
+                for r = first, last do
+                    local q = res[r]
+                    if q.pending > 0 then return end                   -- a nearer ring is not decided yet
+                    local best, best_side = q.l, "left"
+                    if q.r and (not best or (st.flat and q.r.rough < best.rough) or (not st.flat and q.r.len < best.len)) then best, best_side = q.r, "right" end
+                    if best then
+                        settled = true
+                        if st.flat then
+                            local px0, py0 = R.here()
+                            if st.done or cur.id ~= id or not px0 or R.dist2(px0, py0, audit[1].x, audit[1].y) > FLAT.MOVED_YD then return end
+                            stats.pre_flat = (stats.pre_flat or 0) + 1
+                            R.trail("nav", "flat terrain: a flatter route on the %s (%d yd out) - %.0f yd of climbing instead of %.0f, %.0f yd walk instead of the plan's",
+                                best_side, SIDE_OFFSETS[r], best.rough, st.flat.base, best.len)
+                            return launch(best.list)
+                        end
+                        stats.pre_sides = (stats.pre_sides or 0) + 1
+                        R.trail("nav", "plan audit: %s at (%.0f, %.0f) - routed around it on the %s (%d yd out, %d points, %.0f yd walk)",
+                            st.danger_mode and "an excluded enemy" or "steep span", mx, my, best_side, SIDE_OFFSETS[r], #best.list, best.len)
+                        st.planning = false
+                        return launch(best.list)
+                    end
+                end
+                settled = true
+                st.planning = false
+                return next_ring()
+            end
+            for r = first, last do
+                for _, side in ipairs({ 1, -1 }) do
+                    if settled then break end
+                    ask(side, SIDE_OFFSETS[r], function(rr)
+                        if settled then return end
+                        local q = res[r]
+                        q.pending = q.pending - 1
+                        if side == 1 then q.l = rr else q.r = rr end
+                        judge()
+                    end)
+                end
+            end
+        end
+        next_ring()
+    end
+
+    request = function(initial)
+        st.tries = st.tries + 1
+        local fx, fy, fz = R.here()
+        if not fx then return fallback("no position") end
+        st.planning, st.plan_t = true, R.now()
+        if initial then cur.scanning, cur.scan_t = id, R.now() end      -- before the call: a reply may be synchronous
+        -- 1.2.75: where the plan starts - the splice point ahead on the running path, else the player
+        local sx, sy, sz = fx, fy, fz
+        if st.splice then sx, sy, sz = st.splice.x, st.splice.y, st.splice.z end
+        -- 1.2.77: a fresh race of plan requests (the first valid reply wins)
+        st.winner, st.inflight, st.serial, st.sent_t, st.hedge_n, st.hedge_busy = nil, 0, 0, {}, 0, false
+        local handle
+        handle = function(ok, data)
+            if st.done or cur.id ~= id or cur.done then return end
+            st.planning = false
+            if initial and cur.scanning == id then cur.scanning = nil end
+            local function unusable(why)
+                if st.started then return end              -- a swap that found nothing: the old path runs on
+                return fallback(why)
+            end
+            local pts = (ok == true and type(data) == "table" and type(data.waypoints) == "table") and data.waypoints or nil
+            -- 1.2.75: an anchored plan that failed is asked again plainly (the anchors may sit on a disconnected island)
+            if (not pts or #pts < 2) and st.anchored and not st.started and not st.no_anchor then
+                st.no_anchor, st.anchored = true, false
+                R.trail("nav", "anchored plan to (%.0f, %.0f) got no path - asking the plain plan", x, y)
+                return request(initial)
+            end
+            if not pts or #pts < 2 then return unusable("no plan") end
+            local last = pts[#pts]
+            local end_short = type(last) ~= "table" or not tonumber(last.x) or not tonumber(last.y)
+                or R.dist2(last.x, last.y, x, y) > PRE.END_YD
+            -- 1.2.75 PARTIAL PLAN: ends short but gets well closer - walked as far as it goes, the horizon plans the rest
+            if end_short and type(last) == "table" and tonumber(last.x) then
+                local gain = R.dist2(sx, sy, x, y) - R.dist2(last.x, last.y, x, y)
+                if gain >= LONG.PARTIAL_GAIN and R.dist2(last.x, last.y, x, y) >= LONG.PARTIAL_SHORT then
+                    st.partial = true
+                    stats.pre_partials = (stats.pre_partials or 0) + 1
+                    R.trail("nav", "partial plan: %d points, ends %.0f yd short of the goal, %.0f yd closer - walked, the next stretch is planned while running",
+                        #pts, R.dist2(last.x, last.y, x, y), gain)
+                    end_short = false
+                end
+            end
+            if end_short then
+                if st.anchored and not st.started and not st.no_anchor then
+                    st.no_anchor, st.anchored = true, false
+                    R.trail("nav", "anchored plan ends short of the goal - asking the plain plan")
+                    return request(initial)
+                end
+                return unusable("plan ends short of the goal")
+            end
+            -- 1.2.75 SPLICE: keep the running path up to the splice point, continue with this plan from it
+            if st.splice then
+                local tail = {}
+                for _, p in ipairs(pts) do
+                    if type(p) == "table" and tonumber(p.x) and tonumber(p.y) then tail[#tail + 1] = { x = p.x, y = p.y, z = p.z or 0 } end
+                end
+                if #tail > 0 and R.dist2(tail[1].x, tail[1].y, st.splice.x, st.splice.y) <= 3 then table.remove(tail, 1) end
+                if #tail == 0 then return unusable("empty tail") end
+                local chk = { { x = st.splice.x, y = st.splice.y, z = st.splice.z } }
+                for _, q in ipairs(tail) do chk[#chk + 1] = q end
+                if N.steep_at(chk) then
+                    R.trail("nav", "spliced re-plan crosses steep ground - the running path stays")
+                    st.done = true
+                    return
+                end
+                local old = running_to(c, st.splice)
+                local list = {}
+                if old then for _, q in ipairs(old) do list[#list + 1] = q end end
+                for _, q in ipairs(tail) do list[#list + 1] = q end
+                stats.pre_splices = (stats.pre_splices or 0) + 1
+                R.trail("nav", "spliced re-plan: %d yd of the running path kept (%d points), %d new points from %.0f, %.0f%s", old and #old or 0,
+                    old and #old or 0, #tail, st.splice.x, st.splice.y, st.partial and " (partial)" or "")
+                st.splice_done = true
+                return launch(list)
+            end
+            local list = pre_trim(pts)
+            if #list == 0 then return unusable("empty plan") end
+            -- audit: a steep span on the plan becomes an avoidance zone and the path is planned again
+            st.in_reply = true
+            local zoned = false
+            -- Include the connector from the player, before trimming away its
+            -- first point: otherwise the initial climb can escape the audit.
+            local audit = {{x=fx,y=fy,z=fz}}
+            for _, point in ipairs(list) do audit[#audit+1] = point end
+            local i, e = N.steep_at(audit)
+            if i and st.tries <= PRE.TRIES then
+                zoned = N.zone_span(audit[i], audit[e or i + 1], "unsafe slope") == "new"
+                if zoned then
+                    R.trail("nav", "plan audit: steep span (rise %.1f / run %.1f) - zone, planning again",
+                        (audit[e or i + 1].z or 0) - (audit[i].z or 0), R.dist2(audit[i].x, audit[i].y, audit[e or i + 1].x, audit[e or i + 1].y))
+                end
+            elseif i then
+                R.trail("nav", "plan audit: steep span at point %d of %d, no zone left to try", i, #list)
+            end
+            st.in_reply = false
+            if zoned then return request(initial) end
+            if i and not st.sides_tried and not st.started then
+                st.sides_tried = true
+                return try_sides(audit, i, e, function(found)
+                    if found == false then
+                        -- 1.2.46 A SHORT MESH RAMP IS NOT A WALL. Every side route crossed the same span (log 2026-11-18 09:34: rise 3.2 over
+                        -- 2.8 yd, grade 1.14, 10/10 via routes still steep): it is the only way out, the navmesh calls it walkable (the
+                        -- client's own limit is ~50 deg = 1.19) and the old ladder then walked only the 29 yd before it and gave the
+                        -- destination up. A plan whose steep spans are all short, under that limit, and few is walked as planned.
+                        if N.tolerable_steep(audit) and not st.started then
+                            stats.pre_tolerated = (stats.pre_tolerated or 0) + 1
+                            R.trail("nav", "plan audit: no way around the steep span at point %d - it is a short mesh ramp (under the %.2f client limit), walking the plan as Sentinel made it", i, N.RAMP_MAX)
+                            return launch(list)
+                        end
+                        st.tries = PRE.TRIES + 1 return handle(ok, data)      -- no clean side route: the old ladder
+                    end
+                end)
+            end
+            if not i and not st.danger_tried and not st.started and cur.mode ~= "combat" then
+                st.danger_tried = true
+                local di, de, dl, dd = N.danger_at(audit)
+                if di then
+                    st.danger_mode, st.danger_list = true, dl
+                    stats.pre_danger = (stats.pre_danger or 0) + 1
+                    R.trail("nav", "plan audit: the path enters the aggro circle of %s (level %s, %.0f yd) at point %d of %d - asking for a route round it",
+                        tostring(dd and dd.unit and select(2, pcall(function() return dd.unit:get_name() end)) or (dd and dd.name and (dd.name .. (dd.pack and " (a camp)" or ""))) or "an excluded enemy"),
+                        tostring(dd and dd.level), (dd and dd.r) or 0, di, #audit)
+                    return try_sides(audit, di, de, function(found)
+                        if found == false then
+                            R.trail("nav", "plan audit: no clean route round the excluded enemy - the plan is walked as planned")
+                            return launch(list)
+                        end
+                    end)
+                end
+            end
+            -- 1.2.88: a hilly plan (no span steep enough to reject) is walked, and flatter routes round it are asked
+            if not i and not st.sides_tried and not st.started and not st.splice and (cur.mode == "guide" or cur.mode == "move") then
+                local rg, ln, wi = roughness(audit)
+                if ln >= FLAT.MIN_YD and ln <= FLAT.MAX_YD and rg / ln > FLAT.TRIGGER and audit[wi + 1] then
+                    st.sides_tried = true
+                    st.flat = { base = rg }
+                    R.trail("nav", "flat terrain: the plan climbs / drops %.0f yd over %.0f yd (%.2f per yd) - walking it, flatter via routes are asked", rg, ln, rg / ln)
+                    launch(list)
+                    return try_sides(audit, wi, wi + 1, function() end)
+                end
+            end
+            if i then
+                -- LONG PATHS (action log 2026-11-15 17:02, a 1510 yd corpse run): any steep span anywhere on a long plan
+                -- rejected the WHOLE plan, the walk never started and the player stood still for ever. The steep span
+                -- is never walked, but the audited part BEFORE it is: follow that prefix, then plan again from where it
+                -- ends (the next plan is audited the same way; a plan whose first steep span is near the start is still
+                -- rejected, so a real wall is never walked at).
+                local prefix, plen, px, py = {}, 0, fx, fy
+                for k = 2, i do                         -- audit[1] is the player, audit[2..i] are safe points
+                    local q = audit[k]
+                    prefix[#prefix + 1] = { x = q.x, y = q.y, z = q.z }
+                    plen = plen + R.dist2(px, py, q.x, q.y)
+                    px, py = q.x, q.y
+                end
+                if not st.started and steep_block(x, y, z, audit[i].x, audit[i].y) then
+                    st.done, cur.done = true, true
+                    record_fail("unsafe_slope", x, y, z, false)
+                    fail.give_up, fail.t = true, R.now()
+                    return
+                end
+                SEG.key = SEG.key == key_of(x, y) and SEG.key or key_of(x, y)
+                if SEG.key ~= SEG.last then SEG.last, SEG.n = SEG.key, 0 end
+                if #prefix >= 1 and plen >= PRE.MIN_PREFIX and SEG.n < PRE.MAX_SEGMENTS and not st.started then
+                    SEG.n = SEG.n + 1
+                    local sb = audit[e or i + 1] or audit[i]
+                    R.trail("nav", "plan audit: steep span at point %d of %d (rise %.1f over %.1f yd, grade %.2f, at %.0f, %.0f) - walking the audited %.0f yd before it (segment %d), then planning again",
+                        i, #list, (sb.z or 0) - (audit[i].z or 0), R.dist2(audit[i].x, audit[i].y, sb.x, sb.y),
+                        ((sb.z or 0) - (audit[i].z or 0)) / math.max(R.dist2(audit[i].x, audit[i].y, sb.x, sb.y), 0.01),
+                        audit[i].x, audit[i].y, plen, SEG.n)
+                    local function prefix_finished(success, reason)
+                        if cur.id ~= id then return end
+                        if success then
+                            cur.done = true
+                            return issue_walk(c, x, y, z, cur.mode or "move")
+                        end
+                        return finished(success, reason)
+                    end
+                    if S.follow_path(c, prefix, prefix_finished) then
+                        st.started = true
+                        cur.prefix_id = id
+                        cur.leg_t = R.now()
+                        stats.pre_walks = (stats.pre_walks or 0) + 1
+                        return
+                    end
+                end
+                -- A rejected plan must never fall through to follow_path or
+                -- blind move_to of the same goal. Keep a prior audited path
+                -- during regeneration; otherwise report a bounded refusal.
+                -- 1.2.13 NEVER STAND STILL ON A LONG WALK. The 17:38 log: 107 yd walked, then "plan rejected: unsafe
+                -- slope within 0 yd of the start" and the corpse run (428 yd) stood still for ever. The audit is this
+                -- layer's own extra caution; Sentinel's mesh plan is walkable by construction and Sentinel steers and
+                -- recovers on its own. So a steep span at the start hands the walk to Sentinel (move_to), and the
+                -- rolling horizon / replan keep asking for the next stretch until the destination is reached.
+                if not st.started then
+                    -- 1.2.22: a living player is NOT handed a route that starts on steep ground (the 19:27 log: Sentinel walked 340 yd
+                    -- of "recovering", stuck at a cliff). Only a ghost on a corpse run is handed to Sentinel (it falls for free).
+                    if steep_block(x, y, z, fx, fy, true) then
+                        st.done, cur.done = true, true
+                        record_fail("unsafe_slope", x, y, z, false)
+                        fail.give_up, fail.t = true, R.now()
+                        return
+                    end
+                    R.trail("nav", "plan audit: steep span within %.0f yd of the start - Sentinel plans and walks this leg itself", plen)
+                    return fallback("steep span at the start")
+                end
+                R.trail("nav", "plan audit: steep span within %.0f yd of the start - the running path stays", plen)
+                return
+            end
+            launch(list)
+        end
+        local function race_cb(sn)
+            return function(ok, data)
+                if st.done or cur.id ~= id or cur.done then return end
+                if st.winner and st.winner ~= sn then return end             -- a later reply of a lost race
+                st.inflight = math.max(0, (st.inflight or 1) - 1)
+                local valid = ok == true and type(data) == "table" and type(data.waypoints) == "table" and #data.waypoints >= 2
+                if not valid and st.inflight > 0 then return end             -- the others are still out
+                -- 1.2.79: a leg with no path: the next shorter leg at once (no waiting for the clock)
+                if not valid and st.leg and (st.hedge_n or 0) < #LEG.HEDGE and not st.started and st.do_hedge then
+                    st.hedge_n = (st.hedge_n or 0) + 1
+                    R.trail("nav", "leg plan got no path - asking a shorter leg (%d yd)", LEG.HEDGE[st.hedge_n])
+                    pcall(st.do_hedge, st.hedge_n)
+                    return
+                end
+                local lat = R.now() - (st.sent_t[sn] or st.plan_t or R.now())
+                if valid then
+                    PS.lat[#PS.lat + 1] = lat
+                    PS.n = PS.n + 1
+                    st.winner = sn
+                    NR.by[key_of(x, y)] = nil          -- 1.2.89: an answered goal is not an unanswered one
+                    if sn > 1 then
+                        PS.hedge_wins = PS.hedge_wins + 1
+                        R.trail("nav", "hedged plan won: request %d answered in %.2f s (the first had no reply)", sn, lat)
+                        if st.alt_floor and st.alt_floor[sn] then
+                            cache_put(zfix, "zfix", key_of(x, y), st.alt_floor[sn])
+                        end
+                    end
+                end
+                return handle(ok, data)
+            end
+        end
+        local function send(nodes, is_hedge, alt_z)
+            if st.done or cur.id ~= id or cur.done then return false end
+            st.serial = st.serial + 1
+            local sn = st.serial
+            st.sent_t[sn] = R.now()
+            if not is_hedge then st.plan_t = R.now() end
+            if alt_z then st.alt_floor = st.alt_floor or {} st.alt_floor[sn] = alt_z end
+            st.inflight = (st.inflight or 0) + 1
+            local sent = S.plan_route(c, nodes, race_cb(sn))
+            if sent then st.sent_any = true end
+            if not sent then
+                st.inflight = math.max(0, st.inflight - 1)
+                if is_hedge then return false end
+                st.planning = false
+                if st.started then return false end
+                fallback("plan not sent")
+                return false
+            end
+            return true
+        end
+        --- A second / third request while the first has no reply (pre_watch asks for them at HEDGE_AT s).
+        st.do_hedge = function(n)
+            if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
+            local dist = R.dist2(sx, sy, x, y)
+            local start0 = { x = sx, y = sy, z = sz }
+            PS.hedged = PS.hedged + 1
+            if n == 1 then PS.no_reply = PS.no_reply + 1 end
+            if dist > LEG.DIRECT then
+                local leg = LEG.HEDGE[n] or LEG.HEDGE[#LEG.HEDGE]
+                local f = leg / dist
+                local ax, ay, az0 = sx + (x - sx) * f, sy + (y - sy) * f, sz + ((z or sz) - sz) * f
+                R.trail("nav", "plan: no reply in %.1f s - a hedge request for the first %d yd of the way", HEDGE_AT[n], leg)
+                floors_for(c, key_of(ax, ay), ax, ay, az0, function(fl)
+                    if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
+                    local best, bd = nil, nil
+                    for _, h in ipairs(fl or {}) do
+                        local dz = math.abs(h - az0)
+                        if dz <= LONG.FLOOR_DZ and (not bd or dz < bd) then best, bd = h, dz end
+                    end
+                    if best then
+                        send({ start0, { x = ax, y = ay, z = best } }, true)
+                    elseif n >= #LEG.HEDGE and (st.inflight or 0) == 0 then
+                        -- 1.2.79: no floor for any leg point and nothing out: do not wait for the clock
+                        fallback("no mesh floor for any leg point")
+                    end
+                end)
+            else
+                R.trail("nav", "plan: no reply in %.1f s - a hedge request at another floor of the goal", HEDGE_AT[n])
+                floors_for(c, key_of(x, y), x, y, z, function(fl)
+                    if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
+                    local alts = {}
+                    for _, h in ipairs(fl or {}) do
+                        if math.abs(h - z) > HEIGHT_SAME then alts[#alts + 1] = h end
+                    end
+                    local pick = alts[n] or alts[1]
+                    if pick and not (n >= 2 and dist >= LEG.NEAR_LEG_MIN) then
+                        send({ start0, { x = x, y = y, z = pick } }, true, pick)
+                    elseif n >= 2 and dist >= LEG.NEAR_LEG_MIN then
+                        -- 1.2.79b: no other floor and still no reply: the goal itself may be unreachable (log 17:16, Darkshore
+                        -- 54,33: 5 asks, no answer, while a 175 yd leg was planned at once) - a leg TOWARD it, so the player
+                        -- gets close and arrives short instead of standing
+                        local lp = LEG.point(sx, sy, sz, x, y, z, LEG.HEDGE[1])
+                        if lp then
+                            R.trail("nav", "plan: still no reply - a hedge request for a %d yd leg toward the goal", LEG.HEDGE[1])
+                            floors_for(c, key_of(lp.x, lp.y), lp.x, lp.y, lp.z0, function(fl2)
+                                if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
+                                local best, bd = nil, nil
+                                for _, h in ipairs(fl2 or {}) do
+                                    local dz = math.abs(h - lp.z0)
+                                    if dz <= LONG.FLOOR_DZ and (not bd or dz < bd) then best, bd = h, dz end
+                                end
+                                if not best and (not fl2 or #fl2 == 0) then best = lp.z0 end
+                                if best then send({ start0, { x = lp.x, y = lp.y, z = best } }, true) end
+                            end)
+                        end
+                    end
+                end)
+            end
+        end
+        local start = { x = sx, y = sy, z = sz }
+        -- 1.2.77 PREFETCH HIT: the path to this waypoint was planned while the previous leg ran - no request at all
+        if not st.splice and not st.prefetch_tried then
+            st.prefetch_tried = true
+            local pf = PF.plan
+            if pf and R.now() - pf.t < PF.MAX_AGE and R.dist2(pf.tx, pf.ty, x, y) < 3 and R.dist2(sx, sy, pf.fx, pf.fy) < 35 then
+                PF.plan = nil
+                PS.prefetch_used = PS.prefetch_used + 1
+                R.trail("nav", "prefetched path used: %d points planned while the last leg ran - no wait", #pf.pts)
+                st.winner = 1
+                return handle(true, { waypoints = pf.pts })
+            end
+        end
+        -- 1.2.78 / 1.2.79: the ESP's bypass points (hazards on the way), and for a far goal a LEG - never a query longer than LEG.YD
+        local dist_goal = R.dist2(sx, sy, x, y)
+        if not st.no_anchor and dist_goal > 60 and type(c.plan_route) == "function" then
+            local vias = LONG.hazard_vias(sx, sy, sz, x, y, z)
+            local far = dist_goal > LEG.DIRECT
+            local leg = far and LEG.point(sx, sy, sz, x, y, z, LEG.YD) or nil
+            if far and not leg then far = false end
+            if far or #vias > 0 then
+                local items = {}
+                for _, v in ipairs(vias) do
+                    if not far or (v.along or 0) < LEG.YD - 20 then items[#items + 1] = v end
+                end
+                if far then
+                    leg.along = LEG.YD
+                    items[#items + 1] = leg
+                end
+                table.sort(items, function(p, q) return (p.along or 0) < (q.along or 0) end)
+                st.anchored, st.leg, st.wait = true, far, LEG.WAIT_S
+                local nvia = #vias
+                return LONG.resolve(c, items, function(list)
+                    if st.done or cur.id ~= id or cur.done then return end
+                    if far and (#list == 0 or math.abs(list[#list].x - leg.x) > 0.5 or math.abs(list[#list].y - leg.y) > 0.5) then
+                        -- the leg point has no mesh floor: the shorter leg is asked instead
+                        st.hedge_n = (st.hedge_n or 0) + 1
+                        R.trail("nav", "leg point (%.0f, %.0f) has no mesh floor - asking a shorter leg", leg.x, leg.y)
+                        if st.hedge_n <= #LEG.HEDGE then return pcall(st.do_hedge, st.hedge_n) end
+                        return fallback("no floor for a leg point")
+                    end
+                    local nodes = { start }
+                    for _, a in ipairs(list) do nodes[#nodes + 1] = a end
+                    if not far then nodes[#nodes + 1] = goal end
+                    stats.pre_legs = (stats.pre_legs or 0) + (far and 1 or 0)
+                    if far then
+                        R.trail("nav", "leg route: %.0f yd to the goal, planned %d yd of it%s (a leg, never a long query)", dist_goal, LEG.YD,
+                            nvia > 0 and string.format(" around %d hazard(s)", nvia) or "")
+                    else
+                        local why = {}
+                        for _, v in ipairs(vias) do why[#why + 1] = v.why end
+                        R.trail("nav", "ESP: %d hazard(s) on the way (%s) - planned through %d point(s) around them", nvia, table.concat(why, "; "), #list)
+                    end
+                    send(nodes)
+                end)
+            end
+        end
+        send({ start, goal })
+    end
+    --- re-generation (a zone, a hazard): a fresh path from where the player stands, swapped in
+    st.again = function(why)
+        if st.done or not st.started or st.in_reply or cur.id ~= id then return false end
+        if st.planning and R.now() - (st.plan_t or 0) < PRE.WAIT_S then return false end
+        if R.now() - st.regen_t < PRE.REGEN_GAP then return false end
+        st.regen_t, st.tries = R.now(), 0
+        R.trail("nav", "path re-generated while walking (%s)", tostring(why))
+        request(false)
+        return true
+    end
+    cur.pre = st
+    -- 1.2.88: the route that was calculated before the fight, walked again
+    do
+        local list, partial, info = CP.take(x, y)
+        if list then
+            st.partial = partial
+            st.planning = false
+            R.trail("nav", "combat over: walking the SAME route as before the fight - %s", info)
+            stats.cp_resumed = (stats.cp_resumed or 0) + 1
+            st.t0 = R.now()
+            return st.launch_saved(list)
+        end
+    end
+    request(true)
+    return true
+end
+
+--- Called every pulse: a first plan with no reply after WAIT_S becomes a plain move_to.
+local function pre_watch()
+    local st = cur.pre
+    -- 1.2.77: hedged requests while the first plan has no reply
+    if st and st.id == cur.id and st.planning and not st.started and not st.done and st.do_hedge and not st.winner and (st.inflight or 0) > 0 then
+        local n = (st.hedge_n or 0) + 1
+        local at = HEDGE_AT[n]
+        if at and (R.now() - (st.plan_t or R.now())) > at then
+            st.hedge_n = n
+            pcall(st.do_hedge, n)
+        end
+    end
+    local wait = st and st.wait or PRE.WAIT_S                        -- 1.2.75: an anchored (long) plan gets longer
+    if st and st.id == cur.id and st.planning and not st.started and not st.done
+        and (R.now() - (st.plan_t or R.now())) > wait then
+        st.planning = false
+        st.fallback("no reply in " .. tostring(wait) .. " s")
+    end
+end
+
+-- NEXT-WAYPOINT HINT (ported from Forever Questing 1.29.0). The engine says which point it
+-- will walk after the current one (N.hint_next, cheap, every route tick). While the player
+-- walks a guide leg and that point is FLOOR_FIRST yd or more away, its floors are asked
+-- once, so the chain-ahead retarget finds the floor already known and issues its walk
+-- (and its precomputed path) without a floor query first.
+local hint = nil
+local HINT_TTL = 3.0
+function N.hint_next(pos, key)
+    local x, y, z = R.xyz(pos)
+    if not x or not key then return false end
+    if not hint or hint.key ~= key then
+        hint = { key = key, x = x, y = y, z = z, floors = false }
+    end
+    hint.t = R.now()
+    return true
+end
+
+local function prefetch_floor(c, x, y, z)
+    local k = key_of(x, y)
+    if zfix[k] then return end
+    local st = zscan[k]
+    if st and st.checked and (R.now() - st.t) <= FAIL_WINDOW then return end
+    floors_for(c, k, x, y, z, function(list, st2)
+        if #list >= 2 then return end          -- stacked floors: the normal walk picks by reachability
+        st2.checked = true
+        if #list == 1 then cache_put(zfix, "zfix", k, list[1]) end
+    end)
+end
+
+local function hint_tick()
+    if not hint or hint.floors or R.now() - hint.t > HINT_TTL then return end
+    if (cur.mode ~= "guide" and cur.mode ~= "move") or not cur.x or cur.done or swimming() then return end
+    local c = N.client()
+    if not c or not S.moving(c) then return end
+    local hx, hy = R.here()
+    if not hx or R.dist2(cur.x, cur.y, hint.x, hint.y) < 3 then return end
+    if R.dist2(hx, hy, hint.x, hint.y) >= FLOOR_FIRST then
+        hint.floors = true
+        prefetch_floor(c, hint.x, hint.y, hint.z)
+    end
+end
+
+--- 1.2.77 PREFETCH: while the running leg has less than PF.NEAR yd of path left, the path from this leg's goal to the guide's next
+--- waypoint (the hint) is planned once and kept (PF.plan); request() uses it when the guide asks for that waypoint.
+local function pf_tick(c)
+    if PF.asking or not hint or R.now() - hint.t > HINT_TTL then return end
+    if cur.mode ~= "guide" or not cur.x or cur.done or det or swimming() or not S.moving(c) or S.path_pending(c) then return end
+    if R.dist2(cur.x, cur.y, hint.x, hint.y) < 20 then return end
+    local pf = PF.plan
+    if pf and R.dist2(pf.tx, pf.ty, hint.x, hint.y) < 3 and R.dist2(pf.fx, pf.fy, cur.x, cur.y) < 3 then return end   -- already have it
+    local key = string.format("%d|%d|%d|%d", math.floor(cur.x), math.floor(cur.y), math.floor(hint.x), math.floor(hint.y))
+    if PF.key == key then return end
+    local left = N.LA and N.LA.path_left and N.LA.path_left() or nil
+    if not left or left > PF.NEAR then return end
+    PF.key, PF.asking = key, true
+    PS.prefetch_asked = PS.prefetch_asked + 1
+    local fx, fy, fz, tx, ty, tz = cur.x, cur.y, cur.z or 0, hint.x, hint.y, hint.z or zfix[key_of(hint.x, hint.y)] or cur.z or 0
+    local sent = S.plan_route(c, { { x = fx, y = fy, z = fz }, { x = tx, y = ty, z = tz } }, function(ok, data)
+        PF.asking = false
+        if ok == true and type(data) == "table" and type(data.waypoints) == "table" and #data.waypoints >= 2 then
+            local pts = {}
+            for _, p in ipairs(data.waypoints) do
+                if type(p) == "table" and tonumber(p.x) and tonumber(p.y) then pts[#pts + 1] = { x = p.x, y = p.y, z = p.z or 0 } end
+            end
+            local last = pts[#pts]
+            if last and R.dist2(last.x, last.y, tx, ty) <= PRE.END_YD then
+                PF.plan = { fx = fx, fy = fy, tx = tx, ty = ty, pts = pts, t = R.now() }
+            end
+        end
+    end)
+    if not sent then PF.asking = false end
+end
+
+local function preserve_height(mode)
+    return mode == "interaction" or mode == "indoor"
+end
+
+-- 1.2.43 WALK LOOP BREAKER. Log 2026-11-18 09:03-09:06: a supply run to an inn 1,100 yd away was re-issued every second, 100+ times,
+-- while the player stood on one spot (-5516, -4061) for over two minutes. No walk ever ran long enough to fail or be reported (a
+-- replaced walk gets no callback), the stuck ladder and the 5-minute hearth rule both need a RUNNING walk, and Auto Load saw "has
+-- not moved for 5 minutes" and reloaded. The same destination asked LOOP_N times within a window while the player has not moved
+-- LOOP_MOVE yd is a loop: the Sentinel state is logged, the destination is blacklisted for a while (the area blacklist every caller
+-- honours) and the walk is refused, so the trip / goal gives up or picks another instead of standing still for ever.
+local LP = { key = nil, n = 0, t0 = 0, x = nil, y = nil }
+local LOOP_N, LOOP_MIN_S, LOOP_MOVE = 8, 6.0, 4.0
+local function walk_loop(c, x, y, z, mode)
+    if mode == "combat" or mode == "elevator" or mode == "boat" or mode == "swim" or mode == "portal" or mode == "astar" then return false end
+    local hx, hy = R.here()
+    if not hx then return false end
+    local now = R.now()
+    local k = key_of(x, y)
+    if LP.key ~= k or not LP.x or R.dist2(hx, hy, LP.x, LP.y) > LOOP_MOVE or (now - LP.t0) > 60 then
+        LP.key, LP.n, LP.t0, LP.x, LP.y = k, 1, now, hx, hy
+        return false
+    end
+    LP.n = LP.n + 1
+    if LP.n < LOOP_N or (now - LP.t0) < LOOP_MIN_S then return false end
+    local state = c and S.full_state(c) or nil
+    R.trail("nav", "walk loop: %d walks to (%.0f, %.0f) in %.0f s and the player moved %.1f yd (Sentinel state %s, mode %s) - giving this destination up for a while",
+        LP.n, x, y, now - LP.t0, R.dist2(hx, hy, LP.x, LP.y), tostring(state), tostring(mode))
+    stats.walk_loops = (stats.walk_loops or 0) + 1
+    LP.key, LP.n = nil, 0
+    -- 1.2.60: a goal 900+ yd away that Sentinel will not plan (log 14:06: 5389 yd, state idle, 8 walks) is walked in staged legs
+    if N.NP and N.NP.far_mark(x, y, hx, hy) then
+        R.trail("nav", "walk loop: the goal (%.0f, %.0f) is %.0f yd away - Sentinel plans no path that long, walking it in staged legs", x, y, R.dist2(hx, hy, x, y))
+        return "stage"
+    end
+    Z.blacklist_area({ x = x, y = y, z = z }, NR.RADIUS, "the same walk was re-issued " .. LOOP_N .. " times without moving")
+    record_fail("walk_loop", x, y, z, false)
+    return true
+end
+N._walk_loop = walk_loop
+
+issue_walk = function(c, x, y, z, mode, keep_z)
+    if mode == "combat" and cur.mode ~= "combat" and cur.x and not cur.done then pcall(CP.save, c, "the fight's first step") end
+    if N.NP and N.NP.far_gate(c, x, y, mode) then return false end         -- 1.2.60
+    local wl = walk_loop(c, x, y, z, mode)
+    if wl == "stage" then
+        if N.NP.far_gate(c, x, y, mode) then return false end
+        wl = true
+    end
+    if wl then cur.done = true return false end
+    -- 1.73.0: combat / a floor pick can still hand us a cliff z; keep the walk
+    -- on the player's floor so check_path does not keep re-issuing z 79.
+    -- 1.2.40: keep_z = the height IS a mesh floor read at this spot (walk_at_floor / retry_at_ground): never
+    -- clamped back to the player's own, there is no floor there (HTTP 422 "Position not on navmesh").
+    local zf_cached = zfix[key_of(x, y)]
+    if zf_cached and math.abs(zf_cached - z) <= HEIGHT_SAME then keep_z = true end      -- 1.2.40: a cached mesh floor
+    if mode ~= "elevator" and not preserve_height(mode) and not keep_z then
+        local hx, hy, hz = R.here()
+        if hz and (z - hz) > CLIMB_ABOVE then
+            R.trail("nav", "(%.0f, %.0f): dest z %.1f is %.0f yd above the player - walking at z %.1f (not up the mountain)",
+                x, y, z, z - hz, hz)
+            z = hz
+        end
+    end
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), mode or "move", nil, false
+    cur.leg_t = R.now()
+    stop_req = nil                                -- a new walk replaces a pending stop
+    cur.scanning = nil                            -- audit 1.19.0: a new walk ends any floor scan (a stale one blocked the lost-walk check)
+    cur.pre = nil
+    stats.issued = stats.issued + 1
+    pcall(function()
+        require("actlog").event("nav", "request", nil, { operation = id, mode = mode or "move", x = x, y = y, z = z })
+    end)
+    -- 1.20.1: each new destination is logged (a crash log shows the walks before it)
+    local wk = key_of(x, y)
+    if wk ~= cur.logged_key then
+        cur.logged_key = wk
+        local hx, hy, hz = R.here()
+        R.trail("nav", "move_to (%s) %.0f %.0f %.0f, %.0f yd", tostring(mode or "move"), x, y, z,
+            hx and R.dist3(hx, hy, hz, x, y, z) or -1)
+    end
+    local finished = function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        if success and preserve_height(mode) then
+            local px, py, pz = R.here()
+            local wrong_floor = not px or not pz or math.abs(pz - z) > 2.5
+            if wrong_floor or (mode == "interaction" and R.dist3(px, py, pz, x, y, z) > 4) then
+                success, reason = false, mode == "interaction" and "interaction_out_of_reach" or "wrong_floor"
+                pcall(function()
+                    require("actlog").event("nav", "floor_mismatch", reason,
+                        { operation=id, target_z=z, player_z=pz, mode=mode })
+                end)
+            end
+        end
+        if success then
+            local fa, sd = N.false_arrival(x, y)
+            if fa then
+                MEM.walk_ended(false)
+                if sd and sd <= SHORT_OK then
+                    short.key, short.t = key_of(x, y), R.now()            -- 1.20.1: as close as the mesh goes
+                    return
+                end
+                if not preserve_height(mode) and astar_try(x, y, z, mode, "arrived_short") then return end   -- 1.30.0
+                record_fail("arrived_short")                          -- 1.20.1: off-mesh, no blacklist
+                fail.offmesh = true
+                return
+            end
+            fail.reason, fail.offmesh = nil, false
+            MEM.walk_ended(true)                      -- 1.9.0: the black points passed count ok
+            pcall(function()
+                require("actlog").event("nav", "arrived", nil, { x = math.floor(x), y = math.floor(y), z = math.floor(z),
+                    operation = id, mode = mode or "move", secs = tonumber(string.format("%.1f", R.now() - (cur.t or R.now()))) })
+            end)
+            return
+        end
+        local code = reason or "failed"
+        if not preserve_height(mode) and (HEIGHT_RETRY[code] or mesh_code(code)) and retry_at_ground(c, id, x, y, z, code, mode) then return end
+        R.trail("nav", "walk to (%.0f, %.0f, %.0f) ended: %s", x, y, z, tostring(code))
+        pcall(function()
+            require("actlog").event("nav", "walk_failed", tostring(code), { x = math.floor(x), y = math.floor(y), z = math.floor(z),
+                operation = id, mode = mode or "move", secs = tonumber(string.format("%.1f", R.now() - (cur.t or R.now()))) })
+        end)
+        if not preserve_height(mode) and (OFFMESH[code] or mesh_code(code)) and astar_try(x, y, z, mode, code) then MEM.walk_ended(false) return end   -- 1.30.0
+        record_fail(code, x, y, z, mode ~= "combat")  -- 1.9.0: a short combat step is no black point
+        MEM.walk_ended(false)
+    end
+    if not preserve_height(mode) and pre_start(c, id, x, y, z, finished) then return true end
+    local sent = S.move_to(c, { x = x, y = y, z = z }, finished)
+    if not sent then cur.done = true end
+    return sent
+end
+
+--- Out of combat and FLOOR_FIRST yd or more away with an unchecked height:
+--- the floors there first, then the walk at the nearest one. True while it runs.
+local function walk_at_floor(c, x, y, z, mode)
+    local k = key_of(x, y)
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), mode or "move", nil, false
+    cur.scanning, cur.scan_t = id, R.now()
+    stop_req = nil
+    return floors_for(c, k, x, y, z, function(list, st)
+        if cur.scanning == id then cur.scanning = nil end
+        st.checked = true
+        if cur.id ~= id then return end
+        local hz = list[1]
+        local px, py, pz = R.here()
+        -- a cliff / flyer floor far above the player: take the floor nearest us
+        if pz and hz and (hz - pz) > CLIMB_ABOVE then
+            local best = hz
+            for i = 1, #list do
+                if math.abs(list[i] - pz) < math.abs(best - pz) then best = list[i] end
+            end
+            if best ~= hz then
+                R.trail("nav", "(%.0f, %.0f): mesh floor %.1f is a mountain - walking the player's floor %.1f", x, y, hz, best)
+            end
+            hz = best
+        end
+        if hz and math.abs(hz - z) > HEIGHT_SAME then
+            cache_put(zfix, "zfix", k, hz)
+            R.trail("nav", "(%.0f, %.0f): walking at the floor there, z %.1f (guess %.1f, %d floor(s))", x, y, hz, z, #list)
+            issue_walk(c, x, y, hz, mode, true)
+        else
+            issue_walk(c, x, y, z, mode)
+        end
+    end)
+end
+
+local function event_flags()
+    local ev = package.loaded["events"]
+    return type(ev) == "table" and type(ev.navflags) == "table" and ev.navflags or nil
+end
+
+local function in_fight()
+    local nf = event_flags()
+    local me0 = R.me()
+    local okc, fighting = pcall(function() return me0 and me0:is_in_combat() == true end)
+    return (nf and nf.in_combat) or (okc and fighting == true) or false
+end
+CP.in_fight = in_fight
+local TRAVEL = { guide = true, move = true }
+--- Keep the unwalked rest of the running travel path (called as a fight displaces / stops the walk).
+function CP.save(c, why)
+    if not c or not cur.x or cur.done or not TRAVEL[cur.mode or "move"] or cur.route then return end
+    if det or S.path_pending(c) then return end
+    local pts = S.current_path(c)
+    local idx = tonumber(S.path_index(c)) or 1
+    if type(pts) ~= "table" or #pts < 2 then return end
+    idx = math.max(1, math.min(#pts, math.floor(idx)))
+    local rem = {}
+    for i = idx, #pts do
+        local q = pts[i]
+        local qx, qy, qz = R.xyz(q)
+        if qx then rem[#rem + 1] = { x = qx, y = qy, z = qz or 0 } end
+    end
+    if #rem < 2 then return end
+    local len = 0
+    for i = 2, #rem do len = len + R.dist2(rem[i - 1].x, rem[i - 1].y, rem[i].x, rem[i].y) end
+    if len < 15 then return end
+    CP.snap = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, pts = rem, partial = cur.pre_partial == cur.id, t = R.now() }
+    stats.cp_saved = (stats.cp_saved or 0) + 1
+    R.trail("nav", "combat pause (%s): %d points / %.0f yd of the planned route kept for after the fight", tostring(why), #rem, len)
+end
+--- The kept route for a travel walk to (x, y), cut at the point nearest the player; nil when none fits.
+function CP.take(x, y)
+    local sn = CP.snap
+    if not sn then return nil end
+    if R.now() - sn.t > CP.TTL or R.dist2(sn.x, sn.y, x, y) > 4 or in_fight() then
+        if R.now() - sn.t > CP.TTL then CP.snap = nil end
+        return nil
+    end
+    local hx, hy = R.here()
+    if not hx then return nil end
+    local k, kd = nil, 1e9
+    for i = 1, #sn.pts do
+        local d = R.dist2(hx, hy, sn.pts[i].x, sn.pts[i].y)
+        if d < kd then k, kd = i, d end
+    end
+    if not k or kd > CP.NEAR or k >= #sn.pts then CP.snap = nil return nil end
+    local list = {}
+    for i = k, #sn.pts do list[#list + 1] = sn.pts[i] end
+    CP.snap = nil
+    return list, sn.partial, string.format("%d points, %.0f yd from the path", #list, kd)
+end
+function CP.clear() CP.snap = nil end
+N.CP = CP
+
+--- Why a NEW walk may not start now, or nil. A walk already running is a
+--- retarget, not a new start. A cast is no reason: Sentinel defers a walk
+--- asked for while casting by itself (navigating.deferred, doc).
+local function start_blocked(c, mode)
+    -- 1.7.5: no new travel walk in combat - only the fight's own walks (mode "combat")
+    if mode ~= "combat" then
+        local nf = event_flags()
+        local me0 = R.me()
+        local okc, fighting = pcall(function() return me0 and me0:is_in_combat() == true end)
+        if (nf and nf.in_combat) or (okc and fighting == true) then return "in combat" end
+    end
+    if not S.server_up(c) then
+        fail.server_until = R.now() + SERVER_BACKOFF
+        return "server down"
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- 1.7.23 detours (movement.lua's stuck fan): a walk to a checked point beside
+-- the blocked stretch, then the real goal again. While a detour runs the
+-- walk's destination (cur.x) stays the real goal, so the guide asking for the
+-- same goal every tick leaves the detour alone; another goal ends it.
+-- ----------------------------------------------------------------------------
+--- The guide asks for `x, y` while a detour runs: the same goal - leave the
+--- detour alone (true); another goal - the detour is over (false).
+local function detour_owns(x, y)
+    if not det then return false end
+    if x and R.dist2(x, y, det.dest.x, det.dest.y) <= 8 then return true end
+    det = nil
+    return false
+end
+
+--- The walk's own goal walked again from here (a fresh Sentinel path; a
+--- running walk is re-planned by the new move_to, never stopped).
+local function walk_again(c, d, why)
+    if d.route and type(d.route) == "table" then
+        N.follow_route(d.route, true)
+    else
+        issue_walk(c, d.x, d.y, d.z, d.mode or "move")
+    end
+    R.trail("nav", "a fresh path to (%.0f, %.0f, %.0f) - %s", d.x, d.y, d.z, tostring(why))
+end
+
+detour_done = function(reason)
+    local d = det
+    if not d then return end
+    det = nil
+    local c = N.client()
+    if c then walk_again(c, d.dest, "after a detour (" .. tostring(reason) .. ")") end
+end
+
+-- ----------------------------------------------------------------------------
+-- holds (Sentinel has no pause / resume)
+-- ----------------------------------------------------------------------------
+function N.holding() return next(held.reasons) ~= nil end
+
+--- Walk to `dest`. True when a walk there is running or was started (also
+--- when `dest` is underfoot, or remembered for after a hold); false when
+--- refused (combat / rest / backpedal, a blacklisted area, the same spot just
+--- failed, no Sentinel). Safe to call every tick.
+function N.nav_to(dest, direct, mode)
+    local x, y, z = R.xyz(dest)
+    if not x then return false end
+    -- Indoors, another reachable floor is not an alternative destination.
+    -- Exact interactions already have their own mode and observed height.
+    if mode == nil or mode == "guide" or mode == "npc" then
+        local me = R.me()
+        local ok, indoors = pcall(function()
+            return me and me:is_valid() and me:is_indoors()
+        end)
+        if ok and indoors == true then mode = "indoor" end
+    end
+    -- 1.22.0 / 1.66.0 LIFTS (movement/elevator): a walk that crosses Telredor's cap
+    -- or Shattrath's Aldor Rise is the matching lift run; the run's own legs are mode "elevator"
+    if mode ~= "elevator" then
+        -- an imported Zygor NPC (repairer / innkeeper / flight master: merchants.lua
+        -- from_zygor) has no height - the player's own stands in; under the cap it is
+        -- the town's. Guide points are corrected in quest/guide.lua to_world; real
+        -- unit positions, corpses and combat walks keep their height.
+        local okz, fz = pcall(function() return dest.from_zygor end)
+        if okz and fz == true then
+            local cz = EL.cap_z(x, y, z)
+            if cz then z = cz end
+        end
+        if EL.riding() then return true end                 -- nothing moves the player on the lift (combat too)
+        if BT.riding() and mode ~= "boat" then return true end    -- 1.2.32: nor on the ship
+        if mode ~= "combat" then
+            local hx, hy, hz = R.here()
+            local dir = EL.wants(hx, hy, hz, x, y, z)
+            if dir then return EL.run(dir, { x = x, y = y, z = z }) end
+        end
+    end
+    -- 1.2.80 UNDERGROUND CHECK (user: "player not entering cave"; log 17:25: the Death Cap object at z 69.7 sat 20 yd below the mesh floor
+    -- at its xy (89.9), the walk stayed in awaiting_path 40 s, three times): once per goal, 40+ yd away, the mesh floors under it are
+    -- asked and the answer is LOGGED - no floor / a floor far above / on the mesh - so a cave interior (a goal Sentinel's mesh has no
+    -- layer for) is named instead of guessed at. A goal 6+ yd below its nearest floor is flagged underground: its no-path ladder runs
+    -- at half the waits (N.is_underground).
+    if preserve_height(mode) then      -- interaction / indoor walks never ask the floors themselves; the others do
+        local hx0, hy0 = R.here()
+        local ugk = key_of(x, y)
+        if hx0 and R.dist2(hx0, hy0, x, y) > 40 and UG.seen[ugk] == nil and not zfix[ugk] then
+            local cc = N.client()
+            if cc then
+                UG.seen[ugk] = true
+                if UG.n > 200 then UG.seen, UG.under, UG.n = {}, {}, 0 end
+                UG.n = UG.n + 1
+                floors_for(cc, ugk, x, y, z, function(list)
+                    local best, bd = nil, nil
+                    for _, h in ipairs(list or {}) do
+                        local dz = math.abs(h - z)
+                        if not bd or dz < bd then best, bd = h, dz end
+                    end
+                    if not best then
+                        R.trail("nav", "underground check (%.0f, %.0f, z %.1f): the mesh has NO floor there - Sentinel cannot plan a path to it (off the mesh)", x, y, z)
+                    elseif z < best - 6 then
+                        UG.under[ugk] = true
+                        R.trail("nav", "underground check (%.0f, %.0f, z %.1f): %.0f yd BELOW the nearest mesh floor (z %.1f) - underground (a cave): the mesh has no layer at its height", x, y, z, best - z, best)
+                    else
+                        R.trail("nav", "underground check (%.0f, %.0f, z %.1f): on the mesh (nearest floor z %.1f, %.1f yd off)", x, y, z, best, bd)
+                    end
+                end)
+            end
+        end
+    end
+    -- 1.73.0: do not path up a mountain to a flyer / cliff mesh
+    -- (Naphthal'ar at z 79 while the thicket is at 12). Elevator dests already
+    -- returned above. A lake dest is decided after the mesh floors are known.
+    if mode ~= "elevator" and not preserve_height(mode) then
+        local hx, hy, hz = R.here()
+        if hz and (z - hz) > CLIMB_ABOVE then
+            R.trail("nav", "(%.0f, %.0f): dest z %.1f is %.0f yd above the player - walking at z %.1f (not up the mountain)",
+                x, y, z, z - hz, hz)
+            z = hz
+        end
+    end
+    -- 1.30.0: the local A* search / walk to this goal runs; another walk ends it
+    if AS.active() then
+        if not preserve_height(mode) and mode ~= "combat" and AS.for_goal({ x = x, y = y }) then return true end
+        AS.cancel(mode == "combat" and "a combat walk" or "a new destination")
+    end
+    if not preserve_height(mode) and detour_owns(x, y) then return true end           -- 1.7.23: a stuck detour runs
+    -- 3.7.1: a sharp turn is being made - the next leg starts after it
+    if R.turning and mode ~= "combat" then
+        if held.dest then held.dest = { x = x, y = y, z = z, mode = mode, direct = direct } end
+        stats.refused = stats.refused + 1
+        return true
+    end
+    local why = N.refusal()
+    -- combat walks always go; an NPC approach (movement.interact) goes
+    -- through its own NPC hold
+    if why and mode ~= "combat" and not (mode == "npc" and why == "npc") and not (mode == "boat" and why == "boat") and not (mode == "combat" and why == "front") then
+        stats.refused = stats.refused + 1
+        return false
+    end
+    if not preserve_height(mode) then
+        local fz = zfix[key_of(x, y)]
+        if fz then
+            local _, _, pz = R.here()
+            -- 1.2.41: a cached floor was picked on purpose (walk_at_floor takes the floor nearest the player; retry_at_ground
+            -- the next one when that failed), so it is used however far above the player it is. 1.2.40 only trusted a lone
+            -- floor: with two found, every guide tick clamped the walk back to the player's z and Sentinel answered 422 again.
+            z = fz
+        end
+    end
+    local hx, hy, hz = R.here()
+    if hx and R.dist2(hx, hy, x, y) <= UNDERFOOT and math.abs(hz - z) < 3 then
+        return true
+    end
+    if not direct and mode ~= "combat" and Z.blocked_xy(x, y) then
+        record_fail("blacklisted")
+        return false
+    end
+    if not direct and mode ~= "combat" and MEM.goal_blocked(x, y, z) then   -- 1.9.0: a black goal cell
+        record_fail("blacklisted")
+        return false
+    end
+    local k = key_of(x, y)
+    local fe = fails_at[k]
+    if fe and fe.n > 0 and (R.now() - fe.t) < 5 and (fail.offmesh or fail.give_up) then return false end
+    local c = N.client()
+    if not c then return false end
+    -- server back-off, then is_server_available()
+    if fail.server_until then
+        if R.now() < fail.server_until then
+            stats.refused = stats.refused + 1
+            return false
+        end
+        if not S.server_up(c) then
+            fail.server_until = R.now() + SERVER_BACKOFF
+            stats.refused = stats.refused + 1
+            return false
+        end
+        fail.server_until = nil
+    end
+    -- a hold (cast, loot, mana gem): remembered, walked when it lifts
+    if N.holding() then
+        held.dest = { x = x, y = y, z = z, mode = mode, direct = direct }
+        return true
+    end
+    local busy = S.moving(c)
+    local same = (mode == "guide" or mode == "npc") and SAME_DEST_GUIDE or SAME_DEST
+    if busy and cur.x and R.dist2(cur.x, cur.y, x, y) <= same
+        and (not preserve_height(mode) or (cur.mode == mode and math.abs((cur.z or z) - z) <= 1)) then
+        if cur.mode ~= "route" then return true end
+        -- a saved / planned route already walking this dest
+        if cur.route then return true end
+    end
+    -- its floors are being asked for (walk_at_floor / retry_at_ground)
+    if cur.scanning and cur.scanning == cur.id and (R.now() - (cur.scan_t or 0)) < HEIGHT_SCAN_HOLD
+        and cur.x and R.dist2(cur.x, cur.y, x, y) <= SAME_DEST
+        and (not preserve_height(mode) or math.abs((cur.z or z) - z) <= 1) then
+        return true
+    end
+    if busy and (R.now() - cur.t) < (mode == "combat" and COMBAT_GAP or RETARGET_GAP) then return true end
+    -- Exact object approaches retain their observed Z; Sentinel owns routing and recovery.
+    -- 1.20.1: at most one walk START a second (combat two), busy or not
+    -- 1.2.58 WALK RESTART STORM. A stop / start loop (the 12:29-12:30 danger hold: one walk start a second for over a minute, each a
+    -- stop, a path query and a follow_path) passed this gate every second. Five starts toward one goal in STORM.S s limit
+    -- the starts to one per STORM.GAP s for STORM.HOLD s - a legitimate re-plan is a few a minute, never five in 12 s.
+    local start_gap = (mode == "combat" and COMBAT_START_GAP or START_GAP)
+    if mode ~= "combat" then
+        local now = R.now()
+        if STORM.key ~= k then STORM.key, STORM.ts, STORM.until_t = k, {}, -1e9 end
+        if now < STORM.until_t then start_gap = STORM.GAP end
+    end
+    if cur.leg_t and (R.now() - cur.leg_t) < start_gap then
+        stats.paced = (stats.paced or 0) + 1
+        return true
+    end
+    if mode ~= "combat" then
+        local now = R.now()
+        local ts = STORM.ts
+        ts[#ts + 1] = now
+        while #ts > 0 and now - ts[1] > STORM.S do table.remove(ts, 1) end
+        if #ts >= STORM.N and now >= STORM.until_t then
+            STORM.until_t = now + STORM.HOLD
+            stats.storms = (stats.storms or 0) + 1
+            R.trail("nav", "walk restart storm: %d starts toward (%.0f, %.0f) in %d s - starts limited to one per %.0f s for %d s",
+                #ts, x, y, STORM.S, STORM.GAP, STORM.HOLD)
+        end
+    end
+    if not busy then
+        local blocked = start_blocked(c, mode)
+        if blocked then stats.refused = stats.refused + 1 return false end
+    end
+    -- 3.8.0: before an out-of-combat walk of MIN_WALK yd or more starts, mount
+    -- (or Travel Form) first - the player stands for the cast meanwhile
+    if not busy and mode ~= "combat" and mode ~= "npc" and hx and MT.wants(R.dist2(hx, hy, x, y)) then
+        if MT.begin(R.me(), x, y) then return true end         -- 1.2.63: walk on foot first, mount after 15 yd
+    end
+    -- 1.67.0: a stored valid / good path to this dest is walked as follow_path
+    -- (Sentinel does not re-query the mesh). Same dest while a route runs is
+    -- already a no-op above.
+    if mode ~= "combat" and not preserve_height(mode) and hx and not swimming() then
+        local saved = MEM.find_good(x, y, z, hx, hy, N._pickup_index)
+        if not saved then saved = MEM.find_valid(nil, hx, hy, x, y, N._pickup_index) end
+        if type(saved) == "table" and #saved >= 2 then
+            return N.follow_route(saved, true)
+        end
+    end
+    -- 1.67.0: last yards of a narrow recorded corridor: move_direct (the mesh
+    -- snaps a door / portal walk). Widths from get_corridor_widths; missing
+    -- table = no opinion.
+    if not busy and (mode == "guide" or mode == "npc") and hx and R.dist2(hx, hy, x, y) <= 8 then
+        local widths = S.corridor_widths(c)
+        local w = nil
+        if type(widths) == "table" and #widths > 0 then
+            local idx = S.path_index(c)
+            w = (type(idx) == "number" and widths[idx]) or widths[#widths]
+        end
+        if type(w) == "number" and w > 0 and w < 2.5 then
+            return N.step_into({ x = x, y = y, z = z })
+        end
+    end
+    -- 1.67.0: guide / npc walks ask the floors at any distance (talk / accept
+    -- a few yards off a landing used to skip the query). Combat and zfix stay,
+    -- except a dest in the lake-depth band under the player still asks so the
+    -- walk is issued at the walkable mesh floor (not the underwater dest z).
+    local dive_band = hx and hz and (hz - z) > DIVE_BELOW and (hz - z) < DIVE_MAX
+    local need_floor = not preserve_height(mode) and hx and not zfix[k] and not swimming()
+        and (dive_band or (mode ~= "combat" and (mode == "guide" or mode == "npc" or R.dist2(hx, hy, x, y) >= FLOOR_FIRST)))
+    if need_floor then
+        local st = zscan[k]
+        -- audit 1.19.0: a floor query unanswered HEIGHT_SCAN_HOLD s no longer
+        -- holds the walk (it re-queued on the stuck query until FAIL_WINDOW)
+        local stale = st and st.asking and (R.now() - st.t) >= HEIGHT_SCAN_HOLD
+        if not stale and not (st and st.checked and (R.now() - st.t) <= FAIL_WINDOW) then
+            return walk_at_floor(c, x, y, z, mode)
+        end
+    end
+    return issue_walk(c, x, y, z, mode)
+end
+
+--- 1.20.0: the 1.4.0 / 1.5.0 "one walk per Zygor waypoint key, rechecked every
+--- 5 s" gate is gone - the guide is one continuous Sentinel walk (RestedXP's
+--- chain in quest/engine). Kept for the movement surface: a guide nav_to (same
+--- destination while moving = no-op, a new one = one retarget, no stop); the
+--- key is ignored. Its refusals stay: a black goal cell (1.9.0), a give-up /
+--- server back-off (audit S3).
+function N.waypoint_walk(dest, key)
+    local x, y, z = R.xyz(dest)
+    if not x then return false end
+    if AS.active() then                                  -- 1.30.0: the local A* walk to this goal runs
+        if AS.for_goal({ x = x, y = y }) then return true end
+        AS.cancel("a new guide destination")
+    end
+    if detour_owns(x, y) then return true end           -- 1.7.23: a stuck detour runs
+    if MEM.goal_blocked(x, y, z) then                    -- 1.9.0: the goal cell is a black point
+        record_fail("blacklisted")
+        return false
+    end
+    -- audit S3: a give-up (max_stuck / max_repath) or a server back-off is not
+    -- retried at once - the same 5 s give-up window nav_to uses
+    local now = R.now()
+    if (fail.give_up and (now - (fail.t or 0)) < 5) or (fail.server_until and now < fail.server_until) then
+        return false
+    end
+    return N.nav_to(dest, true, "guide")
+end
+
+function N.waypoint_forget() end                    -- 1.20.0: nothing kept per key
+
+--- 1.7.9: the running walk's own path from the point being walked, up to
+--- `yards` along it (the player's position first): Sentinel's
+--- get_current_path from get_path_index. {} plus the player when idle.
+function N.path_ahead(yards)
+    yards = tonumber(yards) or 40
+    local out = {}
+    local hx, hy, hz = R.here()
+    if hx then out[1] = { x = hx, y = hy, z = hz } end
+    local c = N.client()
+    if not c or not S.moving(c) then return out end
+    local pts = S.current_path(c)
+    if type(pts) ~= "table" then return out end
+    local idx = S.path_index(c)
+    idx = (type(idx) == "number" and idx >= 1) and math.floor(idx) or 1
+    local walked, px, py, pz = 0, hx, hy, hz
+    for i = idx, #pts do
+        local p = pts[i]
+        local okp, x, y, z = pcall(function() return p.x, p.y, p.z end)
+        if okp and type(x) == "number" and type(y) == "number" then
+            local span = px and R.dist2(px, py, x, y) or 0
+            if px and span > 0 and walked + span > yards then
+                local f=math.max(0,(yards-walked)/span)
+                out[#out+1]={x=px+(x-px)*f,y=py+(y-py)*f,
+                    z=type(pz)=="number" and type(z)=="number" and pz+(z-pz)*f or z}
+                break
+            end
+            walked=walked+span
+            out[#out + 1] = { x = x, y = y, z = z }
+            px, py, pz = x, y, z
+            if walked >= yards then break end
+        end
+    end
+    return out
+end
+
+--- 1.74.0: kept on the surface. Travel is Sentinel move_to on walkable floors.
+function N.swim_to(pos)
+    return N.nav_to(pos)
+end
+
+--- 1.30.0: one leg of the local A* path (movement/astar) - Sentinel's
+--- move_direct, a single waypoint (as the swim / portal step), never a key. One
+--- leg start a second at most (START_GAP); holds and the lift are respected.
+function N.astar_leg(x, y, z)
+    if EL.riding() or R.resting or R.backpedal_until then return false end
+    local c = N.client()
+    if not c or N.holding() or stop_req then return false end
+    if cur.leg_t and (R.now() - cur.leg_t) < START_GAP then return false end
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), "astar", nil, false
+    cur.leg_t = R.now()
+    cur.scanning = nil
+    stats.issued = stats.issued + 1
+    R.trail("nav", "move_direct (astar leg) %.1f %.1f %.1f", x, y, z)
+    local ok = S.move_direct(c, { x = x, y = y, z = z }, function()
+        if cur.id ~= id then return end
+        cur.done = true
+    end)
+    if not ok then cur.done = true end
+    return ok
+end
+AS.leg_fn = N.astar_leg
+
+--- 1.7.7: the last yards INTO a portal. The portal is not on the navmesh (a
+--- move_to would be snapped back onto it), so this is Sentinel's move_direct -
+--- a single waypoint, no pathfinding (doc v0.0.8). The loading screen ends it.
+function N.step_into(pos)
+    local x, y, z = R.xyz(pos)
+    if not x then return false end
+    local c = N.client()
+    if not c then return false end
+    if S.moving(c) then return true end            -- this step, or the walk to the entry, still runs
+    if start_blocked(c, "portal") then return false end
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), "portal", nil, false
+    cur.leg_t = R.now()
+    stop_req = nil
+    cur.scanning = nil                      -- audit 1.19.0: as issue_walk
+    stats.issued = stats.issued + 1
+    R.trail("nav", "stepping into the portal: straight walk to (%.0f, %.0f, %.0f)", x, y, z)
+    local ok = S.move_direct(c, { x = x, y = y, z = z }, function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        R.trail("nav", "portal step ended: %s", success and "arrived" or tostring(reason))
+    end)
+    if not ok then cur.done = true end
+    return ok
+end
+
+-- 1.7.22 PICK UP THE PATH WHERE THE PLAYER IS: the point nearest the player
+-- within [lo, hi]; when the player is already past it (nearer the next point
+-- than it is), the next one.
+local function pickup_index(pts, lo, hi)
+    if type(pts) ~= "table" or #pts == 0 then return 1 end
+    lo = math.max(1, math.floor(lo or 1))
+    hi = math.min(#pts, math.floor(hi or #pts))
+    local x, y = R.here()
+    if not x or lo > hi then return lo end
+    local best, bd = nil, nil
+    for i = lo, hi do
+        local p = pts[i]
+        if type(p) == "table" and p.x then
+            local d = R.dist2(x, y, p.x, p.y)
+            if bd == nil or d < bd then best, bd = i, d end
+        end
+    end
+    if not best then return lo end
+    local p, n = pts[best], pts[best + 1]
+    if n and R.dist2(x, y, n.x, n.y) < R.dist2(p.x, p.y, n.x, n.y) then best = best + 1 end
+    return best
+end
+N._pickup_index = pickup_index
+
+--- Walk a recorded route (array of {x,y,z}) with follow_path, picked up at
+--- its point nearest the player, black points left out. The same table while
+--- it runs is a no-op unless `replace`. True when accepted.
+function N.follow_route(list, replace)
+    if type(list) ~= "table" or #list < 1 then return false end
+    if N.refusal() then return false end
+    local c = N.client()
+    if not c then return false end
+    if N.holding() then
+        held.dest = { route = list }
+        return true
+    end
+    if not replace and cur.route == list and S.moving(c) then return true end
+    local all = {}
+    for i = 1, #list do
+        local x, y, z = R.xyz(list[i])
+        if not x then return false end
+        all[i] = { x = x, y = y, z = z }
+    end
+    local from = pickup_index(all, 1, #all)
+    local pts = {}
+    for i = from, #all do pts[#pts + 1] = all[i] end
+    if from > 1 then R.trail("nav", "route picked up at point %d of %d (the nearest)", from, #all) end
+    local dropped
+    pts, dropped = MEM.filter(pts)                           -- 1.9.0: no point in a black point
+    if dropped > 0 then R.trail("nav", "route: %d point(s) in black points left out", dropped) end
+    if #pts < 1 or (#pts < 2 and #all >= 2 and dropped > 0) then
+        record_fail("black_point")
+        return false
+    end
+    local hx, hy, hz = R.here()
+    local audit = {}
+    if hx then audit[1] = {x=hx,y=hy,z=hz} end
+    for _, point in ipairs(pts) do audit[#audit+1] = point end
+    if N.steep_at(audit) then
+        record_fail("unsafe_slope")
+        R.trail("nav", "recorded route rejected: unsafe slope")
+        return false
+    end
+    cur.id = cur.id + 1
+    local id = cur.id
+    local last = pts[#pts]
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = last.x, last.y, last.z, R.now(), "route", list, false
+    cur.leg_t = R.now()
+    stop_req = nil
+    cur.scanning = nil                      -- audit 1.19.0: as issue_walk
+    stats.issued = stats.issued + 1
+    local ok = S.follow_path(c, pts, function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        if success then MEM.walk_ended(true) return end
+        R.trail("nav", "route walk ended: %s", tostring(reason))
+        record_fail(reason or "failed", nil, nil, nil, true)
+        MEM.walk_ended(false)
+    end)
+    if not ok then cur.done = true end
+    return ok
+end
+
+--- 1.7.22: the running walk picks the path up again from where the player
+--- is: Sentinel plans from the player on every move_to, so the current
+--- destination is issued again (a recorded route from its nearest point).
+function N.rejoin(why)
+    local c = N.client()
+    if not c or not cur.x or not S.moving(c) then return false end
+    if S.path_pending(c) then return true end                -- its path is being planned anyway
+    R.trail("nav", "walk picked up from here%s", why and (" - " .. tostring(why)) or "")
+    walk_again(c, { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }, why or "rejoin")
+    return true
+end
+
+--- A fresh path from where the player stands to the walk's own goal: the
+--- same destination issued again (another move_to re-plans without a stop).
+function N.replan_fresh(why)
+    local c = N.client()
+    if not c or not cur.x then return false end
+    -- audit N6: no new walk in combat (out-of-combat walks), with the server
+    -- down or mid-pivot
+    if start_blocked(c, cur.mode) or R.turning then return false end
+    local d = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }
+    -- 1.9.0: the second stuck re-plan of the same corridor is a black point
+    if type(why) == "string" and why:find("stuck", 1, true) then
+        local px, py, pz = R.here()
+        if px then mem_black(MEM.note_replan(px, py, pz, d.x, d.y), "re-planned twice") end
+    end
+    det = nil
+    -- 1.67.0: a running walk to this dest is client:replan(reason) (recorded;
+    -- no invented {soft=true}). A recorded route / idle walk still re-issues.
+    if S.moving(c) and not d.route and not S.path_pending(c)
+        and (R.now() - (cur.leg_t or 0)) >= FRESH_LEG then
+        if S.soft_replan(c, why or "stuck") then
+            cur.leg_t = R.now()
+            stats.issued = stats.issued + 1
+            R.trail("nav", "a fresh path to (%.0f, %.0f, %.0f) - %s", d.x, d.y, d.z, tostring(why or "stuck"))
+            return true
+        end
+    end
+    walk_again(c, d, why or "stuck")
+    return true
+end
+
+--- Walk to `pt` (a checked detour point), then on to the walk's own goal.
+function N.detour(pt, why, opts)
+    local c = N.client()
+    if not c or not cur.x or type(pt) ~= "table" or not pt.x then return false end
+    if start_blocked(c, cur.mode) or R.turning then return false end          -- audit N6
+    local hx, hy = R.here()
+    if not hx or R.dist2(hx, hy, pt.x, pt.y) > ((opts and opts.max_yd) or DETOUR_MAX_YD) then return false end   -- audit N2
+    local dest = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.route, cur.done = nil, false                 -- cur.x stays the real goal
+    cur.t, cur.leg_t = R.now(), R.now()
+    stop_req = nil
+    cur.scanning = nil                      -- audit 1.19.0: as issue_walk
+    stats.issued = stats.issued + 1
+    det = { x = pt.x, y = pt.y, z = pt.z, dest = dest, id = id, until_t = R.now() + ((opts and opts.max_s) or DETOUR_MAX_S) }
+    R.trail("nav", "%s to (%.0f, %.0f) - %s", (opts and opts.label) or "stuck re-navigation: detour", pt.x, pt.y, tostring(why))
+    local ok = S.move_to(c, { x = pt.x, y = pt.y, z = pt.z }, function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        if not det or det.id ~= id then return end
+        detour_done(success and "reached" or tostring(reason))
+    end)
+    if not ok then det, cur.done = nil, true return false end
+    return true
+end
+
+function N.detour_active() return det ~= nil end
+
+--- 1.7.24: every navmesh floor under `pos` (Sentinel get_all_heights, nearest
+--- pos.z first) -> cb(list of heights). False when it could not be asked.
+function N.all_heights(pos, cb)
+    local c = N.client()
+    if not c or type(pos) ~= "table" or type(cb) ~= "function" then return false end
+    return S.floors(c, { x = pos.x, y = pos.y, z = pos.z or 0 }, function(list) pcall(cb, list) end)
+end
+
+-- 1.7.29 / 1.7.30 STEEP GROUND: a path's own points (Sentinel find_path
+-- waypoints carry their z) checked for a climb over UP (35 deg) or a drop over
+-- DOWN (55 deg), or a STEP_DZ wall in under a yard. Pure geometry - the stuck
+-- fan (movement.lua) refuses a detour over steep ground. Sentinel plans its
+-- own walks; this layer no longer re-routes them.
+-- STEEP GROUND: the shared terrain model (movement/core R.TERRAIN), ported from Forever Questing.
+local function indoors()
+    local me = R.me()
+    local ok, inside = pcall(function() return me and me:is_indoors() end)
+    return ok and inside == true
+end
+
+local TM = R.TERRAIN                      -- the shared terrain model (movement/core)
+local ST = { UP = R.TERRAIN.UP, UP_IN = R.TERRAIN.UP_IN, DOWN = R.TERRAIN.DOWN, MIN_RUN = R.TERRAIN.MIN_RUN,
+    STEP_DZ = R.TERRAIN.STEP_DZ }
+N.STEEP = ST
+
+-- 1.28.146 GHOSTS FALL FOR FREE. A dead player takes no fall damage, so a
+-- steep descent or a drop is no hazard on a corpse run (log 2026-11-06: 7 of
+-- 38 slope vetoes were descents, each costing a recovery cycle). Every ASCENT
+-- limit stays: a ghost cannot climb a wall. Read at most twice a second -
+-- ST.grade / ST.first_steep run over whole point lists.
+local ghost_cache = { t = -1e9, v = false }
+local function ghost_now()
+    local t = R.now()
+    if t - ghost_cache.t >= 0.5 or t < ghost_cache.t then
+        ghost_cache.t = t
+        local ok, v = pcall(function() return R.me():is_ghost() end)
+        ghost_cache.v = ok and v == true
+    end
+    return ghost_cache.v
+end
+N.ghost_now = ghost_now
+
+function ST.grade(a, b, inside)
+    if inside == nil then inside = indoors() end
+    local up = inside and ST.UP_IN or ST.UP
+    local run = R.dist2(a.x, a.y, b.x, b.y)
+    local dz = (b.z or 0) - (a.z or 0)
+    if run >= ST.MIN_RUN then
+        local g = dz >= 0 and dz / run or (-dz / run) * (ST.UP / ST.DOWN)
+        return g, dz >= 0 and dz/run > up
+            or (dz < -ST.STEP_DZ and -dz/run > ST.DOWN and not ghost_now())
+    end
+    if dz > ST.STEP_DZ or (dz < -ST.STEP_DZ and not ghost_now()) then return 99, true end   -- a wall to climb, not a step
+    return 0, false
+end
+--- The first steep stretch of `points`: its index (points[i] -> points[i+1]), or nil.
+function ST.first_steep(points, inside, progress_check)
+    if type(points) ~= "table" then return nil end
+    if inside == nil then inside = indoors() end
+    -- Indoor risers are judged across three yards of stair treads. Keep
+    -- immediate vertical-wall and downhill checks; never relax cliff drops.
+    -- Keep enough dense nodes to detect a sustained descent after allowing
+    -- an isolated <=2 yard step; a one-yard window could hide that descent.
+    local window,up = 3, inside and ST.UP_IN or ST.UP
+    local ghost = ghost_now()
+    local first,run = 1,0
+    for i=1,#points-1 do
+        local a,b=points[i],points[i+1]
+        if type(a)=="table" and type(b)=="table" and a.z and b.z then
+            local edge=R.dist2(a.x,a.y,b.x,b.y)
+            local dz=b.z-a.z
+            local _,steep=ST.grade(a,b,inside)
+            if steep and (not inside or dz<=0 or edge>=window
+                or (edge<ST.MIN_RUN and dz>ST.STEP_DZ)) then return i,i+1 end
+            run=run+edge
+            while first<i do
+                local p,q=points[first],points[first+1]
+                local n=R.dist2(p.x,p.y,q.x,q.y)
+                if run-n<window then break end
+                run,first=run-n,first+1
+            end
+            local rise=b.z-points[first].z
+            if ((run>=window and rise>up*run)
+                or (not ghost and run>=ST.MIN_RUN and -rise>ST.STEP_DZ and -rise>ST.DOWN*run)
+                or (run<ST.MIN_RUN and (rise>ST.STEP_DZ or (not ghost and -rise>ST.STEP_DZ)))
+                or (i==#points-1 and run>=ST.MIN_RUN and rise>up*run))
+                then return first,i+1 end
+        else first,run=i+1,0 end
+    end
+    return nil
+end
+N.steep_at = ST.first_steep
+
+-- 1.2.58 DANGER AUDIT (no avoidance zones on the live stub): the first stretch of a plan inside the aggro circle of an
+-- enemy the rules avoid (an elite at the player's level or above, a mob 5+ levels above: targeting.danger_mobs) is judged
+-- like a steep span - the via routes of try_sides (15 .. 140 yd either side) are asked and audited, the clean shorter one is
+-- walked. A player already standing inside a circle is not held to it. Returns i, e (first / last point index of the stretch),
+-- dangers or nil.
+local function seg_dist(px, py, ax, ay, bx, by)
+    local dx, dy = bx - ax, by - ay
+    local l2 = dx * dx + dy * dy
+    local t = l2 > 0 and math.max(0, math.min(1, ((px - ax) * dx + (py - ay) * dy) / l2)) or 0
+    local qx, qy = ax + t * dx, ay + t * dy
+    return math.sqrt((px - qx) ^ 2 + (py - qy) ^ 2)
+end
+function N.danger_at(points, dangers)
+    if type(points) ~= "table" or #points < 2 then return nil end
+    if dangers == nil then
+        local TG = package.loaded["targeting"]
+        local me = R.me()
+        if type(TG) ~= "table" or type(TG.danger_mobs) ~= "function" or not me then return nil end
+        local ok, list = pcall(TG.danger_mobs, me, TG.PATH_SCAN or 90, TG.DANGER_LEVELS or 5, true, true)
+        dangers = ok and list or {}
+        -- 1.2.74 ESP (pathing): camps of 4+ linked mobs, elites and much higher levels are hazards for the path as well
+        local ES = package.loaded["esp"]
+        if type(ES) == "table" and type(ES.hazards) == "function" then
+            local okh, hz = pcall(ES.hazards)
+            if okh and type(hz) == "table" then
+                local merged = {}
+                for _, d in ipairs(dangers) do merged[#merged + 1] = d end
+                for _, h in ipairs(hz) do
+                    local dup = false
+                    for _, d in ipairs(dangers) do
+                        if d.x and R.dist2(d.x, d.y, h.x, h.y) < 12 then dup = true break end
+                    end
+                    if not dup then merged[#merged + 1] = h end
+                end
+                dangers = merged
+            end
+        end
+    end
+    local first, last, hit
+    for _, d in ipairs(dangers) do
+        local r = (d.r or 20) + 4
+        if R.dist2(points[1].x, points[1].y, d.x, d.y) > r then
+            for k = 1, #points - 1 do
+                local a, b = points[k], points[k + 1]
+                if seg_dist(d.x, d.y, a.x, a.y, b.x, b.y) <= r then
+                    if not first or k < first then first, hit = k, d end
+                    break
+                end
+            end
+        end
+    end
+    if not first then return nil end
+    last = first
+    for k = first + 1, #points - 1 do
+        if seg_dist(hit.x, hit.y, points[k].x, points[k].y, points[k + 1].x, points[k + 1].y) <= (hit.r or 20) + 4 then last = k else break end
+    end
+    return first, last + 1, dangers, hit
+end
+
+-- 1.2.46 Short, walkable-by-mesh steep spans: run <= RAMP_RUN yd, climb grade <= RAMP_MAX (the client's ~50 deg limit),
+-- a drop of at most RAMP_DROP yd, at most RAMP_SPANS of them. Anything longer / steeper / more numerous stays a wall.
+N.RAMP_MAX, N.RAMP_RUN, N.RAMP_DROP, N.RAMP_SPANS = 1.19, 6, 3, 3
+function N.tolerable_steep(points)
+    local k, spans = 1, 0
+    while k < #points do
+        local sub = {}
+        for n = k, #points do sub[#sub + 1] = points[n] end
+        local i, e = ST.first_steep(sub)
+        if not i then return true end
+        e = e or i + 1
+        local a, b = sub[i], sub[e]
+        local run = R.dist2(a.x, a.y, b.x, b.y)
+        local dz = (b.z or 0) - (a.z or 0)
+        if run > N.RAMP_RUN or run < 0.5 then return false end
+        if dz >= 0 then
+            if dz / run > N.RAMP_MAX then return false end
+        elseif -dz > N.RAMP_DROP then
+            return false
+        end
+        spans = spans + 1
+        if spans > N.RAMP_SPANS then return false end
+        k = k + e - 1
+    end
+    return true
+end
+
+--- A stop may go out now: the walk follows its path and is not fresh.
+local function safe_to_stop(c)
+    if S.path_pending(c) then return false end
+    return (R.now() - (cur.leg_t or 0)) >= FRESH_LEG
+end
+
+--- Stop the walk this layer started. Cheap when idle. A walk still waiting
+--- for its path or younger than FRESH_LEG s is stopped by the pulse later
+--- unless `force` (Stop / GUI close / unload: callbacks will not pulse again).
+-- 1.2.70 STOP TRACE (user: "pathing is stopping and starting", log 15:47: a new walk to the same goal every 3-4 s, "Nav settle"
+-- after each stop, and no line saying who stopped it): every stop of a running walk is logged once with its reason, the walk's
+-- age, whether it was forced and the calling file:line (the debug library when the sandbox has it).
+local STOP_LOG_T = -1e9
+local function stop_callers()
+    local dbg = rawget(_G, "debug")
+    if type(dbg) ~= "table" or type(dbg.getinfo) ~= "function" then return "?" end
+    local out = {}
+    for lvl = 3, 7 do
+        local ok, info = pcall(dbg.getinfo, lvl, "Sl")
+        if not ok or type(info) ~= "table" then break end
+        local src = tostring(info.short_src or "?"):match("([^/" .. string.char(92) .. "]+)$") or "?"
+        out[#out + 1] = src .. ":" .. tostring(info.currentline or "?")
+        if #out >= 3 then break end
+    end
+    return table.concat(out, " < ")
+end
+
+local STOP_IDLE_T = -1e9
+function N.stop(reason, force)
+    do
+        local cs = N.client()
+        if cs and CP.in_fight and CP.in_fight() and cur.x and not cur.done then pcall(CP.save, cs, reason) end
+    end
+    -- 1.2.83: a stop with nothing to stop (no walk, no pending path, no detour, no deferred stop, nothing held) is a no-op at most
+    -- every 0.5 s - the loot wait called it ten times a second (flight recorder: nav_stop x10 per heartbeat)
+    do
+        local c0 = N.client()
+        local busy0 = c0 ~= nil and (S.moving(c0) or S.path_pending(c0))
+        if not busy0 and not det and not stop_req and held.dest == nil and cur.done ~= false and R.now() - STOP_IDLE_T < 0.5 then return end
+        if not busy0 then STOP_IDLE_T = R.now() end
+    end
+    do
+        local fr = package.loaded["flightrec"]
+        if fr then fr.note("nav_stop", tostring(reason)) end
+        local nowt = R.now()
+        if cur.x and not cur.done and nowt - STOP_LOG_T >= 0.5 then
+            STOP_LOG_T = nowt
+            R.trail("nav", "walk stop requested: %s%s - walk %.1f s old, mode %s, from %s", tostring(reason),
+                force == true and " (forced)" or "", nowt - (cur.t or nowt), tostring(cur.mode), stop_callers())
+        end
+    end
+    held.dest = nil -- a later cast/loot release must not restart a cancelled walk
+    S.invalidate()
+    if N._node_reset then N._node_reset() end           -- 1.2.71: the dropped plan reply must not leave the patrol "pending"
+    det = nil                               -- 1.7.23
+    if cur.mode ~= "astar" or reason ~= "astar leg" then AS.cancel(reason or "stop") end   -- 1.30.0
+    local c = N.client()
+    local was = c ~= nil and (S.moving(c) or S.path_pending(c))
+    if c and was then
+        if force == true or safe_to_stop(c) then
+            S.stop(c)
+            stop_req = nil
+        else
+            stop_req = { t = R.now(), reason = reason }
+            stats.deferred_stops = stats.deferred_stops + 1
+        end
+    end
+    MEM.walk_ended(false)                   -- 1.9.0
+    cur.id = cur.id + 1                     -- the stopped walk's callback, if any, is ignored
+    cur.x, cur.mode, cur.route, cur.done = nil, nil, nil, true
+    cur.t = -1e9                            -- the next walk is not a retarget: it goes at once (and replaces a deferred stop)
+    cur.scanning = nil
+    -- 3.7.1: a deliberate stop also ends a sharp turn in progress
+    if R.turning then R.turn_cancel, R.turning = true, false end
+    if was then R.quiet_until = R.now() + QUIET_STOP end
+end
+
+--- Hold the walk for `reason` (a cast, loot, a mana gem): stopped, its
+--- destination remembered.
+function N.pause(reason)
+    reason = reason or "hold"
+    MEM.on_pause(reason)                    -- 1.9.0: a loot / conjure / cast pause holds the memory
+    local first = not N.holding()
+    held.reasons[reason] = true
+    if first and cur.x and N.busy() then
+        local dest = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route, direct = true }
+        local turning = R.turning
+        N.stop("hold " .. reason)
+        held.dest = dest -- only a deliberate pause may restore this destination
+        R.turning = turning                     -- a sharp-turn hold keeps its turn
+        R.turn_cancel = false
+    end
+end
+
+--- Lift `reason`; when no hold is left the remembered destination is walked again.
+function N.resume(reason)
+    reason = reason or "hold"
+    MEM.on_resume(reason)
+    held.reasons[reason] = nil
+    if N.holding() then return end
+    local d = held.dest
+    held.dest = nil
+    if not d then return end
+    if d.nodes then
+        N.follow_nodes(d.nodes)
+    elseif d.route then
+        N.follow_route(d.route, true)
+    else
+        N.nav_to(d, d.direct, d.mode)
+    end
+end
+
+-- 1.40.0 CHECK_PATH (user: "check_path (running-path validation)"): while a walk of
+-- ours runs, the path Sentinel is following is validated every CHECK_GAP s, and an
+-- unambiguous "no longer valid" takes a FRESH path at once instead of waiting for the
+-- walk to stall into the stuck ladder. Never on a fresh leg or while a path request is
+-- in flight (the crash rule), never through a hold or a pending stop, and never over
+-- the local A* legs. The adapter answers nil for any shape it cannot read, and nil
+-- never re-plans - a spurious re-plan is worse than a late one.
+-- 1.2.78 (user: "lengthen our path check to avoid duplicating Sentinel's"): Sentinel's own Path Validation (Movement tab) checks the
+-- running path every 5 s and repaths on a bad answer (2 retries, a budget of 3), so a check of ours every 3 s asked the server
+-- the same question twice as often and could start a second re-plan over Sentinel's. Ours now runs every 10 s - twice Sentinel's
+-- interval, so it only catches what Sentinel's pass missed - and never while Sentinel itself is repathing (the state tests below).
+local CHECK_GAP = 10.0
+local check_t, check_logged = -1e9, false
+local check_replan = nil
+local function check_running_path(c, t)
+    if t - check_t < CHECK_GAP then return end
+    if not cur.x or cur.done or stop_req or N.holding() then return end
+    if cur.mode == "astar" then return end
+    if not S.moving(c) or S.path_pending(c) or S.recovering(c) then return end
+    if (t - (cur.leg_t or 0)) < FRESH_LEG then return end
+    local pts = S.current_path(c)
+    if type(pts) ~= "table" or #pts < 2 then return end
+    local hx, hy, hz = R.here()
+    if not hx then return end
+    check_t = t
+    local checked_id = cur.id
+    local first = math.max(1, math.floor(tonumber(S.path_index(c)) or 1))
+    if first > #pts then return end
+    local ahead = {{x=hx, y=hy, z=hz}}
+    local last = pts[#pts]
+    -- player + remaining-path samples + the dest: 8 points bound
+    local room = S.CHECK_POINTS - 2
+    if room < 1 then room = 1 end
+    for i = first, math.min(#pts, first + room - 1) do
+        ahead[#ahead + 1] = pts[i]
+    end
+    if last and type(last.x) == "number" then
+        local e = ahead[#ahead]
+        if not (e and e.x == last.x and e.y == last.y) then
+            if #ahead >= S.CHECK_POINTS then
+                ahead[S.CHECK_POINTS] = last
+            else
+                ahead[#ahead + 1] = last
+            end
+        end
+    end
+    S.check_path(c, { x = hx, y = hy, z = hz }, ahead, function(verdict, shape)
+        if cur.id ~= checked_id or cur.done or stop_req or S.client() ~= c or S.path_pending(c) then return end
+        if not check_logged then
+            check_logged = true
+            R.trail("nav", "check_path first answer: %s", tostring(shape))
+        end
+        if verdict ~= false or S.recovering(c) then return end
+        -- Reissuing an identical route every three seconds resets Sentinel's
+        -- stuck recovery. One validation replan per stationary destination;
+        -- physical progress or a different destination permits another.
+        if check_replan then
+            local dx,dy,dz=hx-check_replan.x,hy-check_replan.y,hz-check_replan.z
+            local gx,gy=(cur.x or 0)-check_replan.gx,(cur.y or 0)-check_replan.gy
+            if dx*dx+dy*dy+dz*dz < 16 and gx*gx+gy*gy < 16 then return end
+        end
+        check_replan = {x=hx,y=hy,z=hz,gx=cur.x or 0,gy=cur.y or 0}
+        R.trail("nav", "check_path: the running path is no longer valid - taking a fresh one")
+        N.replan_fresh("check_path: the path is no longer valid")
+    end)
+end
+
+--- Per frame: event-flag stops, the deferred stop, walks ended without a
+--- callback, the detour timeout, the nav memory.
+-- ----------------------------------------------------------------------------
+-- ZONES FOR HAZARD SPANS, PATH RE-GENERATION (ported from Forever Questing 1.29.0)
+-- ----------------------------------------------------------------------------
+--- Re-generate the running walk's path (a zone, a hazard, a loop): a precomputed walk plans a
+--- fresh path from the player's spot and swaps it in; any other walk asks Sentinel to re-plan softly.
+function N.regen(c, reason)
+    local st = cur.pre
+    if st and st.id == cur.id and not st.done and st.started and cur.x and not cur.done then
+        return st.again(reason) == true
+    end
+    return S.soft_replan(c, reason)
+end
+
+--- A hazard point as one avoidance zone. Not placed on the player or on the goal (that would
+--- trap the walk). "new" when a zone was just added, true when one already covers it.
+function N.zone_point(p, r, kind)
+    local px, py = R.here()
+    if not px or R.dist2(px, py, p.x, p.y) <= r + 1 then return false end
+    if cur.x and R.dist2(cur.x, cur.y, p.x, p.y) <= r + 2 then return false end
+    local was = N.avoided(p.x, p.y)
+    if not N.avoid_area(p, r, kind) then return false end
+    return was and true or "new"
+end
+
+--- A hazard span a -> b (steep ground / a drop) as one zone at its middle: radius from its length
+--- (2.5 .. 6 yd, 3.5+ for a drop).
+function N.zone_span(a, b, kind)
+    local mx, my = (a.x + b.x) / 2, (a.y + b.y) / 2
+    local r = math.max(2.5, math.min(6, R.dist2(a.x, a.y, b.x, b.y) / 2 + 1.5))
+    if kind == "unsupported ground / drop" then r = math.max(r, 3.5) end
+    return N.zone_point({ x = mx, y = my, z = ((a.z or 0) + (b.z or 0)) / 2 }, r, kind)
+end
+
+-- ROLLING PATH HORIZON (ported from Forever Questing 1.29.0; user: "calculates and creates
+-- pathing 20 yards ahead of the player ... the player movement isn't waiting on a generated
+-- path"). A walk never lets its planned path run out under the player: while Sentinel walks, the
+-- path left ahead is measured every LA.GAP s, and when it is shorter than the horizon (LA.H = 20
+-- yd at least) while the goal is still farther than the path's end, the walk is issued AGAIN at
+-- once - a precomputed walk plans a fresh path while the old one is still walked, any other walk
+-- is a second move_to, which Sentinel re-plans without stopping. The horizon grows with the
+-- measured path latency and walking speed (speed * (latency + 0.5 s)), capped at LA.H_MAX.
+-- Guard: needs 4 yd of progress toward the goal between two asks, at most LA.MAX per goal chain.
+-- Off for combat, NPC, portal, swim, A*, elevator, corpse and recorded-route walks and while a
+-- detour runs. Sentinel does the planning; this only decides WHEN to ask.
+local LA = { REFRESH_S = 25, REFRESH_YD = 60, REFRESH_MOVED = 15, H = 20, H_MAX = 40, GAP = 0.25, SHORT_YD = 3.0, MIN_GOAL = 25, PROGRESS = 4.0, MAX = 12, CHAIN_S = 60,
+    speed = 7, latency = 0.3, last_t = -1e9, id = -1, lat_done = true, pos = nil, pos_t = 0,
+    key = nil, n = 0, goal_d = nil, chain_t = -1e9 }
+N.LA = LA
+local LA_SKIP = { combat = true, npc = true, portal = true, swim = true, astar = true, route = true, corpse = true,
+    elevator = true, boat = true }
+
+--- The walk running may be replaced now: it follows its path and is not fresh.
+local function replaceable(c)
+    if S.path_pending(c) then return false end
+    return (R.now() - (cur.leg_t or 0)) >= FRESH_LEG
+end
+
+--- The horizon in yards for the speed and path latency measured so far.
+function LA.horizon()
+    return math.max(LA.H, math.min(LA.H_MAX, LA.speed * (LA.latency + 0.5)))
+end
+
+--- Yards of planned path left ahead of the player and the path's last point.
+function LA.path_left()
+    local pts = N.path_ahead(300)
+    if #pts < 2 then return nil end
+    local len = 0
+    for i = 2, #pts do len = len + R.dist2(pts[i - 1].x, pts[i - 1].y, pts[i].x, pts[i].y) end
+    return len, pts[#pts]
+end
+
+-- 1.2.57 NO PATH GENERATED. Log 12:15-12:21 (Stormwind -> Goldshire, 1213 yd): the precomputed plan got no reply in 3 s,
+-- Sentinel sat in navigating.awaiting_path with the player standing, and nothing ever looked at that wait: the walk ended
+-- 40 s later "stuck", a back-off detour re-asked the SAME long query, and the loop ran for 8 minutes (walks 1-3 refused / no
+-- reply, distance to the goal 1212-1215 yd the whole time). A walk that waits for its path longer than it should climbs a ladder:
+--   rung 1 (NP.WAIT[1] s)  the goal's other floors (retry_at_ground: the floor guess picks the one nearest the PLAYER's z,
+--                          which means nothing 1200 yd away; the next floor is asked, or the local A*);
+--   rung 2 (NP.WAIT[2] s)  a STAGED LEG: a shorter query to a point NP.ANCHORS[1] yd along the way, checked with
+--                          validate_destination (reachable + the server's path distance) so a long query that the server
+--                          cannot finish becomes two it can; then the real goal again from there;
+--   rung 3 (NP.WAIT[3] s)  the same with the shorter anchor NP.ANCHORS[2];
+--   rung 4 (NP.WAIT[4] s)  the goal is recorded as "no_path", its area blacklisted, the walk stopped - the guide moves on.
+-- Staged legs per goal are capped (NP.MAX_STAGES); the ladder starts again after NP.RESET_S s without a wait.
+local NP = { WAIT = { 10, 24, 40, 58 }, ANCHORS = { 380, 150 }, MAX_STAGES = 3, RESET_S = 600, GAP = 3.0, MAX_STAGE_S = 70,
+    key = nil, t0 = nil, seen = -1e9, rung = 0, stages = 0, stage_t = -1e9, asking = false }
+N.NP = NP
+local NP_SKIP = { combat = true, swim = true, astar = true, boat = true, elevator = true, portal = true, route = true }
+
+--- Candidate anchor points along the line to the goal (and 45 yd either side of it).
+function NP.candidates(hx, hy, gx, gy, yd)
+    local dx, dy = gx - hx, gy - hy
+    local len = math.sqrt(dx * dx + dy * dy)
+    if len < 40 then return {} end
+    local f = math.min(yd, len * 0.6)
+    local ux, uy = dx / len, dy / len
+    local ax, ay = hx + ux * f, hy + uy * f
+    local px, py = -uy * 45, ux * 45
+    return { { x = ax, y = ay }, { x = ax + px, y = ay + py }, { x = ax - px, y = ay - py } }
+end
+
+local function np_stage(c, yd, why, far)
+    local hx, hy, hz = R.here()
+    if not hx or NP.asking then return false end
+    if not far and NP.stages >= NP.MAX_STAGES then return false end
+    local list = NP.candidates(hx, hy, cur.x, cur.y, yd)
+    if #list == 0 then return false end
+    NP.asking = true
+    local id = cur.id
+    local i = 0
+    local function try_next()
+        i = i + 1
+        if cur.id ~= id or (cur.done and not far) then NP.asking = false return end
+        local cand = list[i]
+        if not cand then
+            NP.asking = false
+            NP.last_fail = R.now()
+            R.trail("nav", "no path generated: no reachable anchor %.0f yd along the way (%s)", yd, tostring(why))
+            return
+        end
+        floors_for(c, key_of(cand.x, cand.y), cand.x, cand.y, hz, function(fl)
+            if cur.id ~= id or (cur.done and not far) then NP.asking = false return end
+            local z = fl and fl[1]
+            if not z then return try_next() end
+            local pt = { x = cand.x, y = cand.y, z = z }
+            local sent = S.validate(c, pt, function(ok, reason, distance)
+                if cur.id ~= id or (cur.done and not far) then NP.asking = false return end
+                local walk_d = tonumber(distance)
+                if ok ~= true or (walk_d and walk_d > yd * 3) then
+                    R.trail("nav", "no path generated: anchor (%.0f, %.0f) %s%s", pt.x, pt.y, tostring(reason or "not reachable"),
+                        walk_d and string.format(" (path %.0f yd)", walk_d) or "")
+                    return try_next()
+                end
+                NP.asking = false
+                if not far then NP.stages = NP.stages + 1 end
+                NP.stage_t = R.now()
+                cur.done = false
+                stats.np_stages = (stats.np_stages or 0) + 1
+                if not N.detour(pt, string.format("no path for the whole way (%s): a staged leg, path %s yd", tostring(why),
+                        walk_d and string.format("%.0f", walk_d) or "?"), { max_yd = yd + 80, max_s = NP.MAX_STAGE_S,
+                        label = "staged leg" }) then
+                    R.trail("nav", "no path generated: the staged leg to (%.0f, %.0f) could not start", pt.x, pt.y)
+                end
+            end)
+            if not sent then NP.asking = false try_next() end
+        end)
+    end
+    try_next()
+    return true
+end
+
+-- 1.2.60 FAR GOALS. Log 2026-11-19 14:05-14:06 (Ironforge -> Redridge, 5389 yd): the whole-route query gets no path (Sentinel idle,
+-- 8 walks, "walk loop"), and the goal's area was blacklisted. A goal NP.FAR_MIN yd away that failed so is walked in staged legs:
+-- each leg an anchor NP.FAR_ANCHOR yd along the way, checked with validate_destination (reachable, path <= 3x the leg), then the
+-- real goal is asked again from there. Within NP.FAR_MIN yd the whole route is asked as usual.
+NP.far, NP.FAR_MIN, NP.FAR_ANCHOR, NP.FAR_S, NP.last_fail = {}, 900, 450, 900, -1e9
+
+--- Mark the goal as far when the player is NP.FAR_MIN yd or more from it. True when marked.
+function NP.far_mark(x, y, hx, hy)
+    if not hx or R.dist2(hx, hy, x, y) < NP.FAR_MIN then return false end
+    NP.far[key_of(x, y)] = R.now()
+    return true
+end
+
+--- A goal marked far, still NP.FAR_MIN yd away: ask the next staged leg. True while a leg is asked / walked
+--- (the caller does not issue the whole walk).
+function NP.far_gate(c, x, y, mode)
+    if mode == "combat" or NP_SKIP[mode or "move"] or det or stop_req then return false end
+    if not cur.x or cur.x ~= x or cur.y ~= y then return false end
+    local k = key_of(x, y)
+    local t = NP.far[k]
+    if not t then return false end
+    local now = R.now()
+    local hx, hy = R.here()
+    if now - t > NP.FAR_S or not hx or R.dist2(hx, hy, x, y) < NP.FAR_MIN then NP.far[k] = nil return false end
+    if NP.asking then return true end
+    if now - NP.last_fail < 20 then return false end
+    stats.far_stages = (stats.far_stages or 0) + 1
+    return np_stage(c, NP.FAR_ANCHOR, string.format("far goal, %.0f yd", R.dist2(hx, hy, x, y)), true) == true
+end
+
+function NP.tick(c, now)
+    if not cur.x or cur.done or NP_SKIP[cur.mode or "move"] or stop_req or N.holding() or det or R.turning then
+        if not det then NP.t0 = nil end
+        return
+    end
+    if not S.path_pending(c) then
+        if NP.t0 and now - NP.seen > NP.GAP then NP.t0, NP.rung = nil, 0 end
+        return
+    end
+    local key = key_of(cur.x, cur.y)
+    if NP.key ~= key or now - NP.seen > NP.RESET_S then
+        NP.key, NP.t0, NP.rung, NP.stages = key, nil, 0, 0
+    end
+    NP.seen = now
+    if not NP.t0 then NP.t0 = now end
+    local waited = now - NP.t0
+    local next_rung = NP.rung + 1
+    local need = NP.WAIT[next_rung]
+    if need and UG.under[key] then need = need * 0.5 end              -- 1.2.80: an underground goal gives up at half the waits
+    if not need or waited < need then return end
+    NP.rung = next_rung
+    stats.np_rungs = (stats.np_rungs or 0) + 1
+    local px, py = R.here()
+    R.trail("nav", "no path generated: Sentinel has been awaiting a path for %.0f s (rung %d), goal %.0f yd away", waited, next_rung,
+        px and R.dist2(px, py, cur.x, cur.y) or -1)
+    if next_rung == 1 then
+        if not retry_at_ground(c, cur.id, cur.x, cur.y, cur.z, "no_path", cur.mode) then np_stage(c, NP.ANCHORS[1], "rung 1 skipped") end
+    elseif next_rung == 2 then
+        if not np_stage(c, NP.ANCHORS[1], "awaiting a path " .. string.format("%.0f", waited) .. " s") then NP.rung = 2 end
+    elseif next_rung == 3 then
+        if not np_stage(c, NP.ANCHORS[2], "awaiting a path " .. string.format("%.0f", waited) .. " s") then NP.rung = 3 end
+    else
+        stats.np_giveups = (stats.np_giveups or 0) + 1
+        record_fail("no_path", cur.x, cur.y, cur.z, false)
+        Z.blacklist_area({ x = cur.x, y = cur.y, z = cur.z }, 8, "no path generated in " .. string.format("%.0f", waited) .. " s")
+        R.trail("nav", "no path generated for %.0f s - giving the goal (%.0f, %.0f) up for a while", waited, cur.x, cur.y)
+        NP.t0, NP.rung = nil, 0
+        N.stop("no path generated", true)   -- forced: a walk that awaits its path is otherwise stopped "later"
+    end
+end
+
+function LA.tick(c)
+    local now = R.now()
+    if now - LA.last_t < LA.GAP then return end
+    LA.last_t = now
+    if not cur.x or cur.done or LA_SKIP[cur.mode or "move"] or det or stop_req or N.holding() or R.turning
+        or not S.moving(c) then
+        LA.pos, LA.still_t, LA.still_logged = nil, nil, false
+        return
+    end
+    local px, py = R.here()
+    if not px then return end
+    -- walking speed (only while actually moving) and a stall log: the player stands on a running walk
+    if LA.pos and now > LA.pos_t then
+        local v = R.dist2(px, py, LA.pos.x, LA.pos.y) / (now - LA.pos_t)
+        if v > 1 and v < 40 then LA.speed = LA.speed * 0.8 + v * 0.2 end
+        if v < 0.5 then
+            LA.still_t = LA.still_t or now
+            if not LA.still_logged and now - LA.still_t >= 0.6 then
+                LA.still_logged = true
+                stats.stalls = (stats.stalls or 0) + 1
+                R.trail("nav", "stall: standing %.1f s on a running walk - state %s, leg %.1f s old, mode %s, last ask: %s",
+                    now - LA.still_t, tostring(S.full_state(c)), now - (cur.leg_t or now), tostring(cur.mode),
+                    tostring(LA.last_ask or "-"))
+            end
+        else
+            LA.still_t, LA.still_logged = nil, false
+        end
+    end
+    LA.pos, LA.pos_t = { x = px, y = py }, now
+    pcall(NP.tick, c, now)          -- 1.2.57: a path that never comes
+    if LA.id ~= cur.id then
+        LA.id, LA.lat_done = cur.id, false
+        LA.ref_t, LA.ref_x, LA.ref_y = cur.t, px, py          -- 1.2.20: the rolling re-plan measures progress from the walk's start
+    end
+    if S.path_pending(c) then return end
+    -- 1.2.12: an audited-prefix segment is a short path BY DESIGN (it ends before a steep span) and its own
+    -- finish handler plans the next one. The horizon used to see "12 yd of path left, want 20" at once and
+    -- replace the segment mid-walk (log 17:31:58-17:32:53: a new path every 1-2 s, 21 + 12 + 3 yd walked).
+    if cur.prefix_id == cur.id then return end
+    if not LA.lat_done then
+        LA.lat_done = true
+        LA.latency = LA.latency * 0.7 + math.max(0, math.min(5, now - cur.t)) * 0.3
+    end
+    local fs = S.full_state(c) or ""
+    if fs:find("recovering", 1, true) or fs:find("repathing", 1, true) then return end
+    local goal_d = R.dist2(px, py, cur.x, cur.y)
+    if goal_d < LA.MIN_GOAL or not replaceable(c) then return end
+    -- 1.2.13 ROLLING RE-PLAN: a long walk is planned again from where the player stands every REFRESH_S seconds, whatever
+    -- path is left, so a plan that went stale (a door, a steep span met on the way, a stuck stretch) never leaves the
+    -- player on a dead path. Not for a short remainder, and not while the walk is only a few seconds old.
+    if goal_d >= LA.REFRESH_YD and (now - (LA.ref_t or cur.t or now)) >= LA.REFRESH_S then
+        -- 1.2.20: a walk that is getting somewhere is left alone. Replacing a healthy walk every 25 s made Sentinel stop and
+        -- "recover" each time (log 18:50-18:58); only a walk that moved under REFRESH_MOVED yd in REFRESH_S s is planned again.
+        local rx, ry = LA.ref_x, LA.ref_y
+        local moved = rx and R.dist2(px, py, rx, ry) or 0
+        local age = now - (LA.ref_t or cur.t or now)
+        LA.ref_t, LA.ref_x, LA.ref_y = now, px, py
+        if rx and moved >= LA.REFRESH_MOVED then return end
+        LA.n = 0
+        stats.refreshes = (stats.refreshes or 0) + 1
+        R.trail("nav", "rolling re-plan: %.0f yd to the goal, only %.0f yd covered in %.0f s - planning again from here", goal_d, moved, age)
+        LA.last_ask = "rolling re-plan"
+        walk_again(c, { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }, "rolling re-plan")
+        return
+    end
+    local key = key_of(cur.x, cur.y)
+    if LA.key ~= key or now - LA.chain_t > LA.CHAIN_S then LA.key, LA.n, LA.goal_d = key, 0, nil end
+    if LA.n >= LA.MAX then return end
+    if LA.goal_d and goal_d > LA.goal_d - LA.PROGRESS then return end      -- no progress since the last ask
+    local left, last = LA.path_left()
+    local H = LA.horizon()
+    if cur.pre_partial == cur.id then H = math.max(H, LONG.PARTIAL_H) end   -- 1.2.75: a partial path is extended 150 yd before its end
+    if not left or left >= H then return end
+    if R.dist2(last.x, last.y, cur.x, cur.y) <= LA.SHORT_YD then return end   -- the path reaches the goal
+    LA.n, LA.goal_d, LA.chain_t = LA.n + 1, goal_d, now
+    stats.horizon = (stats.horizon or 0) + 1
+    R.trail("nav", "horizon: %.0f yd of path left (want %.0f: speed %.1f, latency %.2f s), goal %.0f yd away - next path requested while walking",
+        left, H, LA.speed, LA.latency, goal_d)
+    LA.last_ask = "path horizon"
+    N._splice_req = { x = cur.x, y = cur.y, t = now }      -- 1.2.75: the next stretch is spliced onto the running path
+    walk_again(c, { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }, "path horizon")
+end
+
+function N.pulse()
+    -- 1.2.88: a fight pauses a travel walk (its route kept); nothing here starts one in combat (start_blocked)
+    do
+        local cc = N.client()
+        if cc and cur.x and not cur.done and TRAVEL[cur.mode or "move"] and not cur.route and CP.in_fight() and S.moving(cc)
+            and not S.path_pending(cc) and (R.now() - (cur.leg_t or 0)) >= FRESH_LEG then
+            CP.save(cc, "combat started")
+            N.stop("combat pause")
+        end
+    end
+    pre_watch()
+    hint_tick()
+    do local cpf = N.client() if cpf then pcall(pf_tick, cpf) end end        -- 1.2.77
+    ps_report(R.now())
+    pcall(LA.tick, N.client())
+    -- death or a loading screen flagged by the event callback: the walk stops
+    -- here, on the update tick (Sentinel does not stop on death / loading)
+    local nf = event_flags()
+    if nf and nf.stop then
+        local why = nf.stop
+        nf.stop = nil
+        held.reasons, held.dest = {}, nil
+        N.stop(why)
+        R.trail("nav", "walk stopped: %s", why)
+    end
+    local c = N.client()
+    if not c then return end
+    local blocked = S.request_blocked(c)
+    if blocked then
+        -- 1.67.0: do not stop a running walk on 414. Oversized zone / check_path
+        -- payloads stay gated; travel (move_to / replan) continues.
+        if request_warned ~= blocked then request_warned = blocked R.log(blocked) end
+        if not N.leg_fresh() and not S.moving(c) and S.recover_request(c) then
+            request_warned = nil
+            R.log("Sentinel avoidance request rebuilt; resuming guide travel")
+        end
+    else
+        request_warned = nil
+        N.restore_stuck_zones()
+        N.flush_avoidance(c)
+        check_running_path(c, R.now())            -- 1.40.0: the running path validated
+        -- 1.67.0: a partial path_received means the mesh stopped short - ask
+        -- the floors at the dest once so the next issue_walk is at ground.
+        local info = S.path_info()
+        if info and info.partial == true and cur.x and not cur.done
+            and cur.mode ~= "combat" and not preserve_height(cur.mode) and cur.partial_id ~= cur.id
+            and (info.t or 0) >= (cur.t or 0) then
+            cur.partial_id = cur.id
+            local pk = key_of(cur.x, cur.y)
+            if not zfix[pk] and not swimming() then
+                R.trail("nav", "path_received partial to (%.0f, %.0f) - asking floors", cur.x, cur.y)
+                walk_at_floor(c, cur.x, cur.y, cur.z or 0, cur.mode or "move")
+            end
+        end
+    end
+    if stop_req then
+        if not S.moving(c) and not S.path_pending(c) then
+            stop_req = nil
+        -- audit 1.19.0: never while the path request is in flight (port guide
+        -- rule 5); a timeout never bypasses the safe stop conditions
+        elseif not S.path_pending(c) and ((R.now() - (cur.leg_t or 0)) >= FRESH_LEG) then
+            S.stop(c)
+            R.trail("nav", "deferred stop sent (%s)", tostring(stop_req.reason))
+            stop_req = nil
+        end
+    end
+    -- a walk of ours that Sentinel ended without a callback (its UI stopped it,
+    -- another consumer took over): closed here
+    if cur.x and not cur.done and not cur.scanning and (R.now() - cur.t) >= LOST_WALK then
+        local st = S.state(c)
+        if st == "idle" or st == "arrived" then
+            cur.done = true
+            R.trail("nav", "walk to (%.0f, %.0f) ended without a callback (state %s)", cur.x, cur.y, st)
+        elseif st == "failed" then
+            cur.done = true
+            record_fail("failed", cur.x, cur.y, cur.z)
+        end
+    end
+    -- 1.7.23: a detour leg that ended (any way) or took too long: the goal again
+    if det and (cur.done or R.now() > det.until_t) then
+        detour_done(cur.done and "ended" or "took too long")
+    end
+    -- 1.9.0: the memory loads with the first client; a walk past a black
+    -- point counts; changed snapshots are written (every 10 s at most)
+    MEM.load()
+    if cur.mode ~= "combat" and S.moving(c) then MEM.tick(R.here()) end
+    MEM.flush()
+end
+
+-- ----------------------------------------------------------------------------
+-- failures
+-- ----------------------------------------------------------------------------
+function N.last_fail_reason() return fail.reason end
+--- 1.20.1: the last walk to `pos` ended "arrived" up to SHORT_OK yd short of it (the
+--- navmesh ends there) within SHORT_HOLD s - as close as Sentinel can get.
+function N.reached_short(pos)
+    local x, y = R.xyz(pos)
+    if x and AS.for_goal(pos) then return false end                     -- 1.30.0: the local walk runs
+    return x ~= nil and short.key == key_of(x, y) and (R.now() - short.t) < SHORT_HOLD
+end
+function N.last_fail_offmesh() return fail.offmesh == true end
+function N.clear_fail() fail.reason, fail.offmesh = nil, false end
+
+--- A walk is being planned or its floors are being asked for - not a stand
+--- (quest/engine's route watchdog waits for it).
+function N.pending()
+    if AS.searching() then return true end                -- 1.30.0: the local A* search (the player stands)
+    local c = N.client()
+    if c and cur.x and not cur.done and S.path_pending(c) then return true end
+    return cur.scanning ~= nil and cur.scanning == cur.id and (R.now() - (cur.scan_t or 0)) < HEIGHT_SCAN_HOLD
+end
+
+--- A failure reason that is the server's, not the place's.
+function N.server_trouble(code) return SERVER_CODES[code] == true end
+
+-- ----------------------------------------------------------------------------
+-- reachability (validate_destination, cached; never blocks the caller)
+-- ----------------------------------------------------------------------------
+local reach, reach_n, reach_next = {}, 0, 0
+
+--- false only once Sentinel said "not reachable" (also at the floors there);
+--- true while pending, unknown, far, or with no server.
+function N.reachable(pos)
+    local x, y, z = R.xyz(pos)
+    if not x then return true end
+    local hx, hy = R.here()
+    local far = not hx or R.dist2(hx, hy, x, y) > REACH_TRUST_FAR
+    local k = key_of(x, y)
+    local t = R.now()
+    local e = reach[k]
+    if e and (t - e.t) < ((e.ok == false) and REACH_TTL_BAD or REACH_TTL) then
+        return e.ok ~= false or far
+    end
+    local c = N.client()
+    if not c or t < reach_next then return true end
+    reach_next = t + REACH_GAP
+    if reach_n > 300 then reach, reach_n = {}, 0 end
+    if not e then reach_n = reach_n + 1 end
+    e = { ok = nil, t = t, z = nil }
+    reach[k] = e
+    S.validate(c, { x = x, y = y, z = z }, function(ok)
+        e.t = R.now()
+        if ok == true then e.ok = true return end
+        if far then e.ok = true return end
+        -- the height may be the guess: ask at the floors there before saying no
+        floors_for(c, k, x, y, z, function(list)
+            local gz = nil
+            for i = 1, #list do if math.abs(list[i] - z) > HEIGHT_SAME then gz = list[i] break end end
+            if not gz then e.ok, e.t = false, R.now() return end
+            S.validate(c, { x = x, y = y, z = gz }, function(ok2)
+                e.ok, e.t = ok2 == true, R.now()
+                if ok2 == true then e.z = gz cache_put(zfix, "zfix", k, gz) end
+            end)
+        end)
+    end)
+    return true
+end
+
+function N.node_reachable(pos) return N.reachable(pos) end
+
+--- The ground height found at (x, y) when the given one was wrong, or nil.
+function N.reach_z(pos)
+    local x, y = R.xyz(pos)
+    if not x then return nil end
+    local z = zfix[key_of(x, y)]
+    if R.finite(z) then return z end
+    return nil
+end
+
+function N.reach_forget(pos)
+    local x, y = R.xyz(pos)
+    if not x then return end
+    local k = key_of(x, y)
+    if reach[k] then reach[k] = nil end
+end
+
+--- One path query for movement/sight and the stuck fan: cb(points|nil, ok,
+--- info). False when there is no client to ask.
+function N.path_probe(from, to, cb)
+    local c = N.client()
+    if not c then return false end
+    -- 1.2.79b (log 17:16: `sn_plan_route x1` every second for 8-10 s while a plan to the same goal had no reply): a probe is one
+    -- more path query for the server to chew on; none is sent while a plan of ours is unanswered or Sentinel awaits its path
+    local pre = cur.pre
+    if S.path_pending(c) or (pre and pre.id == cur.id and pre.planning and not pre.started and not pre.done) then
+        stats.probes_held = (stats.probes_held or 0) + 1
+        return false
+    end
+    return S.find_path(c, R.point(from), R.point(to), cb)
+end
+
+--- validate_destination through the adapter. cb(reachable, reason, distance).
+function N.validate(pos, cb)
+    local c = N.client()
+    if not c or type(cb) ~= "function" then return false end
+    local p = R.point(pos)
+    if not p then return false end
+    return S.validate(c, p, cb)
+end
+
+--- 1.67.0: navmesh raycast (nav_client:raycast). cb(ok, hit, t). False when
+--- the client has no raycast.
+function N.raycast(from, to, cb)
+    local c = N.client()
+    if not c or type(cb) ~= "function" then return false end
+    local a, b = R.point(from), R.point(to)
+    if not a or not b then return false end
+    return S.raycast(c, a, b, cb)
+end
+
+--- The height found at (x, y) is this floor: skip a second get_all_heights.
+function N.remember_floor(x, y, z)
+    z = tonumber(z)
+    if not x or not y or not z then return end
+    cache_put(zfix, "zfix", key_of(x, y), z)
+end
+
+--- false until validate_destination (and its floor retry) has answered.
+function N.reach_settled(pos)
+    local x, y = R.xyz(pos)
+    if not x then return true end
+    local e = reach[key_of(x, y)]
+    return e ~= nil and e.ok ~= nil
+end
+
+--- 1.67.0: plan_route then follow_path of the ordered nodes (not start_route,
+--- which is unrecorded on v0.24). True while the plan is in flight or the
+--- route is walking.
+local node_job = { key = nil, pending = false }
+-- 1.2.71 (log 15:51-15:56, 4 minutes standing at "patrolling for Redridge Mystic, Redridge Brute (7 points)", 0 walks issued, 0
+-- refused): follow_nodes sets node_job.pending while its plan_route is in flight and clears it in the reply. A stop in between
+-- (N.stop -> S.invalidate) makes the reply guard DROP that reply, so pending stayed true for ever and every later follow_nodes
+-- answered "already planning" - the engine patrolled nothing. A stop now clears the job, and a plan unanswered for NODE_WAIT s
+-- is given up (asked again).
+local NODE_WAIT = 8.0
+function N._node_reset() node_job.key, node_job.pending, node_job.retry_at = nil, false, nil end
+function N.follow_nodes(list)
+    if type(list) ~= "table" or #list < 2 then return false end
+    if N.refusal() then return false end
+    local c = N.client()
+    if not c then return false end
+    local nodes = {}
+    for i = 1, #list do
+        local x, y, z = R.xyz(list[i])
+        if not x then return false end
+        nodes[i] = { x = x, y = y, z = z }
+    end
+    local last = nodes[#nodes]
+    local key = string.format("%d|%d|%d|%d", #nodes, math.floor(last.x), math.floor(last.y), math.floor(nodes[1].x))
+    if node_job.key == key and node_job.retry_at and R.now() < node_job.retry_at then return false end
+    if node_job.pending and node_job.t and R.now() - node_job.t > NODE_WAIT then
+        node_job.pending = false
+        R.trail("nav", "patrol plan: no reply in %.0f s - asking again", NODE_WAIT)
+    end
+    if node_job.key == key and (node_job.pending or (cur.route and S.moving(c))) then
+        return true
+    end
+    if N.holding() then
+        held.dest = { nodes = nodes }
+        node_job.key, node_job.pending = key, false
+        return true
+    end
+    node_job.key, node_job.pending, node_job.retry_at, node_job.t = key, true, nil, R.now()
+    local ok = S.plan_route(c, nodes, function(okp, data)
+        if node_job.key ~= key then return end
+        node_job.pending = false
+        if not okp or type(data) ~= "table" or type(data.waypoints) ~= "table"
+            or #data.waypoints < 2 then
+            node_job.retry_at = R.now() + 5
+            record_fail("no_planned_path")
+            R.trail("nav", "route refused: planning returned no walkable waypoints")
+            return
+        end
+        if not N.follow_route(data.waypoints, true) then node_job.retry_at = R.now() + 5 end
+    end)
+    if not ok then
+        node_job.pending, node_job.retry_at = false, R.now() + 5
+        record_fail("no_planned_path")
+        return false
+    end
+    return true
+end
+N.plan_and_follow = N.follow_nodes
+
+--- 1.67.0: walk a scored path as the stuck detour (follow_path), then the
+--- real goal. Falls back to a single-point detour when the list is short.
+function N.detour_path(pts, why)
+    if type(pts) ~= "table" or #pts < 2 then
+        local p = type(pts) == "table" and pts[#pts] or pts
+        return N.detour(p, why)
+    end
+    local c = N.client()
+    if not c or not cur.x then return false end
+    if start_blocked(c, cur.mode) or R.turning then return false end
+    local dest = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }
+    local list = {}
+    for i = 1, #pts do
+        local x, y, z = R.xyz(pts[i])
+        if x then list[#list + 1] = { x = x, y = y, z = z } end
+    end
+    if #list < 2 then return N.detour(pts[#pts], why) end
+    if N.steep_at(list) then return false end
+    local endp = list[#list]
+    local hx, hy = R.here()
+    if not hx or R.dist2(hx, hy, endp.x, endp.y) > DETOUR_MAX_YD then return false end
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.route, cur.done = nil, false
+    cur.t, cur.leg_t = R.now(), R.now()
+    stop_req = nil
+    cur.scanning = nil
+    stats.issued = stats.issued + 1
+    det = { x = endp.x, y = endp.y, z = endp.z, dest = dest, id = id, until_t = R.now() + DETOUR_MAX_S }
+    R.trail("nav", "stuck re-navigation: detour path %d pts to (%.0f, %.0f) - %s", #list, endp.x, endp.y, tostring(why))
+    local ok = S.follow_path(c, list, function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        if not det or det.id ~= id then return end
+        detour_done(success and "reached" or tostring(reason))
+    end)
+    if not ok then det, cur.done = nil, true return false end
+    return true
+end
+
+function N.nav_ready()
+    local c = N.client()
+    return c ~= nil and S.server_up(c)
+end
+
+--- 1.12.0 KITE: a ranged retreat point from Sentinel's nav_client:kite (a path
+--- round the target at KITE.RADIUS yd; the walk goes to its last point).
+--- cb(point | nil). The FIRST answer of an unexpected shape switches kiting
+--- off for the session (logged with what came back) - the call was read from
+--- the v0.0.6 source, so its v0.24 answer is checked live. True when asked.
+local KITE = { RADIUS = 15, off = false, said = false }
+N.KITE = KITE
+function N.kite(from, target, cb)
+    if KITE.off then return false end
+    local c = N.client()
+    if not c then return false end
+    return S.kite(c, R.point(from), R.point(target), KITE.RADIUS, function(pts, ok, info)
+        if info and info.shape_bad then
+            KITE.off = true
+            if not KITE.said then
+                KITE.said = true
+                R.log("Sentinel kite answered in an unknown shape (" .. tostring(info.got) .. ") - kiting off for this session")
+            end
+            pcall(cb, nil)
+            return
+        end
+        local last = pts and pts[#pts] or nil
+        local x, y, z                          -- (not `last and R.xyz(last)`: that keeps one value)
+        if last then x, y, z = R.xyz(last) end
+        if x then
+            stats.kites = (stats.kites or 0) + 1
+            pcall(cb, { x = x, y = y, z = z })
+        else
+            if info and info.error then R.trail("nav", "kite: no point (%s)", info.error) end
+            pcall(cb, nil)
+        end
+    end)
+end
+
+--- 1.16.0 FLEE (improvement 3 of the API-dump review): a path AWAY from every
+--- threat from Sentinel's nav_client:flee, FLEE.DISTANCE yd long. cb(point |
+--- nil) - the path's last point. Like kite, the first answer of another shape
+--- switches fleeing off for the session (logged). True when asked.
+local FLEE = { DISTANCE = 30, off = false, said = false }
+N.FLEE = FLEE
+function N.flee(from, threats, cb)
+    if FLEE.off or type(threats) ~= "table" or #threats < 1 then return false end
+    local c = N.client()
+    if not c then return false end
+    local list = {}
+    for i = 1, #threats do list[#list + 1] = R.point(threats[i]) end
+    return S.flee(c, R.point(from), list, FLEE.DISTANCE, function(pts, ok, info)
+        if info and info.shape_bad then
+            FLEE.off = true
+            if not FLEE.said then
+                FLEE.said = true
+                R.log("Sentinel flee answered in an unknown shape (" .. tostring(info.got) .. ") - fleeing off for this session")
+            end
+            pcall(cb, nil)
+            return
+        end
+        local last = pts and pts[#pts] or nil
+        local x, y, z
+        if last then x, y, z = R.xyz(last) end
+        if x then
+            stats.flees = (stats.flees or 0) + 1
+            pcall(cb, { x = x, y = y, z = z })
+        else
+            if info and info.error then R.trail("nav", "flee: no point (%s)", info.error) end
+            pcall(cb, nil)
+        end
+    end)
+end
+
+--- 1.16.0 LIVE SENTINEL STATUS (improvements 5 and 11): the walk's progress,
+--- the recorded route's progress, the distance to the destination, the
+--- avoidance zone count and the consecutive path failures. Read at most every
+--- STATUS.GAP s, on the update tick only (movement.lua's snapshot) - the GUI
+--- reads the cached table. nil without a client.
+local STATUS = { GAP = 0.5, t = -1e9, v = nil }
+function N.status()
+    local now = R.now()
+    if (now - STATUS.t) < STATUS.GAP then return STATUS.v end
+    STATUS.t = now
+    local c = N.client()
+    if not c then STATUS.v = nil return nil end
+    local v = { progress = S.progress(c), route = S.route_progress(c), zones = S.zone_count(c),
+        failures = S.failures(c), state = S.state(c) }
+    local d = S.destination(c)
+    local hx, hy, hz = R.here()
+    if d and hx then v.dest_yd = R.dist3(hx, hy, hz, d.x, d.y, tonumber(d.z) or hz) end
+    STATUS.v = v
+    return v
+end
+
+--- One line for the GUI from a status table (no game call).
+function N.status_text(v)
+    if type(v) ~= "table" then return nil end
+    local parts = {}
+    local pr = v.progress
+    if v.state == "navigating" and pr and pr.total and pr.total > 0 then
+        parts[#parts + 1] = string.format("%.0f%% (wp %d/%d)", pr.percent or 0, pr.index or 0, pr.total)
+    end
+    if v.dest_yd then parts[#parts + 1] = string.format("%.0f yd to go", v.dest_yd) end
+    if v.route and v.route.percent then parts[#parts + 1] = string.format("route %.0f%%", v.route.percent) end
+    if v.zones and v.zones > 0 then parts[#parts + 1] = string.format("%d zone%s", v.zones, v.zones == 1 and "" or "s") end
+    if v.failures and v.failures > 0 then parts[#parts + 1] = string.format("%d failed path%s", v.failures, v.failures == 1 and "" or "s") end
+    if #parts == 0 then return nil end
+    return table.concat(parts, ", ")
+end
+
+-- ----------------------------------------------------------------------------
+-- built-in grind zones (not recorded paths): a short visiting order
+-- ----------------------------------------------------------------------------
+local plan = { src = nil, order = nil, pending = false }
+
+function N.plan_grind_route(coords)
+    if type(coords) ~= "table" or coords == plan.src or plan.pending then return end
+    local c = N.client()
+    if not c then return end
+    local nodes = {}
+    if type(coords[1]) == "number" then
+        for i = 1, math.floor(#coords / 3) do
+            local k = (i - 1) * 3
+            nodes[i] = { x = coords[k + 1], y = coords[k + 2], z = coords[k + 3] }
+        end
+    else
+        for i = 1, #coords do nodes[i] = R.point(coords[i]) or { x = 0, y = 0, z = 0 } end
+    end
+    plan.src, plan.order, plan.pending = coords, nil, true
+    local ok = S.plan_route(c, nodes, function(okp, res)
+        plan.pending = false
+        if okp and type(res) == "table" and type(res.visit_order) == "table" then plan.order = res.visit_order end
+    end)
+    if not ok then plan.pending = false end
+end
+
+function N.grind_visit_order() return plan.order end
+
+-- tests
+-- ----------------------------------------------------------------------------
+-- 1.11.0 AVOID AREAS (user: never walk into the threat range of a mob 3+ levels
+-- above the player or an elite - "path-threat avoidance through Sentinel
+-- avoidance zones + soft re-path"). N.avoid_area(pos, radius, why): a
+-- Sentinel avoidance zone of `radius` yd there (S.add_zone - every path
+-- request after it plans round it) and a SOFT re-path of the walk that runs
+-- (S.soft_replan - no stop), at most one re-path every AV.REPLAN_GAP s. A spot
+-- already zoned (within AV.SAME yd) is trusted for 110 seconds, below the
+-- default 120-second lifetime. The adapter caps admissions over 125 seconds.
+-- ----------------------------------------------------------------------------
+local AV = { zones = {}, replan_t = -1e9, REPLAN_GAP = 3.0, SAME = 4.0, TTL = 110, dirty = false }
+N.AV = AV
+
+function N.avoided(x, y)
+    local t = R.now()
+    for i = #AV.zones, 1, -1 do
+        local z = AV.zones[i]
+        if (t - z.t) > AV.TTL then table.remove(AV.zones, i)
+        elseif R.dist2(z.x, z.y, x, y) <= AV.SAME then return true end
+    end
+    return false
+end
+
+function N.avoid_area(p, radius, why)
+    local x, y, z = R.xyz(p)
+    if not x then return false end
+    if N.avoided(x, y) then return true end
+    if #AV.zones >= S.ZONE_LIMIT then return false end
+    local c = N.client()
+    if not c or not S.add_zone(c, { x = x, y = y, z = z }, radius) then return false end
+    AV.zones[#AV.zones + 1] = { x = x, y = y, t = R.now(), r = radius }
+    stats.zones = (stats.zones or 0) + 1
+    AV.dirty = true
+    R.trail("nav", "avoid %s: Sentinel zone %.0f yd at (%.0f, %.0f); replan pending", tostring(why), radius, x, y)
+    -- 1.67.0: the next path request must include the zone. replan(reason)
+    -- now (recorded equivalent of avoid-and-generate); FRESH_LEG still
+    -- protects a walk waiting for its first path.
+    N.flush_avoidance(c)
+    return true
+end
+
+-- Reapply persisted black points after reload and after Sentinel's zone TTL.
+-- Wait until outside the disk so avoidance cannot enclose the escaping player.
+local restore_t = -1e9
+function N.restore_stuck_zones()
+    local t = R.now()
+    if t - restore_t < 2 or type(MEM.active_points) ~= "function" then return end
+    restore_t = t
+    local x,y,z = R.here()
+    if not x then return end
+    for _, r in ipairs(MEM.active_points()) do
+        local d = R.dist2(x,y,r.cx,r.cy)
+        local radius = math.max(6,r.radius)
+        if d > radius + 2 and d < 120 and math.abs((z or 0)-r.cz) <= 8 then
+            N.avoid_area({x=r.cx,y=r.cy,z=r.cz},radius,"saved stuck position")
+        end
+    end
+end
+
+-- Batch all zones observed in a scan into one paced replan on the next pulse.
+function N.flush_avoidance(c)
+    if not AV.dirty or cur.mode == "combat" or stop_req or next(held.reasons) or R.resting then return end
+    local t = R.now()
+    if not cur.x or cur.done or not S.moving(c) or S.path_pending(c)
+        or t - (cur.leg_t or t) < FRESH_LEG or t - AV.replan_t < AV.REPLAN_GAP then return end
+    AV.replan_t = t
+    if S.soft_replan(c, "mf_path_threat") then
+        AV.dirty = false
+        stats.soft_replans = (stats.soft_replans or 0) + 1
+    end
+end
+
+function N._reset()
+    cur = { id = 0, x = nil, y = nil, z = nil, mode = nil, t = 0, route = nil, done = false }
+    fail = { reason = nil, offmesh = false, t = 0 }
+    fails_at, zfix, zscan, reach, reach_n = {}, {}, {}, {}, 0
+    cache_n = { fails = 0, zfix = 0, zscan = 0 }
+    stop_req, held, det = nil, { reasons = {}, dest = nil }, nil
+    warned = nil
+    short.key, short.t = nil, -1e9                                      -- 1.20.1
+    node_job = { key = nil, pending = false }
+    AV.zones, AV.replan_t, AV.dirty = {}, -1e9, false
+    check_t, check_logged, check_replan = -1e9, false, nil
+    AS.reset()                                                          -- 1.30.0
+end
+
+return N

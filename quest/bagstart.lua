@@ -1,1 +1,225 @@
-return(function(...)local e={"dz0+Gdve=";"LR:2CbI4UpEHj@>r*c4MX>p[*","LJ+^;2PI";"dz0==";"dNGEgSru=","deU2Bwu==","LiVdE`H?rp","dtWAS";"do0==","dWrLY75Z6yF/=","ddYq1wdQTN8mjI8x=";"dGJBt","d6cM8bHX=","L.bqO]3\'Yf;";"LeXgnQ";"d+6F4";"dFMwF","dgwtk1Cpn";"dok3GjE3/pCs6JP3beVgmaaKZoDkbmYcIyuxFT9LEc6JZtMtJ5sBxZhMew+LhCWWixMDvOpGp/U+lf+sPkogs";"LQ/#d?F7B<\"";"Ll)W#";"L*\'k;8^!!";"Ln``T*ui","dGR7+","dTFNb";"Le7%a[6N";"L9SC_";"dQS3UY6X=";"LgkC-[EZh","Ls;=/","dYC==";"LQV$Ja%%","L\'2GTU_C$l","dMRAZZSGaGkaRYlOrQ85eZGCUUax=","dp/SOkjBtVb623/==","L7b1N]OGN","d4WEgqrx=","di5udhf4=","L^5iP","dkb/p0F0=","dba5i68/E","L";"Lm#";"LT$umr*M","L;P!GZ","LiKpq5Z8XG(jk;3\\2MBBk1t==Y","dwevGXLe=","dXa8I","dTRqOcBC=";"LH\"l>p\"H";"Le:","LjI";"dvRYDOL4=","d2U2WzVT+","LC92G6","dWPABEvswndB=","dzcyMpJV1","dwLq/GZ9=","dWGbcCGP=","LB]>[D/4l","L$Y3s";"LlHE7!4\'rCR";"d+qwZaVSfjHx=";"L6\\,n";"LZ\"fA-.LO";"LsO\'#SGp\"M)eT6s","dfu8BnUP=";"dc0mgYq58","L?hqT";"dQXea","d4SeG+lK=","L(_g1WFK";"Lj6=0";"L4F`.";"L(JHKoc#","d5xiq","LaUnONtCZ5e9^beq$Y","L,3Ge","Lnna_","Li%hDP,41W?$dt)pL%";"LZ]OM","LqQSl-qd,";"L%2NMJdFo";"L0c`Q","dyXnLtFTvpB8a6mGZimO5yc0Tj0==","LG^A[.;2","dZ58x";"ddYqrIMQ2gC==";"L^=4F1(%";"LV#";"LMul`rJ2","d6Vzv7d4=","LIZ3F@*l09u";"L=\'eg2/FX","La[8s","dCu==","d4C==","LcOW!NjV3Mnr$$jh`r`$8LC0f\"\"M`Ne@;1B0RWuAo+WsKU6Lb82u]/0m*H(cQs74hesC/fIb^K+__?","dnc2y","L*3QE\"q+>_e";"LRO]=Sa!";"d5WVRPQe=";"LBU\\K,\"=I";"LFZmQ";"dQr7d0sugPJbmmxIC";"LLhAuLT/d%`t=WhfZE\'W4P`<1ohDtK=h82N3","LP>AQ5SHjA?3N@kR","LcZ3XI";"dKxLBLFWMi10=","d3/==","dxD+zzRXKS4lY";"LKUBcSD0";"L4O>JAc;tO;";"LhW!Gsj0_t26Q\"TEoeP:k","dGLenAlOLmYQg";"dSEzVOe0=";"d6JOD+px=";"L$In`;V#","L3N`[","LdHcFeYR8Io";"d0fFWT7HWm4mZqiKnV5y=";"dlCQLqOoN";"dkn/qVCP=","dL1NTAFis","dEt4M","LdOg+";"dXbOn","LUM\\?<`g$";"d3CUhFAX=","L7/-dnGW","LUm3<";"L%3IZ*N:";"d1f6D","LlW";"d4VLq/vntlxW=","L;W)o","dQCtAsa9=";"L6Tu:#\\,";"dwKszPFB=","dUwtsAm9=";"d0EDR";"dAL6A","LL,";"d3U0t","L3LS!+F&XnYFrT(*:@.","L30ZldBb";"dUKei","dDefHlOLo";"LWK1ID3*9-\\\'%>fBg8\'];>dq@^OnWqEg=K5M68J","L6qI8","L4#","L^\'^d";"L>:EXs:r:to";"LcX`]G*M";"ds1T5Nu==";"dEihpwO45OC==";"L(@V4:";"dCP3gNLB/vUE1HOySjRhh+h0v7w+kV00qmxDku9lm0l9DMmLrGEWDOLlESGL+0vtyji6C","duNXaaXDIAL6=","dVrxA";"Lo;a3p6N";"L(Sn`65sb","Lh\'7M85(","L8:\\^","L.2","LBj#cbDM"}local function O(o)return e[o+(1019648-973300)]end for o,M in ipairs({{-822817-(-490625+-332193);569409-569243},{-921953+2318297154%14483595;544802-(80420-((1135933-1002040)+(786414+-1384526)))};{539821+-539657;(-486158-216976)-(-703300)}})do while M[3765-((197837-725235)-(-531162))]<M[((55600178240-(-801570))%1208722460)%15694404]do e[M[-814239+814240]],e[M[272011+-272009]],M[205277689%2665944],M[-620958+620960]=e[M[(663142+416939548)%5881728]],e[M[(532281+-987516)+((((-415779+1883123075856)%10290327550)%128650042)%11876951-467913)]],M[1974322741%15187098]+(567120-567119),M[(308663626-(-71068))%1616412]-((436470+-548671)+112202)end end do local o=table.insert local M=string.char local d=table.concat local F={N=-73767-(-73796),p=999848+-999786,["0"]=(-185115-(703428-139125))-(-749450);i=((1.0515479758202e+14%((-665465-(-898391))+505551696490)-167636)%2888911643)%(11300750-(-27594));["4"]=-108017-(-108029);U=-36698+36737,n=(573301809-987755)%13309629;Z=2501540371%11370638;["7"]=785671874%(-512846+16546965),j=238587-238553;I=39069+-39042;H=164360168%2313821-78862,W=876232-(-945907+173255751%12245262),r=549330-549289;m=(471404837-325652)%((9980921-192473)-729233),Q=332963-332946;q=-236588+236649,w=951074-951049;["/"]=-911961+912009;["5"]=-866258-(-664723+-201537),M=(106112396031%493595485-(913772+-243239))%6889881,["1"]=280858175%2649605,["2"]=-722825+722862,D=-679974+680020,a=528546+-528483;c=934796845%9255414,f=837976+-837926,P=344684140%3379256,Y=875962772%((13660862-(-695568))-(-1011337)),x=169993811%5151327,o=1175732031%5707437;F=2072978106%(1776036946%24170631);G=1030192+-1030188;J=((((482926+-998259)-(-950655))-1012263)+(-1012930+(-820817+2304407)))+106307,e=535949-535925;z=269126+(551184+-820292),b=-28806-(-161896-(((228586466%(2971804726%(18369215-(-264274)))-761754)+-138688)+-819729));v=402088+(-988857-(-586772));k=(-1508312-(-931279))+577088;T=(925637-1009656)+84052,["3"]=-883691-(-883748),u=-294346-(-294362);["6"]=756110335%(904628683%(285398570%23041442)),d=1903352623%9516763;K=515903-515895,y=44479218%7413197,g=225685530%5248500;["+"]=(1148975995-(-385561))%14926773,C=-85620+85620;B=241527-241475;t=-873073-(-873092);h=-841877-(-841928),X=-1047501+1047561;["9"]=-721488+(796719+-75187),V=-1013620-(-1013641),E=169762+-169704;s=315715862%(138315057%7613729);R=-118024-(-13038-104987);l=2975108314%12714138,["8"]=3093147033%12319306-(((-332681-82252)+898620)+517534);O=1743301733%9849162;A=-759233-(267473+(-955366-(-254523+325917))),L=9344+-9302,S=-285544-(356189+-641746)}local H=string.sub local L=e local P={["1"]=306453147%(-596653+4443361190%27504171),i=(2258611740%12475017+(357689+-217485))-773850;k=164045+-163995;b=142167636%(3282652613%12970343),I=-806154+806156;["="]=-695542+695611,r=-370051+370052,q=(196581-(335683-895403))+-756281;u=(848759+-288411)-560318;["0"]=517896-(1280209-(131887-(-630504)));Y=(295531-1030378)+(145245-(-589631)),[")"]=(855930+957603365)%(958059+11653247),c=(181438-847901)+666503;t=-644592+(481463+163170);["$"]=-144997+145068;["8"]=730835-730776,["^"]=741035+-741021,f=917424+-917378;["\'"]=734991+(677374+-1412359),["#"]=832674+-832632;a=(-21544+(469227-59896))-387775;["4"]=(1128513-585036)-543473,W=843114137%3345691,["`"]=(217749-395796)-(-178075);U=541867+-541803;["."]=335314+-335244;[";"]=32838-32786,["\\"]=146831+-146768;[">"]=43461655%(-769864+981872),["!"]=(726736+172724853)%2550758;T=(947834818-(-940069))%6410641;["@"]=-741805-(-741849);["5"]=-691990-(-160614+-531379),R=-566108-(-566169);["/"]=-173100-(-642071-(-468933)),L=2767993025%13502405,l=445061-445027;n=1016995020%7477904,["*"]=1516251513%6892052;o=-379596-(-379664),["\""]=258615+-258580;["["]=(473506+484936)+-958433,K=501319+-501247,M=(-428383+4641)-(572087+-995880),_=((33019067061407%(-65162+137008704629))%(((1158617-(523455-(-60782)))+1955899005)-(-777654)))%11430986;H=421103556%(663095+10696862)+(-1394149-((-508697-(-485388))+-585750)),d=841960516%3408747,G=-15063-(-15088);["("]=108053+-108035,["+"]=(670066+-1274847)-(-604804);e=1458723608%9350792,["3"]=(-691774-(-452856))-(-238950),["<"]=-541623+541666,B=(381984+28173032)%2855498,A=173219+(-1155031-(-981896)),j=68757776%6875775,p=1005950+-1005939,h=248385-2199990889%((5004573596-388091)%23331059);Q=542796+-542743;g=-371555+371632;D=(1455554815-727830)%13855495;N=(49565631405%544815063)%9504923;["6"]=-114109+114183;["7"]=(637338-378722)-258549,["2"]=(773662093-(-21643))%3755746;[":"]=1038433-1038385;F=655021+-654946,["%"]=(-399490+19052156985%288703452)%(586370340%18273286),Z=655223+-655215,[","]=374979+-374898,["?"]=2274950412%12852827,["&"]=760953+-760870;O=-255-(-279);P=603926506%3176688+-355724,J=194731819%2318235;V=622289509%15956140,["]"]=(-521520-(-958807))+-437222;E=11177747%(50326-(-152476))+(986929-1010511),["-"]=-824401-(-914532-(157925-247974)),S=((-221788+5192941055)%121002230)%1005687,m=734611999%(453364+2040362755%14627647)+-12944,X=1708123945%8943057,s=808029+-807963;C=1887282391%10484902;["9"]=1327629824%12292868}local B=string.len local j=math.floor local p=type for r=-642617+642618,#L,635116357%2691171 do local l=L[r]if p(l)=="string"then local p=H(l,-314069+(-518503+832573),-287740-(-1032701-(-744960)))if p=="d"then l=H(l,43631282%396648)local P=B(l)local p={}local c=1573173811%13445930 local s=785711-785711 local e=785176-785176 while c<=P do local d=H(l,c,c)local L=F[d]if L then s=s+L*((555750+-555686)^(((-714262+714265)-e)))e=e+(-185824+185825)if e==-167939+167943 then e=-278038+(-66099-(273453+-617590))local d=j(s/(769621440%3103048))local F=j((s%((1095188137-(844187-274227))%12028051))/(-1024490-((172228+-548814)+-648160)))local H=s%(2019329106%11878405)o(p,M(d,F,H))s=-409276-(-409276)end elseif d=="="then o(p,M(j(s/(-911670-(-977206)))))if c>=P or H(l,c+(331291-331290),c+(405016+-405015))~="="then o(p,M(j((s%(3522620962%14261358))/(-388351-(-388607)))))end break end c=c+(591004-591003)end L[r]=d(p)elseif p=="L"then l=H(l,(-678271-(-840190))-161917)local F=B(l)local p={}local c=923507-923506 while c<=F do local d=(F-c)+((412563+-1242842)+830280)local L=d>=-961144+961149 and-756797+756802 or d local B=2209363374%15558897 local r=L>955007951%7126925 for o=336360-336360,1113483914%15906913,137507-137506 do local M if o<L then local d=H(l,c+o,c+o)M=P[d]if not M then r=false break end else M=-267108-(-267192)end B=B*(-179949-(-180034))+M end if r then local d=j(B/(17162083-384867))%(347482+-347226)local F=j(B/(2593132146%13647719))%(964033696%6025209)local H=j(B/(-80282-(((642914+-140590)+2014859702)%10442242-89858)))%(1575914878%6406157)local P=B%(((105357+-666260)+-425593)-(-986752))if L==1187730171%14310002 then o(p,M(d,F,H,P))elseif L==137901004%1149175 then o(p,M(d,F,H))elseif L==974964743%9111820 then o(p,M(d,F))elseif L==280354412%1182930 then o(p,M(d))end end c=c+L end L[r]=d(p)end end end end local s,c do local o={}local M=-689267+(375008-(-314259))local d=math[O(845751+-891999)]local F=string[O(302840+(-513595+164459))]local H=math[O(-327292+281087)]local L=(1016847+-1145755)+128910 local P={}local B=table[O(408609+-454900)]for M=3895664641%15217440,31224+-30968,754524+-754523 do o[M]=M end repeat local M=d(785730-785729,#o)local H=B(o,M)P[H]=F(H-(902149+-902148))until#o==-837027-(-897291-(-996754+936490))local j={}local function p()if#j==792587976%12783319-483178404%12714637 then M=((M*(213541+-213500)+(18801186397254-(-890367))))%(-13070+35184372101902)repeat L=(L*(-944671+944774))%(343558+-343301)until L~=-630240-(-630241)local o=L%(652378-(9408+642938))local d=614118453%11809970-((L-o))/(-332255-(-332287))local F=(H(M/(-951148+951150)^d)%(181083+4294786213))/(((3022849868%21822286)%10558858-4857)+-810683)^o local P=H((F%(1804421551%(944552+15311498)))*(4293931053-(-1036243)))+H(F)local B=P%(-594757-(-1263076-(-602783)))local p=((P-B))/(-918538+984074)j={B%(-147793-(-266752+(2047542481%((96118+(820360-(-101357)))+12907338)-423347)));((B-B%(177403944%12671692)))/(345269-345013),p%(567717+-567461);((p-p%(644524-644268)))/(1101314773%4872087+-222855)}end local o=#j local d=j[o]j[o]=nil return d end local r={}s=setmetatable({},{[O(101858+-148121)]=r;[O(46940+-93280)]=nil})function c(o,d)local F=r if(F[d])then return d else j={}local H=P M=d%(410426+35184371678406)L=d%(134133+-133878)+(-840291-(-840293))local B=#o F[d]=O(-190247+143938)local r=-145839+145985 local l=O(-403077+356768)for M=705275-((-441450-(-383357))+763367),B,1017132-1017131 do r=(((string[O(-32155-14190)](o,M)+p())+r))%(175674+(((227613+-1088073)+205444)+(767514-287916)))l=l..H[r+(949992+-949991)]end F[d]=l end return d end end local o={}o[s[c(O(59940-(-771264+((-1284250-(-988900))+1172893))),21182353934302-355455)]]=85101998%2026238 o[s[c(O(725362+-771680),-7687+27409916696702)]]=853637+-853634 o[s[c(O(836774+-883097),34725414298883-125196)]]=94970720%(16273412-444959)local M=633526986%11731981 local d=(660701+(-2438614-(-217251+(-877249+172985))))-(-863346)local function F(o,...)local M,d=pcall(o,...)if M then return d end return nil end local function H()local o,M=pcall(require,s[c(O(373983+-420213),19463432916453-(-482543))])if o and(type(M)==s[c(O(-472609+426425),-968305+11697706349325)]and type(M[s[c(O(-408563-(-362348)),161345+16206275556392)]])==s[c(O(456626-502824),18749721522087-235774)])then local o=F(M[s[c(O(-1018835+972625),33268940207996-292014)]])if type(o)==s[c(O(1035310+-1081539),-457031+11986179573739)]then return o end end return 738940+-738940 end local function L(o,...)local M,d=pcall(require,s[c(O(-222494+176199),33576433331315-(-9282))])if M and(type(d)==s[c(O(352321+(580857+((1770242-506918498%2386248)+-1715763))),5188485987564-(-84508))]and type(d[s[c(O((1421835-457689)-1010360),712621+7836783080949)]])==s[c(O(2577508471%(5397931217%(3116948112%44114536))+-865644),14502119536890-500240)])then pcall(d[s[c(O(256981-303241),26942174170461-(-185456))]],s[c(O(-707034-(-660827)),27624492748066-200285)],o,...)end end local P={}local B={[s[c(O(-774227-(-728027)),229862+(917617+33794914562262))]]=-627895+-999372105,[s[c(O(89401-135681),(-459647+(994819+31813297937887))-(-433179))]]={};[s[c(O(430466+-476793),32313827695802-(-966498))]]={}}local function j(o)local d=P[o]if d then return d end local H=F(core[s[c(O((820865-902515)-(-35367)),(-1778069-(-946263))+16749851022088)]][s[c(O(-109368+63097),759780+11306293288826)]],o)local L=F(core[s[c(O(384194+-430397),-428438+19096710309954)]][s[c(O((484667-1014600)-(-483727)),24276101850645-476197)]],o)local B=type(L)==s[c(O((-379390-329890)+(27540-(-809310-(-173874)))),17078907191975-(-333692))]and tonumber(L[s[c(O(-360292+((-959044+1519376233%13930110)-((437999+(692551+-1155495))+-253860))),-593941+(12377748005766-633377))]])or nil d={[s[c(O(919962+((-654135-624970)-(-312867))),-905070+16299471639704)]]=type(H)==s[c(O(-603076-(-556848)),-1042587+(19536157870833-(-616639)))]and((tonumber(H[s[c(O(43902+-90094),27834770291734-(-234230))]])==M or H[s[c(O(2371359181%12222753+(704466+-895801)),-378958+6277929443158)]]==s[c(O(658017-704318),-283477+9054873774508)]))or false,[s[c(O(-497815-(-186651+-264905)),(28999097886010-963179)-193316)]]=((B and B>(255284+((1400200102-(-1034754))-(-535782)))%(14655748-493870)))and B or nil,[s[c(O(-1087197-(-1041003)),4445410717315-(-422550))]]=type(H)==s[c(O((-700535-201835)+856077),-70886+27640946995936)]and(type(H[s[c(O(731337+-777673),(17018794582296-(-527541))-(-772757))]])==s[c(O(-212614+166328),189750+19699767018525)]and H[s[c(O(-818249+772053),-1044515+34364099859619)]])or nil}if type(H)==s[c(O(236453+-282666),-953260+29443204761387)]then P[o]=d end return d end o[s[c(O(-63143+16908),((33925711043%1028501076-(-373534))-(-75633))%10033321+14849355883622)]]=j local function p()local M=H()if M-B[s[c(O((212157-(-196602-(-726984)))+53851950%454068),17057523846359-789047)]]<o[s[c(O((-522305+-80104)-((-513289-(-991239))-1034029)),(486126+9827833725678)-(-769477))]]then return B end B[s[c(O(45232+-91552),22625954970584-263040)]],B[s[c(O(-915853+869569),27414204957709-788064)]],B[s[c(O(579201-625474),(972235+34439847728431)-(-42524))]]=M,{},{}for o=3345362988%14608572,890262+-890258,971128+-971127 do local M=F(function()return core[s[c(O(452546-1296899566%13646324),-1019785+11263680655148)]][s[c(O(69588-1291281777%5402368),12585537536946-(-932691-(-142052)))]](o)end)if type(M)==s[c(O(-920149+873811),(-1289803-((-509755+-634198)-(-906787+300506)))+24054137686589)]then for o=(682717365-823492)%(1339660004%((218126921265%1268191329)%26701758)),#M,-530730-(-530731)do local d=M[o]local H=type(d)==s[c(O(-496655-(-450467)),(624279-449325)+6060764028194)]and(d[s[c(O(-1084058-(-1037761)),(-1090491-(1023419+(-1606392-454992)))+(21116582468901-819092))]]and F(function()return d[s[c(O(354198+-400421),20229195465750-(-807020))]]:get_item_id()end))if type(H)==s[c(O(-98216-(-51901)),2.4349509229934e+14%27055011085615)]and H>927527544%4294109 then if not B[s[c(O(-247166-(-200859)),-735929+23256623802177)]][H]then B[s[c(O(-840587-(-794386)),-819946+(33437004537885-813487))]][#B[s[c(O((-1824667-(-1012360))+766043),7662469606255-(-482988))]]+1179560062%((80944010931%490575547)%15132347)]=H end B[s[c(O(315684-361896),16963099201501-(-1388681-((-206618-465805)+-3286)))]][H]=((B[s[c(O(-644839-(-598589)),391255+((-489479-(-61230))+22687619699956))]][H]or-723817+2337672167%10160645))+(-46077+46078)end end end end table[s[c(O(-468146+421903),29450246606064-1008536)]](B[s[c(O(-119454-(-73111)),(-764047+1762449)+1594958502469)]])return B end function o.has(o)o=tonumber(o)return o~=nil and(((p())[s[c(O(-1059360-(-1013175)),8160431224619-709661)]][o]or 880565840%4002572))>(13551455522%76194231)%1587235 end function o.starters()local o,M={},p()for F=-384249-(-384250),#M[s[c(O(-817708+771509),-409891+7991698227194)]],680073849%5000543 do local H=M[s[c(O(-331690-(-934427+648955)),583564+21753081389982)]][F]local L=j(H)if L[s[c(O(161894+-208156),-1006971+16299761334186)]]and(not L[s[c(O(-693770+(501310+146270)),-603872+4020367010641)]]and H~=d)then o[#o+(651955+-651954)]=H end end return o end function o.usable_quest_items()local o,M={},p()for F=-968612+968613,#M[s[c(O(-95299+48975),998309+7.6610740629779e+14%11970428272773)]],931057+-931056 do local H=M[s[c(O(-519600-(-473328)),60422+(-571102+18344068204314))]][F]local L=j(H)if L[s[c(O(-561696-(-515394)),17742240478308-79007)]]and(L[s[c(O(-16455+-29764),28118653017970-287572)]]and H~=d)then o[#o+92957657%2112674]=H end end return o end function o.panel()if type(core[s[c(O(181854+-228043),979318+11711832297864)]][s[c(O(-1026815+980549),-797239+19334520809162)]])~=s[c(O(809261-855477),((-1729811-(-498626))-(-309959))+32143509206307)]then return nil end local o=F(function()return core[s[c(O((-576125-(-578698))-48867),(1005977+23290511991790)-(-323656))]][s[c(O(916717-962900),616619+3504154018193)]]()end)if type(o)~=s[c(O(-1023289+976975),218969+30262007344140)]then return nil end return{[s[c(O(-1038235+991986),(167201-(-118474))+(-365352+(18871146680663-(-890397))))]]=type(o[s[c(O(-409972+363626),(13628807840916-231110)-((-979086-(487074+-1449964))-(-122139)))]])==s[c(O(725569+-771891),11850877742268-123604)]and o[s[c(O(302021+-348349),(31177217161005-504454)-209446)]]or s[c(O((-1044134-(-126074))+(887937+-16186)),-1031769+14963138859702)],[s[c(O((10870-110369)-(699980+(533321+-1286569))),2752446966472-(-206860))]]=tonumber(o[s[c(O(-526086+(-795174+1275018)),12804198633032-(-281996))]])or 33188+-33188}end local function r(o,M,d)if not o then return false end if type(M)==s[c(O(-33520+(777717-790408)),10660+18374874792205)]and M[o[s[c(O(972495-1018753),20526075314177-748918)]]]then return true end if o[s[c(O(-685571+639282),17246972644212-559810)]]==178790+-178790 and(type(d)==s[c(O(-618343-(-572086)),927325+(854536+15268855747989))]and(d~=s[c(O((-4281+(736989+-1004395))-(-225378)),-43928+7073425660262)]and o[s[c(O(-592716-(-546483)),-334793+26339553591850)]]~=s[c(O(-279253-(-232944)),16615699624466-((-143752+169459)+755011382)%4415280)]))then return string[s[c(O(-475768-((1744546-933793458%5182430)+-1217943)),-315341+31566177124453)]](o[s[c(O(239764+-285985),5469858042727-(-539525))]])==string[s[c(O(389342+(286651-722272)),842352+((14305390454163-83502)-(-289730)))]](d)end return false end function o.accept_open(M,d)local F=o[s[c(O(-298687-(-252465)),24809955832043-343238)]]()if not r(F,M,d)then return false end pcall(function()core[s[c(O(-461790-(-415480)),(-290300-(-1636060-(-639349)))+(938067+23493409379842))]][s[c(O((-72913-(-342853))+-316184),803444+10001723783383)]]()end)pcall(function()core[s[c(O(-802455-(-756122)),(-848569+(26406130128067-(-811729)))-343844)]][s[c(O(-744452-(-698135)),53438+25981615136675)]]()end)L(s[c(O(-150436-(-104191)),36359+21500626846444)],F[s[c(O((-499829+910163)-456665),-890124+30715293940975)]],tostring(F[s[c(O(-645400+599102),95479940246558%795666220728)]]))return true end local l={[s[c(O(503179+-549460),(968323+32108334825964)-329452)]]=nil}function o.start(M,P,B)M=tonumber(M)if not M then return nil end if F(function()return core[s[c(O(-470915-(-424647)),25671135156951-(-170737))]][s[c(O(968470+-1014755),10155079213772-526808)]](M)end)==true then return nil end local p=H()if l[s[c(O((921483-293121)-674652),11531296970332-340810)]]~=M then l={[s[c(O(973811+-1020146),36729+13238951689369)]]=M;[s[c(O(124382-170634),4197153351280-(-181344))]]={};[s[c(O((-253199-435186)+642103),(-967215+26695677076086)%(1779711476478-(-397810-312806)))]]=nil;[s[c(O(236812+-283154),26960803580158-(-985123))]]=214532629%(11421525-(-114895+245229)),[s[c(O(-1052030-(-1005769)),318132+11616375114356)]]=-1000650570-(-650570)}end local e=o[s[c(O(266605+-312930),352573+21980933075863)]]()if r(e,{[M]=true},B)then pcall(function()core[s[c(O(164757-211026),1749590703016-(-877139))]][s[c(O(-995988-(-949742)),23600202263304-254892)]]()end)pcall(function()core[s[c(O(530296+-576523),6103849832347-970645)]][s[c(O(464967-511272),980131+15373754544039)]]()end)L(s[c(O(775724+(631119+-1453045)),-147220+24814964514114)],M,tostring(l[s[c(O(-358982+312712),725268+13723422010687)]]))return s[c(O(-507712-(-461461)),25861614806068-273139)]end if e and(l[s[c(O(295315+-341618),983550+33494525215707)]]and p-l[s[c(O(-485325+439084),(-882074-(-960821+305966))+25041557921111)]]<o[s[c(O(826746-(133041+740049)),((626317674648-(-343685))%2968344377)%16655716+8586611121100)]]+((62792-(-875902))+-938692))then pcall(function()core[s[c(O((-342625-(-828207))-(449440-(-82471))),-410060+(198284911743-494801))]][s[c(O(911061+(-1823764-(-866429))),(8717456467319-(-288352))-255731)]]()end)L(s[c(O(991718+-1038050),30464713295240-854297)],l[s[c(O(-856239+810015),31771524955526-(-194719))]],e[s[c(O(517386+-563727),-933633+(-557570+(3852257755490-(-594782))))]],tostring(e[s[c(O((((-59774-10525)-591038)+-203207)+818233),-916074+7445276414315)]]),M)l[s[c(O(((759715+-1801955)+(((262619874%16366075-368443)+1137485)-(-192498)))+((-635894-(-540550+344410))+-288487)),-330356+(10893441229500-49341))]][l[s[c(O(-738565-((209937-(-799331))+-1701556)),13337364518098-(57008+845620))]]],l[s[c(O(-227999-(-181790)),13431025330381-(-92913))]]=true,nil return s[c(O(467545-(727100+(232655+-446028))),281146+(7370364250978-(-955815)))]end if l[s[c(O(-930321-(-884034)),29969008392328-291734)]]and p-l[s[c(O(-784709-(-738501)),564810+(919384+((-233575+2419337003198)-221394)))]]<o[s[c(O(725825-(536917-(-235103))),19716151573568-(-850717))]]then return s[c(O(-467825+421591),626172+7491759696141)]end if l[s[c(O(-170304+123970),-422425+444483238924)]]and l[s[c(O(998739-1045039),(19294941488271-(37298376520%(-168814+44031469486%216978532))%6569691)-449333)]]>=o[s[c(O((-155301-(-345242))+-236233),951694+4463583716344)]]then L(s[c(O(53978-100231),(7074945791422-(-691215))-(-849178))],l[s[c(O(513300+-559547),20725323496897-892657)]],l[s[c(O(-964144-(-917889)),841683+31635285262190)]],M)l[s[c(O(-112389-(-66198)),3881260962273-(-428756))]][l[s[c(O(-281922+235690),-223990+10099762047496)]]],l[s[c(O(266400-312626),(24284561298082-449254)-259622)]]=true,nil end if not l[s[c(O((-587082+3990)+(131238+405576)),476013+17022957545293)]]then local M,F={},{}for H,L in ipairs(P or{})do L=tonumber(L)if L and(not F[L]and(o[s[c(O(-266463-(-220151)),436048+28057753982924)]](L)and L~=d))then F[L]=true M[#M+(-113546-(-113547))]=L end end if#M~=-611340+(865265-253924)then return nil end for o=(74274+-926580)-(-852307),#M,-585959-(-585960)do if not l[s[c(O(-1046036+999832),(313191+11824641086768)-(-191771))]][M[o]]then l[s[c(O(-1042566-(-996245)),27984325481911-226577)]],l[s[c(O((130792+(-1074216-(-21046)))-(-876117)),32262116063482-(-798981+704801))]]=M[o],1996141677%((-952620+4305870495)%18487932)break end end if not l[s[c(O(200283-246470),(34335203622660-(-381870))-(-375723))]]then return nil end end l[s[c(O((-1557978-(-573748))-(-937976)),(832348+5965156343087)-1047755)]],l[s[c(O(573053-619239),-864825+11176905815709)]]=l[s[c(O(-599006-(-552659)),359018+((-686084+492726)+28803008832196))]]+(-510341+510342),p local I=F(function()return core[s[c(O(922540+-968779),11227328961958-567985)]][s[c(O(598483+-644820),(635595+-1223216)+32666313237552)]](l[s[c(O((-521575+323298)-(-360679+(((95352+(((-393898+(1017299+(-900761+-275881)))+(1766613-519891))+((-946171+873127)+-123667)))+1453835680%16516991)+1304317939)%6797093)),-293777+18875496391484)]])end)L(s[c(O(-819238-(-773045)),-278459+(285406+22971903747697))],M,l[s[c(O((1164722-260829)+-950219),428088301%3072452+12621098633466)]],tostring((j(l[s[c(O(916248+-962504),683592+(15560694645014-335962))]]))[s[c(O(160201+-206507),-201240+10899329951270)]]),l[s[c(O(-177152-(-130844)),1972673839103-628343)]],I==false and s[c(O(875877+-922193),(26276758469551-817966675%(3129129051%22116090))-(-190606))]or s[c(O(-967059-(-920750)),16761530619886-632509)])return s[c(O(-735356-(-689159)),650085+22022215424432)]end function o.reset()P,l={},{[s[c(O(-1049854-(-1003629)),867535+23457927189973)]]=nil}B[s[c(O(1087-47304),-348134+11845474390060)]],B[s[c(O(-159011+(208029-95337)),(375590590-(-201454))%4870514+9598922346315)]],B[s[c(O(-503797+(480584+-23007)),27271805567726-117150)]]=-781231+-999218769,{},{}end return o end)(...)
+-- ============================================================================
+-- Master Farmer - quests started from bag items (bagstart)
+-- ============================================================================
+-- User 2026-10-27: "requires using item from bag to begin a quest. Add logic to
+-- ensure all Zygor, restedXP, Zygor_Forever completes the steps that require
+-- using items from inventory for completing quest tasks OR starting quests."
+-- Log 14:17 (Zygor step 93 "kill "Count" Ungula / get "Count" Ungula's Mandible
+-- / use it / accept 9911"): the use goal names no item and the Mandible (25459)
+-- has NO use spell - an item that begins a quest never has one - so the bag's
+-- quest-item list (spell items only) held only Two of Beasts (19230), used 8x a
+-- minute for 14 minutes while the quest was never offered.
+--
+-- An item that starts a quest: a bag item of item class 12 / item type "Quest"
+-- with no use spell (core.quests.get_item_info / get_item_spell). The step's own
+-- items (its loot / use goals) are tried first. Using one opens the quest panel
+-- (core.quests.get_open_quest_info): the wanted quest is accepted
+-- (accept_quest + confirm_accept_quest), another quest's panel is declined and
+-- that item ruled out for this quest.
+--
+-- ONE file copied into zygor_forever, restedXP_questing_sentinel and
+-- zygor_forever, with ONE difference between the copies: Zygor 1.48.0
+-- ("refuse ambiguous objectives, items and waypoints") made BS.start act only
+-- when the STEP named exactly one item, so in that copy the bag-starter fallback
+-- below is replaced by `if #cands ~= 1 then return nil end` and BS.starters() is
+-- not read by BS.start (it is kept there: it is part of this module's surface and
+-- it is what the other two copies call). tests/test_rxp_bagstart.lua compares the
+-- three, pins that one difference and fails on any other - so every other edit
+-- here has to be made in all three copies.
+--   BS.starters()                       bag item ids that may start a quest
+--   BS.usable_quest_items()             bag quest items WITH a use spell
+--   BS.panel()                          { quest_id, title } of the open quest panel, or nil
+--   BS.accept_open(qids, title)         accept the open panel when it is one of `qids`
+--   BS.start(qid, prefer, title)        "accepted" | "using" | nil (nothing left to try)
+-- ============================================================================
+
+local BS = {}
+
+BS.TTL = 2.0              -- s between two bag reads
+BS.TRY_GAP = 3.0          -- s between two uses (the panel opens in well under that)
+BS.TRIES = 2              -- uses of one item before it is ruled out for a quest
+local CLASS_QUEST = 12
+local HEARTHSTONE = 6948
+
+local function safe(fn, ...)
+    local ok, v = pcall(fn, ...)
+    if ok then return v end
+    return nil
+end
+
+local function now()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    if ok and type(izi) == "table" and type(izi.now) == "function" then
+        local t = safe(izi.now)
+        if type(t) == "number" then return t end
+    end
+    return 0
+end
+
+local function trail(fmt, ...)
+    local ok, el = pcall(require, "errorlog")
+    if ok and type(el) == "table" and type(el.trail) == "function" then pcall(el.trail, "act", fmt, ...) end
+end
+
+-- ----------------------------------------------------------------------------
+-- the bags
+-- ----------------------------------------------------------------------------
+local memo = {}           -- item id -> { quest, spell, name }
+local bag = { t = -1e9, count = {}, ids = {} }
+
+local function facts(id)
+    local f = memo[id]
+    if f then return f end
+    local info = safe(core.quests.get_item_info, id)
+    local sp = safe(core.quests.get_item_spell, id)
+    local spell_id = type(sp) == "table" and tonumber(sp.spell_id) or nil
+    f = {
+        quest = type(info) == "table" and (tonumber(info.class_id) == CLASS_QUEST or info.item_type == "Quest") or false,
+        spell = (spell_id and spell_id > 0) and spell_id or nil,
+        name = type(info) == "table" and type(info.name) == "string" and info.name or nil,
+    }
+    -- an item the client has not loaded yet answers nil: asked again next time
+    if type(info) == "table" then memo[id] = f end
+    return f
+end
+BS.facts = facts
+
+local function read_bags()
+    local t = now()
+    if t - bag.t < BS.TTL then return bag end
+    bag.t, bag.count, bag.ids = t, {}, {}
+    for b = 0, 4 do
+        local items = safe(function() return core.inventory.get_items_in_bag(b) end)
+        if type(items) == "table" then
+            for i = 1, #items do
+                local e = items[i]
+                local id = type(e) == "table" and e.object and safe(function() return e.object:get_item_id() end)
+                if type(id) == "number" and id > 0 then
+                    if not bag.count[id] then bag.ids[#bag.ids + 1] = id end
+                    bag.count[id] = (bag.count[id] or 0) + 1          -- slots holding it
+                end
+            end
+        end
+    end
+    table.sort(bag.ids)
+    return bag
+end
+
+--- Is item `id` in the bags?
+function BS.has(id)
+    id = tonumber(id)
+    return id ~= nil and (read_bags().count[id] or 0) > 0
+end
+
+--- Bag items that may start a quest: quest class / type, no use spell.
+function BS.starters()
+    local out, b = {}, read_bags()
+    for i = 1, #b.ids do
+        local id = b.ids[i]
+        local f = facts(id)
+        if f.quest and not f.spell and id ~= HEARTHSTONE then out[#out + 1] = id end
+    end
+    return out
+end
+
+--- Bag quest items with a use spell (the items used ON quest objectives).
+function BS.usable_quest_items()
+    local out, b = {}, read_bags()
+    for i = 1, #b.ids do
+        local id = b.ids[i]
+        local f = facts(id)
+        if f.quest and f.spell and id ~= HEARTHSTONE then out[#out + 1] = id end
+    end
+    return out
+end
+
+-- ----------------------------------------------------------------------------
+-- the quest panel
+-- ----------------------------------------------------------------------------
+function BS.panel()
+    if type(core.quests.get_open_quest_info) ~= "function" then return nil end
+    local info = safe(function() return core.quests.get_open_quest_info() end)
+    if type(info) ~= "table" then return nil end
+    return { title = type(info.title) == "string" and info.title or "", quest_id = tonumber(info.quest_id) or 0 }
+end
+
+local function panel_matches(p, qids, title)
+    if not p then return false end
+    if type(qids) == "table" and qids[p.quest_id] then return true end
+    -- quest_id 0: the client could not attach an id - the title decides
+    if p.quest_id == 0 and type(title) == "string" and title ~= "" and p.title ~= "" then
+        return string.lower(p.title) == string.lower(title)
+    end
+    return false
+end
+
+--- Accept the open quest panel when it shows one of `qids` (a set). true when accepted.
+function BS.accept_open(qids, title)
+    local p = BS.panel()
+    if not panel_matches(p, qids, title) then return false end
+    pcall(function() core.quests.accept_quest() end)
+    pcall(function() core.quests.confirm_accept_quest() end)
+    trail("quest panel %d '%s' accepted", p.quest_id, tostring(p.title))
+    return true
+end
+
+-- ----------------------------------------------------------------------------
+-- starting a quest from an item
+-- ----------------------------------------------------------------------------
+local st = { qid = nil }
+
+--- One action toward quest `qid` from the bags. `prefer`: item ids to try first
+--- (the step's own items; any class). Returns "accepted", "using" (an item was
+--- used or its panel is awaited) or nil (no item left to try for this quest).
+function BS.start(qid, prefer, title)
+    qid = tonumber(qid)
+    if not qid then return nil end
+    if safe(function() return core.quests.is_on_quest(qid) end) == true then return nil end
+    local t = now()
+    if st.qid ~= qid then st = { qid = qid, out = {}, cur = nil, n = 0, t = -1e9 } end
+    local p = BS.panel()
+    if panel_matches(p, { [qid] = true }, title) then
+        pcall(function() core.quests.accept_quest() end)
+        pcall(function() core.quests.confirm_accept_quest() end)
+        trail("quest %d accepted from item %s", qid, tostring(st.cur))
+        return "accepted"
+    end
+    if p and st.cur and t - st.t < BS.TRY_GAP + 2 then
+        -- the item opened another quest: not the one wanted
+        pcall(function() core.quests.decline_quest() end)
+        trail("item %d offers quest %d '%s', not %d - declined, item ruled out", st.cur, p.quest_id,
+            tostring(p.title), qid)
+        st.out[st.cur], st.cur = true, nil
+        return "using"
+    end
+    if st.cur and t - st.t < BS.TRY_GAP then return "using" end
+    if st.cur and st.n >= BS.TRIES then
+        trail("item %d used %d times, no panel for quest %d - item ruled out", st.cur, st.n, qid)
+        st.out[st.cur], st.cur = true, nil
+    end
+    if not st.cur then
+        local cands, seen = {}, {}
+        for _, id in ipairs(prefer or {}) do
+            id = tonumber(id)
+            if id and not seen[id] and BS.has(id) and id ~= HEARTHSTONE then seen[id] = true cands[#cands + 1] = id end
+        end
+        -- Only one explicit step candidate; never cycle through unrelated bags.
+        if #cands ~= 1 then return nil end
+        for i = 1, #cands do
+            if not st.out[cands[i]] then st.cur, st.n = cands[i], 0 break end
+        end
+        if not st.cur then return nil end
+    end
+    st.n, st.t = st.n + 1, t
+    local used = safe(function() return core.input.use_item(st.cur) end)
+    trail("quest %d: using item %d '%s' to start it (try %d)%s", qid, st.cur, tostring(facts(st.cur).name),
+        st.n, used == false and " - refused" or "")
+    return "using"
+end
+
+function BS.reset()
+    memo, st = {}, { qid = nil }
+    bag.t, bag.count, bag.ids = -1e9, {}, {}
+end
+
+return BS

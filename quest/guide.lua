@@ -1,1 +1,3706 @@
-return(function(...)local PG={"|9s$S7pZ","GOtOmFy7R";"G9o2/QTUj","|V62j^r:@";"|gjd;Dh\"Ogl#`%","GGzYeCkGNMLp6R7kG6j1dwiodp0z=","GLYTfSq==","GVO0W6r==","GomdmTq==","G0lOS","|!)?$2;H+Jg`a6";"|5%A4gs4b$","|KhO;i2BuEc>7","|`a0e25X<)g";"|a+","|,WCnTT!","GgcXZB/2P";"|$O.omk&qa52A","GTH8X3R==","|c8gVLMtcr\\f*fJ_","|5C>6kR$K6#";"Gq4XyHK7=";"Gm5oEYkdbpZq=","|\\fuA";"GbKTIAgq=","GJYknW+qGdQ7=","GwTdpx9sQOJp/IIPgSR==","|u(LSl","|DNL?";"|/!","|)P`tg\"pp`60c";"GbdDRL+XZsO3spqhRMcikPA==","|s!\\\'7","GYmR=","GD3Cn+hR=","|ddVgsJ$60?P\\","|\"*";"Gw0KJUr==","|W8[qQ","G8jwdTl9DU1u8";"|bk(2";"|Y[`tEq*\\c&SBbFRgYUK","GP4odZLPE1eR=";"GoRItx2J=","GUqbL","GTekUF1Vp+vaKeA==";"|QRnk>)MH6eCa)0#Ji2UJWX=","|S#3t2";"GpLBa2dYMHp+K";"Gf1KkQr==","|ekFcjqo?[8";"|,\\5u+","|L+/3%B$2/\'","|W=h4=S!\\l";"|^1(MDS\'/","GvWb=","GvzZ0UGUZVq==";"Gw7rRNA==";"|lau^,o\"";"|hReEY&?O";"GezdV7CWB","|MVcd*k*M";"GWGiF1R==";"|L&Vdd";"|&KeF-uWp","|9]]FV%,T";"GvR==","|!(VWZjRrbn";"|q/!;UehL8O*c(C";"|bVnI[kT$";"GAIrQippSFrA=";"|`<%,nM-l","|V?`Zr(>O\\","GJhcfrA==","|7]YAF`B!-";"|W,C`00Hcf+,b";"GhYdl5uX4","Gp/aFKTyr";"|e+V`F","|rr\\o","G0ZjsGSppsqHFOq==","|:f5]9";"|Di#pnN0rY(!:A3-bJE","|@GL7\'F@<","GOW2SaA==";"|:H)s=","|,Mi,o%h+","|b22<J4Jq";"G4dr=";"|#V";"|qu#r","|%<","G9vg/","|4(4cW","|l:M-]\'AbMu","Gc9nDSpaSrqb=","GG6b=";"GrdDHHTtjYIbZpr==","|2sb&.o\"","G6olm+/z=";"|DD^\'6:c";"GovmVIT7TFI3Imq==","GLoMM7r==";"|#OZgFT\"","G9qc5oA4i","|g/(2R.?1Q","GqLem802H","GfFIHaaHHEXu2Ar==","GrNNW8A==","G3lKAcFdhvZACYKv=";"GCx3C0Pz=";"GxYPZA4b=";"GWOM80q==","|4+u%hDUfe74*a\"";"G+Sh3xVv=","GD70dslet6RMGx3S0qqkt2dfxwnV0jA8WHFUlCjnxrQdO","|1YG$K","GQvHtJWb=","G1h7HWF7/";"|A,-^-SYp";"|=>9CQN\"";"G6o4=";"GcYKCki2=";"|P2[X","|N.<du";"|-&";"GVR==","|*Q";"GEZ5WUl1MIryv2R==";"GgR==";"Gwr==";"GD/a7wR==","|o@1pX^aE","GJFNcbA==","Gs7+bHA==","|nL6sK(;GrU8ejB=k\"V]>IaC`p1l[h]e*M)";"|f$\'ua7lLI,Nd/K`V^T";"GwZotGbVleXXyR3A=";"GZT4AcOA=","|O?A0","|T%@-:9Ou!Cr7","|9FR2]";"GiiwFDZUN","|5^sqjeQ","|iU?nnO(.X^_t2uh`(?","GpZlQfy/39MB0";"Gd52UmR==";"|&:T0`e?","Gxr==","|Bf)@\'\"4","|.9+&_]m&gUZ6\\$+@4a","G+VZsi8F=","|@n,oC";"|OQMbX:X*","GpVxL6rm31eJ=","|*#`R-gem+]&o";"GYk5EBi1=";"GUKN4X2GxSxz3Jzr=","GOUgbQmsEnMv=";"|#]","|9FRf8nL-K$3o","GFkZAP8gU","|85O9RbYMF=E&.j8","GDq==","|Z)W2^4RF","GviW4Ny+7";"GDlvGF9yK","G3R==","GoKa3CA3W","GAby+vijiPRtgdcHq","|QR/et","|VN^6]nrEMttb";"|j=2[Ms:";"GJq==";"|OH","|La#SqM+d","GFeZeg0wr06c+qgJ=","Gbr==","GVMbK/+wHz0r=","|\\.J";"GcMgtNMnS9quH","GQfqK6QOh";"GKr==";"GyKr=","GY6X+kjBZ";"GS23Lt12=";"GFMfN9foqYq==";"|IPcqdV+K\\TQu>n[n^m3%OA^P3O^HE(u4YZn5`UVSTJZ#F43%","|XEF44";"Gd5sfkRUwZA==","GjN7ZYoXPsOo6";"|hk(hP.?","|8b[u$qL;P&";"|(Nb/Cu.4kSJkR","|&N","GLyoflTnT","GeAQBWBVRRR==","|0M?>g:Qa","|K,@jk1f]8c","G1EhHxoYqDwoR5TR=";"|.MpG";"GOCnHAq==";"GBq7IXR==","|,(\\R@+]A","|MmWu)2+","|pR\"3MCH","|X)-.%=+a","|gmO)3`B8";"|QU3","G63G3xfXjzR==";"|r!h:BB=714";"GNxp+lxA=";"|*Vd:^]Bc";"Gumue+js7XA==","|.*U[#";"Gr4un/Ygy";"|4Mc`^\"GllH";"|lA]","GjAw6";"|Vpq-4?0!>","G+CKy","Gpq==","GpqX3unig","|\"_>O\\Xo)";"GUWqz+TR=","|+pNPgTCQO(";"GJyS4";"|@akW=;sU8e","|%F)@BM!;6Y>gUkR\"U3";"GblDHor==";"|d_Pu","|.$e-.`WO6L>Ct";"GEpkB","GFKBHuLAXJn0NaOxfhA==";"|Fo85j","GwUGh";"GeZi8","|`-li";"GBU3PCr==";"|--NL(\\$","|Gnn>G(!dhD","|HRM11%mn[","|(`-)t=Q7,b","|rf=6;986N8c4","|+=QMJ","|jqIch%UQ!La?,=s","|)^5pis&C","|;g&(\"cE]Nu)h";"GzhEA4Eo58r==";"|2Cd#).T0t6(Q\\<Q9elRYQ@Ca+K3h+]=U-s4\'\"dHX\'H9\".[I+E1:5mmhn=\"[h!i/Y";"GCk0=","|5i(V:";"|?R<i>H`(";"GKE4e2efCIbla1AR=";"|DDesQ(DL2","G+IMC6R==";"|asNN6`Q1","|*m&:";"Gngm36e0g";"|Q)FB[@+","GYUcZQNLQ7LMW","GSyguSkZk","|%%m-`o)n","G3lLX";"GRuJCnlMolkr0PR==","GcC6HdA==";"|^KoR[hU)","G3xZNhcR=","GoULPnvJkzVA=";"G1+abxq==","|#8j4*n6*m:4S]!m","|0\"ST\"","|+&)NnO&F=";"GYYmOPiL=","Giq2ZeY2S";"|8S4U_hj>NXV%cIe","|\'OkJ*T!cK/S%0%IN$f","|!IEqV(OR*";"|g>4m^rV?","GvL7n4t7=","|mNhgX";"|MF-rX&CZ^Q[!$\"$HLfD8W0","GgwxvzItKuR==";"Goq==";"GGvN+83v=";"G32lhgbU/eR==";"|M>L";"GqDzfMXky","Gly0tLAF=";"GsDCWR10=","G05BCF36jAti=";"|!+q-","|JEIn[$<@9\"a=H6Ys70=M","|B*?V8","Gr5RQpYi9t3/7SNEZPfq=","|R4[";"GQ4yDZs1t7bpJtR==","GlpjPabyajW24110n7qXM5QIGoxz4fp5Bvtchq3nkcKNF","|#*";"GjbnUSbA=","GDxIkeUzu","GItJcGMhl","|!#Hoh";"|aOsp]e?","|g);/&j*";"|ISlY+pB>","GB7JrFaA=";"|0>oLSONn_G1A";"|V_EmnV8";"|o$*ht#\'q";"|rhp/#uS","Gsn/TYehM7ScbKA==";"|:u5XSPhH";"|!;9*\"GOQn%`c","|^=pY\'","|MJ";"GxfZfYxD3qDnQ";"G+lSR3FBnR92lhq==","|a:";"|%aJM9DS","|CfNMd1KL","|h#EfN";"|I\'ZWB5?;(*12C";"|bKa?kAm[j/";"|c2g!";"GVyOiV/cKDTSMZgDiDNcvqATW3A==","GyR==";"GiarEjgCa8v0=";"|4dU7","|W*Xn/","|R$";"|=BQ]e]:\"C1","G0vkDsVPqbaGJ";"Gf6vn5KHI";"|gj^?3^*";"|aWaG<Nj";"|h\'D@A6*1^?`c","GmlcqIv5gKuE/","|8JKaX";"|A`9B5","|?^7_?HV$:!CDdZa442R","GbkcrKPL=";"|ja+:XfMd9Q","|pO?NuiBt";"GfYhy";"G9i1Ulf7=","|n8^cY=J","GLaxQuVXb177=";"|\'ua2EN6+tW","|V^\'<jFFh";"|G:[Yoig2h0GI`aUNPQ`-oP![l.83q*/l/K[aBW>El_cD!?en:$?p-llhO;M/?+u(d>NKf<^+MKn8t\\ASu>;gc:G38iYdf6a/M;YEpkjrU.SAuM1ALa<ikW7@Y9d-B3Mh.$qKU/(CXIqMi\"SH6mQgilsS,=$CJh)=3MgY.6E;LMV$0LU2$(/WQ_gJ9d(q)[&k4Qc%U\'=(ccWr(P`qm)]s0J_L_[u@pdk\'P]U9U%ZPcFa/[PN=,1P;F2!o.@3<WNU>`j-$at+p<C,If5s\\`P.`N3UmaEo\\ogOS:(oJEJJ>`N^k,SSq:1G)C:22E-4:kXor]AjPjSe&BF17^t@*5ZSU%l#:_E66#(fF,7>R?$Odp[V&OW.<3,p0;^+:okeMcgjPHPq]7\"(&a(0BWZf.arlLSj?^T?RntiiEN3,`M/go]hsgE<\'//b8*/i(GA$J4/RFB1ULNKQb6,A6;3qmd`KZ.`/JmNQ2rGMMeN[:A\"g#(rI$hu`cH\"e&ApMJj[qC8JpW\'P#$t.\"P?_GTQQnb$0mda_59mgnFC()0^fVBq!h@2e!38C;2b\\VJK=5J]LFfR`K87au+4#P9FS)D7&6\\%N/Pe)$Ii.Ut0i9Bp.U&kp`NL&IW\'Dmj=muW_W0]LFk)?Q8&cg@:P.;rG,if]PkBItplYMUI7]K_\\%-@6q\"c=M20\"1(R\"$YZV?^/PdKonjG*XS1.0.58I&_R(0u,NP`,NflJ/C(2._hqEL$&>`!A2Id@>3m4[r*BY\"_VqN\\nM$&\"X#!>aI(=nMNfIXRO=\\s(,P!DOReaMKonZN@H%$aE>PN7X_b>\"On-#OTJ\"fc?kh8fY\'\'H_*=eKg,V-nff<=?#+24*1hL>T\"/k:3]no7KPiteT\'8nbiNor2p6ajD3B)dDgg^H7`0.M5[,HOn7eKEd%BoE$;i3<=5<1\":@G34WE_>EJElP:+jYGnjf,4&H7\\\'uo9f]B-lghE;):dQGo-rXs%r:(0d,Ft`mA31L-VDNL8E?stO^`Hug[7#!pG@PHD]GPkrb\\ap:>eX$a6FCPMPtFb0ct\'<((U]VZb7>\'S\"]Ac*q3C*\\s\'$r$gbaRq2&le+DoV!i9W!2_8RS8)1g?gmJXj[gferpT+LZJ7$j=]QPoq&@r<EfKqqm6)Ui?+.:19l3*>hhR]LW.s1?H9bZ=5<>fW^m1lj)o=W>&TAI9BmtThO)])hdULigt^q?TLSG0gdW$Bk4htPq+A3*-aMl1Y0M+dN!^_?jUYS@03W(#nBfpnh2","GHr==";"GZv60G7ta";"|*ag)9;bmOZF35,\"#C&D.tDDS/Co^:>cd^/>;\\hOr/&e+;/CkeLh.";"|FhEt`BCn.7=*W.";"GBr==";"|o<","|fn7WVQ<";"|!()C1m7V`UbB","G9Yy437IP";"|((VC`m]@V;";"GjzwvOulx";"GnsssAuwd1Cb=";"|ZBIPLP4E`/f3","|3g=:Y","GVtswWo7E5A==";"GMv0=","GXTf0uA==";"GkUI1pq==";"GLcOuEOq=","|\\<!<0REd","G7ACNmq==","GzUW00aa/KndG7yb=";"GGvEO","|Y<5Pbf)`","Gk7aKIUF=","|+C@^E^4";"GXdpLt6I5";"|V/*QeWZ1","GrE1WYMb=";"|s(RCMj2QJiR[=!_r+]D","GS9qw9Khj","Gn0h5","|)Yp).&IT";"|oc;PX5t`/_";"Gn75n6S1=";"G9N5YW5dZopb=","Gi9Hl4DkEZmgrY6fq2aPY","GeHolhwv=","|F-mC1","GgjQolPJ=";"|(\';&5?fW";"|;A6e","|i/5b/9.";"G8C1CxW7K9fv=";"|\\9\'KgI;>","|11siC_c$E1D\'SK","Gy8yqtCQB","|dTQbDt&";"GVYdvJVIo","GdbFT7n2=";"|k@b!]3.","|\"91sn`$","|_iR#<nh[","GWr==";"|^N[+4";"Gn3G6DR==";"|2>\'\\qqV","Gll80L44cJmoUDA==";"GR52rHR==","|;\'^OBrr>","|qe5dk","GCxNq1CKAYHr=";"|I(Zt9RTG#?";"GOr==","|.KNs6sK[","|_\"9jl+\\_nU\'F";"Gwm3pajAhqjH/tllsfq==","|tfjG*;#2_";"GvSACZBbDFl2=","|$E\"","Gb4rsGWSr";"|\\CP;";"|P/qINf.fK7","|\\SCqr?/RnM_%[";"G0QHBee0=";"GiBoJBKb=","GUlIJSelhQ+9MYGWEXj2=";"GWR==","G6t4=","|l*;sj.`4m:","Gr4VnsnC+nR==","Gsn1/wA==";"G1ZyA2CY0n2xs";"|1Yht0dee`BB6cnI\\bLSc\'<fMBST$8,Seu5Bbs\'<AR/]T!Y1=nUS^","GTyAQbDmm","|g+H%X13";"|H+r\'";"|Tb`.of4]W";"G/Re+wAiqVi1=";"|r6iW#*0>","GdFn4","|-q8","GIPcoNo0=";"|JI9+25uD";"|o_<U-2+";"GEG1ZLHA16lq=";"Gkm7=";"|`(ti.Sek3L","GFT9gFBL4O1YIHIb=","GGfUvuR==";"|d\\l5!","GfsSZLA==","GId77pSXP","GJncXbjp1","|,0L5F3B";"|3Q06C4,L\'f\\mtWjKZ&jq7Dnu9ti>jkD_f]l";"GQkgN/L2=";"|)7";"GCjigHnVOZF3c";"G3Na3WA==","G5JKGBTz=";"|+at_q";"|l!Sjm","GLSquHMYmktnx4BvlgzfY";"G+JxjGXRU8r==","|#t12NZp#pG3p/";"|33;8YrG&Jf*e";"|^I[@JMY";"GOrft5vWjWXR=","GjvL=";"GS2SslcCiYFsRRr==","GGFIyNV0=","GcCl9EcmUypQ8Kp7=","GJ2vjxJsE","Ge0OWtSgngSaiXtpvaX7C13cDF/wHEj1K42Hs8NALY2YyrICL8Eqt";"|be]m/>^ViU";"|?8h%9;ur";"|$d(Z4qh2G$.>9+e#r<%BB0Xr\'V7N=+rka6:(2*^PP?\'%6],.H<]FcGoO7nX[PI=I\'3@X\\9SA\"[\"MUqQ1Po=FN1Ij<-b&C6S-<n\'c.iO!_Wa<j;)5R)kV:sa";"|YTDn2AaC>.Q&f0M";"|^Ao5\'3W_K9bF7","GWD7r8826TWqMtxz3/6ptz0y5IbU/ur==","|/OTQ-g^E\"aA.","|+;H.LRp`L";"|69I^\\mH";"Gl3oachRepq==","GOUITKSJ=","|6Oj";"Gt5kL7sNh9+GFxO6a","G+P5s","GFxDszq6Y7gR=";"|-/Kq[I5^Er";"|,Mu2U8)M";"|R1Hfp2BN@";"GEPWO4FJ=","GP668faW3","|4K5/","|[<O[N-42K>","|CPs3H(/5]Z+HR[";"|)9m]*ZDT!VfA","|aKn$@5&","|qp%n";"|W.[UuRS8","GEO06N57XkudwxX10ar==","|b?UMk";"GeSJ9Y+z=","GfgMhtA==";"Ge8JR8r==","|FDLjp","|IZ?0?Ko@f";"|dui@3","|TUoP1oNf","|m=CE37Ic1]";"GqFBS";"G3EXU5to0JP9cNPq=";"G0r==","|`8VCL_].?]-8VL@","|E\'gHLl;^","|2(HA;L3";"GxR==","Gboa1Jzv=";"G3VoFWJ6WQRSjkOfgPmv=";"GvGA=","|L7>","|7Y_W>#KG";"GTACjWZ4=","|7hDbmHo","GPrw/";"|QYjQh";"GBiOMDods","|%Fs]0k?W3";"GtTxLHkvOdyR=","|Vh56&&rM@.=(EY";"GNNxD+5J=";"Gv+wQAZ1=";"|6$p+%X+3","|i<<,","|rW9K\\&.","GAA==";"|Li[sof[j&B,Dlq9:RK3PS,oRmm\"+_\\";"|tAUg*%j","|EKuehV5:";"|,@jO%#!uq)bTI","|RZH*Z";"|A\'Bes\'b)69)h","GBtNndA==","Gyy1Ce3NDe6T+IR==","|1WmfU@/nqMAN","|Oi>$7#s,-#>1YoOa?8","Gra6hFg6g","|:8K$ah07.L";"GnN7=";"GrJPmnA==","G/xR=","G1eUpa9J=","G1OusblX11Vv=";"GGWBq9h28GLRNcaaZrUKW","GRdrYmrzdVw84LG2/8qGMrNEKeq==";"|)bB.ho<","|7Z7AW/<";"GZKdDV58lqlWIpwSoZA==";"GWg44/yA6A57E";"Gjz6sU6Wx";"GPR==";"GeCMWRr==";"|#qdqcD*X";"|0VHW=?f;Dk";"GzKQqiCo66YGwvL4=","|kr@I,YJ";"|j;.(C_K0Q3N3_oKP-(jc","|h/d#0^FE/f";"Gl2Zu","|[Ko6k;\\2","|Rg@ut.L<4;oq8?I4n8(r&4!";"GdZ7w/q==";"G7XSucR==";"|IWkD$";"GkDcBIBI+uR==";"|1br\\XB8";"GEVo8hLWZ";"|)C@oi_%p";"|:&L]*";"GIEZkci1=","GWBzmO8PG","G3TwWqxhY","|eQ";"|2X:+=#]","GmWvzPEJ=";"GYSWH7q==";"GQ6kJ1iDZtCH5","GBR==";"|*iR\\RM^","Gg26dNmiyf4un9q==","Gg7Z0At0=","Gy5XPEZEAUr==";"|\\Ef_o@Ynk91\\R+(]Bq?H4Fc5[7[/Z%p?-Mr7I0gQ44&@e\'&?rJaQ2de9Mn0i=!l,&d\\*7P&r5Eog50O6tT&J(\\5?DdTtcD2";"|J38_9gem","GXd/6IQJ=";"|DMF/p`oC";"G+wkwT3bWPJBb5Y/N9t0=","Gl+xc3mjYIdL=";"G63kNur==";"GkBA5ncJ=","GirJdWw0LO2eT";"|8^0d`glrJH";"|oot2f.MkhOmcL","|Q:+","GACe3V6JfeQEsvH1ogs4ZCMMX5twzd/oEWJhjXotOzW96EI9crmHNBKkDRLqfL7VOZd1VV3a/V+H4wLLF6ML2lT0mSiLu8sZv2BYW/jRsqmkFPw8MLu30","GEkq+wSJY1I29","GYNDYBOFOsq==";"|MPWq++79(s","G9QeJ+Ui=","G0f8CjnUd","GxBXV2Wac";"GFzIH6mA=","|7aoZcdujYT$$&G","GgNb=","|56>";"|NL42D,/P$hQ\"","Gh7jXWlsHRSL=";"GismHYoEU/A==","|ib";"GZq==";"Go+mpf8/4";"G5o7A+Nkp";"G2r==";"|(5L[m:[m","GjI2j+0ZPyYsUb5x0RAAiYR==","|DtnLKfN41u";"|kg5Q","|g=O6c^J,QO$d>`l","GtOWJNiXStC4=","|QW<g6+`54kp[CQY","GIJQgrJq=";"|ql0X7(]";"|cDi!,,F";"|_QiD;a1&aL3o","GPd3yhG2=";"|aM\'8eE^!)ULahsF","Gq1ty";"|#Zb+DFo";"G8les4A==","|qfP7h";"GQ6PBvA==","|ScBr<Q)F";"G894C9Fq=","|e\"Il]^m>mrblh.","G/X08RaKtapv=";"G6poRWXibGcL=","|7*TTp,T[eSlY","|:jp58db[=pAN";"|rLO!F:(";"|Z4H*b\'``uN";"|0?WW%-R";"GWs/e","GHPVbEg7=";"GY1mGDIRuYeT1Jw1i","GZjpV0GGATM7=";"G7R7=";"|=^B1);eZt_L\"&KaaBRVX6F";"Gs98elcL6D4y2P0QGBYfQl34=";"G+A==";"|t<#EW";"GWjlye2v7cr==";"Gaabmoj0PBn2=","|S=lPiE9B_";"|C?k\\","|]X,c/`\\H%<\\t-*:";"GbI18PFti";"GFQiO0J5nb5QQ5kKRiLzijHlos7aT2hN1ar==","|i_isjCG,p","GgiI1yGFP6UpoVoOv";"|^%q/`;&;";"GBUuXUsdVJR==";"GBc/a+Fof","|#R#]B4<";"|4*t2s","|YM;FjMn8pEo:M_";"GCfgLlX1=";"|8)_sGp\"","G5GY0";"GqLfCdlkg","Ghr1CVvpDG8a1xzGYrNGd9JIlg6GS9VwUvcGUrERUjes5udzn8eF6gLYFr5UyqHr2rkY5sViSf4Wyoa977ECF9i1Jpu4=","GIuTki/iWfrAA";"Gi9Zujuv=","GFe09PdCt","GQnD8hEq=","GS5C6kqVqZwv=","|I<[#s";"GN7v=";"GMkcehCE4";"GeMt58M/8nn81";"GomX3MI0E4hvBoA==","|l[L.\"r3q","GRQkysAtr";"GWiMTOl4=","|l:3IQs#T-cQth_";"|[5&1)F]Q","GsgljwwR0SX4sOgbWMyl5mR==";"GcZGY2tZl8uge87oTKMJ=","|8p\"DqWa%7o2+";"|\'4I9DsVWA","GAdRe6VK9","|%lb7TTZ";"|aN6(!Cj1","|SCS;bG8+9`#NnU(P4EnXn)8sS&fR%/=s_%G&ksaO><Nb;PM4@*?uL\"Z%<";"|ihujtu6(","|#1[Ep-\'<BO","|A[0W","|!^","|;5p,?D[j)","|fLcE","|4)c>$","|kMds7";"G0ccn5RXl","GXqb=","|b[NpB\\,c","GZrtXV5L=","GDmnFugzA";"G7DXjZP/o";"GTYaYDFPZKMM0","|/W\\-\'","G8Lh8idn/";"G1KU8iPzZFq==","GWYJ4FCb=","|GP\'m";"GPyAuB7DZAR==";"|usGOmo++Y","GdoLYuh3HnyJ=";"|g-_OFd&uDao\"7:Ggpk";"GCbT8QUDI";"|fDOUak0";"|79MkO+72";"|#DJm@";"GJxBgoq9j","|IOmQ+hs6XTC3h";"GjQp8BP4tDoA=","|R1pg:=JE","|[+","|T,AOYc*","GQZv5";"GfRtDJr==";"GXIWU4V49";"GlaiA4r==";"|_L[&YCN?","|$m?!$pfS";"|p17?hcZd)n)duH5^2U1[.H3>\'m1SXKmQjmXYL\'@.>N/\'G*\':E9Su\'7,Vf;J0\'M1/3:,fFE!2rQ@-<]6!j$c";"|eDsV][A";"GdpUIc2IsUq4=","|N8Y/i]4!&VQ&9C";"GaAK2k5GZEp+fWaZiDD0=","|kJPa!.ll";"GecvVJx0D";"|uUcjO0Rc*T!F8","|6\'q1N";"G3n4gIa1=","|p=t=Y2PE";"|Z\"bfFOh";"G65mwNEx9";"|j`Y+U","GBr30HZoP","GRLIdOIilnK3bm3X7iXKXMwJa";"|EdQCN","|`KN!d";"GR1jEFsS9";"|^Uh\\$M^G";"|5ZX]n","|=$H?";"|l[$h,";"GZt7CPhXg";"G4q==","|p<","G0A==";"GsZv=","|\"#9\"i","GdA==";"|L!gf%T3Si[#tlu#KguY8rt4";"GPs//svI/","|S`Wbh*Eh","|7SR;%7(2","|,`e#M\'RF)l";"|RDDM0;Wn+P";"GRMSXJrGF";"GJ3mIdbi=","|J2\"!0Dc","Gu/fUbNV7ddMjRDxO8q==";"GJJU8wz2hyT1VsZ82YnARpb5mPs4=","|\\T:8XcH:h\'";"GIGEI6FSTss/A","Gn3j7Htz=";"|M\"K1\'@aa";"|\'hI09KaE";"|;Mo(^6%)","GKA==";"GoA==";"|D?h";"|bG_)L";"|e+@pu","|ug\\?CnO4am)m3`";"GtRWWmq==","|K\\/7D","|0E-V","GhHrS0q==","G0435+YKF","GoPNDlQr=","Ghy6yl0q=";"|gDLj[Xhis=Q;N`6";"G2PyAjii=","|8=N!L";"G9rVFcR==";"|Q8F0s=Eb","GAUzvRit1ER==";"G9S01+qsdIp2=","|(U_q-Y^","GWn0nwvKeVwtt6ynS","GxXCbDCBqecv=";"|Fh6XcI\'d";"GWUyvPV8uWZq=","G5YaRwBQTAs1I3CiDbIOCNNVNrxpLFTdC3JeGpx9JNQ6L6YRz8abJ";"|p?!AG";"|eZd>q","Gg7JFvNRmvIX6","GFZ8KJKlM9r==","GuvJW9A==";"|HPb%k4ES";"|A^Dh3","GQ8pgku0n","|&?1qaJ4";"G2k2TgcpR","GfYQVGr==";"|:S#G7;?9!Hc@618","|5CIl5n?","GbH12E23k";"|P)9%QNoT";"|+\'[n$(*3Zu(l`$","GaKh1uR==","GwIBGuA==","GVfoZnr==","GZr==";"GaC54cqb=","Gb6trkQ62";"|V+\"POP]XuY","|N:(3u2]8","GhDyPx+sd8V3q";"|6PDW!","GFIxnEN72MBq=","|6m9bCMY";"|tYYhY+[RjI703^GZtY";"|`[,FEGY";"GK1k67r==";"GMyNepA==";"GEvfv+gq=";"|p4*f]MXik\'";"Gi6eq","Gdb1USrrw","|9jn>N:G7e4&.b(;#V";"|WjW=l";"GlIBAvr==";"GSTFG2C8SlRi=";"GNrXihtb7pLS8","|!P,fcAAM\'","GlOpt5A==";"|R3o:r)9>;k\'pu";"GDNSpqr==";"GY93Y8dgwOLMr","|^YI6O";"GRZC2jRn6Swfz";"GuAWSbEQ76ZJ=";"GFwL5PWxgGv3lLNEOGq==";"|`9G\\;M43","GDjMCub8kfdZ8uHWA/XA=","Gg3bxwPar","|^^Ojg-[hNg";"GdWH+4P572ECbd1S9","G3R7tiA==","GCF7u+vfi";"GVF/6";"GwR==";"|idV<C:ni","|RFZ,Eg(.","GzXcbxUv=";"|LaPal!N.";"|o.Vjdq,Niuq<Q";"Gb3dUJOdltIdfgrR=";"G8VHDFtOWuX7SCfL=","|lZ*N6L/(ue@m@c&?<pW";"GZG2cthb6Fq==";"GiefEPA==","|7_a=jTb9$Ofs/NaSQ#o";"|Fo","|c*";"GMGVNnA==";"GTuvOnOyslBNx","G/pEycn7=";"GRRc1DOAQ";"|]5,\\Ng$,4#ob;l\\","GZW96EA==","|%Wl3M","GnprODNR=";"|-(Z;Xb1Ha,bB";"|Gs?L7CH";"|)H";"|MkM3-j4";"GlXW1M8F=","G8iSLHr==","GLiL=";"|P+[/\'\'5)","|9B3p-#pRu0","Gb6Pp333G0pF5brnO";"|Wm#/\'lE!</uO0l)@:";"G0WDL";"|3o","|E^@%N:a,%g5en`XM@F";"Gl/GYwJxo","G0v7z8Wv=","|K)O:SZL3XHtR";"GfnL7OA==";"GxN6Dg+Wr","GfWy1Bqd7qZ2=";"Gxg2MtWF=","|QIP?","|oo5FGj\\(*n","|DX.b","GaV4SlJuC";"|?pe";"G7jQIId8z";"|#\"VbH\\76";"GQJeAKQx9JotTT5Qe/SVLadTj";"|u$","|)jLVPsQ9","GUir=";"G/F4G";"|;\'@W\'_K0","GbZ3uLq==";"GOVtwKsi=";"|2udEBZJ","|6]FkhZq";"GJuK7MPR=";"|]KuLYI]t*\\Yq","G4fRF1mOtkQ4=","|GD^NF";"Gec+Mw8JpFnJ=","|`S";"GqEJ76bi=";"|(t;4QkmI5u";"|^fLig@+";"Gbmcg4ajvQR==","|i`PVc@#=N";"|[]BW]";"|J`l","|l?:>i:(";"Gcr==";"GApnxdY5m/A==";"|94)X6EA";"|]Q","|pgMT@L(CG","GFR==";"|dFgYS\"3,";"GGKvxqR==";"|PF)\'";"GL1oZMz+C7NGM28A=","|g:n>>";"Gdm6IeEMO","GtHQnHs4KqR==";"|f,D,j4m#";"|E\'c","|sH`d)+k+N";"G3m+ehBBxwQJ=";"|Kp\\BE49N";"GIf24Xnq=","|A9P1adb";"|?1>WC","|cW\\#;q&Vsm+k4V","GRwiB4+Y5","|/@*fLhB","|o39K.","|\"l_Pr!q";"G4VrHvA==";"|#=_-h,2,2#3VaBh`Nt\'X2(,3","GMTvNiJIu","GRV8FTV9gCKe0lA==","|5rho,ufVC1";"GpNwEcWprD0BK";"GmhSkgKg4";"GCSrz6E0WoOb=","G6aoXiCci7x0SCr==";"|(j;@EEA","|)h","Gt4L=";"|=mQ^]buojH","G/IR=";"|rK8IBuqEooO2)I)aG\"0&]O>^q$grl";"|9:P7\\3Ab","Gk5AQhKuM","G5uWbSwKS","|$0\\m>P`?@R";"GtX4ccR==";"|G^","|slYu[&90(&9@/CD0=!qXlb%_T";"|eKRKV","|-/BBq";"|E8G%%FX=PZ";"G9Pkm69mnGa+z";"GB99l1bEkvIS5NWKImR==","GDE92ai7y";"|C[<l-!q","|qebt4,dr","|h++=","|ii1\"\\;8";"GdkAL4ce5Q35Hx9a8";"G0z3lNnOo/f4=";"|#GRee","|c\"H9\"N[sg3","G3XKfsA==";"GcW6qdOtj","GT1V1ESFg0J1h","|ImQQk";"GgbDEN10=","|Vg]nQO_,s","|N)b\'","|2FI<$";"|a5<j,(4";"G8eWrklt2+c79wcIkMM+Gt2z5+OoecKq=";"|((!f8*,dGibhH)","|:c";"GHI/fTdaeFwR=","|VA,fRGK6";"|AbE%=aM@0(smD","GBntohg3/","|3M*T^/8S<)","GsLvteF0=";"|l>/dO*Q","|L15S.8Ti.";"GQ8UFtLgj6tq=","G4Dl2";"GePmO","|5fkZ>2V]","|3[\\cl/Z","G7pr3JR==","|u./a+)h","GG9uAU3HQ","GMbB5pD7F5qZe","|I]C\'1/<","GRqq=";"GrcXLdG0=";"GljBAUA==","G+R9M";"GuDGCu0B/nq==","GNK0+h80=","|N>!nU";"G16QgEpl9";"|f&3F?h.L","GYtcqcr==";"|r\'oKK!;f#";"God4Pzqbk";"GYKJX1gKoysDRYA==";"GkfTchO/JHDcrwjfk+Wz=","G7igPHshk";"|-W:ohj=M_S4%sb.)`G3BiFFY*","GNOYSVgR=";"|(qu(sSY";"|F?oL?H_d","|Ob/;Y","G3k0yEjeqdrX3BR==";"GuPShBKv=";"G2APVrBV5aEz=";"GY/XF8cQt";"|\'^$%u[cd,6#V","|N+sFPP?G","GwMDRtB6JCqeWajz4VNe3V+wTpje0A3S0E2F=","|\"XiMqO(m","|`X0(","|b:^19OWae(";"|It2K_%8kPK";"|Blhn6SO1";"GqYZTJP1=","GZ9R=";"|!]BZt","Gcj4lpvNj";"|dR","GerhafEL=","Gp/J6xPot","|jVFP[","GSr8M10KgrUYR/xMFyaBeGqv=","|I^V@M:3G","|rX)!DpSPeYEO46,";"Gr6lr","GEzC7jpwN";"|G4Jh8Eph";"|Cfh$","GJ2d5dA==","GCG5BOR==";"|qV";"|Q>SgPo\"NR";"Gr34u+sA=","|R\')[gWl+j0KhB)3W^U*/0I+b#j^aBc(NE","GfZhlGRv=";"|i78A46WkI";"GJK4asOi=","|H.","GhFIP";"|]ddGg","GpwqCHu4=";"GnH1z3A==";"GQTb=","GIq==";"|fp#","G8eIGer==";"GyV9pd57=","GfEOByA==","|P:<T<ne!W\\*Z$c","|/]Uj.^.Z>,FZCS","GO7Do","|SK..IbW<3&";"|9:\\ub^*C";"G0B1yTSVH";"|\"iDM%S^","|:JC<USY";"|#l?C","|ihhCn5eHW/";"|5>i^R3j`P","GyI67yun0zGeckxI2R/l7Ncb=";"|[.kNGM7k\'jVVpXejm(5Rk]ka_oK5]","Gh/sa7qmLuEs/Or==";"GkY66jy2=","G73l3znA=","|;?","|j:PijSJ";"|%Dt9#&Wg";"|\"V[","|[KlEl[V8";"GiHKmabjoMy2=","|pre(u5-;8JoZ_","|Z3\"=K";"|a*7J2*r+XZ","Ge/o48Jr=";"GDWQCN1UNgcR=";"|G/Q9";"|$Q98","GcdkUHIWM";"|$Lsh7P\\","GMy5idW4omR==";"|d9%(gDu#6u";"|_7J\";\'`q7>cb/","|kElN5tDJi_M]\"","|VrZsql^","Gmc5AGA==";"G/rP5dmPTBr==","|@;]","GgiaIxfb3NnS639R12r==";"|F?+`0","GaS+ugh686HnsLBJ/uuv=";"Gwd4/7LN6ykR=","|i;7_Bp9Ye0s94RdSY","|ErL\'7mu7";"GfTW+WzHE1p4=","|Q^8DtYO#%","GJQTgaDRBiNvw","GBWR47q==";"|HQbl0*\"Dh";"G2+VRin0=","GTef3Pwz=","|HMtql\\$";"|IWU*[D>u","|ZjUH\"E,#","GmY9GVOraSBwbD9r0m9QcYq==","|Q]+]!hB","|!Kik1gb)0\"";"GyHf0";"G6mQ/ndJ=";"|Na\"6)aeF[&23)";"GkXNxqR==";"|9%hqq#R\\F@","Gy9TWCDq=";"|:&o1fBe","|3T0;dY5K0V","GCqX+DT44JyKOwGo07Op6Y7bOoLlm5r==","GIDtM";"G4Y1=","GRKcFOr==";"|tQnmZm7";"Gvic+owr=";"Gu4Cr7Iv=";"|;8RsX%\"";"GWtERji2=";"GDFr4IXz=";"GOfPgwdMqTWnA";"|*kVZAFo";"|AlgOY","G1Qz880fb9KobRYQ/8A==";"|6NZXmnqu","|J)Su9";"|0F;:e8?";"|,QuY3m.YYm","GXT2bMA0OGR==","|d6;1313";"|YlDN0ap*<fqj47Y","GjKAApC2Dsu7=";"|k4rD0","G6RnEg0nJS41=","Gqag506VbUq==";"Gb/mxHeUX","GNkohNivl3NaS6dwemgi=","|`p\"tm:Yo-V","GubeZfvXRxr==","|&.Z8";"Gked3aiS0fp4=","|-e5%7M6G";"|6kDD*","|=$Oi@","|t&=h,9TY","GD7KL+sDI","GdWAgxKL=","|*WUOZ";"|m7";"GY9YZ7Zr9","|%f8k\"";"G0mqY","GI/UgIXqHM1i=";"GW/JYmUTD";"GDA==";"|l5mm<2sfE\\","|4ZK4sbr#";"GPxHIs7LycaR=","|4g\'>[6b","|!Kq,e","|@T#";"Gw9j1jq==","GjY240Ua4","GA9OXrGr=";"|9.","G+DdNSZs4","|gYmT7[9\\DS";"Gs1/Ogq1=";"GsRFFlcGuXsr=";"|EAmskZ:L\\";"GwHf/8jM7";"G4eDRjH578R==","|P\\","|Kc";"|7S0%0","|pZ","G+O+AEw1=","|3!%C","|?Oc`:";"|i.AS9_WhMo\'SW1","|.\'hc";"|2kF&t";"GDZ2fSb1=","GFXMo","|+\\RG:@:","|A\\5?q#%:G.e(XS3";"|m)&VIclG=:gM:U*EiB#):rM","|A\\IK>ibFeq^o?`","|92W/5!`Gc!\"6j%";"GESb=";"Gbq==","|:Hd64X6L";"|BZS$$s+","|FlcgeSWi";"|h+(fuplGq`*e";"|W@ruWOAb","Gc/hVm8BETyJYpr==","GSRJ=";"G9oYNENoa4lA=";"G2HBGzO0=","|f$_m4","GW7fZgwlBKeR=";"|)KJ%4","|iQO*3+%i","|Y>.14/<>0c!^";"|_?i79@6&=","GRfCxvR6v7E6M","|;o\"?";"|q`[ml;+,";"GwH6BUx67holJtiT77juV1+yz8/qcihHqWOWscIe4yJni9olcJw70KT5FlqR/SOEcXkFi05y/BHwzdefhSeE2RY5nkWaaPGnGoRDXBH3TprfB","|pTT0+I<";"|HO^5&W7";"|Y3P/?YF?:W!&X","GSoCfRCNs6R==","|3@\':";"GR/3PHGR=";"GUli=","|7biks";"|Wll4c#pf";"GvjN0NhaC","|K;Z=Q","Gjx2JuXy6jq==";"|JI_Y^jF_\\J","GPA==","GQe+jiRHGp12=";"|EgTf;B3;";"GGrH+Nxb=";"Gvy9x+7x6";"|q]","GF06XTq==";"Gy9Mg7Xq=";"GUl3df5Sw0m2=","GrmXXF+Ut";"|(r`";"GKBYoYj7Cq7L1/GRFkNv=";"GDUyxp/4L41w+","G1tQP+ipcNx072ji=";"GccDnvShulslT";"|\"U$X\\>;h)-","GrbxqgS64w9ZxJtoOvkduTAL=","|a(=(2g/MS";"GsfIozA==";"|^%";"|qsX\':g7k9(","|F&E=uVs)j";"|hJp046CD,iQOV";"GwA==";"|88J\'>0Z]pJ";"|tBGnZ:!7","|OG,U9#?^r<","GoAJsbbL3pl5f","|\"#ofie:i";"|5+[aQSsF","GfNjqqA==","|NMFl]ZE44p";"|4dl3;WH";"GfZuBKedR";"|c4";"|T5tVX;5Q","G/ZG/i3JqXYMkz2Qf9bTYgNp5oR5Dkjq=";"|;C,e-bg$_\\","|1!eXr","|K.u-*Fa;lo3PeH";"|K;quL:../m";"GurTuOOCf1q==","|FS8<,]Q";"|AiEg","|+E*%Ff2q";"GM2XdYri=";"|0Y#hJNR(JP^Od;";"|lk2";"GyZQvisGoz0PGDR==","|sm^_(K:G","|C37";"|/\'3K";"|V_!]Dup`o?";"|CWQ8l","|F.hnOAmP.%cEaj","GJGSd1Lr0Ilauoi7=","|\\5-u-DS","|DMKd6W;R","|Y&nQ7I\'8oam6cRs%h#L]","GNRRpmnaTpyhJbqHr65cm4A==";"GawQvbWyMUd2=";"|+MR","|#2)S\\>rq";"GysGLnXle";"GTZNTDA==";"GX0faEj5V";"GgJH/WIq=","G68VBjYP/802b";"GV7sEP3AFdm1=";"GC4T0a/1xfoN/3vlJBq==";"|?L8)e74d)-Z%mqc-e&lDHTq9i&5?QbWPa","GzUf6WrA=";"|Pup*ZZN*","G5vhX","|\'?HW<\\DG?M\'F","GWwDU4w2=","GtsSf230=","|1H`I_2+A5m","GKU/iP0yU";"|M.^O.)H","Guo/cSOR=","GepJ0OKlLq8ci1a4=","Gdv/WxodbboA=","|A![+XEQ!@-Vf)*","|%1M!^uS","|*X<","G8zxA3A==","|6Afe+=[b","|B+ZITH^&aD","|l*Ud&";"GVal1eXF=";"|;X>p/]e","|g^qF#","|Ko$dYi5m","|&j97%Qj","GTR==";"|hbmqCocWi";"Gl7xhohgu3R==","Grvj0QqR4v0gX","GNFBk","|LY<P;:kkQ(W&2;","Gi/v=";"|tTdOP","|Gp9C3\\2t(g";"GyyhAJIA=","GdEjQp34=","Gr1rc5f4=";"GItViTFz=","|`T<8u","|n5h,L7o","GBNlYHo0=","|\'qpQ5LDs","|!`(;1Lt(WX","|;S-t^-b","GXdWdAA==","GDTdsc/11EIUA2As1D98E2olvp3CgZQ7VX4Or";"|j50`ZPs1$`-.9pF@qp=q","|#W9Q$Ho","GWEPngA==","Gxp9kTpIG","GHy5BA0L=","GMx9KFA==";"GomzaHl7d";"|^E/2";"Gu8Ik++bC","Gi4tSyMeSQDZD";"|`n,#EWT?","GMyJqqbALaA==","|^s9EDc+?E$\\$","GLuEeln2=","|W&Vq;gV";"GAK88nVhq";"|N]\"OsJen]8";"G7kr1bRAC";"|.?","GzelM9V4p","|dsC*<p85h(F#eGG6V,","|`bQeO6t^)3Hr;","|7#*#DBJR";"GtEhLuq==","GEVQJrA==";"|?1q,893leI\\;iI[aS`Y6(=;R5jgW<;e2X";"GiMA=","GnJLXsaykK6q=";"GgP2Q7taudQFtJP1=","G2dMRCluY6Vq=","|ClbWM%-P","GYe3H","|l\\sT,b]4","GUW7/Qa5AxzL=","|)SO_3)JpS","|+#";"G9TiHMNcp";"|J#Yn/f;#";"GA3PXjuma";"GrHS3nJq=","GqED5Gr==","GcNIZv75/EexSSA==","|A(0SE6/\'g";"GyHcR6siE","|h$)e-";"Gj8bywL4=","GCA==","G6A==","|2+";"G9+vvWa5m";"GPKl7uiKDalGz","|FraRj";"|a0)WJtb";"G8/Se9QyfrR==";"GOmOLetB6";"|7o","|@=u6ErCDDQ","|\'Od0aac?6Za=I$0F[92";"GMZTRZ/q2O0v=","|>Chp";"|N*\"?k";"|@0uPO","|I6I1","|Gc..VpSf","|cXJ\\","|A::@;MH(";"|3?Ta\\=f8","GnKTsPA==";"Gm41=","|aW]K9/Xa";"GgyxHIsvBaai=","|7e3m]","|d^4\"_i&";"GxjSepq==";"GGF42eDR2";"|l.X2j","|V!U<\\;e","GLE5pFy9ctGF=";"G6T2p4r==","|hH,I57Bm`/";"GmheNpSi=";"GtyXIICjeod4=";"GiHcqER==","|s4qkfE3";"GB1Fznwgu","GwFKdto57IdgGJaA=";"GZ1bGZqb=","|($uu84rhG1o!","G/bFbm5R=";"|I+ug\"ktM";"|40&l>Msnno]e";"|-RFF,W\\k";"Grosw","GOk288TGlRA==";"GzA1sWcgPfR==";"|])]`*$9FhSjjRJo\\otGD.f0mdoQ],A=^";"|\'JM#UI\"";"GcZ4Bookb9DNfrA==","|cNh!c","|\"d`!\"8d*","|3O#HG4j";"|hgGV[)7.#b?)H[uK-.7AcIV$?B+VNe$RjTm8XD*4oh9/\\]6X4bo,GdRJj>GuC[DhK26]1N^1lSM*I6.\'luH$#D4L0";"|V\"n(3bZCTpc*","Gkckdibko","|6Y-&c","|]XVI4:3d";"|Q!","|/BElotE%","GdpOeJR==";"GUiN3rkWI5/qzqkA=","GCrs2wEAt","|ko,Wj4\"","GuhqKdbAi";"|@fSS<","GiJG3","GEkRWUg/5L53A","|AdaqqMacf]$q";"|mpT3","|dgXP&";"|Q)4Us32o","|=j;p","|M0^S";"|u-jD^k0","GWRjXRcXK";"|:DA*e\"]";"|$7P,k[_eWmFK8<","|5l=S#2XiEI","|s&S]tD/r","G8kwe0az=";"|jCD2D%.c!8C54%mkQ$";"GzNWypdlH";"GM61G7r==";"|S%lHnb_]]";"|\"Y-<Oi%M";"GSSd58A==";"|l6]bf[VA3Ko^DWMj]","|mqNf-Qj";"|0T8O)oZ_";"GYUn9zoIk";"|0857","GDxZkGYggd0r=","Gz0kh";"GCJM4fr5owYidQDVOmMVuuMKWjcCb0iS2Jv7PwNwzpH9X9OHE2weG6vAhWCQcV0Xy0CLFqE1J";"|cpoMAelXN&g\\*O;1Gf%pLWq@_J+\"Mp";"GCpYZrWvf+nMs";"GUku2ywR=","|%=/merMf","|Y/V(L","GxSEieOS8";"GqVnOPq4=";"GnZSQAbb=";"Gxn5wDq==";"GS4QO09ijfpo1F18ByI/ItmMmYLiDZnOzWQbVPrVBHxNpGxV7l25IQ+TJVKAjOdyIFo0SPsvM";"|PMee48?","GeA==","|kC>-j60eI]h7)6E)L/X\"&Z5qbuWT";"|P6T]714i";"GkHFtuJi=";"|VOiT";"G+Zip8PS1ros5xjDgOM1=";"Gyv9yXR==";"|S2bnF,F";"GNbVkl0UZ9LkZ","Gsnyg","GDRs1H94=","Gmuwj6z3X","GI/N6/dBZ";"|gdu)\'Y\\q,dtb","|9CE/a(VJ-V@Q0\"aAW3";"GolyGfEh6VhfHoeoeemssuzDjQR==","GLvzpDow/cu4=";"|Y(+L6]ZM,","GLLeNp/4=","GzKFzbpb=","|=RA!Z(bjJ3","|F$>ZLLZ!";"|mWJk","Gb65Gjg9h3w1=";"GOt1dZMq=","Gr7/MOZ5idkbp";"Gi/g49gKB9Ii=","|0WtS,hT:","|>]I<#.?";"|X4)S","|Gs+jk(4","|t\\q]^9.","|hqp5\\:\'\'!","GXPIMc1JD";"Gan8mUASL","|=J";"G/18cq/i=";"|O>&LeR\'H","|9jdORR(","|5\")VfJ4";"|5R]qs\"K7)i";"|Q=C4?1#Q3=7424","|B0.)tk0";"G+PhiZq==","|/]b]kEm\\]O4*+\'Jj_0$9(Nnhj9-oR#lLeb>\'T%PKo5o5\"p!\'";"|>:jbXeT^";"Gek7I+FMF9wEZgo6NOIfPAk2nmbCAhr==","GFGSzEq==","|9k6@+o,hot/.E","|a](N/R(";"|+,gR\'bCi3Y","|R^OZ4ik_Jg^+S";"|bj\'>b";"G6z+uQCz=","|p\"","|&AO#Kbs%sPOgh6<4bMM8rEb";"GFDGTs1GdRR+egd0hPFZrdHcarq4uiMbG","|5?R/fkP-";"|-eU;\"d?p<=gpScL","|5&4qCBt9L.RQm";"GzOmPL/Nw","|s#iN+tm?";"|8cqZK","Gmh5+cACrQr==";"GQd2WrRJ=";"|M^","GRsz=";"GOxUqTr==","GsN0I5R==";"|WQ3Q]&_3a`*M/","GrqQGFWY2j7w/","G7cKvpe1=";"G2A==";"GZJHk+R6Lqf2bMp4=","|%j";"|Zh6si.XAEP";"GBbytyjqoTi33kr==";"|1c)!qRMc","GAEvQFaDO","G0hWTkwr=";"|J[&a[%K/B\\06]\'Y","|sk[(1;e";"|R&9H7";"GqiKrpPr=";"G9xp4HA==";"G0Banv3RJPAvFICi=","|ha<<D!q";"G/eC6gx1=","G8ajGh+xCVGxZVvi2JLT5jE6O3q4=","|GN0n","G0p9vwZYh";"|J9c/7T6Roaf3","Gln7p4/z=";"GIbA62z9W";"|E.uu*\\!k/";"|pl:/aqaL";"GhgfGQl9pz6z=","|W7JT*`d(","GNaC2";"|1H;h=u8EBUbJ\'3","Gm3/hrNk7S4b=";"|$q","|!LI<A";"GS75cbEhK";"Ghq==","GAoauaHJ0","G33+oj9vzecR=","GqXqFHpCs","|kR*:7+=*";"|$j#5Y44^$","|=d>R2","G/HjqLUB2";"G100=","|8eUj&V8fs4";"GgOKSetKe";"GkScStR==","GamctHk0=","|=TF>X","G1dKqUc4x8P1jVoOkyA==";"Gcsu/","G7R==";"|Q`HN<)61;";"Gx2tF";"GkC1B3fq=","G/BAN3Zv=","|C0","|>*V?Mib","GEW6BqW20Qwme","Gh+z=","Ga+VBqzwEWbW8qRcl7v3e","GmAxc7PO8BS4f","|rU(h8[+";"G78zk8A==","|169";"GDDj4q9gU";"|qn\'DHOH";"GE2MAKA==";"G/OuPuA==","|T`A_jiq3";"GwB8CSx1B","|g]E!","G8PL=","|p6OE?CV+Abq1n->B^Jl)5/Xc?\\=jPLKro";"G0ygVlQi4";"GcClHK6mSIA==","|Vh//WBHZ/","G/WmJ";"|n4q(G*\"0";"|qK33H285cXI2H?3C@%G^";"GQ+QRJ+z=";"|T2D","G/A+fitTi","GivFmUjax","GtGzUP5twcH4=","|nP$G\'H.";"|I`@IJF\'d","Gxu1y+xGDfX7=";"|,NN`&","GfBLXN1F=";"|JL)%?";"|13";"GiohAdL7w";"|QdW";"|n%^U35(9";"GLRs1hq==";"|QVQ^)";"|WYS0]`$^";"|Ir0(Wq/o3","GUR==";"|IVf^Ld;d","|qSKh&","Gbd1XtmOol4cLR9x5q9L=","GUr0vVzZFXBA=","GQHgpXUi=";"|O\\a=I0pH2";"|Ef0tfPmf;N","GLSo4NjqnsTi=","|0WX(:Lg%","Gyr==","G6+QMeGv=";"GxSg2sa0W/Duh","GTev0","|CQ@;dg]";"Gbkhnnpn5Zq==","GoQHFZq==";"|HB","|t>im\\NV!q:-WA";"|h6X.nkphp<;8";"|HfE?\'o\\uboho","|sA";"|Z&n","GX8vVA2Tl";"|$3m@gBleo","|pZf;e]e";"|f*0&!T\"","GZA==","|QECXEq=b","|IP!lJW0+H.gYY>e;L=d";"GqgAIeqF=";"|h>m;e+(";"|4hYs4%\"","GRq==","GuyW+zUoF","GFkUU1r==","|!R&GkR,;RY!F8$BHb<";"|h.sp<i2]Z_pO/%D*%O[";"Gr1msVW1=","GyYSX","|ZI5I\"","G5ljny70=";"G7UZL5WQG9r1m","|,C.,>","GJyH3ng2NpR==";"G3U7gfSv=";"GF1V6jBAUJIz=";"|DW?P*_Q$`a";"GwjxKc6mc0ZFVc0J=";"|\'p1?UC;4";"|N;ZA8OF*","Gbs8paUxpgS3lj1NLqItL","G8q==";"GKu6S9uz=";"GduXn3Yd9","|br*h\";5<Wh","|sPM%OP-\'?";"GciRhhrSYKR==","|;B0UL","|k8r5];0;\'WR#!s%@=$_CAjWsN";"|,^a8h]QJ=S:mA$B^8-","GyYFdbxFUmhXw3E13Zr==";"|]XMD]AmR=smg`L";"|A(Bl7#cc","|N]u3One","G2ys0","|i&";"|e&DUk,F","G6Zzm54GsKbDfJR==","GJwik","|bLjc","|K+=","|\\$","GtLdpDR==";"|6uU`5d;odP","|7M5t^6Td","|$DBqY?Q";"|dH.9KpZ","|dOfVCXoH-6g>U8:hl0LVaF_","G1VXrCXdC","G2CW8/R==";"GiRtd7q==","|F.";"G/RL=","G3cdL","GUYz24M2q0k6B/BRV","|m3QD\'O#EWlWH";"|0J1u9";"Gpn+Gm9Bh";"GWkd6F41TFKy+gyjYBR==";"G2tLSJhPFQGXJn/VASr==","|5;#qK5+U-^SJ";"|";"|=(*.@HB","|9IW.!","GitdwqNv=","|ANC=B8e","|T/M";"|oddiZ]gD";"|jZc([C7","Gb7evuQi=";"Gm2r/YEjH5UKY","|#frL","GKTjbXmQq1o8Um1J=";"|HE\\AZ88";"|jT\'Ck`c","GS0kytQi7";"|lqiBADJGF","|bL!";"G+05Y+R==","G+r==";"|\"/_^IBe","|uRf#rs+";"|orQf(`j6AN","|Cg%Ogp<";"|])TM7","GC/O5nAi=","|>dhnI[A";"GjOJnmb33q6TO5OCG8R==";"GR72VHR==","GmbOBedi=","GGEA=","|MM/(Vho","GYjiovi3bk1PyCr==","|iJS9\"Kpn";"|=e_!s=J";"|D>48q*?p]j$X`/JLf,H&i6D4[G,jS2M/Mj^oSDg66+u<On+/g;idW`@0eTt/l\'^P>@tF;ma?B=e\'(Gj7Hjm-knWRP3Aht:!MqUGfnCGilZ!&I";"|.\"t(``UBV.","|5&","Geq==";"|%i:jk5bM","|T\"BM5lUd%0Zq";"GhPA9Qr==";"Gd/q=","GfJV4mQiM";"|q8hcUEZ.";"GXuWSk/Zza+qxw/+tcA0=","|KaHl1u%&sN","|n*2co4Yp&","|0Gh)d";"GNK2nJJ+/eG0=","|ZTZS%)h";"|kdsVC+:K";"Gf6HMimJ=";"|#M`f,!h&W^";"|IC6:?r`-EC","|W-)nr";"|?s/YBS\\\'","|:[;=(3o";"GA6EebpKOwSQM9r==","GQr==";"GRLWp";"GWAxYIr==";"GXbjNa81=";"|kI\"\"g3J*m3","GyKfNeA8gst/UlDF=","GnWJqm+bF","|oY&l";"|`Lg!+>lJ)j";"GriQa56aCT+9Zcq4=";"|(8]uOkOKh\"";"G8pgxY2cxdByt";"|#59","Gl3VJRStLqUjq","|\'LndtRc","GWbpj/50=","G21M/oRL=";"Gq/uiB5CWZdyobbq=","|T<","|Ca2Up2+";"GP5/+8IKV";"|;u\'YJm@Atk","Gxi9gYTjLMUUR";"|[H*d";"Gp3ZRQvxrLgLjkg89naA=","|Y8kLk","GJsaacvNTL0R=","GYfsRdr==","|C\\cdEM^","|)u#\')\\3aJA9/8e","GopAa7NWc","|n):5lZ:YHFdQ?q";"|&tY7uo[p";"|t$)\\F","|BGdL)?X<!;7sX>Cn8","|T0W2H","GUmVgDXG6";"|0O=.0\"ZA","GctBgji6m4r==","|c.`n-bFo4p`e3K","|D[DBO","GegQfgr==","|2D;Tp_R";"GWd2u+r==","GF54sdr==";"GV1tEpR==";"|k+H+K","Gh/JWoZ2PfjMAjJsH4faUQ0it";"GvRMOKdX6Qq==","GKWmAclEn7FgMrO2=","|Jdqn9!WX%)kH","GjiExywr=";"|$^.u#";"|lY";"|f\'kOb.U`";"|Od=9cblr-&G=","GWcHn+Y6sRVXlGJEv+7+zv56m","GmkOLR2OfCj7=","GcVb3qaO1/16E";"|Rq;07ZIXf","|uI\"u&#V","G8EoXPOMUDwD1","GvcvzM5A=";"|iD59.";"G5dLPGXQR","|CP_Z<,&";"|0jh+.o<","|!J","|>hBbsFs/pS6dX+Cd`bh";"GLoFJmq==";"GJPuCqsr=","GRCLAK2qFV6dxXGHqR26err==","GJPeWtqb=";"|aEAi?M^","|s:F97pMdFYBo#]";"Grof4WBOJGyCI9TIzQEdVninnERBceTkK3D9a";"GJEU/xc0=","G/HtDjji=";"|!m,@q$oq","G44Zw6R==","|/P.`UDkq\'=5@6rr$%nS";"GlOHulSF=","GwNJ9zR==";"GqXrx+A==";"|*DG]R`*1uTZgK7","GjZsfvPvyEr==","|ZLmM];8";"|?chCU/OH","Gn1mTTHTY","GwT70H7rk+6r=";"|5]]8\"GsS+","|M-7hp\">;&";"GF6LxDJH19A==";"|>?J9:Yq","|Yp(RiT>J_]";"|;-POTtb","|^iJ=\'ErK","GuyiH/5q=","|.tDU^uc";"|lo=WnLc!ql","|WpJbi>0i:kF=m8";"|S$tWZZ.&";"|N7u*Ig8g";"|D)=0UYGWDEsqEf4lbe7oQjCqp\"2&055ZSqp?YSNTYb/JcOo>bnOgM3&lU(uRZd/_`:AZ<1:+Lg\"PZ6U2";"|k>#\'EN<";"Gir==";"GeA2DK5/J","GHjXedaW1dZ1=";"|\\fNQcV?";"GbYi=","GacFLU3Uy";"|lu5^NW$\\";"|o*,8,6J6-";"|Z\\FIF$J","|b]T?\"K(","|Kd:4uJB2";"|=)!7`A7!";"GhrvuLJCd+R==";"GIRlJ9aiWUA==","|qXVo^7.";"|c0eTAm\\0a","GWXaJ7OWG";"|?jQbuD9O";"|Z#7kkdjmJ,_2p\'O=fRB@","|*@[\\&","GZm0avJ8I","|YubVc]e","|1F`Y`j!>7F";"GGcKqUM3WFut99S90V1q=";"GiQqQIq==";"Gk5O6","|RTb^PTZ";"|fYl]FM^B/K","GNgGWqR==","|DJBar%/Dm>IgaeEm)6rD=:[","G4gWIldr7idf7pQArGR==","|SujK?()tB<e?";"GX7N3l6e5";"GtKCwr3vV";"GmpJ0xUq2","GrVqi/red","GLDW3ZM1RqTtVJxqf","GFXi=";"GoDI8Yjid","|=g+$j-b";"Gmq==";"|\\&4`K]Th1rn].(","|@4)0Qd&";"|Ae7]9o\'61";"G2PlaiW1=";"G36kpIaR=";"|8BMNN8Ij";"G7JFRI50g","|*`-RI*Q";"|OccE","|E!C;f#o\\/][hS&","|sO%h@(s+6";"GIr==";"Gy03/kIltsR4g";"Gqq==","|:_0c@9.","|VReDJmQR";"GHusT394=","GAw0TPJJ7OKzRknz=";"|6O4MP;Hg","G6R==";"GFY0ECNvCp3DC","GIO0eYCkQD3zK","|m0","GCqbfMtPp";"|u`oTnFO-";"|[=5a*0?IHF)T@d";"|92knp3o";"GlV+M","GzTIasR==";"|L2Chd","|1C$X","GLDgp5fA5zSLV0wyjvxL9u1KDNgUR";"|r\'!6L0c";"GMcMGNR==";"|g\"BCcN*-","|3#(\\SbHQ\"","|$A,d-^Z#";"GXGbVPcxNGtbf6Sdc","|Wg+G>HWX","|h0*&XSoj";"|8&Poq(OVhi";"|KR\\*^[76","Gals3QBxo","|kSFGj.?","|>%Qh","|d]:\"q\'b";"Gzq==","GqWv=","GuwIrS+z=";"|1o]9H;\\jr44qF)";"|1Kj\'1.?","|@ub/GJuqj9","|6`s2J:47Zp";"|CI^";"|jgq]M7./","G6FKMYmAgD1J=";"|B9&hZYn^";"|]!\'\'R)l-","|b0J8FA33";"|DL,.cqIlH;","GOm7=","G4izbChIsCTCqQR==","|*?","GMAoR8i8p","|djgHoP\\";"GH6FTp+sj","|&/]Mr-0QL1PAYo(JD(GG$SSmKhg6";"|9X<.d`S";"GvRVH0SsbGpb=";"G8c8NkA==";"G9Pp/DEMO","|NTDmk";"GkEhQjJ9J";"|elng=b`SI=\"h$5eb<X.c,PR","|AUFlK4j","|Ae<jha-s#fnVc>GT_*2t/%@nA","|uWQ";"|II/U42+";"|j*";"G7KLU3a+O";"Ge07YcRUsvQECy3Hk","|e%P?V4!","G1oojR6i=";"|+Ir]-Y^";"|u6\"VW]?","GGaCXO9NKn6iALEaZ4PpTEA==","|4j","|fe0lM+c";"|*:Ou";"|#&*.7qM)1&:lts";"GqvRnLofJ";"|sBX`C4\"";"GEq==","|\"3Ept_&S","G+YQRqIUzNJrI1HsO0uZx";"|]r\'r>q*","GDP5E9q==";"GGX6P+R==";"GeWXYyMKR";"Gb9+vNgp8";"G+RRd8TR=";"GcuBnrK0=";"GkR==","|P5Fm;IZ","|/\'ro)H#*G","GOFzh3R==";"|$;&ED";"|86U2RM\\a","|?p/jgHo";"|QPX(AGto","GqgUpzr==","GeQILyOOZGA==";"|Be";"|dHT\\L","|NF.k%+PR^N","|-ido[\'DBI";"|Em&d\'","|$+gNUF2K","|\'^N%\'BO.(1oj";"|5M6L08e"}local function sG(b)return PG[b-644021064%12879965]end for b,P in ipairs({{156078104%3806783,933811+-931668};{-940047-(-940048),(323737+551118637)%2980763},{(-380486-(-460762))-79056,119535207%(15314836-373203)}})do while P[589257-589256]<P[-840459+(((-769280+315948)-(-1041175))+252618)]do PG[P[-540456-(-540457)]],PG[P[190853532%(881333959%13927603)]],P[((560229+-770800)+397404)+(44728+-231560)],P[151042817%2397505]=PG[P[-691730+691732]],PG[P[432875-(-200555-(-633429))]],P[-379309+(956160+(((911565+-1862369)-(557841-649269))-(-282526)))]+(-341872-(-341873)),P[(116356341699%961639100)%(965603+13568341)+-409393]-(90567376411%1207684330)%6479654 end end do local b=table.insert local P=type local s=string.sub local G=string.char local e=math.floor local H={k=((-863416-136254)+2671785090)%10514903;Q=931533+(-249000+-682507),s=1589096635%13582022,g=-722397+797839188%4920474;j=64441-64411;Y=(-565020+(735302+1524502554))%((673790530777%((386793-80792)+4318950242))%20656867);U=(-1411285-((343642-171171)-((((-1014938+322364)-(-476834))+(-951+2840584082%(-620966+(997978+886321006%13053196))))+-278011)))-(-823783),["&"]=(-946588-(-717707))-(-228959),l=335126-335061,o=439840+-439832;["@"]=-905006-(-905085),["2"]=770386+-770316,J=-428544-(-428592),["#"]=-904928-(-904940);["."]=287616-287553,K=873200+-873150,F=527731+-527707,["$"]=(872715+-1106879)+234175,e=500076220%(3234891002%14078689),r=(-32518-354924)+387518;["<"]=-508318+2306120926%15578463;P=29820-(-867509+897262);[")"]=(-940458-(-792485-((113568-681022)-(-682426+282223))))+315237,["0"]=(3955002491%792252101)%7345739,T=373157580%1492630,Z=-175321+175350;["\'"]=719328-719300,G=972108-972034,H=33994317%323755,D=341570218%6831403;[";"]=890633-890633;f=(-455325+1661610668)%13396414,["]"]=(-1563912-(-580878))+983079;["7"]=35367726%140907;M=4120360344%16614356;["+"]=2797090488%13256353;["8"]=688271+-688244,I=221453%1025;["="]=-977339-(-977386);_=780482281%16260046;W=(-993394+1767318)-773875;b=((73510+-79446)-(-745391))-1908298230%13528786;["["]=432072396%5205691,["^"]=-661935-(-662010),["6"]=491379+-491369,["\\"]=764374361%6369786;q=(1000172+-339658)+(-647052+-13441),m=((-1427431-(-49975))-(-422866))+954630,p=573053+-572991;S=(-634772+-6328)+641138,["?"]=60601-60520;["1"]=3770812962%16466432;L=154893275%1239146,X=464376357%16012975;["/"]=-244023-(563010+-807104);[","]=725285+-725284;O=-612036-(-612040);["9"]=(827742+(-498723-(-448730)))-777743,[">"]=-860453-(-860475),c=266904489%9885349;A=156975+-156915,C=((-84234-954210)+257288293)%(379651+11268068);n=-722019-((1787483471%13043671+-2052474)-(-829902));["`"]=(874381+-1138996)-(-264674);u=((189713-(-385322))+-402578)-172380;E=374119304%2033257,h=772072+-772057,["4"]=1767203147%7650230;["\""]=115490-115433;["("]=820545+-820506;["*"]=248993+-248921;t=1037605+-1037568,["!"]=220448-220446;d=586113-586067;N=66583-66548;["3"]=(1979642272-(-870785))%11788768,R=303893063%2355082-87462,["-"]=843575+-843511;V=890814-890796,["%"]=(599114+498669819)%7235781,i=633476-633421;a=-504476+504528;B=2172547269%9920307;[":"]=22004972%(-215240+375860),["5"]=-87828+87847}local q=string.len local K=table.concat local S={c=245516273%1402950;p=-949985+949991;z=-452437-(-452489);n=504692+-504629;["3"]=212058365%6840592;A=(1011969+-736973)+(2697288798%13286651+-373641);N=-1020828-(-1020838);f=532385968%13650921;["8"]=(165259-(154826-(-416597)))+(766518-360320),l=2661090454%15746097,x=486583875%4678691;d=74038393%1805814,["0"]=-683208-(-175272-507992);["2"]=763238+-763230,u=(664145-424683)-239444;["+"]=(((237472954873%1006294789)%10342306+398266382665)%(65591778708%2116149661))%13271466;R=-883366+883414,Y=1026861-1026846;i=344912+-344868;t=(373400098-91209)%3589508,L=(428669+-1289727)-(-417237+-443861);M=-987229-(-999854-(-12566)),Q=492589841%13683051;a=1027557-1027499;h=-243720-(-243741);r=(540682+-937143)+396493;k=-774941+774995;["7"]=2744023050%11200094;w=-1003484+1003506;E=34286+-34261,q=192748296%2095090,["4"]=310029+-309993,["/"]=2373337156%10548165;J=-724701+724761,X=-787506+787532,y=(69149+14441103)%98709,o=-520696-(-520710);W=(1015576378-(254198+(((894298+-899790)+-929982)+1294877)))%6423815;T=(-1671096-(-654865))-(-1016282);K=263586-975979839%5162520,["1"]=-378928-(-378956),["5"]=3103069796%(12464979-(-200612));B=1045537-1045495,Z=808866+((-479568+-1309426)-(-980190)),U=-473446+473479,g=(4663287225%1169492697)%(518168945%5523204);m=-662600+662617,["6"]=832091312%4473609;v=1532573908%16658412,C=1797305030%15361581;F=517206732%5070654,H=-168951+168992;O=1993214413%((-187288-351321)+17011455),I=-258338-(-78421+-179947);V=((-528412-474223)+190840)+811830;P=3629565283%(16429196-(-545393-(17495+-494060)));s=223937+-223935,G=(-611111+-120087)+731237,S=-25498-((741354+-1570841)-(-803952));j=(-875687+(-907641+1018494))+764877;e=281875-(918659-636834);b=678484767%(4959509-(-839506));D=-748969-(-748978);["9"]=-911385+911430}local z=PG for k=3085598977%12053121,#z,(193210+-704078)-(-510869)do local c=z[k]if P(c)=="string"then local P=s(c,-614592-(-614593),(((-956719-(-749252))-105072)-(-781555))+-469015)if P=="G"then c=s(c,-976560+976562)local P=q(c)local H={}local O=-150081+150082 local X=-887886+887886 local g=-568917-(338329-907246)while O<=P do local q=s(c,O,O)local K=S[q]if K then X=X+K*(((-646644-(-562096))+84612)^((((15713380699-756620)%1209780723)%11952554-g)))g=g+(565203+(-964789-(-399587)))if g==258053801%1079723 then g=(873415+-1656286)-(-782871)local P=e(X/(2143476316%10206718))local s=e((X%(-50411-(-115947)))/(-568548-(1043468874%9744911+-1332201)))local q=X%((-443866-(-392752))-(-51370))b(H,G(P,s,q))X=-347868-(-554854+206986)end elseif q=="="then b(H,G(e(X/(797982-1060164631%4324213))))if O>=P or s(c,O+(465833+-465832),O+(-644417+644418))~="="then b(H,G(e((X%(82133432%(1279120376%(-823299+18561059))))/(26765696%2058880))))end break end O=O+605768857%7211534 end z[k]=K(H)elseif P=="|"then c=s(c,973513-973511)local P=q(c)local S={}local O=419109+((-531436-584013)-(-696341))while O<=P do local q=(P-O)+((694920-1026851)+2185577664%15835114)local K=q>=(-928+2216639973)%10555424 and-252369+252374 or q local z=(348994+28919726)%1951248 local k=K>1008983001%5044915 for b=-631651+631651,-670497+((661129-(-529202))-519830),(1313734-892851)-741163346%4810016 do local P if b<K then local G=s(c,O+b,O+b)P=H[G]if not P then k=false break end else P=-274284-(-274368)end z=z*(-892616+892701)+P end if k then local P=e(z/(630232+16146984))%(-779527+159403501%14420338)local s=e(z/(96416+-30880))%((778474+-891070)-(-112852))local H=e(z/(755566-755310))%(-183427+183683)local q=z%(-446874+52479802%(145997+938017))if K==-301275+301280 then b(S,G(P,s,H,q))elseif K==573605599%13339665 then b(S,G(P,s,H))elseif K==-260249+(1145266-885014)then b(S,G(P,s))elseif K==(81493069526%1567384760)%15259282 then b(S,G(P))end end O=O+K end z[k]=K(S)end end end end local ZE,bG do local b=table[sG(906858+-883893)]local P={}local s=string[sG(145863117%687922)]local G=214769-(310281+-95512)local e={}local H=math[sG(508379462%2938477)]local q=704996+-704994 local K=math[sG(-265682+288747)]for b=715970-2954834773%(730032+15501390),407945-2268851077%16928682,164691241%1444660 do P[b]=b end repeat local G=H(2244048995%12000262,#P)local q=b(P,G)e[q]=s(q-(-857108+(1453164-596055)))until#P==(3027965463-216464)%(6964809313%29444734)local S={}local function z()if#S==192269304%2209992 then G=((G*((196013-(-305822))+-501742)+(208822+31064429604715)))%(35184371762766-(-326066))repeat q=(q*(726808110%4404897))%(((1572075433-(-241865))-(-455720))%8321549)until q~=995144154%(4298820-(-417503))local b=q%(65624-65592)local P=2760068189%16046908-((q-b))/(-90000-(-90032))local s=(K(G/(-91712-(-91714))^P)%(322632171066%4301854105))/((-1007281-(-677592))-((337040+-1421332)-(-754601)))^b local e=K((s%(-999735-(-999736)))*(-866858+4295834154))+K(s)local H=e%(72613680%(896677238%9803769))local z=((e-H))/(3575683003%14836587)S={H%(291526260%(330008023%((1364692752%(3388942039%17075751)-(-788741))-433048))),((H-H%((1074998-678406)+-396336)))/(658187+-657931);z%(2225142656%10697800);((z-z%(1044886+-1044630)))/(-333853-(-334109))}end local b=#S local P=S[b]S[b]=nil return P end local k={}bG=setmetatable({},{[sG(975812+(-1823161-(-1497151-(-626208))))]=k,[sG(565874-(453329+2625424785)%14832411)]=nil})function ZE(b,P)local s=k if(s[P])then return P else S={}local H=e G=P%((-1025757+1008421)+35184372106168)q=P%(2075134367%11592928)+1072072402%15315320 local K=#b s[P]=sG(-239458-(-263168))local k=908857-908855 local c=sG(397950-((-1380319-((203474+(516117+-1318811))-428689))+726650))for P=937294+-937293,K,-1002254-(-1002255)do k=(((string[sG(-583729+607226)](b,P)+z())+k))%(498876142%(55332826%13206478))c=c..H[k+(669359-669358)]end s[P]=c end return P end end local b=require(bG[ZE(sG(-1019753-(-55115+-988948)),6477847469866-(-849748))])local P=require(bG[ZE(sG(((327039+-28317)+-794309)-(-519026)),497502+13543942961514)])local s=require(bG[ZE(sG(185426+-162215),-198940+1648675525614)])local G=955211-954911 local e=nil local function H()if e==nil then local b,P=pcall(require,bG[ZE(sG(-770718+795341),690089+7202301737529)])e=((b and type(P)==bG[ZE(sG(-476466-(758353+(-1211644-(295613+-247501)))),-559410+30552543386813)]))and P or false end if e and type(e[bG[ZE(sG((-547168+469634)-(-101609)),(-902594+55814351271727%27907180963121)-140329)]])==bG[ZE(sG((-272393-(-1008245))-710973),(-1230273-(-797115))+10313816959927)]then local b,P=pcall(e[bG[ZE(sG(266396-242741),252786+(17617423950672-832718))]])if b and type(P)==bG[ZE(sG(-674165+698161),91597862262-(112728769388%2749765048)%17216804)]then return P end return nil end local b,P=pcall(function()return core[bG[ZE(sG(342964+(-680478+(233299+128007))),828543+17155683916149)]][bG[ZE(sG(-289983+312852),20782163306449-(-511175))]]()end)return((b and type(P)==bG[ZE(sG(1022248-2829666001%12516232),-710212+23969728335900)]))and P or nil end local q={}local function K(b)local P,s=pcall(b)if P then return s end return nil end local function S(b)local P=type(b)return P==bG[ZE(sG((-866783-18400)-(-673178-235609)),((-640653+1278848)+-664751)+7074789667277)]or P==bG[ZE(sG((-588107+(304457+(570234+4384)))-(1264873-998034)),-701433+((686309+21450398355711)-849427))]end local function z(b,P,s)local G,e=pcall(b,P,s)if G then return e end return nil end local function k(b,P)return b[P]end local function c(b)local P=type(b)return P==bG[ZE(sG(131670-108370),-257684+11987966517619)]or P==bG[ZE(sG(-552845-(-576814)),17688177421062-(-92897-(-698655)))]end local function O(b,P)if not c(b)then return nil end local s,G=pcall(k,b,P)if s then return G end return nil end local function X(b)return#b end local g=-237938+238450 local function A(b)local P={}if not c(b)then return P end local s,G=pcall(X,b)if s and(type(G)==bG[ZE(sG(315647+-290831),383855+32737730005456)]and G>2101451715%12736071)then for s=456588-456587,math[bG[ZE(sG(946810+-922448),24383371184197-(-411291))]](G,g),235458+-235457 do P[#P+1501876469%12111907]=O(b,s)end return P end for s=750128929%15627686,g,-940377+940378 do local G=O(b,s)if G==nil then break end P[#P+(-139076-(-139077))]=G end return P end local function l(b)return b==true or b==(521010+-1490193)-(-370221+-598963)end local function N(b)if type(b)~=bG[ZE(sG(-577623+602375),-591855+18371084318188)]or b==bG[ZE(sG(((-113532-778863)+1476396055)%14052190),13148288111019-(-801568))]then return b end b=b:gsub(bG[ZE(sG((-1261510-(-383017+-44460))+857857),5.3123624233864e+14%20432163213252)],bG[ZE(sG((1729663-(413676-(-406196)))-(1793773-((602075-(-577905))-272288))),-465213+((14991779666426-(-79506))-506220))])b=b:gsub(bG[ZE(sG(((1033980+71951026149)%1262545982-433541)%6751497),(-197015+-308865)+29187074611582)],bG[ZE(sG(15265+8445),(235905-642184)+19385329179383)])b=b:gsub(bG[ZE(sG(-320989+344630),((-2790914-(-194706-664901))-(-2050430-(-1029419)))+24528709154686)],bG[ZE(sG(1777990181%16311619),7585813894810-(-419398))])b=b:gsub(bG[ZE(sG(822131+-797346),409789+8832320002622)],bG[ZE(sG(53642-(-503865+533797)),(21537951734274-(-367468))-(-552251))])b=b:gsub(bG[ZE(sG(-204407-(-228285)),1910044756326-(-850951))],bG[ZE(sG(408247+-384537),56743+9964309245737)])b=b:gsub(bG[ZE(sG((-873053-(-565983))-(-330090)),((-440913-941107)-(-415648))+(575462+17484110498522))],bG[ZE(sG(522301+-498591),9748865465925-822676)])b=(b:gsub(bG[ZE(sG(1017985-993055),27604616172393-(-41911))],bG[ZE(sG(119198970%11917526),-961051+(27748916252730-(-53096)))])):gsub(bG[ZE(sG(785429569%5817815),6686774650917-(-359649))],bG[ZE(sG((-29866+(-284579-(-398779)))-60624),-54826+25897763615494)])return b end q[bG[ZE(sG(47685-(1033233+(-250562+-758379))),6.5293069947198e+14%5778147856475)]]=N local function w(b)if type(b)==bG[ZE(sG(-785243-(-921161-(-111718))),-377487+7035332140408)]and b~=bG[ZE(sG(2641265257%16405227),1453045777%(416792142%22732588)+34682599437110)]then return b end return nil end local function r(b)local P=tonumber(b)if P and P>(17730549-956253)%(713399+49069)then return P end return nil end local function C(b)if not c(b)then return nil end return{[bG[ZE(sG(30239378%6042997),19942407226733-(-585432))]]=string[bG[ZE(sG(-943377-(-967997)),(128588+(496225+((-85922+(26301971860573-898863))-921856)))-(-956759))]](w(O(b,bG[ZE(sG(-537895+560925),(412123+(((-529416-(-663286))+-948273)+638334))+22272834435274)]))or bG[ZE(sG(855531116%7570862),1460561251335-(-126511+-497614))]),[bG[ZE(sG(840903+-817697),(139581+777092)+17976355917929)]]=r(O(b,bG[ZE(sG(-493293+517937),(700949+-1525705)+33176360066741)]));[bG[ZE(sG((929244091-(-817361))%14308256),17303345295898-972500)]]=r(O(b,bG[ZE(sG(((122033+-1042257)+1062668)+-119342),28359783817384-(-822278+566044))])),[bG[ZE(sG(-988108-(-1012745)),288123+15647302665411)]]=r(O(b,bG[ZE(sG((-601091+-172416)+797576),13371981174929-(3130693603-866349)%(983088+13436084))])),[bG[ZE(sG(175368513%(1681384536%12344703)),27034570746748-(-443806))]]=N(w(O(b,bG[ZE(sG(957538587%(-399147+(88093+1279763139)%24903229)),22412629259940-211076)]))),[bG[ZE(sG(690952989%(397016+(-203260+4571278))),366181+29893087030793)]]=N(w(O(b,bG[ZE(sG(929508+-905434),1022094+(8565653867195-(-1013417)))]))),[bG[ZE(sG(225797-201117),22340947723225-672866692%4672087)]]=l(O(b,bG[ZE(sG((386278286%4824555+(-1102323-(2546125136%12859022-369674)))+482326),5965925010469-(-62932+1014259))]))}end local function u(b)if not c(b)then return nil end local P=tonumber(O(b,bG[ZE(sG(840751196%(6975098-(-592802))-691156),160746+26448387219741)]))if not P or P<-660480-(-450412+-210069)or P%(607651-607650)~=-859217+859217 or not c(O(b,bG[ZE(sG(371562-(616746-268980)),950891+18411963652507)]))then return nil end local s={}local G=A(O(b,bG[ZE(sG(-375767-(-398697)),17339820635796-(-949100))]))for b=-635565-(-667485-(-31919)),#G,(803846+483722015)%5324460 do local P=C(G[b])if P then s[#s+4849797%4849796]=P end end return{[bG[ZE(sG((50498541750%1097924452)%5031875),717860+8288199714900)]]=tonumber(O(b,bG[ZE(sG(-307419-(-332092)),9466406956566-448201)]))or-693586+((-810124-(-690734))+812976),[bG[ZE(sG(1034042016%7030100+((-281512+-405643)-(-94405))),35091184743474-(-832994))]]=l(O(b,bG[ZE(sG(-795769+818962),3405331171027-2291442740%14970548)])),[bG[ZE(sG(265180-241581),(-950065-(-393402))+1596079506019)]]=s}end local function n(b)if not c(b)then return nil end return{[bG[ZE(sG(459937604%(12122831-914885)+-387666),1004466+34564614034109)]]=tonumber(O(b,bG[ZE(sG(9918337%9893906),16010032585703-793717)]))or-28897+(1029030+267237699)%15778696,[bG[ZE(sG(-867595-(-890414)),482398+26592901950368)]]=tonumber(O(b,bG[ZE(sG(-364198-(-388822)),872303+15707830993215)]));[bG[ZE(sG(-717433+742344),9805504834969-656639)]]=tonumber(O(b,bG[ZE(sG(16801159%(17510983-733004)),-262309+16776693832959)])),[bG[ZE(sG(-1044787+(-226899+1295198)),-920993+5327591145016)]]=tonumber(O(b,bG[ZE(sG(224586-201679),55703+31954872020273)]));[bG[ZE(sG((273496+-322612)-(-72124)),34591830814472-815204)]]=N(w(O(b,bG[ZE(sG(1886431672%9025872),20332856477555-(-541627))])));[bG[ZE(sG(1311470949%15074104),22192872878000-432366)]]=string[bG[ZE(sG(1984678576%9361579),((929196+-1562890)-128923)+(2072277353%8743581+31174246043691))]](w(O(b,bG[ZE(sG(98487978%(1819337973%(1368441295%(2414534959%17792305)))),-448707+14227560271855)]))or bG[ZE(sG(867211698%7812511),-512619+23777669650661)]),[bG[ZE(sG(-490360+514132),19651793623605-(677674+-788408))]]=tonumber(O(b,bG[ZE(sG(1531319133%8017257),(((-1713046-(-383504))-(-642638))+3497852815%13825303)+15704899193760)]));[bG[ZE(sG(2103796765%10363413),-54016+32360737240588)]]=l(O(b,bG[ZE(sG(-660044+684761),31442340500900-669656)]))}end local function m()local b=O(rawget(_G,bG[ZE(sG((8365325057%((1007521+-1240202)+90230994))%7121431),3515644912263-(-408310))]),bG[ZE(sG(10545+14186),23961453922358-(710203-436462))])local P=O(b,bG[ZE(sG(853367019%3359621),8121115831515-(-422056))])if not c(P)then return nil end return P end local v=nil local function L(b)if v==nil then local b,P=pcall(require,bG[ZE(sG(299915-275861),30683879602624-917369)])v=((b and type(P)==bG[ZE(sG(-1019731-(-1044522)),-161255+23233953143928)]))and P or false end if v then v[bG[ZE(sG(1064632868%(1287898237%25440421)-837066),9173861484427-901057)]](b)end end local d=false local U=-678680-(-678680)function q.allow_reads(b)d=b==true if d then U=U+(450984-450983)end end local function W(b,...)if not d then return nil,bG[ZE(sG(-580382-(-603677)),-963634+8318447029154)]end local P=m()if not P then return nil,bG[ZE(sG(335814703%1638000),-240212+32895335128132)]end local s=O(P,b)if s==nil then return nil,b..bG[ZE(sG(-398855+422087),223505+(-302697+32705379559902))]end L(bG[ZE(sG(797315-772577),6377714364898-136811)]..b)local G,e=pcall(s,...)if not G then return nil,tostring(e)end return e,nil end local Y=706218+(226172.25-932390)local D={[bG[ZE(sG(944588+-921477),(513184+8873358244616)-789521)]]=127722+-127723;[bG[ZE(sG(2049013505%9757094),(129454+14911195883433)-(-93117))]]=false,[bG[ZE(sG(-355010-(-58851-320398)),35807+26360418238311)]]=false;[bG[ZE(sG(-790476+815278),-23921+26998436829836)]]=nil,[bG[ZE(sG(941884847%9811042),960354+34006987900959)]]={};[bG[ZE(sG((1007922+-814324)+(272550-442459)),16793050498487-794252)]]=nil;[bG[ZE(sG(973823-949161),4893452310979-(-538021))]]={};[bG[ZE(sG(1000899-976634),(14617160183907-482974)-(-381408))]]={},[bG[ZE(sG(225862+-201776),-981522+(8976863425251-283613))]]={},[bG[ZE(sG(181450426%933461+-334857),14847958273277-(-535247))]]={};[bG[ZE(sG(1456995250%11472214),1027480+17076759610836)]]={}}local o={[bG[ZE(sG(1099880522%16166893-508181),975992+15320365110155)]]=nil;[bG[ZE(sG(435183-411763),381066+(998718+5468611123835))]]=((255767679704%15045929117)%144607475)%694693;[bG[ZE(sG(446374-(-589439+1010975)),2.5108123244711e+14%(9656970846765-((434145-1003565062%14534795)+303775628%1250078)))]]={};[bG[ZE(sG(2447131224%10502603),11973863308021-(-81048))]]=-986774+986774}function q.step_identity(b)local P={tostring(b and b[bG[ZE(sG(141973+-118383),(-203311-(-1014230))+28869874881596)]]or-313892+313892)}for b,s in ipairs(b and b[bG[ZE(sG(-575959-(-598974)),-260057+8885543193681)]]or{})do for b,G in ipairs({bG[ZE(sG(71047+-46630),13478997605219-(-95712))];bG[ZE(sG(288018745%2232510),-587118+(5806728117344-591354))];bG[ZE(sG((26048668283%164941626)%1910120),(24887613508572-(-301082))-214150)];bG[ZE(sG(414956-392127),19919090171688-(-84249))],bG[ZE(sG(-144951-(-169046)),33810139328836-(-819020))];bG[ZE(sG((2389106982-(-891730+(850575-(853851+-906345))))%12066016),-346476+25863014622069)]})do local e=tostring(s[G]or bG[ZE(sG(-33609+(45982-(-11337))),1282915935199-(-735064))])P[#P+2212326865%9660816]=#e..(bG[ZE(sG(648730343%3414241),-1003504+14420916549765)]..e)end end return table[bG[ZE(sG(83023605%643403),3299363087319-318242)]](P,bG[ZE(sG((367245-959615)+(1500373-1750644580%16664388)),274720+8107789428845)])end function q.context_key()return tostring(o[bG[ZE(sG(-267263+291162),835664+(6681407259361-(539844-(-5344))))]])..(bG[ZE(sG((745616-741160038%13467949)-298846),(-52654-585800)+764653004641)]..tostring(o[bG[ZE(sG((1411690926-343266)%5905117),9527548311055-178597)]]))end function q.goal_key(b)return q[bG[ZE(sG((-337855+(2687070912-((1228708-244739)-654292)))%11935702-847286),479038+24145364183527)]]()..(bG[ZE(sG(800703+-777582),13650466164806-322088)]..tostring(b and b[bG[ZE(sG((-745669+219960)+550200),10668225831601-(-377302))]]))end local t={[bG[ZE(sG(110865+-87393),30379649462793-(-631161))]]=nil,[bG[ZE(sG(244497587%8731207),12296286250065-(-826022))]]={},[bG[ZE(sG(-921269-(-945049)),31980374113113-783505)]]=nil}local function R()local P,s=pcall(b[bG[ZE(sG(2916013169%12099539),-996605+((((31985+80391)+(187046+-541633))+27535149094579)-402492))]])if P and type(s)==bG[ZE(sG((-758862+(-769544-(-764177)))+788323),34452129165614-(-172159))]then return s end return 2105652213%10372671 end local function M()local P,s=pcall(b[bG[ZE(sG(6679988%(-277150+350287)),32038130152574-(-385794))]])if not P or not s then return false end local G,e=pcall(s[bG[ZE(sG(1393805121%12905376),((-317341+(-864274+11280931134342))-179049)-(-31789))]],s)return G and e==true end local x=.1 local V=nil local i=nil local function B(b)if V==nil then local b,P=pcall(require,bG[ZE(sG(631313-606858),10481848666575-679010)])V=((b and(type(P)==bG[ZE(sG(1403727895%9484488),192191+(293580+8608203000442))]and type(P[bG[ZE(sG(-994366-(-1018214)),884745+(34768050744051-(909220+-1802585)))]])==bG[ZE(sG((2422587615%(3686674492%23510234))%578150-(2914352715-954037)%16094821),(824257-577486088%5292833)+8260436166183)])))and P or false end if not V then return false end local P=V[bG[ZE(sG(-700436+723789),196574+11851928480527)]]()if type(P)~=bG[ZE(sG(-420931-(-444815)),323988478%12422267+2129469619773)]or(i and P<=i)then return false end if D[bG[ZE(sG(1011047+(-210165+-778049)),(1610096324-(-537843))%(6734532-(-144622))+3284255865094)]]>=369301+-369301 and(b-D[bG[ZE(sG(125036648%1344229),395381914%1606121+14968861333819)]])<x then return false end i=P return true end local E={[bG[ZE(sG(458992516%1969820),10906548880814-990584)]]=true;[bG[ZE(sG(454721030%6589824),28006956177783-998242)]]=true;[bG[ZE(sG((412329645606%2660211251)%10934524),939547783834-1044606)]]=true}local j={[bG[ZE(sG(402369+(-99644-279657)),8966300079561-(-904263))]]=true;[bG[ZE(sG((3984510205%(343792+88327489))%11850106),10032+5759993794735)]]=true,[bG[ZE(sG((483071910965%1940107630)%12665757),3550164179881-(-56628))]]=true;[bG[ZE(sG(197532742%8587383),(-1385817-(-441663))+25695998508730)]]=true,[bG[ZE(sG((459435-(2024660-987109))-(-601618)),-832276+12287976061590)]]=true}q[bG[ZE(sG((1197221-(-519959+1051093))-(593163+49880)),(((-168626+662699)+(550859+7149242436828))-(-777321))-934542)]]=E local J=nil local a=nil local function T()if a==nil then local b,P=pcall(require,bG[ZE(sG(1026613734%12673943),-499171+22042569867783)])a=((b and type(P)==bG[ZE(sG(402653728%5297775),138983+12364873450928)]))and P or false end return a or nil end q[bG[ZE(sG(638716294%3275345),979673+26321273720715)]]=T local function I(b,P)if type(q[bG[ZE(sG(-963539-(-988437)),-227156+35082127532855)]])~=bG[ZE(sG((-474313+1425533586)%6063980),94803+16741212492427)]then return false end return q[bG[ZE(sG((-649900+185954)-(-487725)),758844+21033236954580)]](b,P)==true end local function p(b)local P=b and string[bG[ZE(sG(6604+17845),14359294823534-1003606)]](bG[ZE(sG(-207281+231289),458600+11837654896725)],tostring(b[bG[ZE(sG(((-67887+184250033162)%2670486924)%(15734728-975508)+-171443),584688+12392203600544)]]),tostring(b[bG[ZE(sG(781747+-758088),8.1511650223432e+14%3791239549338-60504)]]),b[bG[ZE(sG((597829948310%2430258187)%10553134),-260123+34933340072456)]]or 1648841670%6729966,b[bG[ZE(sG(-1024292+1047403),(1019600+-1639960)+2326667495479)]]or 994316154%12747643)or bG[ZE(sG(950843-432129521%16584688),858785+25408286486457)]if P==J then return end J=P local s,G=pcall(require,bG[ZE(sG(1946166303%((-160262+-549943)+12576926)),-258149+11744248976004)])if not s or type(G)~=bG[ZE(sG(-121169+145009),24411763363965-2467504029%14685444)]or type(G[bG[ZE(sG(1036677303%15023964),-438826+12927918535859)]])~=bG[ZE(sG(531832302%(2072309612%13678752)),(-1094189-(-843641))+31432848179812)]then return end if not b then return G[bG[ZE(sG(-750592-(-774961)),(433014+306568)+(-431177+13338910980320))]](bG[ZE(sG(-785679+809373),8847813371088-(-513442))],bG[ZE(sG(525245838%(135629+6775179)),20221929572103-(-270919))])end G[bG[ZE(sG(129898687%1180680),(-1246287-(-199774+-211728))+13014886552787)]](bG[ZE(sG(732780-709311),404709+12843277641266)],bG[ZE(sG(710080+-685693),7777065358274-((-946332+111569)-(-733812)))],tostring(b[bG[ZE(sG((-489216+196380)+317446),174423031%9147583+(801532+13353864078820))]]),((tostring(b[bG[ZE(sG(-78939-(354734-457995)),1576385690%((2524027212-195882)%13971543)+12859038853229)]]or bG[ZE(sG(832217036%13422473),-990959+26805570397288)])):gsub(bG[ZE(sG(822676736%4307086),25423263439685-(-25209))],bG[ZE(sG(-612605-(-637268)),-1031046+26678869952445)])),tostring(b[bG[ZE(sG(306589142%(((-450297-420746)+1152004394%((-613472+14811477)-(-1000991-(-453139))))-(-331583))),-102273+(31770929624022-541284))]]),b[bG[ZE(sG(493161+-469169),211263+4166762497400)]]or 184945732%4294705-(7498+(-417080+682999)),b[bG[ZE(sG((766742-948366)+204955),572766+(-519727+28783030150707))]]or 966065-966065,j[b[bG[ZE(sG(-911592-(-934751)),62940171%833702+18502902172281)]]]and bG[ZE(sG(554472346%4400386),-533088+34745492072228)]or bG[ZE(sG(-132082-(-156934)),(-754680+23642774363845)-129526)])local e={}for b,P in pairs(b)do if b~=bG[ZE(sG(475885-(-427567+880223)),-288763+5875369240982)]and(b~=bG[ZE(sG(1021547-393382620%9125226),855498+21026685326478)]and(b~=bG[ZE(sG(673023-649276),((846244-(-653834+1359285))-512965)+(14356+21670039671502))]and(b~=bG[ZE(sG(956937+-932010),(11770681528996-305241)-356282)]and b~=bG[ZE(sG(142508-117922),489938919%12242894+21762224243156)])))then e[#e+179826193%14985516]=tostring(b)..(bG[ZE(sG(1037216+-1013283),((-709638+1910852455357)-710331)-(-947258))]..tostring(P))end end table[bG[ZE(sG(340375371%3403505),(2697445743-((532862+(-982051+1383763))+241071287)%((6063904589-72743)%27885483))%14809947+9580249729265)]](e)if#e>1977909219%(7448196-(-369627))then G[bG[ZE(sG(-647505-(-671422)),274128+21979362266996)]](bG[ZE(sG(-207359-(-231947)),3.6046305009925e+14%2036514415230)],bG[ZE(sG(-58441-(-218321-(-135273))),-683094+24608457930160)],table[bG[ZE(sG(912038-889190),(6.70087664559e+14-(299841+-1111821))%4558419587511)]](e,bG[ZE(sG(1399132924%15044177),-475822+5680125606521)]))end end local function F()if not d then return end local b=R()if D[bG[ZE(sG(602672778%7726265),(688723+97604)+7348678126411)]]==U and D[bG[ZE(sG(1457201162%(((-616768-359372)+17111660)-633628)),659701+34681219484998)]]>=(254849278-(-1318124-(-546138)))%(575050+4750393)then return end D[bG[ZE(sG(356336498%8282971-145713),9955013835760-1040540)]]=U D[bG[ZE(sG(386964929%3420862+(261732+-646410)),(696708+6402441058711)-(-836044))]]=b local P,s=W(bG[ZE(sG(-682716+706156),877346729%6793055+26418253977166)])D[bG[ZE(sG(-811956-(((28982+893129)+(-142567+-1158764))-456411)),-747003+(10065312591143-422246))]]=s and(bG[ZE(sG(1045223-1021543),654397+26895461896121)]..s)or nil D[bG[ZE(sG(644652833%(5328981-((265752-257839)-(-1023545)))),((205459765-733525)%(4745740-(-786794))+32301910988254)-323743)]]=l(P)D[bG[ZE(sG(246674+(-734270-(-510768))),22499959590021-(384453-736836))]]=false D[bG[ZE(sG(64609284%16146270),-194461+1937343103960)]]=nil D[bG[ZE(sG(155197-132074),688011+(-460954+14004846793621))]]={}D[bG[ZE(sG(650+22419),24133661461697-(-960197))]]=nil D[bG[ZE(sG(-993374+1016486),17151739010541-(-509844))]]={}D[bG[ZE(sG(24162-476),(738898+(-2354066-(546191+-1182767)))+12058595291572)]]={}D[bG[ZE(sG(-659170+683566),((223604485145%(1256986076-771377))%16721302-(-478975))+(-77480+19522967798313))]],D[bG[ZE(sG((-830107-52543)+907226),(1503258716124-(-196489))-368901)]]={},{}D[bG[ZE(sG(42015287%2999385),-80761+10501504129181)]]={}if not D[bG[ZE(sG((-6356-331591)+((-129127+100472)-(-391439))),-247396+11564838990815)]]then o[bG[ZE(sG((-370499+-76767)-(-470928)),-725725+(480405+(18730183550791-(-893488))))]]=nil return end local G,e=W(bG[ZE(sG(1115885548%((-595301+377574)+12216240)),1004709+10881294418557)])if not l(G)then D[bG[ZE(sG(-588692-(-611889)),(-241014+28975447733451)-(-1047425))]]=e and(bG[ZE(sG(((-824256+525007)-(-159730))+162337),-943673+10449444172851)]..e)or nil if not e then o[bG[ZE(sG(-616744+639601),14755424601768-936611)]]=nil end return end local H,K=W(bG[ZE(sG(643391-620335),230751+(6.9996614498723e+14%12068382091589-(-866966)))])local S=u(H)if not S then D[bG[ZE(sG(-960740+985028),796996+((960021+4751521460550)-983373))]]=bG[ZE(sG(520362127%5003253),7859064991156-700570)]..((K or bG[ZE(sG(96678+-72210),26716037295724-976927)]))return end D[bG[ZE(sG(211393+-187463),-928676+7530258568846)]]=true D[bG[ZE(sG(11180936%259457),25189857812848-(-59114))]]=S local z=q[bG[ZE(sG(-463322+486402),((-374401+-345537)-(-670584))+11093507608476)]](S)if o[bG[ZE(sG((((-1008899-773183)-(-1002687))+868386870)%(3688282996%(1169461965%29528059))),-658517+9506163191774)]]~=z then local P=o[bG[ZE(sG(136915+-112492),29051303622082-(-502779))]]or{[bG[ZE(sG(-849632+874071),-136002+12436356011389)]]=nil,[bG[ZE(sG(522202+-498806),2977088713824-249200155%(2531548037%12976788))]]=nil;[bG[ZE(sG(240996-217368),-455833+1217011103233)]]=(572628+-779379)+-999793249}o[bG[ZE(sG(1786759%(205948-1559242824%6496395)),353783+21094023426074)]]=P if P[bG[ZE(sG(-286650-(-954482+611863153%5269130)),34408574846771-(-476618))]]==z and(b-P[bG[ZE(sG(1938154800%(11372560-(-28209))),-909368+27056140383395)]])<223415433%3662548 then pcall(function()(require(bG[ZE(sG(333314260%4629021),844738+939702088011)]))[bG[ZE(sG(3304139%1093522),27087773714876-(-341406))]](bG[ZE(sG(918560-894831),862527+12966427296733)],bG[ZE(sG(773207700%3117679),29680183596369-(-1523704-(-682129)))],bG[ZE(sG(-308650+333148),721934+12144281097736)]..(tostring(P[bG[ZE(sG(969679-945511),30508983649637-(-837891))]])..(bG[ZE(sG((1687823-695601)+-967601),-21532+(704058+4852203173210))]..tostring(z))),{[bG[ZE(sG(-598419+622768),-579495+932120489256)]]=tostring(z);[bG[ZE(sG(2692761887%11810251),-576258+9370182519453)]]=tostring(P[bG[ZE(sG(490837+(-1032094+565797)),2113390195493-(288864+-177704))]]);[bG[ZE(sG(2015625051%14930376),(-660193+471245)+14959175523950)]]=S[bG[ZE(sG(769119-745436),274091+30662896321183)]]})end)end P[bG[ZE(sG(775438+-751457),-358168+11205539369387)]],P[bG[ZE(sG((87274+487886164)%2554707),1031257+4425809578060)]],P[bG[ZE(sG((771132+-867568)-(-120349)),8212007514782-307201)]]=P[bG[ZE(sG((-14242+233045)+-194992),494828+(894120+14385891068630))]],z,b o[bG[ZE(sG(421680-398630),912412+8089429871954)]],o[bG[ZE(sG(2418423235%14656963),-611986+18246175242316)]]=z,o[bG[ZE(sG(398212+-374478),((18576802640381-313216)-53004)-621684)]]+(298449+-298448)o[bG[ZE(sG(568967797%5317223),30727359966356-989723)]],o[bG[ZE(sG((74300167197%364281708)%7019133),388080+26540282132833)]]={},((15920662409-(-439473))%65797361)%7104209 end do local b=T()if b then pcall(b[bG[ZE(sG(-59791+84624),2432494288720-(-428921))]],S,I)end end local k={}local c=A((W(bG[ZE(sG(-291067+313956),54203618019916%((621644+4927602772900)-420871))])))for b=217976366%927559,#c,-103595+444672930%(777096+1350030)do local P=u(c[b])if P then local b=q[bG[ZE(sG((414238124676%2168831139)%10747187),-117807+17162047872645)]](P)if not o[bG[ZE(sG(-888015-(-911671)),9700355591718-248640)]][b]then o[bG[ZE(sG(-797115-(-821507)),643166+12758657601162)]]=o[bG[ZE(sG(2133895513%9612038),-427035+((-914203+4175562624254)-(-18019)))]]+1074468773%14137747 o[bG[ZE(sG(-1006762-(-1031585)),71775+(579167+32597886741429))]][b]=o[bG[ZE(sG(-904383-(-927341)),22902298523991-1050814531%4269987)]]end k[b]=o[bG[ZE(sG((200153554-(1271749-3555689824%17256732))%(5390407-(-399))+-202107),-985298+(321319+(2085003027713-(-248780))))]][b]P[bG[ZE(sG(271544-248562),12418033034705-(-657592))]]=o[bG[ZE(sG(239079-214902),588062+17519408817065)]][b]D[bG[ZE(sG(573239806%3722178),(388563+10024090135471)-(103136+-820091))]][#D[bG[ZE(sG(-166357-(-191232)),-991337+7106670809896)]]+(313052-313051)]=P end end o[bG[ZE(sG(931769-907903),20753828995427-998255)]]=k local O=A((W(bG[ZE(sG((1032421+-1723894)-(-714937)),34628273224330-(-535782))])))for b=161469-161468,#O,414614939%((-429834+13105319)-480928)do local P=O[b]if type(P)==bG[ZE(sG((-89479+400634)-((-492023-(-223334))+556872)),6217511019559-86276)]and P>941104161%(926199603%(16625839-(243028885%1423518-1048409)))+-517755 then D[bG[ZE(sG(188387622%((-354815-(-1007827))-(-322963))),((-970881-(-385705+2531))-(316628+-1227450))+23245949080682)]][P]=true elseif type(P)==bG[ZE(sG((401609+-1231880)-(-281676-571454)),((-1838412-(-1547159-(-724931)))+734457)+3277381573218)]and P~=bG[ZE(sG(-843130-(558645+-1425485)),-388896+(29488593590594-(-679629)))]then D[bG[ZE(sG(234892081%13048254),1032306+(31802857469707-509119))]][N(P)]=true end end local X=n((W(bG[ZE(sG(318185-((-697439-(-531126))-(-461549))),28542630907037-820818)])))local g=X and(((X[bG[ZE(sG(-588191+611586),32721276234175-(-48035))]]or 1276228320%5187920))~=126098076%4849926 and X)or nil p(g)do local b=T()if b then pcall(b[bG[ZE(sG(((10720+562473598782)%2477887827)%15159122),(6452476672597-(-79078))-(593801+-1483563))]],g and g[bG[ZE(sG(-140942-(-165084)),606938+3348431776114)]]or nil,g~=nil and j[g[bG[ZE(sG((-109674+979569)+(-1729426-(-884286))),14680914988460-(-833548))]]]==true or nil)end end if X and(((X[bG[ZE(sG(1622264338%8449164),-157892+3794673720759)]]or-333774+(((65435+1987)-79849)+346201)))~=-913235-(-1316508-(-41969-361304))and(not X[bG[ZE(sG((1282970046-677376)%(183008119%12383357)),-178050+(418946+10553218017579))]]and j[X[bG[ZE(sG(987903395%8299712-(-347360+561176)),-408399+24577425155185)]]]))then D[bG[ZE(sG((112535083218%1389412613)%5831433),14665385578430-10015)]]=X end local w=A((W(bG[ZE(sG(2105701963%8322839),528778+34863526833202)])))for b=230523359%8866283,#w,2429761537%12524544 do local P=n(w[b])if P and(((P[bG[ZE(sG(((-849413+293228)-(-417543))-(-163406)),(631424+29369310215758)-(-557179))]]or-443821-(-443821)))~=(-906636+1705306571)%14820869 and(not P[bG[ZE(sG(1929459819%16490905),(32128917566154-(140006-(-617446+294760)))-29549)]]and E[P[bG[ZE(sG(494422+-469559),(149591-367620)+2990991835602)]]]))then D[bG[ZE(sG(622264632%8763964),-969356+18310255741320)]][#D[bG[ZE(sG((-221598+-675328)-(-921138)),109941+21710318727981)]]+(559274+-559273)]=P end end end local function f(b,P)F()local s=D[bG[ZE(sG(935648746%9547203),14572326044276-(835936+-1823325))]][b]if s==nil and not d then s=P()if s==false then return nil end return s end if s==nil then s=P()if s==nil then s=false end D[bG[ZE(sG(-959021-(-983874)),(545844+469653)+30385986202902)]][b]=s end if s==false then return nil end return s end function q.is_loaded()F()return D[bG[ZE(sG(1567092218%16323619),34344110869444-(-459344))]]end function q.read_problem()F()return D[bG[ZE(sG(5220-((1847719-918665)+(-343326+-604647))),(1040349+-690383)+24967334613167)]]end function q.ready()F()return D[bG[ZE(sG(696144-671473),10173433094295-(110717+636127))]]end local Q=false function q.update()F()if Q then Q=false q[bG[ZE(sG(((-811780-(145329+-321028))-233221)-(-892802)),776692+(21197045579650-(-1012603)))]]()Q=false end end function q.step()F()return D[bG[ZE(sG(92328780%1282006),740204+33663600818643)]]end function q.stickies()F()return D[bG[ZE(sG(((72494+777339)-232372)-594581),-580023+((-183341+27959889298023)-(-396733)))]]end function q.zygor_objectives()F()return D[bG[ZE(sG(801777+-777095),17063190771651-(-47237))]],D[bG[ZE(sG(943023+-920152),-927331+9661828269411)]]end local y,h=nil,543159+-543160 local Z={[bG[ZE(sG(315114247%2860826+-400081),855636+887560008537)]]=bG[ZE(sG((-346813-23556)-(-394807)),486452+25593717296250)];[bG[ZE(sG(129248294%3230602),912022+18709102012005)]]=bG[ZE(sG((1104448-337111)+(227772-3207629246%14064291)),2279241267060-(-295341))],[bG[ZE(sG((667494+-788614)+145819),259443+17997492241002)]]={},[bG[ZE(sG(-1023910-(-1047368)),(277376+-1220032)+14216122205224)]]=bG[ZE(sG(-465088+488474),232389+16475081345086)];[bG[ZE(sG(1161784612%13053480),22657902241183-(-43821))]]=bG[ZE(sG(446115+-422006),1061273601%(1020831+15297856)+28157795424705)];[bG[ZE(sG(78880-(386791+-332645)),-881733+31850857727169)]]=bG[ZE(sG((977896+-1516447)-(-562911)),6353451739113-(1247516-231792))];[bG[ZE(sG(392580+-369257),27517252996917-(-601217))]]=271914+-271914;[bG[ZE(sG(-358794+382832),628414+13678019158366)]]=(-369195+-433164)+198631195%2603011;[bG[ZE(sG(1528232560%(7232668-995078)),-86548+11932546490289)]]=bG[ZE(sG(72532434%1933640+(542066+-1505242)),26003711015685-849886)];[bG[ZE(sG(894700-871607),1011115+33800725092986)]]=(722140+-1204708)+482568;[bG[ZE(sG(-699492+722694),(22640332697429-1014697)-533620)]]=(-1317833-(-1005704-(-527225)))-(-839354)}function q.diagnose()Q=true if not d then return y or Z end local b=R()if y and(b>=h and(b-h)<1657410913%(884479566%11205841))then return y end h=b local P={}local s=O(rawget(_G,bG[ZE(sG(985188+-961628),98661844635796%1096242823755)]),bG[ZE(sG(1185874148%11402397),-1045240+(644706+18337456714829))])P[bG[ZE(sG(358220+-334776),27597868168329-(-567055))]]=type(s)local G=O(s,bG[ZE(sG(3435602450%13853139),(((-1999762-(-968476))+25599686651731)-(-781260))-(-250165))])P[bG[ZE(sG((-1821295-(-894042))+951703),215134+14785368971825)]]=type(G)local e={bG[ZE(sG(2137383194%14639445),43303+21392705762583)];bG[ZE(sG(88909505%1481424),5747812101311-144330)],bG[ZE(sG(((-104766-(-501482))+-1071471)+699081),471494+14344964246085)],bG[ZE(sG(1016530-992491),17569078831819-(-726991))];bG[ZE(sG(-15243-(-38864)),11396389862891-(-970737))];bG[ZE(sG(498795+(-1348684-(-1918284-(-1044718)))),16006472688144-358557)];bG[ZE(sG((-18563-253064)+(745192-449485)),-463009+(28279922773949-(-667541)))]}local H={}for b=669780-669779,#e,893292+-893291 do if O(G,e[b])==nil then H[#H+785220052%10197663]=e[b]end end P[bG[ZE(sG(732155-174803612%17409531),22604890796366-360439)]]=H local q,K=W(bG[ZE(sG(-139443+163944),1010241+11045327989318)])P[bG[ZE(sG(1229096879%11479483+(-1451327-(-104563-577912))),339430+(-921105+678511830681))]]=tostring(q)..((K and(bG[ZE(sG(-249686-(-274140)),-1040999+(24415977174691-(-99628)))]..(K..bG[ZE(sG(-40652-(-64137)),(324535+569999)+14066820481175)]))or bG[ZE(sG(-798779+822489),627613+24026251165558)]))local S,z=W(bG[ZE(sG(214083136%(-167234+8729573)),-293915+25182604659527)])P[bG[ZE(sG(104329126%1133754),133884+13368411560905)]]=tostring(S)..((z and(bG[ZE(sG(1113806797%((397333+((984015+-2287513)-(-635659)))+6132526)),-120955+19970549860387)]..(z..bG[ZE(sG(1410709713%11376507),22421863527511-328661)]))or bG[ZE(sG(687568-663858),26619466067079-177718)]))local k=nil if l(q)and l(S)then local b,s=W(bG[ZE(sG(824399+-799667),8211965989952-635892)])P[bG[ZE(sG(-24695+49211),14848+9923890371423)]]=type(b)..((s and(bG[ZE(sG((800704+(-742016-258181))-(-222774)),-694844+19440709359330)]..(s..bG[ZE(sG((152289624847%957859435)%14809530),121640+28569905822883)]))or bG[ZE(sG(918306427%5775363),6075477638276-((-133986+(720569+-818393))+(1808250-659064)))]))k=u(b)else P[bG[ZE(sG(2602937749%(933088678%21886789)+(12853-341835)),19281362876056-(-120834))]]=bG[ZE(sG(969932-946657),34135296781140-(-191368))]end P[bG[ZE(sG(58543381%11703740),431626+21582044551376)]]=k and k[bG[ZE(sG(469794-445049),-620119+31701322476551)]]or-530299+(1377492-847193)P[bG[ZE(sG(363718482%8265772),164321+19506658723643)]]=k and#k[bG[ZE(sG(258156-234134),14736755597483-(-97455+1042417))]]or-13160+13160 if not k then P[bG[ZE(sG(343018+(-90483+-228434)),27257598155906-1267848872%12929813)]],P[bG[ZE(sG(-540293-(-889479-(510697+-836229))),-31990+8289025260218)]],P[bG[ZE(sG(3436084916%15070446),-661911+(930002+4576884143105))]]=bG[ZE(sG((665879+(-166672-(-454565)))-930279),20459124941378-584030)],-693589+693589,-348783+348783 y=P return P end local c=n((W(bG[ZE(sG(-2588-(-26577)),(-557870-(-37885))+15665634572358)])))P[bG[ZE(sG((554139+-506793)+-24488),-851697+27700681301784)]]=c and string[bG[ZE(sG(((613006+-86645)-994510)+492763),104561+(-384775+27080987028304))]](bG[ZE(sG(843143681%7526150-191038),461742610%9219911+29578219306715)],c[bG[ZE(sG(-152475+176684),360151+4124282720827)]],c[bG[ZE(sG(-655312+679672),8205096758017-(-893478))]]or 906004512%10785768,c[bG[ZE(sG(135099-110892),180769+17388853151182)]]or 536390+-536390,tostring(c[bG[ZE(sG(49133-25887),14366693829356-975467)]]or bG[ZE(sG(645582-(779150+(-899730+742037))),349600+19903204132124)]),tostring(c[bG[ZE(sG((9464776-986677)%313092),662939+26940428908451)]]))or bG[ZE(sG(-795564-(-819649)),(432640+11430705242378)-245552)]P[bG[ZE(sG(333691-308928),(11164719358770-1036478)-(25030+-802658))]]=#A((W(bG[ZE(sG(((-424651+-683406)-(-481496))+651371),785348+23861205109651)])))P[bG[ZE(sG(37106+-13789),-387279+21420200790427)]]=#A((W(bG[ZE(sG(-425001-(-448192)),406769+24917676070839)])))y=P return P end local bA={[bG[ZE(sG(474946-451628),-315137+23133113198597)]]=bG[ZE(sG((1168885905-417302)%10249513),16518800097834%384158456260)];[bG[ZE(sG(-76148-(-530655-(-429767))),3742297593852-430930)]]=bG[ZE(sG((230515-(-549416))-755778),(25232766605157-(-611634))-757205)];[bG[ZE(sG((-118794+((-619136-(-314996))-375685))-(-823157)),620906089%(32335197%(1051796006%(619137+7937182))+3502324)+23559542249353)]]=bG[ZE(sG(345599+-320763),12655394994077-(-466722))];[bG[ZE(sG(241419186%((15848547-(-73010))-834326)),915307+22436562644677)]]=bG[ZE(sG(28470402%2370500),5758812333004-234647)],[bG[ZE(sG((-859879+1173751917)%10653536-979123),5129563553623-(472233+-1507112))]]=bG[ZE(sG(1051602-1028604),1999569258%12266405+5890461984138)];[bG[ZE(sG(-330144+(221385845-(-332911-(-826548)))%(-20261+9209316)),9512650706185-(-676776))]]=bG[ZE(sG(49632-(-330455-(-356720))),20756648149370-(-43637))];[bG[ZE(sG((1972607892%179405825)%7140988),(497939+-57127)+2984087533017)]]=bG[ZE(sG(-903522-(-927562)),19839856890771-(-553004+170977))];[bG[ZE(sG(3581923506%14385142),(28185882024496-(1100558135%(-993997+(6219293-3348434269%16097265))-1018059))-(-1047952))]]=bG[ZE(sG(145715973%1798658),-786903+(3592448257%(3299398862%21060039)+32002210241927))];[bG[ZE(sG(-422468-(-447311)),22247113823053-(-912551))]]=bG[ZE(sG(-428388+451744),33896306999253-(-800830))],[bG[ZE(sG(((-561704-(-420391))-97886)-(-262468)),(((987696+(118082+-1674549))+(27793191955628-902829))-338365)-(-312151))]]=bG[ZE(sG(577986+-554592),((867685+-957317)+11603100595713)-10742)],[bG[ZE(sG(-424661-((184442+-1227146)-(-595193))),415659+12178210416674)]]=bG[ZE(sG(2183164542%11864893),(361705+32115527046844)-(-931053))],[bG[ZE(sG(-679737-(-704368)),1795159699950-788032)]]=bG[ZE(sG(-979280+1002823),(163197+-738158)+15263967593037)];[bG[ZE(sG(-553600+(-657773+1235952)),(-457268+31826463428851)-230624)]]=bG[ZE(sG(-86809+110627),(12776003296090-(-3577))-(-857134))],[bG[ZE(sG(2816808032%(1175035821%27064388)),410105+(111011+23470878219443))]]=bG[ZE(sG(921951+(697291+-1595413)),-886288+31526608983200)],[bG[ZE(sG(767091+(-1025025+(-735937+1017395))),-931574+18405159427810)]]=bG[ZE(sG(382618355%1700421),28437659972134-((1150691-335637)+-615211))],[bG[ZE(sG(694713+-670013),(687381-352335828%13012814)+17332805668099)]]=bG[ZE(sG(3472909138%16459170),-38762+11170276457093)];[bG[ZE(sG(1134768429%10605085),-154019+21048252556230)]]=bG[ZE(sG(577860-553488),-944710+15346629844110)];[bG[ZE(sG(595809-571468),1.6363787420573e+15%24423563467442)]]=bG[ZE(sG(((719651+237492014278)%993735258)%6831378),(-980962-(-728794))+26605647331104)],[bG[ZE(sG((-723604-(-824779))-78290),820149+1823146153648)]]=bG[ZE(sG(627047802%(-172898+11573339)),17038236230814-263651)],[bG[ZE(sG((-151062+531776715%12076172)-249970),-608165+30792335646420)]]=bG[ZE(sG(141466720%614969),1.5025204849919e+15%7365296571710)],[bG[ZE(sG((120151061615%976927507)%(5357038130%22262666)),(-173349+(165554-700351795%7606349))+(398816+33677151852357))]]=bG[ZE(sG(796633-771725),17936752298585-(-991649))],[bG[ZE(sG((-1623927-((-925631+581460)+-667965))-(-636073)),(-607221+16011820183859)-(-791266))]]=bG[ZE(sG(-440727+(-173200-(-637113))),7516142981251-(1006738+-1077854))];[bG[ZE(sG(2060546563%14113167),3060501496%15852812+5271310326086)]]=bG[ZE(sG(409756+-385472),33746530901205-(-14859))];[bG[ZE(sG(1374680461%12968453),30160688871583-(-714002))]]=bG[ZE(sG(999835525%10986943),-541191+15068971063269)];[bG[ZE(sG((675868-446655)-205081),(608911+-14618)+12494126222552)]]=bG[ZE(sG((3711896918-1023148)%14784265),5.4679930928909e+15%24854514132646)];[bG[ZE(sG(80949-57008),(-188331+33552858023598)-(-1465819-(-833634)))]]=bG[ZE(sG((-509145+1448540)-(905089-(-9835))),520205065161-(-223353+186258539)%16888864)],[bG[ZE(sG(1156629729%(80388+6205519)),6160472235004-(-410443))]]=bG[ZE(sG(946790+((2110259672%11165274+-843562)-102232)),23117461166356-522722)];[bG[ZE(sG(-920545-(-944194)),30956990483406-(-595987))]]=bG[ZE(sG(736610923%13897883),27516095217360-(-516535))],[bG[ZE(sG(-978081-(-1001118)),5802346332735-365624)]]=bG[ZE(sG(774616+-750807),(-675955+1105642)+23723148601158)];[bG[ZE(sG(((401409772-621262017%2433264)%8010342-73947)+-14320),13193584250923-(-591422))]]=bG[ZE(sG((-693933+745726680)%(4187398-948225)),28613419401549-(-573049))];[bG[ZE(sG(2200061568%15172680),234765+33386204439531)]]=bG[ZE(sG(101809-78244),(26149783220314-799038)-(-655574-477498252%4868769))],[bG[ZE(sG(-16754+40252),(-908286+21789525784259)-(-225501))]]=bG[ZE(sG((167232071169%705647586)%15538176),(979462+11197655378383)-(-952350))];[bG[ZE(sG(3089871204%12928232),721560+16796093674311)]]=bG[ZE(sG(-1046106+1070558),695325+27869209782221)],[bG[ZE(sG(-338976-(-362515)),19557080002314-(-171914))]]=bG[ZE(sG(64674573%1314985+(431329-648406)),(949388+-1634904)+((1004764+23373843939167)-(-785548+207101)))],[bG[ZE(sG(554514+-531678),(-158353+251006)+34112117490961)]]=bG[ZE(sG((469187+(-536408+966706443))%5461103),17177476497274-(-852362))],[bG[ZE(sG(-487561-(-511187)),19154474007709-(-718469))]]=bG[ZE(sG(1007718+-984000),-369222+((-397609+507929)+26375499730053))];[bG[ZE(sG((289845223576%1906982161)%10867205),-281602+2840602357577)]]=bG[ZE(sG(675443+-650785),30573656684631-722649)],[bG[ZE(sG(-425645+450284),646515+31935901671611)]]=bG[ZE(sG(110474-(892034+-804687)),208399+(323417+9207904109329))],[bG[ZE(sG(-992411+1015564),17531285401001-849588)]]=bG[ZE(sG(2863622899%14760819),-727225+7895653271326)],[bG[ZE(sG(-749582-(-316501+-456107)),7685856954077-291254)]]=bG[ZE(sG(3006038346%(11941528-(-1014884))-126056),2.2841907413902e+14%1001838059168)],[bG[ZE(sG(173943+-150661),-925153+28459123142065)]]=bG[ZE(sG(-296961-(-320933)),17873124069316-1038762)];[bG[ZE(sG(716610+-693459),(362031+27307177183430)-(-50834))]]=bG[ZE(sG(479647+(941395+-1397853)),(-669711+12921044213853)-(-652911-(-460990)))],[bG[ZE(sG(-983770+1006870),(825754+105503)+(13499284198140-(-370937)))]]=bG[ZE(sG(933680-910688),-872254+602726300460)];[bG[ZE(sG(291405+-266771),20709449676957-(-587713))]]=bG[ZE(sG(-88342-(-111424)),3027964035626-375229)];[bG[ZE(sG(34820629%1338336),-953310+26187977845910)]]=bG[ZE(sG(-683865-(-1001625-(-293965))),404085+9955580329280)];[bG[ZE(sG(771783-747489),819797+22020922711356)]]=bG[ZE(sG(211850-186929),30730260214326-((119958216%(420011+2608473)-486605)-(1935699-990281)))],[bG[ZE(sG(((233959-250736)-632627)+(765498-93060)),22295662243366-(-288386))]]=bG[ZE(sG(911307+-888176),14526135982763-615194)],[bG[ZE(sG((886756+-1893636)+1031292),921532632100-(883138+-1361904))]]=bG[ZE(sG(-524020-(57800-605139)),-11513+3072890373332)],[bG[ZE(sG(780910+-757899),(-961518-(-336195-(-41201)))+9317922720760)]]=bG[ZE(sG(67807905%((1852858-193416098%2441719)-844904)),9219879615862-(-403351))];[bG[ZE(sG(-625372-(-948003+299406)),286117+33795000401073)]]=bG[ZE(sG(-960835-(-985665)),-77187+9038648768125)];[bG[ZE(sG(-840172+(647487127%16588418+325729)),435306+14744515351999)]]=bG[ZE(sG(63249119%331020),(22747251449222-(-474153))-(-290749))],[bG[ZE(sG(960908+-937004),((21140947034401-846270)-(-990701))-(-539181))]]=bG[ZE(sG(-922475-(763525459%((383482-966145)+4515400)+(-903866+-617495))),9428974911228-(-1042003))],[bG[ZE(sG(463649+-439217),27616874297538-(-233802))]]=bG[ZE(sG(305276036%16065946),(-415235+-153306)+7141798374113)],[bG[ZE(sG(1774067650%(-532688+7489723)),(1417801-650359)+1519778051788)]]=bG[ZE(sG(-45946+69355),-516757+34644863325536)],[bG[ZE(sG(-664700-(-689097)),7435631920487-286658)]]=bG[ZE(sG((599019542997%(314330868875%2709848184))%14775239),17658092008821-(-984771))];[bG[ZE(sG(135410+-111860),(-562566+(9047693840819-27883))-(-457390))]]=bG[ZE(sG((412410-(-397900))-785360),-172942+4961067810789)],[bG[ZE(sG(1050348-237423739%7625686),(5926972274349-1007961)-(92737-854121))]]=bG[ZE(sG(-529126+(966682+-413406)),-246151+29783880281490)],[bG[ZE(sG((319652-730849)-(-935142+499647)),(2372328320152-13929)-(-1017401))]]=bG[ZE(sG(-768965+793661),-229647+3708506984634)];[bG[ZE(sG(1206635496%5718537),-938283+6523828257890)]]=bG[ZE(sG(742110-718736),(198285+16913347063749)-(-4580))],[bG[ZE(sG(40246899%13407594),306424+28955434968591)]]=bG[ZE(sG(953009830%6439095),471786+28840081614015)],[bG[ZE(sG(-948003+972920),31758995649905-529520)]]=bG[ZE(sG(-502390-(281077+-807478)),30505100612357-(-730044))];[bG[ZE(sG(-35391-(-369030-(-308691))),19201674260897-917603)]]=bG[ZE(sG((759004-(-279653))-1015550),815895+7216082856769)];[bG[ZE(sG(492900-469005),34565623864646-42516)]]=bG[ZE(sG((99969-673332)+596225),-944607+12468002239086)],[bG[ZE(sG(531245+(-500078-6909)),24290773237436-391698)]]=bG[ZE(sG(201623+-178209),329043+1128706350553)],[bG[ZE(sG(((-822642+1037569)+3278387970)%14379733),-94904+6269484446254)]]=bG[ZE(sG(2948666447%((-268751+-412821)+12476142)),26534245287313-(-292816))];[bG[ZE(sG(345769453%6914915),24904228402621-(-994650))]]=bG[ZE(sG(-269665-(-294287)),44793987537-(1093062-197154))];[bG[ZE(sG(2964124562%16746331),(-14154+3011586293171)-(-854222))]]=bG[ZE(sG(17028834%(8892521-670664)-560444),6012252788570-1005192)];[bG[ZE(sG(312510034%14880287),21178475129512-482118)]]=bG[ZE(sG(39568-(-355950-(-371508))),395549+((-564232-(-207320))+24361559607799))],[bG[ZE(sG(614476+-591048),-234169+1500441742544)]]=bG[ZE(sG(43273652%4805631),33702894194414-641431)],[bG[ZE(sG(120652262%10966204),-495620+34673017539314)]]=bG[ZE(sG(986254+-962230),19027536496047-118021)];[bG[ZE(sG((350356-(-391475))-718507),137676+1325185539132)]]=bG[ZE(sG(-454977-(-479654)),(-461386+(13918779696192-(-470492)))-(36696+-267147))];[bG[ZE(sG(144096+((946357+-1691497)-(-624557))),-707165+(28899035571326-(-15689)))]]=bG[ZE(sG(379087267%9245441),-290564+(548329+21992859111843))];[bG[ZE(sG(76756+-53051),888775+6904039048652)]]=bG[ZE(sG(476826648%10595609),-206348+14993479287069)],[bG[ZE(sG(-20457+(-952347-(-997564))),28518809200480-(-833786))]]=bG[ZE(sG(136978223%8559606),910212+7045068851568)],[bG[ZE(sG(741268+-718266),(-597368-9504)+30563792066325)]]=bG[ZE(sG(-787449-(-810577)),30362641122862-834354)];[bG[ZE(sG(880142-(90571+764991)),24218627587849-(-774917))]]=bG[ZE(sG(915483+-891912),-266497+(193606080203-472031))];[bG[ZE(sG((-1443790-(-368305-431626))-(-666777)),28900132694414-(-185615))]]=bG[ZE(sG(468671+-444783),1606815738416-13998)];[bG[ZE(sG(332541-(-328395-(-1619465-(-983296)))),28629820364449-(-410641))]]=bG[ZE(sG(-691023+714601),((-1649537-30286)-(-999402))+21219832170260)];[bG[ZE(sG(571121911%3684498),-57687+19432404242412)]]=bG[ZE(sG(155510-130620),-516872+28856964322217)];[bG[ZE(sG(898044742%4490108),27293952352550-(-165061))]]=bG[ZE(sG(631146714%2494556),12466876176033-991498)];[bG[ZE(sG(-623751+646726),-859+(26684401649929-(-656799+((28860832843%1110098384)%7381630-(-355180)))))]]=bG[ZE(sG(1090404572%4720261),-973595+31011184925063)];[bG[ZE(sG(566987418%2519834),27418469709420-332187)]]=bG[ZE(sG(707320383%3048696),(-713640-(-824052))+22016098036989)],[bG[ZE(sG(-124462+148576),33316757499248-511951)]]=bG[ZE(sG(-143480+168418),102240+3262390113031)];[bG[ZE(sG(-77387-(-101581)),-308738+31108967138866)]]=bG[ZE(sG(344577+-320765),((1449801-1037027)+-941949)+33028572924013)];[bG[ZE(sG(689469381%3206721),19740712675183-(-497523))]]=bG[ZE(sG(1098462798%8076755),(-577639+5793435362744)-(-317059))],[bG[ZE(sG(-392886+417429),249926935543-60913)]]=bG[ZE(sG(-918431-(-942129)),663990+21385237181176)];[bG[ZE(sG(-160923-(-184489)),-635368+1747391416520)]]=bG[ZE(sG(1461027231%6087510),-72104+(195192884%10828215+35025362671707))];[bG[ZE(sG((-540353-(-189423))+375190),(548320+16364556561287)-(-783410))]]=bG[ZE(sG(1558397305%6926102),5.9373860641218e+15%26155885752845)];[bG[ZE(sG(668643+-645417),((-453348+461612)-(790163-((-812766+459677583)%7169391-(-382523))))+14746540104793)]]=bG[ZE(sG(((-374803+1895020304%7702172)-503681)-(-616672)),-939922+31227356583095)];[bG[ZE(sG(-962388-(-986048)),18201401239170-(558936-967247))]]=bG[ZE(sG(-263138-(-287441)),-403673+7730850524589)];[bG[ZE(sG(1728258606%8772770),(16278670884945-919840)-806368)]]=bG[ZE(sG((300227036909%((59812+-518939)+225362094786%(1586889160-(-213520))))%12226299),28150633991776-(-408147))];[bG[ZE(sG(1085382547%5712412),(4788130453349-534746)-(510700-629803))]]=bG[ZE(sG(792340+-768800),31270708088444-(-116876))],[bG[ZE(sG(274060-(537016-285912)),(402422+12611871358331)-(-1017074))]]=bG[ZE(sG(38277626%406946),1912153994452-(-1188649-(-542708)))],[bG[ZE(sG(1247509808%12994651),727077+(-724203+(-536674+4724661566290)))]]=bG[ZE(sG(347580161%5697650),15162160024496-(-201414))],[bG[ZE(sG(-1003653+1027704),343801+2187334516076)]]=bG[ZE(sG((-557775-295007)-(280792+(167528+-1325730))),34801389177046-38360)];[bG[ZE(sG(1404019723%(10291270-(-493323+(-333067+317697)))),((20387415219868-192876)-482151)-652037)]]=bG[ZE(sG((994777-747976)-222190),25252057834312-381557)];[bG[ZE(sG(-389695-(-413935)),28581598504702-(-642136))]]=bG[ZE(sG(662564869%3785946),2415802959155-(-423247))]}q[bG[ZE(sG(211127+-186423),17814085694041-(-394782))]]=bA local PA={[bG[ZE(sG(1214906851%11681565),-765432+3379533510298)]]=true,[bG[ZE(sG(214547151%1198451),-805298+28529881077131)]]=true}local sA={[bG[ZE(sG(((-210325-488125)-67495)-(-789479)),-715024+2984725094714)]]=true;[bG[ZE(sG(238238-215172),-690891+23781049653448)]]=true;[bG[ZE(sG(-431497+454721),-222681+34185433489677)]]=true,[bG[ZE(sG(-570838+595091),23757035366432-(-25462-(-846383)))]]=true;[bG[ZE(sG(800222+-777135),3862634677856-(-209011))]]=true}local GA={[bG[ZE(sG(569881+-546250),35057948694710-(-654382))]]=true;[bG[ZE(sG(935180+-910492),20633002559735-(466908-181607255%9541815))]]=true,[bG[ZE(sG((-338496-35800)-(-398313)),118132+20016653813682)]]=true,[bG[ZE(sG(-593209+616538),(-63793-126541)+2975728202315)]]=true;[bG[ZE(sG(566566+-542250),22251254540776-20774)]]=true,[bG[ZE(sG(325314+(-874817+573244)),((3814543182%16654983+33273467356508)-2681526557%(12666243-(-669747)))-(-611611+12883))]]=true}q[bG[ZE(sG(341176+-317839),(32062587341161-(-853491))-742774)]]=GA local eA=nil function q.version_module()if eA==nil then eA=false local b,P=pcall(require,bG[ZE(sG(335698174%1918140),3587263715075-989465)])if b and type(P)==bG[ZE(sG(1601114525%((87827+4531956338)%20374546)),(591074+-1597543)+1805241828956)]then local b=nil if type(P[bG[ZE(sG(227583+-203014),523342+17655914815555)]])==bG[ZE(sG(1062916-1039826),6854551707965-(580100+(-200035+293746)))]and P[bG[ZE(sG(1892709434%8053983),1412179110869-814130)]]()then b=bG[ZE(sG(924332+-899918),22473662315311-(-450501))]elseif type(P[bG[ZE(sG(54911-31269),((97285+-1037599)+3917178666636)-(57633-(-291399)))]])==bG[ZE(sG(((((-757094+1101317155%9918676)+-670281)-(-1414433-(-991997)))+722775)-294799570%1665314),-745459+19985443227010)]and P[bG[ZE(sG(777061-753234),-756565+10689887672924)]]()==bG[ZE(sG(-571791+596532),12027193064993-(-850128))]then b=bG[ZE(sG(-861834-(-1807011-(-920357))),(564200+3803225315558)-241385)]end local s,G=false,nil if b then s,G=pcall(require,b)end if s and type(G)==bG[ZE(sG(1102076803%5173959),((-171914+1151718)+-1264763)+11374270952373)]then pcall(G[bG[ZE(sG((-489540-18867)+532864),15795906508348-438051)]],bA,GA)eA=G end end end return eA or nil end function q._reset_version_module()eA=nil end local function HA(b,P,s)if type(b)~=bG[ZE(sG(61496-37624),32174782266316-(138719+239035))]then return nil end local G,e=b[bG[ZE(sG(667146810%8037617),(16478+16837180821240)-204061)]],b[bG[ZE(sG((846296+-1112317)-(-290780)),(795576+31092515905533)-(-1040340))]]if((b[bG[ZE(sG(-969493+(-988801+1981315)),317346416%1471830+32236798217061)]]==bG[ZE(sG(548642+(-14295-510982)),-152283+(8172232949718-(-959013-(-116029))))]or b[bG[ZE(sG(-982675-(-1007238)),8894226866674-224786)]]==bG[ZE(sG(655413961%(2280231-(99414+-656370))),780353+19375087649205)]or b[bG[ZE(sG(323066245%(12305398-340867)),69005199693116%13801042760268)]]==bG[ZE(sG(296404414%(2320061015%11538569+5777607)),146495+25160518003559)]or b[bG[ZE(sG(-383151+407709),-903355+(-426243+4634831592172))]]==bG[ZE(sG(-564796-(-588679)),(-696762+16335284346922)-963621)]or b[bG[ZE(sG((348197-284754)-(-456131-(-120132-(-977468+4347812960%17112045)))),-162488+(-1000335+33277348525555))]]==bG[ZE(sG((101560757886%481380318)%3859565),22645485269164-(-246891))]))and(not G and type(s)==bG[ZE(sG(898574704%3637860),-186193+4163061165709)])then for b=109798170%5778851,#s,(217298543032%1044782954)%4414041 do local P=s[b]if type(P)==bG[ZE(sG((1325902710%16567063+-601503)-(-87555)),16634533171047-957587)]and(sA[P[bG[ZE(sG(424595+-400558),72940+(-1036067+6944155990350))]]]and((P[bG[ZE(sG(683643+(-218656+-440583)),9726718715000-((495559-(-486435))+(-893876+-511157)))]]or P[bG[ZE(sG(219140+-195681),-822710+(-707812+24175564711620))]])))then G,e=P[bG[ZE(sG(974818+-951335),28978003238234-(-257672))]],P[bG[ZE(sG(-732565-(-755818)),81302395502387%1401765477993)]]break end end end local H=GA[b[bG[ZE(sG(-294561-(-318915)),588140+29360913286952)]]]and b[bG[ZE(sG(-938516+961979),32247283561111-(-312787))]]or nil return{[bG[ZE(sG(1657864893%12464962),((227843+714014)+(-813856+(-763470+72362849079634)))%4020158683827)]]=b[bG[ZE(sG(229894+(-932528-(-726466))),17607674071245-241615)]]or bG[ZE(sG(2163337700%((391108+15216822)-333450512%11485180)+-989394),1006423+(10529703077862-1003183))];[bG[ZE(sG(-714780-(-850854-(-111133))),(47411479508057-116277)%23705741419808)]]=b[bG[ZE(sG(672280264%4481703),325766+31654284960657)]];[bG[ZE(sG(1912707310%12260793),2.0356614195515e+14%2077205554065)]]=G,[bG[ZE(sG(1263162108%13291593+-436716),872930+18501369126871)]]=e;[bG[ZE(sG(871835+(-55892-792531)),-271558+13766141810831)]]=(not H)and b[bG[ZE(sG(20954203%10465242),(-662084+1364455)+27490119189339)]]or nil;[bG[ZE(sG((-634531+-253618)-(-913025)),31118753191821-(-581498+1107267))]]=b[bG[ZE(sG(32959682%998042),1047873+7663059125517)]];[bG[ZE(sG((355348+1519800555)%10271160),13284853518555-47263)]]=H;[bG[ZE(sG(-134234-(-158843)),996837248385-211945)]]=b[bG[ZE(sG(-259876+282807),(-66313-118745)+22043803042524)]]or(((b[bG[ZE(sG((919284996-(1023842-243648))%(1240556816%5152632)),5212664525472-(-346259))]]~=bG[ZE(sG(289087972%2470633),764897+28327852634136)]and b[bG[ZE(sG(2733079722%11247145),-94262+5650708240970)]]~=bG[ZE(sG(629650045%(2593263585%17988718)),34151184509013-863489)]))and e or nil);[bG[ZE(sG((830624+(843890600%12215143+-1878868))+26148),520306+27387685724785)]]=PA[bA[b[bG[ZE(sG(-213658+238069),-939151+33659601803217)]]]or bG[ZE(sG(-613515-(-637225)),(28512522039864-(-239903))-(-8855+-648695))]]==true;[bG[ZE(sG((-952625+263148848%2390013)-(-729170)),6499403405221-656794)]]=b[bG[ZE(sG(((-566801-(-365632))+(326599+-22921))-79373),20600780698535-(-9360+904958))]]==true;[bG[ZE(sG(11595+11491),(-766789-(-369681))+14309168272968)]]=P;[bG[ZE(sG(517480+-493367),4403979382614-(-860889))]]=nil}end local function qA(b)if type(b)~=bG[ZE(sG(692506-669103),-424968+25556813525764)]then return false end local P,s=pcall(require,bG[ZE(sG(1474909163%15363390),7803269822457-118519)])if not P or type(s)~=bG[ZE(sG(171920+-148383),77771+(762487+15390395744336))]or type(s[bG[ZE(sG(-460892-(-483995)),18989357686303-(-1580169-(278485+-1242592)))]])~=bG[ZE(sG(160850+-137799),31760861845753-357314)]then return false end local G=s[bG[ZE(sG(582461-558460),33150331186410-(-367210))]][bG[ZE(sG(786097-763050),-405288+14811560348943)]]return type(G)==bG[ZE(sG(868187-844228),(39682551159434-(-385364))%330688043938-(-780907))]and G[b]==true end q[bG[ZE(sG(547630+-524163),-906560+28067835401788)]]=qA function q.step_num()local b=q[bG[ZE(sG(-808559-(-831895)),-425329+25031750513993)]]()return b and tonumber(b[bG[ZE(sG(861276-(704407-(-133273))),581832+23703333957053)]])or(-1863259-(-1038608))+824651 end local KA={}local SA=nil local zA={}function q.mark_goal_done(b,P,s)if b~=q[bG[ZE(sG(169745-146657),20704761106025-(-845058))]]()then return end if SA~=q[bG[ZE(sG(742564+-718712),-262847+15462770859795)]]()then KA,zA={},{}SA=q[bG[ZE(sG(((336587+557843161740)%2295706833)%9549880),499468+26394342721328)]]()end local G=q[bG[ZE(sG(-889210-(-1700662-(-788191))),14080218547633-((448526-(-106019))-146450))]]()..(bG[ZE(sG(3540325718%16543465),430068+(7852196101456-(-674533)))]..tostring(P))KA[G]=true zA[G]=s or zA[G]or bG[ZE(sG(146623179%6980942),4192483359115-(909929+1763333280%(653462393%(119779+26451835))))]D[bG[ZE(sG(3008175043%(1047174192%16407694)),10129181437928-883492)]]={}end q[bG[ZE(sG(753049282%(3199463737%21294896)),19183057386993-(-411706))]]=q[bG[ZE(sG(994788-((827807+-643129)+785164)),6360970254634-(741693+-894718))]]function q.skip_current(b)local P,s=W(bG[ZE(sG(-922351-(-947044)),-24361+34655166701700)])q[bG[ZE(sG(-1351-(-25793)),(17016+11661963711439)-381533737%6039801)]]()local G,e=pcall(require,bG[ZE(sG(2914710702%16103242),30194960626253-(-672832+1607987))])local function H(b,...)if G and(type(e)==bG[ZE(sG(811703+-787858),2890335762867-228913)]and type(e[bG[ZE(sG(716040121%5917493),(317476+(-90416+(17711810286223-182204)))-801999)]])==bG[ZE(sG(-189560-(-213291)),56007+30538861204926)])then pcall(e[bG[ZE(sG(809783+-785115),-1008920+10938655296880)]],bG[ZE(sG(1766396461%7850544),467511+(15319589826625-(145339+101584760)%4388844))],b,...)end end if P==true then pcall(function()(require(bG[ZE(sG(-759361+783987),5515063403424-110542)]))[bG[ZE(sG((504624+-635632)-(-154686)),18661647364117-816517)]](b)end)H(bG[ZE(sG(3913065980%15842279),5707201111068-638861)],tostring(b or bG[ZE(sG(231719438%4455681),12249617058635-439250)]))return true end if s then H(bG[ZE(sG(((348864+(-277968+(1070378-239926)))+106904903)%2694548),31768728786834-(979446+-1475378))],tostring(s))end return false end function q.goal_held(b,P)if type(P)~=bG[ZE(sG(-994840+1018991),394213+19416455710219)]then return false end local s=D[bG[ZE(sG(264211+(88476-329155)),(-179221-1967272139%8742046)+23798475385439)]]if type(s)~=bG[ZE(sG(291055+-267342),300026+15627058894413)]or SA~=q[bG[ZE(sG(427216572%7365380),-723069+19114284718671)]]()then return false end return KA[q[bG[ZE(sG(-872052-(-781793-114665)),16467514509699-(-171734))]]()..(bG[ZE(sG(2594845117%13444668),1021392+3286458977905)]..tostring(b))]==true end function q.has_local_done()return false end function q.forget_local_done()KA,zA={},{}D[bG[ZE(sG(1063863113%14573137),42736010398969%(7122668890860-(-1710927-(-906122))))]]={}end function q.goal_quest_ids(b)local P={}if type(b)==bG[ZE(sG(385808607%8386609),-442102+7744466124597)]and(tonumber(b[bG[ZE(sG((3974545063-(-488544))%15900037),33152650990098-(-861360))]])and b[bG[ZE(sG(194074+(-661214+490610)),489340+9631873090680)]]>-335760+335760)then P[911621125%8937462]=b[bG[ZE(sG(-345713+370186),(-1173640-(349209-999867))+32745545826808)]]end return P end function q.invalidate()D[bG[ZE(sG(72362+(-997081+948234)),(33203114325277-(-832319))-(-682381))]],D[bG[ZE(sG(36059841%(2457749398%(23365188-883149))),37832+29555668782435)]]=331161-331162,nil D[bG[ZE(sG(-985999-(-433909-576989)),28232256598304-(-834878))]]={}end local function kA(b)local P,s=pcall(require,bG[ZE(sG(298042963%2175315),1577830034665-(-85914))])if not P or type(s)~=bG[ZE(sG((31072957546%(-864215+2073200848))%9810577),34119921857228-(-595572))]or type(s[bG[ZE(sG(105688834%2032030),1990613699%8124001+2240046487409)]])~=bG[ZE(sG(695133-672261),862564+24662299002339)]then return nil end local G,e=pcall(s[bG[ZE(sG(-805617-(-830306)),2.5919129948144e+15%21245188581853)]],b)return G and tonumber(e)or nil end function q.use_ingredient(b,P)if type(b)~=bG[ZE(sG((-715641-211706381%932274)-(-819113)),86457+286173382593)]or(b[bG[ZE(sG(((287860662-470073)-(((-972202-(-310551))+-188580)-(-63350)))%3647505),14599785088278-(-6316))]]~=bG[ZE(sG((-850658-64524)+((831070-(-160086))+-52810)),-718423+17912620411428)]and b[bG[ZE(sG(1694078107%15981634),16131540184919-(-71090))]]~=bG[ZE(sG((987533+-902636)+-60284),4398571007071-21394)])then return nil end P=P or((q[bG[ZE(sG(34388-10322),15762946108155-(187908434%(7352080-129921)+(-104426+186569)))]]()or{}))[bG[ZE(sG(187773+-164284),904753+12574312850468)]]if type(P)~=bG[ZE(sG(1251103921%12265494),(252847-459186363%2055594)+29785100971835)]then return nil end local s=tonumber(b[bG[ZE(sG(124082+-100188),41226+3704318588668)]])if not s or s>#P then return nil end for b=s-(680298-((-630493+196292)+1114498)),509696771%(52876790%(1715678709%18520557)),69538-69539 do local s=P[b]if type(s)==bG[ZE(sG(567669695%4143406),34120762671092-(-284219))]and(((s[bG[ZE(sG(906539+-882602),11355673332038-664946)]]==bG[ZE(sG(2898457157%(12728819-(-384624))+(673319+-1035147)),-465879+(479103+28188343588615%14094175312287))]or s[bG[ZE(sG(-942186+966864),(1794411117819-(-563445))-(-589677+(438751+(-749077+16831))))]]==bG[ZE(sG(-262053+286947),6350490493763-402570)]))and tonumber(s[bG[ZE(sG(-12681-(-36222)),(-821752+26299826019815)-194115)]]))then return tonumber(s[bG[ZE(sG((-212269+3452101297)%15834239),(-813025+1166949)+1355579020367)]]),s[bG[ZE(sG(128405-104841),415763+(24514855171837-497903591%9050456))]]end end return nil end function q.use_missing_ingredient(b,P)local s=q[bG[ZE(sG(9311983%157419),30524313296472-680719)]](b,P)if not s then return false end local G=kA(s)return G~=nil and G<=2777947420%15015932 end local function cA(b)for b,P in ipairs(b or{})do if P[bG[ZE(sG(416517452%16018949),-669971+23689338007204)]]==bG[ZE(sG(1905901712%10191855),5925266128416-(-227843))]and tonumber(P[bG[ZE(sG((-1690593-(-995074))+((-76291+-418983)+472507327%8892329)),-391122+(670008+20116311415004))]])==778748-(321139-(-669775-(-222084)))then return b,P end end end local function OA(P,s)if P[bG[ZE(sG(67865548%2826733),564564+11053100236264)]]~=bG[ZE(sG(542063517%2723821),23253569928507-(-820031))]or tonumber(P[bG[ZE(sG(-883917-(-907698)),(32227663754941-936710)-(-461541+-263355))]]or P[bG[ZE(sG(79628+-56151),28021537124877-600684)]])~=1146523455%(117304080%17473678)or not cA(s)then return false end local G,e=cA(s)if e[bG[ZE(sG(864247+-839329),(-887290-(-98546))+10974737431495)]]==true then return true end local q=K(function()return b[bG[ZE(sG(-905597+929159),35133790297691-(748160+-435642))]]()end)if not q or z(q[bG[ZE(sG(2103289586%9223661+(-767408+497292)),-128076+6874666054853)]],q)~=true then return false end for b,P in ipairs(H()or{})do if z(P[bG[ZE(sG(320620+(354608+-651703)),34571499482700-14815)]],P)==true and(z(P[bG[ZE(sG(338457+-315581),9866+31520169539273)]],P)==-587703+1472167166%((752844880-506744)%28402134)and(z(P[bG[ZE(sG(2849419384%12335048),20662374431632-(-157457+-73979))]],P)==false and(z(q[bG[ZE(sG(1931056676%(-939444+14256918)),(-584984+(3467657742%(626801+14713127)+310230))+9843835150941)]],q,P)==false and z(q[bG[ZE(sG((-1051759-(-819448))-(-256371)),546961+18738526140985)]],q,P)==false)))then return true end end return false end function q.goal_completed(b)if type(b)~=bG[ZE(sG(940392-916652),19589729740129-(-814969))]then return false end if b[bG[ZE(sG(1204174117%8479927),-775793+26225496244884)]]==true then return true end local P=tonumber(b[bG[ZE(sG(906732269%6168091),(741462-907274)+1166947644043)]])if not P or P<=515183798%5788582 then return false end local s=K(function()return core[bG[ZE(sG(542255-518583),4914587381001-(-839183))]][bG[ZE(sG(-672507+697218),613032+(31278486163171-(-556853)))]](P)end)local G=K(function()return core[bG[ZE(sG(358964-334368),4038209009466-265499)]][bG[ZE(sG(-225726-(-249318)),((112120+-282366)+11770728902205)-(-989318))]](P)end)==true if b[bG[ZE(sG(-422638+446973),704734464130-(-285984))]]==bG[ZE(sG(-323407-(-347155)),20655170217649-(379045+-1256579))]then return s==true or G and s==false end if G and s==false then return true end if s==true and((b[bG[ZE(sG(-638056-(-661613)),1045422+11137889572957)]]==bG[ZE(sG(314522+-289653),799674+15320085780303)]or b[bG[ZE(sG(102847+-79405),(-55985-(-106462))+(11668728697941-(-904046)))]]==bG[ZE(sG((235065323-300754)%(289153+6614988)),(-469320+12207159370227)-(-595087))]or b[bG[ZE(sG(878946949%(939678703%16692782)),26838470701858-(-6935))]]==bG[ZE(sG(245441+-221582),6606966095230-42144)]or b[bG[ZE(sG(459709+-436590),-302960+6297638146973)]]==bG[ZE(sG((165915857-943811)%2170375),489117+1197078004612)]))then return K(function()return core[bG[ZE(sG(((-95490+(27732+(1480852-244371)))-192301)-(430414-(-521500))),(752821970%12974063+30118578257227)-(-663155))]][bG[ZE(sG(951453+(-843010+-85469)),-217283+30739300334032)]](P)end)==true end return false end function q.release_goal(b)local P=q[bG[ZE(sG(-159145-(-182380)),790877+29753795888137)]]()..(bG[ZE(sG((-1245260-(-349873))+920311),((394922-566558)-((454593+-1798291)-(-523309)))+20307712567478)]..tostring(b))KA[P],zA[P]=nil,nil D[bG[ZE(sG(558166-534508),26465061977011-(-218666-225017))]]={}end local function XA()local b=q[bG[ZE(sG(940334460%7289237),-823424+((867533-370953)+19411944429108))]]()if not b or b[bG[ZE(sG((-15456+851131)+-812009),18243416845756-(-128801))]]==true then return nil end if SA~=q[bG[ZE(sG((-1677265-(-845357))+855707),34726897767882-(-731276))]]()then KA,zA={},{}SA=q[bG[ZE(sG(((2199821234-638937)%14095870+705738706)%2941422),(815136+(86831+17385692683194))-(-572536+117065))]]()end local P=b[bG[ZE(sG(281007-258018),696663446%4768957+986791639209)]]if type(P)~=bG[ZE(sG(29123-4262),-588547+28278966856070)]then return nil end local s={}for b,P in ipairs(D[bG[ZE(sG((1124022296%(76830290562%569120790))%3176536),16356721175262-422532)]]or{})do local G=tonumber(type(P)==bG[ZE(sG(134029766%10308223),498467785340-554324)]and P[bG[ZE(sG((-631051-238906)+893219),700810+7456756368356)]]or nil)if G then s[G]=true end end local G=D[bG[ZE(sG(1353041305%((446754+1497525868)%15497912)),5505483950155-(-605556))]]and tonumber(D[bG[ZE(sG(169873+-144934),11954127153046-680096)]][bG[ZE(sG((((19402-(-697568+747832))-(-421651))+1638044891)%(717158+9785478)),21412477233005-971998)]])if G then s[G]=true end local function e(b)if b[bG[ZE(sG(1016662+(-1195263-(-202922))),3038943960089-638154)]]~=bG[ZE(sG(523546-499994),2963019085382-(-923674))]or s[b[bG[ZE(sG(571070-547113),-242569+(255874998%2838746+32286415065257))]]]then return false end for b=b[bG[ZE(sG(874077+-849985),-516479+7363155425229)]]+((810427-(-1026193-(-1021615)))-815004),#P,-662338+662339 do if s[b]and P[b][bG[ZE(sG(323666561%(591431+3355426)),(-431844-(-146126))+31941704073715)]]~=true then return true end end return false end local H,K=nil,nil local function S(b)if b[bG[ZE(sG(-779557-(-802518)),6924719793838-553271)]]==bG[ZE(sG(-317304+341021),10657663449968-688120)]and not b[bG[ZE(sG(3403157133%14860844),-672718+(-574355+27783565172059))]]then for b=(182989970549%1967693102)%11474884,#P,169101016%11273401 do local s=P[b]if type(s)==bG[ZE(sG(255353897%1215856),846471+28665035569895)]and(s[bG[ZE(sG(-163859-((476390-710118)+46488)),(31921343075216-(-179434))-102272)]]~=true and(((s[bG[ZE(sG(28015484%491083),(808404-(-961492+(1065446-(-590570))))+34787419176531)]]==bG[ZE(sG(433456-289809403%6890461),18777572225057-(-1036254+1538032))]or s[bG[ZE(sG(-645853+669964),281216+3248832862938)]]==bG[ZE(sG(791924-769104),251487+5235364091245)]))and s[bG[ZE(sG(3085889%3061581),-955176+15807185267675)]]==nil))then return true end end return false end if b[bG[ZE(sG((75662569259%303892873)%5212505),-198500+6707038923350)]]~=bG[ZE(sG(-135704-(-159879)),9873821238514-(-1005029))]or not b[bG[ZE(sG(-1031756+1055749),13489988176207-676881)]]then return false end for s=(-271210+(3737558025-(-989653)))%15974258+-300095,#P,1054713517%(257683148%(11937563-(-724081)))do local G=P[s]if type(G)==bG[ZE(sG(-372941-(-397553)),33174560516735-(-216554-316406))]and(G[bG[ZE(sG(398850-375043),1082306314000-963310)]]~=true and(((G[bG[ZE(sG(47302-24089),25184244692486-(-617816))]]==bG[ZE(sG(951811-928863),-285141+30828536743442)]or G[bG[ZE(sG(-571896-(-595770)),694503501%8067371+1185587982395)]]==bG[ZE(sG(1045048-1021421),606464+23214315462716)]))and((G[bG[ZE(sG(179138+-155522),-239458+21532978368407)]]==nil or G[bG[ZE(sG(1130499751%11418944),30917882366491-(383297+(-1116155-(-58216))))]]==b[bG[ZE(sG(690498+-667539),22020372350942-(-688572))]]))))then return true end end return false end local z,k=-38112-(-38112),-228410+(-510876-(-739286))for b=211165-211164,#P,55374865%6921858 do local s=P[b]if type(s)==bG[ZE(sG(184096+-160522),201808+25532544066481)]and((s[bG[ZE(sG(-1022861-(-1045716)),559041+20433517422320)]]==bG[ZE(sG(502540678%((-313078+4827930)-403057399%2154816)),34077600532989-(-453611))]or s[bG[ZE(sG(-450052+473411),-618754+30279934668597)]]==bG[ZE(sG(-802966-(-827213)),-396092+33346265398267)]))then z=z+(-821452+821453)if q[bG[ZE(sG(-774330+798963),712952+25853180076009)]](s)then k=k+(554226-(1464003-909778))end end end local function c(b)return b[bG[ZE(sG((((887627+-882568)+-529055)+481724)-(-66307)),(210824-333940)+18204274522137)]]==bG[ZE(sG(633046195%16658486),3.3433686671126e+14%3095711864684)]and(not b[bG[ZE(sG((-1119459-(-735092))-(-409065)),11958617183745-773818)]]and(z>383197176%((831179-517156)+5008160)and k==z))end local O=q[bG[ZE(sG((-159577+(869425+((-200818+-109091)-760666)))-(-385608)),34864958488861-653563)]]()local X=nil if O and type(O[bG[ZE(sG(3250775197%(560661+13040807)),-551073+6.9432365970948e+14%7084935357345)]])==bG[ZE(sG((394753+-556561)+185091),(-1581717-(-735151))+15704025844622)]then local b,s=pcall(O[bG[ZE(sG(864202224%8818136),23848530391664-(-232507))]],P,function(b,s)local G=HA(b,s,P)if G==nil or q[bG[ZE(sG(-752136-(-775587)),14537547354818-(-768955))]](G,P)then return false end return q[bG[ZE(sG(724649-(414541+287214)),-43322+7668866528482)]](G)~=nil end)if b and type(s)==bG[ZE(sG((2207445002%1104732670)%6410976),7.0129661737321e+14%16697538714475)]then X=s end end for b=860901969%5005244,#P,(468914035870%3692331786)%16070877 do local G=X and X[b]or b local z=P[G]if type(z)==bG[ZE(sG(758262-733826),(34431540907676-121857)-(23940-(-100060+(-953801-(-1101868-(-1408715-(-360399)))))))]and not q[bG[ZE(sG(-643723-(-667907)),720210+18527118010648)]](z)then local b=HA(z,G,P)if((z[bG[ZE(sG(783335+((-384412-(-417545))-793526)),1.0280089494131e+15%7907761159508)]]==nil or z[bG[ZE(sG(-1013287-(-535787+-500660)),-174982+25193480161273)]]==bG[ZE(sG(97031461%(613476-83379)),451123+((869632+-1403681)+15152869109686))]))and not s[G]then b[bG[ZE(sG(-43161-(-345203+277837)),5153151911194-69985)]]=true end if not b[bG[ZE(sG(365315+-340438),7178999477581-75071)]]and((e(b)or S(b)or c(b)or OA(b,P)or q[bG[ZE(sG(57252+-33756),427434+(19731845379750-(-19009+1009711)))]](b,P)))then H=H or b elseif not b[bG[ZE(sG(265132+-240639),(993672-744877)+18147397818166)]]then local P=q[bG[ZE(sG(-148230+171231),30091949175976-190660)]]()..(bG[ZE(sG(323268347%4368166),23023749266906-(-740813-(-729962)))]..tostring(G))if KA[P]then b[bG[ZE(sG(-902522+927417),1734414391197-1000962)]]=zA[P]or bG[ZE(sG(-43603+(636324-568669)),-334724+(32788286426517-(-578794)))]end if qA(tonumber(z[bG[ZE(sG(-1005968-(932558+-1962802)),((664376+-83785)+18541642874583)-(-337914))]]))then b[bG[ZE(sG(941958041%8641599),34811342994072-(-219765))]]=bG[ZE(sG(1255862536%9586558),15780605766415-415699)]end if not b[bG[ZE(sG(-998891+1023761),34566903484378-524998)]]then return b end K=K or b else H=H or b end end end for b=397180774%(2311718-834698900%4152269),#D[bG[ZE(sG((-251746+69010905)%1321848),(-1643542-(-806672))+32069370917704)]],469206+-469205 do local P=D[bG[ZE(sG(295083749%8430297),59585+16821182116405)]][b]local s=type(P)==bG[ZE(sG(((-345039-(-1466412-(-804006)))+-569654)+275402),-287388+4393541965022)]and P[bG[ZE(sG(991356-967537),612495+26606560199922)]]or nil if type(s)==bG[ZE(sG(889596+-864779),-456862+30564237540074)]then for b=2331216261%9878035,#s,485682+-485681 do local G=s[b]if type(G)==bG[ZE(sG((2906355006-(770682+(-161109+1771602339))%(1733332339%14374471))%(148844+14984685)),14455996731487-(-1031289))]and not q[bG[ZE(sG(128206+-104890),238996+(3119555783064-(-672252)))]](G)then local e=HA(G,(601727162%15834899)*P[bG[ZE(sG(-438683+462003),(-1462877-(-613874))+15142129488498)]]+b,s)if e and not e[bG[ZE(sG(2118032217%9413367),10598398115545-(-843169))]]then e[bG[ZE(sG(190429+-166211),(316912+-998597)+21278029485482)]]=true local b=q[bG[ZE(sG(-964367+87132661%(3519963090%32135175)),9578794106578-((1189298-1706561323%(3929145390%17890397))-9873))]]()..(bG[ZE(sG(-712915-(-735830)),28339133827358-826718)]..tostring(e[bG[ZE(sG(666001+-642834),-588285+6534468831793)]]))if KA[b]then e[bG[ZE(sG(52208383%10436888),24579570607437-(-859919))]]=zA[b]or bG[ZE(sG(752512215%7678460),-12986+25906035214830)]end if not e[bG[ZE(sG(806905984%3189254),347615237537-(-640396))]]then return e end K=K or e end end end end end return K or H end function q.goal()local b=f(bG[ZE(sG(745752851%5443284),5661686517616-(-712627+140615))],XA)do local P=T()if P then pcall(P[bG[ZE(sG(-745894+769481),-355418+(34990858170903-(-752628)))]],b)end end return b end function q.goals()q[bG[ZE(sG(-110718-(195715+(468746+-800083))),229718+25794963467120)]]()return f(bG[ZE(sG(-890194-(-914881)),23926238156034-2271993238%13130240)],function()local b={}local P=q[bG[ZE(sG(203307812%1031893),2098563467191-229260)]]()if not P or type(P[bG[ZE(sG(-130810+(934049-778591)),29190662805151-975673)]])~=bG[ZE(sG(2348324212%(2335033181%(21428718-(-657552)))),-35354+9806280626657)]then return b end for s=(-98153-255753)+353907,#P[bG[ZE(sG(467597447%2078109),619089+16385168001550)]],(-48683-703649)-(-752333)do local G=HA(P[bG[ZE(sG(206065185%12877572),-896100+2430419734873)]][s],s,P[bG[ZE(sG(561272-(916301+-379531)),633807+26128917296031)]])if G then b[#b+(-736495-(266624-1003120))]=G end end return b end)end local gA={[bG[ZE(sG(((291219+1803510255)-914142)%10361283),-730802+18248297158040)]]=bG[ZE(sG(1122907918%4968509),14339090440606-893801)],[bG[ZE(sG(-235583-((-394504+-41020)-(-175145))),33758434003929-(516878023-(-1372985-(21111+-444148)))%12323963)]]=bG[ZE(sG((-526508+472592)-(-77722)),1313189450%5313499+18092575714185)];[bG[ZE(sG(1342155684%((548846+(6605249-14011))-(-114679))),-241159+((706790-753911)+14398986480972))]]=bG[ZE(sG((-1278536-(-452197))+849420),1024172+9255078606838)],[bG[ZE(sG(398951-375023),22118191534929-(-791382))]]=bG[ZE(sG(-244698+3705298082%15633038),31465108097480-(-551569))]}function q.goal_objective(b)if type(b)~=bG[ZE(sG(2536101246%12680389),27449813743138-(-354693-685214))]or not b[bG[ZE(sG(192582+-169457),-441620+(-927027+26708954959696))]]then return nil end local P=q[bG[ZE(sG(459290605%16997988+-320788),(-980662+1927342132999)-422939)]](b[bG[ZE(sG(-252891+277742),4466464901813-(-431966))]])local s,G,e,H=nil,39476-39476,nil,-857529-(-857529)local K=b[bG[ZE(sG((1431960-536282)-870932),7736307954496-((503543+435009)-(-264254+1265576)))]]and string[bG[ZE(sG(132148-108662),567951+31368137763689)]](b[bG[ZE(sG(2017114392%12299330),13678864116641-355332)]])or nil for b=653332-653331,#P,-196303-(-196304)do local q=P[b]if not q[bG[ZE(sG((663863-(-169957))+(-1022119+211131)),31675246470227-1024684)]]then s=s or q G=G+(917030+-917029)local b=q[bG[ZE(sG((-698835+901122)-178672),29633666592484-535664)]]and string[bG[ZE(sG(-303088+328002),26125+(20202124673944-399063))]](q[bG[ZE(sG(-1003411+1027441),10661875173167-162471)]]:match(bG[ZE(sG(629552-606302),356198+22603958599949)])or q[bG[ZE(sG(1708237554%9437650),((-801400+685746)+9628283644335)-503311)]])if K and(b and(b~=bG[ZE(sG(-279210+302920),-575092+910095583106)]and((string[bG[ZE(sG(58021+-33581),-559886+(-111989+65249172957430%32624590926350))]](b,K,981966-981965,true)or string[bG[ZE(sG(1893171276%10576111-23093),8522223978096-(-781781))]](K,b,231472957%5260749,true)))))then e,H=q,H+271312993%5652354 end end end if H==380352057%6792001 then return e end if H==27774825%712175 and G==-72134+72135 then return s end return nil end local AA function q.classify(b)if type(b)~=bG[ZE(sG((-98332+2669096853)%14910473),-970287+4545991653573)]then return bG[ZE(sG(137056+-114190),28015215990591-((10514-(-637523))+-259706))]end return AA(b)end AA=function(b)local P=b[bG[ZE(sG(-438927-(-462170)),-724548+34637456256082)]]if type(P)~=bG[ZE(sG(-990647-(-1013521)),23981705561358-(-902555))]or P==bG[ZE(sG(590066-566356),3451056302%15003047+9663634742911)]then return bG[ZE(sG(-535594-(-559037)),24723156301239-504899)]end local s=q[bG[ZE(sG(-868834+893567),15260266252220-(-624079))]]()if s and type(s[bG[ZE(sG(2879088243%11246348),(26406827803224-(231152038%7964458+315021))-(-222909))]])==bG[ZE(sG((498149-966286)+870774818%17064356),((788968-929721)-(-343694))+9490424470504)]then local P=s[bG[ZE(sG(505311+-481748),480269+(-578623+33352745740288))]](b)if P then return P end end local G=bA[P]if G==nil then return bG[ZE(sG(-510701+535557),287238+35042720139344)]end if G==bG[ZE(sG((-954515+(-791540+46521994441)%296387733)%4172617),-83936+13872673422421)]or G==bG[ZE(sG(-938156-(347707+(627823+-1938421))),4052257749346-689442)]then local P=q[bG[ZE(sG(((216401-934128)-(-797026))+(-150773+(-847852-(-943787)))),630873077602-(-619647))]](b)local s=P and(P[bG[ZE(sG(-88046+110936),-600924+11456665823364)]]and string[bG[ZE(sG(-485542+508829),31659646268019-861422)]](P[bG[ZE(sG(751676938%3666601),20022318078662-363143)]]))or nil if s and gA[s]then return gA[s]end if G==bG[ZE(sG(((-201244+((221957281%3959651-796138)-(-482357)))-(560113-(-26626)))+909794),797216+14071591741870)]then if not P and b[bG[ZE(sG(81773-(604403+-546419)),(-196545+((-961725+1284633)+10024295649711))-(-744082-274355))]]then local P=q[bG[ZE(sG(-143592-(-594283+427055)),95457+24426662991842)]](b[bG[ZE(sG(-392547-(-415920)),-824882+26636236746202)]])if type(P)==bG[ZE(sG((388074000-530589)%6054981),-644799+14758419528694)]and#P>-311684-(-311684)then local b=true for s=(2804985650%12299246+-1725921)+968360,#P,(368539703541%2750378617)%14648917 do if not P[s][bG[ZE(sG(-255403-(-279068)),18872830388126-(-785684))]]then b=false end end if b then return bG[ZE(sG(230717082%7441711),-276537+6452559291743)]end end end return bG[ZE(sG(14654766%149302),705400+(33691018293467-894131))]end end return G end function q.unknown_goal()local b=q[bG[ZE(sG(-512009-(-535436)),19072672380163-(-666200-280873))]]()if b and q[bG[ZE(sG(160064636%10669402),18955327845694-(-938532))]](b)==bG[ZE(sG(-356177-(298040+-678437)),21252535902089-2568701966%15105893)]then return b end return nil end function q.objectives(b)local P={}b=tonumber(b)if not b then return P end F()local s=D[bG[ZE(sG(86491-63322),7886886146013-682150)]][b]if s then return s end if not d then return P end local G=K(function()return core[bG[ZE(sG(585708-561369),921875+20505809502886)]][bG[ZE(sG((1779977671-(-960289))%13390334),323311474%1569210+17887284002727)]](b)end)G=A(G)for b=608168+-608167,#G,667233-667232 do local s=G[b]if c(s)then P[#P+(-460924+460925)]={[bG[ZE(sG(607048764%11036821),(322018+((-1363808-(198141-1032304))+-527756))+3991138850573)]]=N(w(O(s,bG[ZE(sG(-755931-(-780719)),82685362136878%(1073836772976-847434))])));[bG[ZE(sG(-26085+522793899%3093165),58692888639694%9782148244642)]]=w(O(s,bG[ZE(sG(685801156%4259490),((289434-(-731081))+(-190948+2145646331433))-690666)]));[bG[ZE(sG(-994398-((((-567420+1101070)+-2509509)-88221)-(-648123+-396895))),-904140+18700232332131)]]=tonumber(O(s,bG[ZE(sG(1426681776%8106009),31136235792337-999157)]))or 1042670708%(5408296-((-2046846-(-657046))-(12824+-748881))),[bG[ZE(sG(-704198-(-727905)),25270461887836-(-348492))]]=tonumber(O(s,bG[ZE(sG(-230653-(-253847)),13651578665321-(-818496))]))or 7632+-7632;[bG[ZE(sG(-171818+195240),297329+(-874440+8267461778791))]]=l(O(s,bG[ZE(sG(94251512%6281850),33152776360771-76214)]))}end end D[bG[ZE(sG(166777852%2646872),11447167963304-(-1031374))]][b]=P return P end function q.needs_progress(b)local P=q[bG[ZE(sG(472799681%9455511),32831396894028-106082)]](b)if#P==30479+-30479 then return false end for b=914743-914742,#P,1012018+-1012017 do if not P[b][bG[ZE(sG(3389457092%(-87848+15287104)),24604835960822-613905)]]then return true end end return false end local lA={}local NA=389925+(-1094521-(-704597))local wA=false local function rA(b)if type(b)~=bG[ZE(sG(-154926-(-179218)),58623947477214%1221332409910)]or b==bG[ZE(sG((246155049258%2618737896)%11820820),((-252888+-379597)+13040199675691)-(-603727))]then return nil end local P=b:match(bG[ZE(sG(871366+(-335777-512603)),(681123+190304)+31285428815878)])if P and P~=bG[ZE(sG(79122+-55412),-470600+28823601992141)]then return P end return b end q[bG[ZE(sG((497812272-(-440947))%10600605),764846+20230404234299)]]=rA local function CA(b)if not wA then wA=true pcall(function()core[bG[ZE(sG(92075191%1704644),1045290+(30243638904087-(-217953)))]][bG[ZE(sG(1105219479%15349929),355276+(-624785+11735008572697))]](295349+-295349)end)end local P=K(function()return core[bG[ZE(sG(-444249+468855),(686461+6341315690256)-776978)]][bG[ZE(sG(266816463%(595331+5756885)),-284751+17373513069083)]]()end)if type(P)~=bG[ZE(sG(-645634-(-1013929-(-344800))),14471096678310-632285)]then return nil end for P=-1001241+1001242,P,358759-358758 do local s=K(function()return core[bG[ZE(sG(634723+-609810),(-1157157-(-846596))+12685568500503)]][bG[ZE(sG(((22387518463663%132470551859)%(686142309-(-233897)))%3939280),24336898592780-399861)]](P)end)if type(s)==bG[ZE(sG(-925948-(-949469)),(5146570530856-129280)-(-317724))]and(s[bG[ZE(sG(-1018513+1041705),27455601675135-13186)]]~=true and tonumber(s[bG[ZE(sG(1614027110%15084135),983471+8932678107674)]])==b)then return P,s end end return nil end function q.log_title(b)b=tonumber(b)if not b then return nil end local P,s=CA(b)if type(s)==bG[ZE(sG(-94439+117927),72401469649484%6581952945487)]and(type(s[bG[ZE(sG(-200671+225090),126636+(855235+17627380860104))]])==bG[ZE(sG(3038192478%14748387),-478536+20132383774524)]and s[bG[ZE(sG(752597654%6271446),24130475498095-(-39383))]]~=bG[ZE(sG((113714+1454789653)%11731673+-152205),641134+15873980188598)])then return s[bG[ZE(sG(-400399-(-424736)),28033401113188-181777)]]end return nil end function q.objective_names(P)P=tonumber(P)if not P then return{}end local s=K(function()return b[bG[ZE(sG(418004-113493127%3648367),-60928+((317388+13507907942942)-(-195737)))]]()end)or 817977600%(10274015-978815)local G=lA[P]if G and(s-G[bG[ZE(sG(120487418%13384781),(1788910446023-384059)-(-743954))]])<NA then return G[bG[ZE(sG(2014097253%9072402),18282680471319%(((-798416-223211)+1411546)+212589044126))]]end local e={}local H=q[bG[ZE(sG(-253816+278274),28506352242153-381908)]](P)for b=831381+-831380,#H,-515017-(-515018)do if not H[b][bG[ZE(sG(-14357+38461),3467596579032-(-658017))]]then local P=rA(H[b][bG[ZE(sG(-863371+886889),(((181270+(-1042736-((908868+-1567044)+2284806044%(15606351-779485))))-(-831431))+5647800619724)-568617)]])if P then e[#e+((-548348-(-122025))+426324)]=P end end end if d then lA[P]={[bG[ZE(sG(1056965-1032538),(-63044-(-247869))+27038126027216)]]=e;[bG[ZE(sG(789795959%(6234866-(393971-(602068-272869)))),-77193+22176737911066)]]=s}end return e end local uA local nA={[bG[ZE(sG(720395+-697395),527986+12190142531868%80729503423)]]=true,[bG[ZE(sG(803630605%8284611),665934+24339563667150)]]=true,[bG[ZE(sG(448781766%2971912),3241617112107-(757784+-928552))]]=true;[bG[ZE(sG(-108753-(316223+-449830)),601480+11142566984819)]]=true}function q.targets(b,P)b=b or q[bG[ZE(sG(128553616%540040),371880881953-(-408214))]]()local s=bG[ZE(sG(-595838+619866),823648+14683883186054)]..(tostring(b and b[bG[ZE(sG(571276+-548017),21670558985891-845817)]]or 549945684%15276269)..((P and bG[ZE(sG(-373188-(-397269)),(969001+-1711325)+4763947412182)]or bG[ZE(sG(504592+-480882),946468+2489013475765)])))local G=f(s,function()local s,G=uA(b,P)return{s,G}end)return G[-640995-(-1104097-(-463101))],G[(692898907-424501)%5584471]end function q.rxp_step_for()return nil end function q.gossip_option(b,P)local s=q[bG[ZE(sG(-784728+809283),(398003+34317896555504)%1225639251733)]]()if s and type(s[bG[ZE(sG(989449-965881),-114831+24605907075700)]])==bG[ZE(sG(601857+-578254),194589312738-654639)]then return s[bG[ZE(sG(-423278+447181),(23392+6244058430908)-714032)]](b,((q[bG[ZE(sG(((-116655+-639814)+-250573)-(-3254-1028498)),(5062912564061-(-800701))-34565)]]()or{}))[bG[ZE(sG(438709-414490),33339086673827-360033)]],P)end end function q.rxp_item_for()return nil end function q.rxp_quest_givers()return{}end function q.rxp_quest_mobs()return{}end local function mA()return f(bG[ZE(sG(-709417+732687),12203402746868-(-933023))],function()local b,P={},{}local function s(s)if type(s)~=bG[ZE(sG(1706474112%12365585),3589159450367-((19805+495917832%2528053)+202478))]or type(s[bG[ZE(sG(885288303%11496937),27749668478958-797963)]])~=bG[ZE(sG(385050660%(4133425291%18250773)),8868562531873-19103026%839690)]then return end for G=-666905-(-666906),#s[bG[ZE(sG(-965440+989958),963713+(13951065891401-438097))]],3374123555%13283951 do local e=s[bG[ZE(sG(1459936636%7336246),31575258351796-(-833471))]][G]if type(e)==bG[ZE(sG(50587+-26757),-502165+23511614336738)]and e[bG[ZE(sG(139075-114689),1337657812905-(1156797-1726980296%8220122))]]==bG[ZE(sG(-472+25223),945743+23071567958230)]then if e[bG[ZE(sG(2886545576%11546087),2.5054045364436e+14%4727178613361)]]then b[e[bG[ZE(sG(770567+-745745),22264516993685-(498641+349018))]]]=true end if e[bG[ZE(sG(525871778%4456337),1318255601065-1002319)]]then for b in e[bG[ZE(sG(85898947%2683627),-959419+14481577265741)]]:gmatch(bG[ZE(sG(529331-505297),30560034454866-(-201437))])do P[b:match(bG[ZE(sG((-620911-326369)+971333),10397380298196-906455)])]=true end end end end end s(q[bG[ZE(sG(36045540%486777),759137347379-(-975640))]]())local G=q[bG[ZE(sG((-993536-(-114299-840388))+(273954+-210625)),123305+33905595447124)]]()for b=894322+(-204776+-689545),#G,224715221%5592774-(-738064+1742324)do s(G[b])end return{b,P}end)end function q.avoided()local b=mA()return b[-815991+815992],b[3308839812%16140682]end function q.step_target_names()return f(bG[ZE(sG(490602775%(1444846003%9393338)),-274592+15175949879907)],function()local b={}local P=q[bG[ZE(sG(153038+-128775),252591+(512736+12059426311139))]]()if P and type(P[bG[ZE(sG(-122945-(-147093)),19748188174321-(1499004-542422))]])==bG[ZE(sG(37779707%(((266144+-498571)-575700)+3992804858%16720216)),21951991208369-(-881502))]then for s=-416456-(-416457),#P[bG[ZE(sG(2005866308%16307661),8321091663438-(-693369))]],(1130440-1026808)+-103631 do local G=P[bG[ZE(sG(-844802+868251),976611359004-(-642472+-59654))]][s]if type(G)==bG[ZE(sG((435686+(653779+270701337))%6968383),-812828+((-648405+(-202029+11951868871235))-(-765400)))]and(G[bG[ZE(sG(-300964+(-458511-(719268+-1502682))),7032073272603-(-403050))]]~=true and(bA[G[bG[ZE(sG(1090558632%(4571106-(-881564))),6.1733338719378e+14%4347418289727)]]]==bG[ZE(sG(500840-477410),(238529-304963)+7618138525310)]and G[bG[ZE(sG(-21323-(-44218)),-938778+(2133448913059-(-5907-(-30276))))]]))then b[G[bG[ZE(sG(2333207613%14491825),992910+6265483245182)]]]=true end end end local s={}for b in pairs(b)do s[#s+512203186%11382293]=b end table[bG[ZE(sG(444817452%2118063),17264730670162-(-186207))]](s)return s end)end uA=function(b,P)local s,G={},{}if type(b)~=bG[ZE(sG(374220724%12903348),18734783236954-102267)]then return s,G end local e=q[bG[ZE(sG(3056033476%13462594),(25191716555615-(-22929))-238322)]](b)if e==bG[ZE(sG(994484-970647),(1304525-268445)+749834477017)]or e==bG[ZE(sG(59469-36524),34798905362691-(-3946))]or e==bG[ZE(sG((-308611-(-100002))-(752925-985729)),508017+((456486+(279794+(33419163436652-(-957795))))-(-767499)))]then if b[bG[ZE(sG(396965602%9923559),6937735949871-208655)]]then s[b[bG[ZE(sG((-1129538-(-993416-(-639259)))+800286),893163+21626615062828)]]]=true end return s,G end if e==bG[ZE(sG(-475628+499431),15028433420808-(-173084))]then if b[bG[ZE(sG(362544-1313425655%9947625),24035771347846-331526)]]then s[b[bG[ZE(sG(1573176968%15423072),375042+32359914694695)]]]=true end if b[bG[ZE(sG(1032372+-1009057),2922085456594-330591)]]then G[b[bG[ZE(sG(((465905+61131)+259007866)%1449781),195641+9064430435155)]]]=true end return s,G end if e==bG[ZE(sG(-355167+378191),(-146779+16431845786372)-(-711526))]and(b[bG[ZE(sG(3836419323%(-911940+15956627)),597062+4193638746264)]]~=bG[ZE(sG(2856400664%13163031),(-847614+(189409+5124410314703))-227624)]and(b[bG[ZE(sG(2252178172%9118033),821275+7707826022395)]]~=bG[ZE(sG(6834373%2270445),-20286+24691827415863)]and b[bG[ZE(sG(1804392956%9649035),571728+31166789546097)]]))then s[b[bG[ZE(sG(-383906+393575486%(4805041-(-1103716-(-802693)))),490771+(969570+(28798063001247-173465)))]]]=true end if((e==bG[ZE(sG(1033633-1009896),-710080+3388111879807)]or e==bG[ZE(sG(573285-(19403+((179187+-157619)-(-508269)))),15222657882691-178350)]))and type(b[bG[ZE(sG(-554104-(-579016)),578308+33145528123557)]])==bG[ZE(sG(-723267+746690),(482425+((-601218+1209935)+-706055))+34964675000612)]then for b in b[bG[ZE(sG(-950460-(-974904)),103079+4193853374012)]]:gmatch(bG[ZE(sG(461395-(-208174+644832)),(837420-770193)+(894084302641-(-807669)))])do local P=(b:gsub(bG[ZE(sG(1003522-979888),17812161280394-102879)],bG[ZE(sG(593378-(-29478-(-599146))),-763879+12668443840274)])):gsub(bG[ZE(sG(61797+(814866-853316)),6826501755528-1020523)],bG[ZE(sG(461620+-437910),512638+34854789577780)])if P~=bG[ZE(sG(783348-(-824654+308361064)%8521577),22004520724676-937289)]then G[P]=true end end end if e==bG[ZE(sG(622516-599418),(579388+14183166264868)-(-848272-(-649467)))]and b[bG[ZE(sG(-703814-(-728567)),28974329392968-503793)]]then G[b[bG[ZE(sG(1288162719%6104927),-409167+32617744838737)]]]=true end if not P and(((e==bG[ZE(sG(526902-(-517086-(-1019710))),1536632250448-(202632+-937603))]or e==bG[ZE(sG((74009470465%573724237)%11932186),26088042021138-619613)]))and not b[bG[ZE(sG(882012+-858847),-243585+(-845419+26115762746440))]])then for b,P in ipairs(((q[bG[ZE(sG(415318625%3099213),394110+21258211142202)]]()or{}))[bG[ZE(sG(708395435%5854317),(-1798856-(-919982))+11334812648392)]]or{})do if not P[bG[ZE(sG(121629-97396),238601+33527624187180)]]and((P[bG[ZE(sG(1104812882%10938496),-945516+1334632400126)]]==bG[ZE(sG((-770387-(275053-968792))-(-101114)),(-1045021+(-534867+2333054632%15962702))+3039172591977)]or P[bG[ZE(sG(756900-733808),26138075301947-(-106258))]]==bG[ZE(sG(673280+-648795),490718+23130761260720)]))then if P[bG[ZE(sG(36997+-14091),703553+(4379375403412-(-584066)))]]then s[P[bG[ZE(sG(90455588%2583770),-436425+((32518132436909-781038)-(-979646)))]]]=true end for b in((P[bG[ZE(sG(634895+-611135),-25660+14666695406904)]]or bG[ZE(sG(416032914%11243492),5834262683970-2125505730%10316389)])):gmatch(bG[ZE(sG(((((1070529-292347)+-1596487)-(-671515))+-207960)-(-378631)),18274062242978-495557)])do G[b:match(bG[ZE(sG(183248928%5235012),5109798971773-441660)])]=true end end end end local H,K=q[bG[ZE(sG((469363107108%2173001599)%9108153),1369394958774-(-1009247))]]()for b in pairs(H)do s[b]=nil end for b in pairs(K)do G[b]=nil end return s,G end function q.target_ids(b)local P=q[bG[ZE(sG(((20214906289%532395846)%13927898+-1762781)-(-252182-(-286874-(((1102019-374972)+-2326747)-(-706130))))),14351023910230-(-723035))]](b)local s={}for b in pairs(P)do s[#s+(-253659-(-1162930-(-909270)))]=b end table[bG[ZE(sG(1019790-995304),29787397107055-73231129%14547504)]](s)return s end local function vA(b,P)if type(b)~=bG[ZE(sG(72022327%2057116),-139340+26788536613083)]or b==bG[ZE(sG(838977+(648492+-1463759)),6453399388620-1014275)]then return false end return P[b]==true end local function LA(b)b=string[bG[ZE(sG(-733460+756836),-700162+3519311126912)]](b)if b:sub(-953338-(-953335))==bG[ZE(sG(-799912-(-823329)),8688239593146-865542)]then return b:sub(568582-(500022-(3270565512%13856870+-412751)),915622+-915626)..bG[ZE(sG(((100737124-(-238979))%1827790-424094)-(-1246)),1032979+9617162618153)]end if b:sub(-390956+390954)==bG[ZE(sG((298611+215430428)%2801374),10783699066641-(-299517))]and(b:sub(-780343-((2809197618%11278522+(883854+(-153548+-2517870)))-(-601467-(-439883))),703557-703560)):match(bG[ZE(sG(-723366+746626),26176002548055-(65570-1018862))])then return b:sub(-527347+527348,-308363-(-308360))end if b:sub(234845+-234846)==bG[ZE(sG(283629-260482),24023057545676-(-461502))]and b:sub(-643054-(-643052))~=bG[ZE(sG(114939-90458),756939+10985678052912)]then return b:sub(1383376771%5555730,-574094+574092)end return b end local function dA(b,P)if type(b)~=bG[ZE(sG(594289385%4184972),-1019548+34854552776923)]or b==bG[ZE(sG(-90322+114032),8729416924526-((871927+-1233289)+441425))]then return false end if P[b]then return true end local s=N(b)if s~=nil and P[s]==true then return true end local G=LA(b)for b in pairs(P)do if type(b)==bG[ZE(sG((351471-626911)-(((782640-(218261-261761))+(114317+-473442))+((-627603-134424)+-4297))),(971996+32114825475825)-(-552617))]and LA(b)==G then return true end end return false end q[bG[ZE(sG((29107768804%510683578)%2509678),166790+13177386265843)]]=dA local UA={}function q.find_object(b,P,e,k)if not b then return nil,nil end P=math[bG[ZE(sG(331733-308742),28918562796052-103534)]](tonumber(P)or 1856719827%11390919,G)local c,O=q[bG[ZE(sG(390894326%(511887858%(16607356-(-400598)))),33964403323657-(-367013))]](e)if next(c)==nil and next(O)==nil then return nil,nil end local X=H()if type(X)~=bG[ZE(sG(475474-452410),-933486+8963998469003)]then return nil,nil end local g=K(function()return b:get_position()end)if not g then return nil,nil end local A=nil local l=e and q[bG[ZE(sG(-142357+166939),425269+((-67334+20950738015416)-(562493+-528113)))]](e)or nil if type(l)==bG[ZE(sG(((-540976+400935)+1090856)+-926630),440538+(-353103+9029435870324))]and(l[1591285501%11787300]and l[-393814-(-393815)][bG[ZE(sG(679171+-654919),(1047636-544989)+15030704965072)]])then A=l[-462008-(876491+-1338500)][bG[ZE(sG(213834326%1892132),805965+1614950453507)]]end local N,w,r=nil,nil,nil for G=2741725405%13847098,#X,210420+(536017+(598008+-1344444))do local e=X[G]if S(e)and z(e[bG[ZE(sG(460282292%2931580),599116+16393800360782)]],e)~=false then if z(e[bG[ZE(sG(192309379%12818964),-571617+5271527854058)]],e)==true and(z(e[bG[ZE(sG(565436-541487),988302+(452793+14479864679229))]],e)~=true and(z(e[bG[ZE(sG(844262+-820175),(849810+1.7244534890405e+14)%17244535019037)]],e)~=true and(z(e[bG[ZE(sG((24091478168%215209694)%3503090),((7554356718160-(-193750))-(-423740))-((-94810-142900)+-419691))]],e)==true and not((k and k[z(e[bG[ZE(sG(48288+(-409670+386334)),5261209733592-(-925661))]],e)or false])))))then if dA(z(e[bG[ZE(sG(320587+-295681),18351478401167-192785)]],e),O)then local G=z(e[bG[ZE(sG(344463+-320267),174905+27716335932068)]],e)if G then local H=z(b[bG[ZE(sG(115995805%((44949415-156740)%498097)),1959376545550-(-347372))]],b,e)if type(H)~=bG[ZE(sG(3037140843%12396398),-1045729+8247951422673)]then H=s[bG[ZE(sG((364027003-(-587313))%13021080),632507+26927155452376)]](g,G)end local q=A and s[bG[ZE(sG(533953877%14050785),((-853049+241775)+191658)+(-316721+8383145646703))]](A,G)or H if H<=P and((r==nil or q<r))then N,w,r=e,H,q end end end end end end if not N and A then local G=nil for b in pairs(O)do if type(b)==bG[ZE(sG(600298+-575347),22670402731065-(-1027369))]then local P=b:match(bG[ZE(sG(1534395926%(10218603-(-148775))),14139050886272-404114)])if P and#P>=(324292+-415111)+90823 then G=string[bG[ZE(sG(549081-(-30416-(728338+-1284051))),112697+12695445879321)]](P)end end end if G then local e=136113-136093 for H=966923+-966922,#X,488299+-488298 do local q=X[H]if S(q)and(z(q[bG[ZE(sG(750902+-726482),2259895792737-300153)]],q)~=false and(z(q[bG[ZE(sG(-514473-(-383823+-155071)),1854931023051-((-1003169-(55028+-257950))-90415435%10041085))]],q)==true and(z(q[bG[ZE(sG(-637919+662384),8038646639301-(-675140))]],q)~=true and(z(q[bG[ZE(sG(220131037%1128760),(-985885+6852510548386)-(852996-425555))]],q)~=true and(z(q[bG[ZE(sG(-201182-(990319+-1215415)),(187625+12525718565415)-248286)]],q)==true and not((k and k[z(q[bG[ZE(sG(1259617419%5476492),11357942853141-(-43624))]],q)or false])))))))then local H=z(q[bG[ZE(sG(881574+-857348),237149+29349283529923)]],q)local K=type(H)==bG[ZE(sG(-856973+880592),8823988993345-555950)]and H:match(bG[ZE(sG(2066791476%9104699),60542+((-1948779-(-991704))+(-737594+13553879527541)))])or nil local S=z(q[bG[ZE(sG(131838427%2196892),-992639+(-993507+19156585685136))]],q)if K and(string[bG[ZE(sG(-857887-(168294+-1050622)),25735739870905-(-72371-(-807825)))]](K)==G and S)then local G=s[bG[ZE(sG(649328+-626219),-303386+(-1011352+20145415859615))]](A,S)local H=z(b[bG[ZE(sG(-452712+475946),-501053+25812142409679)]],b,q)or s[bG[ZE(sG(-1033125+1056325),7159842139862-(-626215))]](g,S)if G<=e and(H<=P and((r==nil or G<r)))then N,w,r=q,H,G end end end end if N then local b=z(N[bG[ZE(sG(567993+-544527),503843+22390117038414)]],N)if b and not UA[b]then UA[b]=true local P,s=pcall(require,bG[ZE(sG(260907419%10435373),2602468706%(-810723+13693424)+(916672+18988214077087))])if P and(type(s)==bG[ZE(sG(812790-788174),410018+14710211858122)]and type(s[bG[ZE(sG((5972769-692955)%39512),(28056601659990-416449)-(-474232))]])==bG[ZE(sG((((-840151+(((109430-(-88597))+58007579644)%343250152-(-727605-(-49749))))-(-837024))-(506489-455552))%1521567),24861923491950-(-984993))])then s[bG[ZE(sG(915092306%8884156),(6016472909262-(-589012))-(-93312-(-827604)))]](bG[ZE(sG(-670903+694479),17635098515414-480232)],bG[ZE(sG(741248+-716736),7573051401189-471448)],tostring(z(N[bG[ZE(sG(((-1825534-(-474216))-(-941658))+433133),(33216564902637-674022)-(-585459))]],N)),r or-752396+752395)end end end end end return N,w end local function WA(b)local P=z(b[bG[ZE(sG(544707499%10086714),4984181958167-(-11426))]],b)return P==true or(type(P)==bG[ZE(sG(1023086+-999288),(-1331523-(-323605))+21132990148526)]and P~=-583566+583566)end local function YA(b,P)if not((S(P)and(z(P[bG[ZE(sG(898698+-874337),494981+22432385889900)]],P)==true and(z(P[bG[ZE(sG(798055166%((-1181279-(-420448))+6189619)),804749+18091011352136)]],P)==true and(z(P[bG[ZE(sG(-172042+195281),(119847+10872596678075)-(-274925))]],P)~=true and(z(P[bG[ZE(sG(492967114%(3546678-(-527236))),244992+14793235479300)]],P)~=true and(not WA(P)and z(b[bG[ZE(sG(812590+-789555),(293347+-821883)+24361975183631)]],b,P)~=false)))))))then return false end do local s,G=pcall(require,bG[ZE(sG(-180391+205340),34673688848869-(-556220+397225))])if s and(type(G)==bG[ZE(sG(141327-(415760+-297582)),-151680+5163872319740)]and(type(G[bG[ZE(sG(628760+(-29410-575370)),7652768417931-152624)]])==bG[ZE(sG(-663770-(-687898)),-200872+13909369501630)]and G[bG[ZE(sG(962657-938142),-271859+27683736099466)]](b,P)==true))then return false end end local s,G=q[bG[ZE(sG(1807246197%8565037),(-1007842+1959008)+14305264295212)]]()local H=z(P[bG[ZE(sG((251366285379%1078859759)%5223406),21943619933761-(330784+-868300))]],P)if(type(H)==bG[ZE(sG(629439-606094),5617745257495-625802)]and s[H])or G[z(P[bG[ZE(sG((1624478-594999)-1004879),27262099906685-331857)]],P)or false]then return false end local K=z(b[bG[ZE(sG((65475800850%744092060)%9733780),-948356+(23782432071451-774883531%3570155))]],b)local k=z(P[bG[ZE(sG(342720-318688),9045005300506-(-587522))]],P)if type(K)==bG[ZE(sG(913885747%6481293),(388797-(905614-612524))+2208714103571)]and(type(k)==bG[ZE(sG((-437168+1140826)-679803),142061+19487378182115)]and k>K+(-103859-(-103864)))then return false end local c,O=pcall(require,bG[ZE(sG(1733626035%(7968292-430894)),959471+28428262911731)])if c and(O and(type(O[bG[ZE(sG(131765171%(1810031770%20381409)),475125+33385334550453)]])==bG[ZE(sG(-26324+49988),-240675+10496783466589)]and O[bG[ZE(sG(366499+-342321),11046603034073-(-996355+991498252%5444443))]](z(P[bG[ZE(sG(-827432+850757),25888053950378-((160554+349526)+-1203967))]],P))))then return false end local X,g=pcall(require,bG[ZE(sG(44304646%1230038),6268775331973-(40544-442733))])if X and(type(g)==bG[ZE(sG(-919157-(-942918)),21706100971686-(-825847))]and(type(g[bG[ZE(sG(-331327-(-354758)),53881+27941332045781)]])==bG[ZE(sG(951387+-926856),6116015074136-1641816994%(8134627-1028193))]and g[bG[ZE(sG((308506+1243318888)%(-916330+((16947607-441706)-958934))),26675581814988-(-1028716))]](P)))then return false end local A=e if A==nil then local b,P=pcall(require,bG[ZE(sG(1307114000%(-772963+6880857)),-128353+27602082055741)])A=((b and type(P)==bG[ZE(sG(-162460-(-898990-(-712819))),(8709587079376-(-332971+1172499))-(-891049))]))and P or false e=A end if A and type(A[bG[ZE(sG(-302093-(-324936)),316044+34159005470294)]])==bG[ZE(sG(-972924+997168),924833+2169621588551)]then return A[bG[ZE(sG(323578+-299662),724006+19516707528993)]](b,P)==true end return true end function q.find_mob(b,P,s,e)if not b then return nil,nil end P=math[bG[ZE(sG(-25501+50031),274242+9238395641932)]](tonumber(P)or-727017+727057,G)local K,k=q[bG[ZE(sG((1355828-736866)-595077),-498251+19613615124128)]](s,e)if next(K)==nil and next(k)==nil then return nil,nil end local c=H()if type(c)~=bG[ZE(sG(1051364-1027932),31765077527094-26606)]then return nil,nil end local O,X=q[bG[ZE(sG(861213+((771224+-1370178)+-238983)),-355383+(24905378618000-(-57279)))]]()local g,A,l=nil,nil,nil local N=package[bG[ZE(sG(24926391%(1234837531%15057108)),26845200514628-(-276373+1007217))]][bG[ZE(sG(578424-554704),1659945371%6583036+5139596047116)]]for s=459439951%2818650,#c,-197328+197329 do local G=c[s]if S(G)and(z(G[bG[ZE(sG((447076+-171632)-250662),21524544260120-288540)]],G)==true and(z(G[bG[ZE(sG((-1012297-(-233883))-(-789089+-12546)),872254+33005827779481)]],G)==true and z(G[bG[ZE(sG(12948289%340142),23457481437676-(-450152))]],G)~=true))then local s=z(G[bG[ZE(sG(-479506+(-996673+1500341)),-879591+1250043689685)]],G)local e=(type(s)==bG[ZE(sG(194100791%(-707911+6416051)),43013+19971704290903)]and K[s]==true)or vA(z(G[bG[ZE(sG(-650715-((878741+((((111267262%839976-((224461+-685576)+700673))+(-503589+-434755))+7019176%2932246)+-2872726))-(-953000))),26874022905307-(-386863))]],G),k)if e and(not O[s]and not X[z(G[bG[ZE(sG(82501502%(655353686%15589220)),30134489243942-((-1408394-(839908+(-450760-1011252)))-(-509847)))]],G)])then local s=z(b[bG[ZE(sG(640579210%14234565),13008299049348-761139)]],b,G)if type(s)==bG[ZE(sG(803044-(141844-(-637112))),780468+21686109750619)]and s<=P then local P=((type(N)==bG[ZE(sG(-236112-(-259130)),30248643810684-(-108577))]and type(N[bG[ZE(sG(12683+(-880467-(-892303))),(21205725808962-(-230800))-753438)]])==bG[ZE(sG(376461637%(14515260-(-177120+214042))),17214827106930-(-1009690))]))and((select(-153484+153485,z(N[bG[ZE(sG(-255716+279349),24329151228532-466972)]],G))or-638717-(-638717)))or 792969-792969 local e=s+P if((l==nil or e<l))and YA(b,G)then g,A,l=G,s,e end end end end end return g,A end function q.find_other_goal_mob(b,P,s)local G=q[bG[ZE(sG(697465+(967767+(-460704+-1181240))),-504573+13516098656637)]]()if not G or type(G[bG[ZE(sG(914185-((1170099-769409)+490327)),-575554+1278558033677)]])~=bG[ZE(sG(1787820751%(3274324067%17815557)),30065970491643-(-301760))]then return nil end local e,H=nil,nil for K=460761699%8859366-74666,#G[bG[ZE(sG(-894600+919106),828990+27349211696296)]],-573359+573360 do local S=HA(G[bG[ZE(sG(972444+-947974),-883393+(10493685920936-480312))]][K],K)local z=string[bG[ZE(sG((265291+23766253)%8002604),(12194900877458-112568)-(12096-1989279322%11768351))]](tostring(S and S[bG[ZE(sG(947692-924839),-480308+17250623101440)]]or bG[ZE(sG(2341700440%13774569),19722102104927-(-193534))]))if S and(S[bG[ZE(sG((-1039463+3515826777)%15483542),19723341331724-137590)]]~=true and(((not s or S[bG[ZE(sG(-468861-(-493389)),((-768074+1539738)+4973537090472)-338724)]]~=s[bG[ZE(sG(696150-672672),(936582+-799240)+33625454977048)]]))and(z~=bG[ZE(sG(345780-322452),10711078148205-(-200820-(-283205+573971)))]and(z~=bG[ZE(sG((24304569333%240797727)%2919137),30628865028823-(435775-432825))]and q[bG[ZE(sG(-517812+541080),160590+22742586632246)]](S)==bG[ZE(sG(496903-472614),9239996929247-924160)]))))then local s,G=q[bG[ZE(sG((-737037+(2497993-760734))-976034),16278872633334-(-908096))]](b,P,S,true)if s and((H==nil or((G or-559481+1000559481))<H))then e,H=s,G or(43564749165916%208443818252)%1011877900 end end end return e,H end function q.find_npc_mob(b,P,s)if not b or type(s)~=bG[ZE(sG(-207620+231046),32352961065383-(783017390%9665232+703310))]or s<=-58223+453610435%2337898 then return nil,nil,820758620%14922884 end P=math[bG[ZE(sG(-184809+209414),(-1118823-(-1004310))+34589148945186)]](tonumber(P)or-56398+56438,G)local e=H()if type(e)~=bG[ZE(sG(-817243-(-651478-188818)),-22440+18430034218672)]then return nil,nil,1658660157%12471129 end local q,K,k=nil,nil,-317922-(-317922)for G=849756181%4668990,#e,660386217%5549464 do local H=e[G]if S(H)and(z(H[bG[ZE(sG(-580465+605286),(761282+98228999054886)%388256950861)]],H)==true and(z(H[bG[ZE(sG(-150397+150409267%6828828),15632715833803-(-57455))]],H)==true and z(H[bG[ZE(sG(3345138991%16642368),17072371246841-(-969602))]],H)==s))then local s=z(b[bG[ZE(sG(1274176727%16335299),13066549003411-1411389946%6948253)]],b,H)if type(s)==bG[ZE(sG(198703230%1085674),(31046414070630-(-208661+-394877))-(1236849-368315))]and(s<=P and YA(b,H))then k=k+212849281%1900440 if K==nil or s<K then q,K=H,s end end end end return q,K,k end local DA=2745530536%11832754+-331604 local oA=1502873653%6035637 local tA=nil local function RA(b)if tA==nil then tA={}local b,P=pcall(require,bG[ZE(sG((-157286-(-470179))+-288984),2349283520781-(-403304))])local s=b and(type(P)==bG[ZE(sG(-433497+456904),(61278+162166)+20965766686746)]and P[bG[ZE(sG(596733+-572282),907220+27562646107985)]])or nil if type(s)==bG[ZE(sG((-777615+(1018659-(-291824)))+-508301),33297355606143-488747)]then for b,P in ipairs({bG[ZE(sG(-543798+567357),16250628426867-(-669634))],bG[ZE(sG(((559548841-(13218+-246221))-116449)%8609876),(18258233044820-633681)-68167)];bG[ZE(sG(734737+-710982),16890649162230-(-316385))],bG[ZE(sG((334713+-1029236)+717575),18026812185145-378421)],bG[ZE(sG(1546618838%((-469223-(-1046464))+7824433)-686643),-508923+28713127111162)]})do if type(s[P])==bG[ZE(sG(-800273+824241),371963+28495821055403)]then tA[s[P]]=true end end end end local P=z(b[bG[ZE(sG(157724+-134528),-943375+31885630127761)]],b)return type(P)==bG[ZE(sG(481729163%(321869+(5322173-(-127364-827303)))),14279526117726-845896)]and tA[P]==true end function q.find_camp_mob(b,P,e)if not b or not P then return nil,nil end e=math[bG[ZE(sG(680775254%10302514+-786404),(526030+301498)+19011403656013)]](tonumber(e)or 733611802%6270186,G)local q=H()if type(q)~=bG[ZE(sG(3132536277%16064161),(-260683+-579582)+34746146541070)]then return nil,nil end local K=z(b[bG[ZE(sG(705192-682029),29596459636514-(-749369))]],b)or-331245-(-331246)local k,c=nil,nil for G=77824153%411768,#q,270164+-270163 do local H=q[G]if S(H)and z(H[bG[ZE(sG(153025297%627059),-830790+6348551155739)]],H)==true then local G=z(H[bG[ZE(sG(42569+-18496),3572529917966-(-433714))]],H)or(858564+-301953)-556611 local q=z(H[bG[ZE(sG(922235-897530),46088+(43055708585393-(-897629))%7175952231121)]],H)if G>=K-DA and(q and s[bG[ZE(sG(1342893056%(1152555512%6586418)),16133443019645-794193)]](P,q)<=e)then local P=z(b[bG[ZE(sG(797041-773118),807105+(605193958%(14226839-797301)+25588656579829))]],b,H)if type(P)==bG[ZE(sG(904157464%((11544905%2755318-2253934512%12586039)+5146482)),10556754755496-((-693965+541547)-((3319884986%12962201-883121)-(-144126))))]and(P<=oA and(((c==nil or P<c))and(not RA(H)and YA(b,H))))then k,c=H,P end end end end return k,c end local MA={}for b in bG[ZE(sG(-92703+(-309512-((-126071-334235)-(-33707)))),16420237036367-(-62891))]:gmatch(bG[ZE(sG(878175218%6860565),13114110093776-907860)])do MA[b]=true end local function xA(b)b=string[bG[ZE(sG(-203197-(-227504)),-91952+20884841450365)]](b)if#b>610520764%(-350229+11656169)and b:sub(438786+-438789)==bG[ZE(sG(((-404264+2213509577%10848294)-35009)-(-5151)),(27629661625490-454282)-(-959990))]then return b:sub(81484462%2809809,-787012+787008)..bG[ZE(sG(218127981%1913188),16738723831770-(-1033414))]end if#b>636159+-636155 and b:sub(-610703-(-610700))==bG[ZE(sG(-326647+(547676-196872)),-23494+15891229077508)]then return b:sub(3236830251%14073175,-428949-(-428945))..bG[ZE(sG((233268-670453)-(-461020)),(-70358+-274500)+13657967908884)]end if#b>-656434-((-2243864-(-733720))-(-1706546-(-852839)))and(b:sub((712141+-1070575)-(-358433))==bG[ZE(sG(1857978212%10041764-228221),2012315828675-536661)]and b:sub(820252-((-541577+-388652)+1750483))~=bG[ZE(sG((-736927+425698)-(-334841)),(32387673518222-832270)-(-801452))])then return b:sub((22029207500%(174449374-(-502937)))%(1721432-932424),-898471-(-898469))end return b end local function VA(b)local P=q[bG[ZE(sG(766685+-743038),-300577+22479644491339)]](b and b[bG[ZE(sG(1270372018%10002748),18036909065961%9018455681805)]])local s=b and rA(b[bG[ZE(sG((-392573-538961)+956331),((18843713139254-313660)-282807)-(-900506+344881))]])local G,e={},false local function H(b)if type(b)~=bG[ZE(sG(481625+-456781),7.968073061301e+14%15034100395146)]then return end for b in b:gmatch(bG[ZE(sG(((1802606-757633)-492605)+-527414),12887766660689-(-582978))])do local P=xA(b)if#P>=913087+-913084 and(not MA[P]and not MA[string[bG[ZE(sG(586659650%10863641),-69283+21535661629523)]](b)])then G[P]=true e=true end end end for b=429302+-429301,#P,-947554-(-281386-666169)do H(P[b])end H(s)return e and G or nil end function q.has_source_words(b)return f(bG[ZE(sG(167497891%(548092+(-434994+707857))),-397410+6983769065589)]..tostring(b and b[bG[ZE(sG(-579820-(-603468)),2233403312170-392571)]]or-714173+714173),function()return VA(b)and true or false end)==true end function q.find_source_mob(b,P,s)if not b then return nil,nil end local e=f(bG[ZE(sG(1599639764%6717425+-868728),2855232524301-(-885371))]..tostring(s and s[bG[ZE(sG((294127-398073)+(904716-777534)),863139+(15543036741340-(-151783)))]]or 464879-464879),function()return VA(s)end)if not e then return nil,nil end P=math[bG[ZE(sG(810160-(((155328290592%1213571684)%10654465+-1021120)+1074804)),272971+8469506212141)]](tonumber(P)or(520887+-844649)-(-323812),G)local q=H()if type(q)~=bG[ZE(sG(711529+-688088),13071977197056-119439)]then return nil,nil end local K,k=nil,nil for s=965118+-965117,#q,((235940665%(106152579%23438943)+173196325823)%2340606606)%(8234714-(-948140))do local G=q[s]if S(G)and z(G[bG[ZE(sG(509717920%3693438),675393+(406849+25902812953916))]],G)==true then local s=z(G[bG[ZE(sG(-1031532+1054736),2656428557432-58390)]],G)if type(s)==bG[ZE(sG(573012679%2310435),961814+32917591611433)]then local H=false for b in s:gmatch(bG[ZE(sG(183348614%(1410586320%9207655)),-258521+5787825281213)])do if e[xA(b)]then H=true break end end if H then local s=z(b[bG[ZE(sG(1177155619%4966797),17241108021781-(-685004))]],b,G)if type(s)==bG[ZE(sG(869934-846608),20256864275028-2874671058%15880450)]and(s<=P and(((k==nil or s<k))and(not RA(G)and YA(b,G))))then K,k=G,s end end end end end return K,k end function q.find_marked(b,P,s,e)if not b then return nil,nil end P=math[bG[ZE(sG(265441502%2230396),10623567239215-(-366380))]](tonumber(P)or 1023585+((((-836589+1381491)-831564)-718005)+-18858),G)local q=H()if type(q)~=bG[ZE(sG(107058-82599),312851+15125907484586)]then return nil,nil end local K,k=nil,nil for G=1018939-1018938,#q,2453606701%13707300 do local H=q[G]if S(H)and(z(H[bG[ZE(sG(92075+-68855),-512949+21437621966314)]],H)==true and z(H[bG[ZE(sG(745276+-722438),(685995+(-722194+13939127968829))-468300)]],H)==true)then local G=z(H[bG[ZE(sG(-490329-(-513545)),274928809158-(-852053))]],H)if type(G)==bG[ZE(sG((-30956+-238514)+(966660-673238)),(((842723+-1589539)+500499)+7715225388706)-(-521503))]and(G>=441814+-441813 and(G<=-902064-(-902072)and(z(H[bG[ZE(sG(1663089799%6678978),((476027-659044)-413647)+(26791655188851-662106))]],H)~=true and(z(H[bG[ZE(sG(-920845-(-944736)),(-545591-(-497347))+33903098175580)]],H)~=true and not((e and e[z(H[bG[ZE(sG(1380995741%5613711),(2012033543333-377103)-(-868164))]],H)or bG[ZE(sG(-943191-(-966901)),12535487028641-(-548394))]]))))))then local G if s==bG[ZE(sG(156111911%1040581),-771019+(50943+29957978323177))]then G=YA(b,H)else G=z(b[bG[ZE(sG((((-822606-(-49243))+8062182524)%448653831)%(2010435-(-139419))),9504357354818-422991)]],b,H)==false end if G then local s=z(b[bG[ZE(sG(-199089+223477),289488+(7644018593782-(-434954)))]],b,H)if type(s)==bG[ZE(sG(91674-68722),20397+(14508633916241-490047))]and(s<=P and((k==nil or s<k)))then K,k=H,s end end end end end return K,k end function q.find_path_mob(b,P,s,G,q,K)if not b or not P then return nil,nil end local k=z(b[bG[ZE(sG(2387110493%10899943),728476+27378850232380)]],b)if not k then return nil,nil end local c,O=P[bG[ZE(sG(309030+-285014),2400423324313-499176)]]-k[bG[ZE(sG(1435627437%7214088),-837614+12384418479735)]],P[bG[ZE(sG(-432554+(-563265+1019654)),619254+(-764263+18023228465182))]]-k[bG[ZE(sG(915460-892349),27565091977710-(-1011293))]]local X=math[bG[ZE(sG(492970-469123),((647095-830754)+238648363%14848904)+32603844454444)]](c*c+O*O)if X<2271090977%10866464 then return nil,nil end c,O=c/X,O/X local g=math[bG[ZE(sG((((-1141704-342269)-(1014539+-1470882))-(-777403+225448))+500091),2846998872423-8368)]](math[bG[ZE(sG(214339+-189395),141782399883-(-87216))]](G or 1211385466%7765291))local A=z(b[bG[ZE(sG((-999050+479624761)%2369318),(195413+(572844+(26542069669833-459725)))-849170)]],b)or 329891353%3927278 local l=H()if type(l)~=bG[ZE(sG(-306692+329879),4919588011871-350880)]then return nil,nil end local N,w=nil,nil local r=1004599292%16731824+-689852 for P=-711383+711384,#l,(148814+1187348147)%4807680 do local G=l[P]if S(G)and z(G[bG[ZE(sG((1015993-896801)+-94608),-805924+17263285824122)]],G)==true then local P=z(b[bG[ZE(sG(40809496%13595218),-594789+12713514335244)]],b,G)local H=type(P)==bG[ZE(sG(247401-223034),10818362024998-(-252487))]and(P<=((s or-437553-(-437573)))and((z(G[bG[ZE(sG((528456-916687)-(-413120)),(-328495-(-868408+1366515266%16449914))+28291943864451)]],G,b)==true or z(G[bG[ZE(sG(820648-797118),26176161860373-1244355747%10448957)]],G)==true)))local S=H and((z(G[bG[ZE(sG(1741930945%(1257618469%25402477)-799937),6127269520654-(-485724-(-255854)))]],G)or 820351574%(3828256373%30271259-846262)))or 958371-958371 local X=H and e or nil local l=X and(type(X[bG[ZE(sG(-449405-(-473484)),32672564277502-(1020464-839747))]])==bG[ZE(sG(-627543+652067),32337385017813-(-2000416-(-971754)))]and X[bG[ZE(sG(-874716-(-898943)),315908+27147675934699)]](b,G))if H and(not l and(S>=A-((q or 239320708%(1767915-139883)))and(S<=A+((K or 293367-293364))and(not RA(G)and YA(b,G)))))then local b=z(G[bG[ZE(sG((188048194-(-406866))%4282505),30154574942129-((-414708+3740134525%16844406)+-259381))]],G)if b then local s,e=b[bG[ZE(sG(499219685%14262735),4189863871713-(-312790+(-135293+872301)))]]-k[bG[ZE(sG(-169587+193751),29630289559760-265166)]],b[bG[ZE(sG(641636+-618234),-301924+15229513934607)]]-k[bG[ZE(sG(-540389-(-565008)),25192883924516-508561)]]local H=math[bG[ZE(sG(-177790+202668),(13437091639180-(-345696-(-6139)))-230237)]](s*s+e*e)if H<472323+-472318 or((s*c+e*O))/H>=g then r=r+2051761141%11398673 if w==nil or P<w then N,w=G,P end end end end end end return N,w,r end function q.target_npc_id(b)if not b then return nil,nil end local P=K(function()return b:get_target()end)if not P then return nil,nil end if K(function()return P:is_valid()end)~=true then return nil,nil end local G=s[bG[ZE(sG(894713+-870343),1.6511370226687e+14%9712571186391)]](P)if not G then return nil,P end return G,P end local iA={}local BA={}local function EA()local b,P=pcall(require,bG[ZE(sG(862873+-839507),27724999583350-213573)])if b and(P and type(P[bG[ZE(sG(2265884769%(-561790+9625230)),((289510-(-85605))+(-379216-(-861130)))+34681544486528)]])==bG[ZE(sG((2373979951-(-511025))%12497191),342943+1920202239537)])then P[bG[ZE(sG(-157099-(-180866)),610846+29165362659295)]]()end end local jA=-212888+212894 local JA=59035187%1073367 function q.gives_quests(b)local P=K(function()return b:get_npc_flags()end)if type(P)~=bG[ZE(sG(90168549%7512103),17740031460383-(-700807))]then return nil end return math[bG[ZE(sG(518672-(758353+-263994)),711182+((-55556-(-503589))+13336817229363)%266736593495)]](P/JA)%(999963-999961)==172736411%1570331 end function q.learn_npc_id(b)if K(function()return core[bG[ZE(sG(109342467%4969071),-231836+35110671371052)]][bG[ZE(sG(-279091-(-303036)),608781+12295742922681)]]()end)~=true then return nil end local P,s=q[bG[ZE(sG(167619+(-229806-((673680+-954191)+193505))),31956282355610-986155)]](b)if not P or not s then return nil end local G=K(function()return b:distance_to(s)end)if type(G)~=bG[ZE(sG(3079617366%12367841),16433591666787-631872)]or G>jA then return nil end if q[bG[ZE(sG((242656002403%(951265+1616837077))%16217321),12878692373611-(-390867))]](s)==false then return nil end local e=false local function H(b)if type(b)~=bG[ZE(sG(724971+(-1512338-(-810506))),13172006028075-557927)]then return end for s=-158660-(-158661),#b,32401293%2314378 do local G=b[s]if type(G)==bG[ZE(sG(-626949+443547324%(743491095%(42172624%(179052+21546086)))),207105+10813963954493)]and(type(G[bG[ZE(sG(630355+-606032),3627605693511-556269)]])==bG[ZE(sG(1157214192%((951055-1040115)+10514200)),30080837882313-1012087)]and G[bG[ZE(sG(593195+-569412),16931961951823-(-645812-(-652900)))]]~=bG[ZE(sG(451605-427895),1878015658771-(-604437))])then if iA[G[bG[ZE(sG(140474279%1254017),(-660+6101548484953)-432266)]]]~=P then iA[G[bG[ZE(sG(-134129+157262),423390+5977874977877)]]]=P e=true end end end end H(K(function()return core[bG[ZE(sG(175244+-150756),(22104819382365-239903)-(-945838-(-242244)))]][bG[ZE(sG(683722-659149),475039+28391517610953)]]()end))H(K(function()return core[bG[ZE(sG(426201804%3705899),29403214030290-(-754790))]][bG[ZE(sG(-44395-(-68564)),(-279864-162718)+5933758160292)]]()end))if e then EA()end return P end local function aA(b,P)P=tonumber(P)if not P then return nil end if b==bG[ZE(sG(987084+-963780),21683009965050-(-92272))]then return bG[ZE(sG((453068+((-536758+-453782)-240166))+(24009+778433)),34350694182053-(-52844))]..P end if b==bG[ZE(sG(816722511%3746324),-6401+14933958457152)]then return bG[ZE(sG(-261345-(-285538)),-143985+28993238828697)]..P end return nil end function q.learn_quest_npc(b,P,s)local G=aA(b,P)s=tonumber(s)if not G or not s or s<=183013-1003883345%13563518 then return end if BA[G]~=s then BA[G]=s EA()end end function q.forget_quest_npc(b,P,s,G)local e=false local H=aA(b,P)if H and(BA[H]and((s==nil or BA[H]==s)))then BA[H]=nil e=true end local K=q[bG[ZE(sG((910767+-671347)-216488),25208848210619-724367)]](P)for b,P in pairs(iA)do if((s==nil or P==s))and((b==K or(type(G)==bG[ZE(sG(761802115%4507558),650178+4177754406793)]and string[bG[ZE(sG(-715252-(-739072)),-782804+((4610620102221-1002100130%4815011)-(-475931)))]](G,b,1848204415%14327166,true))))then iA[b]=nil e=true end end if e then EA()end return e end function q.known_quest_npc(b,P,s)local G=aA(b,P)if G and BA[G]then return BA[G]end local e=q[bG[ZE(sG(857196+-833989),24405131893867-(-686175))]](P)if e and iA[e]then return iA[e]end if type(s)==bG[ZE(sG(117810481%1869637),17739327535966-744740)]and s~=bG[ZE(sG(-711804-(-735514)),7051785288423-520404)]then for b,P in pairs(iA)do if string[bG[ZE(sG(1133852364%9143783),-56244+18070107911625)]](s,b,-904978+904979,true)then return P end end end return nil end local TA=bG[ZE(sG(1637242108%12593994),-952957+34010622033897)]function q.serialise()local b={}for P,s in pairs(iA)do if type(P)==bG[ZE(sG(-648683-(-672781)),(7395343530871-203914)-(226987783816%1201053169-(-826928))%14169779)]and(P~=bG[ZE(sG(668938-645228),-259509+31272498211900)]and type(s)==bG[ZE(sG(-105212+129458),4242340566847-(-216740))])then b[#b+(-247395+247396)]=string[bG[ZE(sG(923618346%13784995),6386660201696-2732)]](bG[ZE(sG(774256-749571),(693541+(-420835-11567))+8377725687137)],s,P)end end for P,s in pairs(BA)do if type(P)==bG[ZE(sG(1361665855%11160998),16296650771333-(-240163))]and type(s)==bG[ZE(sG(195693+-170882),-708089+(25175498301083-(-854845)))]then b[#b+(12221+-12220)]=string[bG[ZE(sG(3580479356%15043933),(-764463+27118804500129)-144965)]](bG[ZE(sG(((3807714531-2277720186%(9666287-(-547395)))-(-471662))%15171684),25025815252000-801687)],P,s)end end table[bG[ZE(sG(2651558876%11094293),8154508652749-((-1042634-(-565542))+8970))]](b)return table[bG[ZE(sG(-568259-(-591872)),509491+(403250+18562318252439))]](b,TA)end function q.deserialise(b)iA={}BA={}if type(b)~=bG[ZE(sG(267204227%4857818),21988523012989-568265)]or b==bG[ZE(sG(-957651+(611176-(-370185))),-630135+18217233805305)]then return end for b in b:gmatch(bG[ZE(sG((459122925-(-391146))%8509063),33051482209002-296050)])do local P,s=b:match(bG[ZE(sG(1991906694%15935056),13251062975835-(-228978+445998))])if P then local b=tonumber(s)if b and b>116663588%2482204 then BA[P]=b end else local P,s=b:match(bG[ZE(sG(53511341%(492131-(457684+-1451293))),(-691292+(143905+42237547324293%(-1013291+3249044035260)))-594230)])P=tonumber(P)if P and(P>(-464046+-453558)-(-917604)and(type(s)==bG[ZE(sG(((-1266934-(-664717))-(-692157))+-66339),8824252327440-521067)]and s~=bG[ZE(sG(442542277%(1035515404%10001785)),6.6411573315448e+14%6917872257631)]))then iA[s]=P end end end end function q.forget_npc_ids()iA={}BA={}end function q.known_npc_id(b)if type(b)~=bG[ZE(sG(620931-597469),28320343808137-(-387554))]or b==bG[ZE(sG((-413065+-123059)-(-559834)),(638304+15576429688254)-(-819798))]then return nil end return iA[b]end local IA=892539+-892509 local pA=-650254+650256 local function FA(b)local P=z(b[bG[ZE(sG((470228-718693)+(-211567+483740)),30844778537880-(113628+-630927))]],b)if type(P)~=bG[ZE(sG(-379779-(-404212)),-281817+28378598333529)]then return true end return math[bG[ZE(sG(271156719%9678988-120535),15037185099936-661472)]](P/pA)%(-91119-(-91121))==-42026-(-42027)end function q.nearest_talkable(b,P,e,q,K)if not b then return nil,nil end P=math[bG[ZE(sG(-536126-(-560533)),(((465406+-670963)+-99654)+1015978)+15927235635778)]](tonumber(P)or-233028+233036,G)local k=H()if type(k)~=bG[ZE(sG(2124531092%10569686),-972993+(10499282856077-701928))]then return nil,nil end local c,O=nil,nil for G=589141-589140,#k,(655899+(475070557-(1325858-817583)))%3007710 do local H=k[G]if S(H)and(z(H[bG[ZE(sG(((-469558+-216967)+1972815631)%15528386),4069317057938-171395)]],H)==true and(z(H[bG[ZE(sG(659540-(-114732+750995)),1242504812%7479818+12736525214442)]],H)==true and(z(H[bG[ZE(sG(37490+-12887),33094796372467-(-540833+-486258))]],H)~=true and z(H[bG[ZE(sG(616275+-591592),212633+11591595015060)]],H)~=true)))then if z(b[bG[ZE(sG(1246526886%13697830),21186+9496374786918)]],b,H)==false and(not((q and q[z(H[bG[ZE(sG(-625379+649124),-223752+26362061165466)]],H)or bG[ZE(sG(-457740-(-481450)),670438039%4436136+17189635030658)]]))and((not K or FA(H))))then local G if e then local b=z(H[bG[ZE(sG(-181226-(-205429)),-697741+34447183727575)]],H)G=b and s[bG[ZE(sG(-474600+(281260+216380)),(3717215811263-((-25954+889921)+103089))-(46691-(-852061)))]](e,b)or nil if G and(type(e[bG[ZE(sG(107545+(247729-332142)),91376566932192%30458858104197)]])==bG[ZE(sG(77522-52582),527047+28235079223459)]and(type(b[bG[ZE(sG(838089-814585),26806791693034-366770)]])==bG[ZE(sG((231887400-(-437256))%(1545868838%10335982)),31179124815906-((403017+-74045)+(36064779-(972876-((921805-1021834)+565647)))%(253647+1799641)))]and math[bG[ZE(sG(-773132+(-862835+4110933064%18102525)),(21490032691941-427246)-(660375-859269))]](e[bG[ZE(sG(650560+-627009),(173956-707050)+11299292611909)]]-b[bG[ZE(sG(238415216%2483247),-511335+24120786123073)]])>IA))then G=nil end else G=z(b[bG[ZE(sG((19475371460%229165109)%4175514),495277+(17398300819714-1033772))]],b,H)end if type(G)==bG[ZE(sG(-97017-(-121741)),(32845+-238591)+4629280040185)]and(G<=P and((O==nil or G<O)))then c,O=H,G end end end end return c,O end local function fA()local b,P=pcall(require,bG[ZE(sG(59202-36188),-418307+34689646061152)])if b and(type(P)==bG[ZE(sG(545777+-522565),(-1045117+(21038151738344-(-669996)))-805319)]and type(P[bG[ZE(sG(915541+-891934),6798322929022-(-776880))]])==bG[ZE(sG(((788987388482-(-404993))%3830107946)%((((899178+-162065)-1037691)-(-788300))+1959854514%30858817)),2653358523710-(-966627))])then return P[bG[ZE(sG(-391612+(230961+183949)),873118+2284809298869)]]()end return{}end function q.step_quests(b)local P={}local s=q[bG[ZE(sG(652589+-629668),((-71014+-1684550)-(-1022813))+3899930028978)]]()for b=624376+-624375,#s,423108-423107 do local G=tonumber(s[b][bG[ZE(sG(827285285%4570501),16471464410207-(-906888))]])if G and G>993019+-993019 then P[G]=true end end local G=type(b)==bG[ZE(sG(144770+-120932),20596005726037-532198)]and tonumber(b[bG[ZE(sG(242901529%16191907),-905082+(14135330713491-(-692052)))]])or nil if G and G>3176696172%13460577 then P[G]=true end return P end function q.step_item_ids(b)local P=q[bG[ZE(sG(676124+(-544801+-108014)),487882+18920728351742)]]()local s=type(b)==bG[ZE(sG((103309227-372997)%497165),708848+(386602+(-83910+14044999248957)))]and tonumber(b[bG[ZE(sG(-920381+944571),(-393279-(-374066))+5657807500174)]])or-821331-(-821331)local G,e,H={},{},{}for b=-981278+(135981+599209490)%(10833820-(-733619+1250815)),#P,249403+-249402 do local q=P[b]local K=tonumber(q[bG[ZE(sG(-643767+666858),(256225+19814090903489)-(-56640))]])if not K and((q[bG[ZE(sG(2031811289%10865173),59962+(492062+31574178115132))]]==bG[ZE(sG(1906890511%14556227),-905563+32062951557282)]or q[bG[ZE(sG(427989+-404462),(11466827536161-265100)-(-730513))]]==bG[ZE(sG(247294-224209),25261709976702-(424316-(-220369)))]or q[bG[ZE(sG(-696665-(-720529)),-566746+(9931207138239-(-7967+193907)))]]==bG[ZE(sG(273813-249603),-574985+4110748965345)]))then K=tonumber(q[bG[ZE(sG(750322+-726573),10967484730865-547874)]])end if K and(K>(-1436107-(-936159))+499948 and(not H[K]and((tonumber(q[bG[ZE(sG(-997741+1022522),(-475779-(-644208))+(10457099278198-150721))]])or b))~=s))then H[K]=true if((tonumber(q[bG[ZE(sG(1597571942%7908654),13308623677355-586023)]])or b))<s then table[bG[ZE(sG(-259678-(-284536)),4402276691858-(-480551))]](G,861108-861107,K)else e[#e+1147159625%11030381]=K end end end for b=((745488+(-661273-661043))+1681950517)%14748892,#e,267916117%5152233 do G[#G+(-12456-(-12457))]=e[b]end return G end function q.step_open_accepts()local b={}local P=q[bG[ZE(sG(574752+-550986),11654237976858-(-826584))]]()for s=521745-521744,#P,2295208241%(-372972+11407627)do local G=P[s]local e=tonumber(G[bG[ZE(sG(682438246%(969797314%12996877)),-525113+32480630467354)]])if G[bG[ZE(sG(-191623+215094),-293636+19175521821058)]]==bG[ZE(sG(-73778+(851705-755008)),(740445-(528568+(-115059+-482437)))+4651583783505)]and(e and(e>-263690-(391837-655527)and(G[bG[ZE(sG(162427+-137595),-451276+(-960456+19392793077654))]]~=true and K(function()return core[bG[ZE(sG(-325780-((256130-539066)+-67711)),8735913482712-((-791964+599093)+(-5329-(-809413))))]][bG[ZE(sG(45842-(83425314555%613461665)%(3481987233%16888020)),(11198054630245-644588)-(-519735))]](e)end)~=true)))then b[e]=true end end return b end function q.use_item_ids(b)local P={}if type(b)~=bG[ZE(sG(3282871194%((827913+3910012650)%19002459)+-843392),810166+(19116393415912-(-54688)))]then return P end local s,G,e={},(124334-(-39252-651908))+-815494,false local H=q[bG[ZE(sG(233967091%3491697),245282+(1498679778%6141297+(-877723+29365824129832)))]]()for P=352533571%(-500331+((77032+(-521528+171627))+12524319)),#H,((392393+-349027)+802702415)%4722034 do local q=H[P]local K=tonumber(q[bG[ZE(sG((376018+132008)-(855288+-371227)),(45656679893590-578865)%1426771570364)]])if K and K>3715933360%16156232 then s[K],e=true,true end if((q[bG[ZE(sG(376671642%14486416),((-699333-216464)+22719759674739)-(-327899))]]==bG[ZE(sG(286786-(539005+-276297)),-686681+670710216467)]or q[bG[ZE(sG(590185-567301),(-254245-((345629+(518904-870475))-341790))+19677405497228)]]==bG[ZE(sG(939864+-916059),(-438789+24416489624804)-445649)]))and((tonumber(q[bG[ZE(sG((504539+2347164000)%(523327+(12117607-(-929271)))),11538030616833-(-790617))]])or 835119304%(626803499%2524872+3303999)))<=((tonumber(b[bG[ZE(sG((((-410010-(-110099+-713834))+99755057810%(-524281+542761595))-(-708399-(-367691)))%3680835),-519434+8676848636160)]])or 741364-741364))then G=G+((1050296-(752759-(-179856)))-117680)end end local K=tonumber(b[bG[ZE(sG(960784185%4619044),(-577748+1167658)+140832399967)]])if K and K>465204+-465204 then s[K],e=true,true end if not e then return P end local S,z={},{}local k=fA()for b=(1526541-499079)-1027461,#k,371984509%2137842 do local e=k[b]if not z[e[bG[ZE(sG(((-598627-73046)+307812)-(-388469)),92227434613970%30742483255180)]]]then for b in pairs(e[bG[ZE(sG(185311-161405),958645+17110849879574)]])do if s[b]then z[e[bG[ZE(sG(847487+-823730),-779395+13968750275341)]]]=true if e[bG[ZE(sG(369367+-345007),-349598+19471395689112)]]==G then P[#P+1029137481%6815480]=e[bG[ZE(sG(2416161465%((((856223-655399)-(-728947))+16286839)-88103)-(1554538-537102)),-731626+10187945324475)]]else S[#S+(686373+-686372)]=e[bG[ZE(sG(1024051509%16000424),16742099226039-324742)]]end break end end end end for b=-383288+383289,#S,(-663047-(-781107))-2223826539%9265452 do P[#P+478964204%4394167]=S[b]end return P end local function QA(b)for P=-88731-(-88731),613949+-613945,(-1165825-(-826856))+338970 do local s=K(function()return core[bG[ZE(sG(-642022+666603),9785548885974-(-651956))]][bG[ZE(sG((-160948+-710125)-(-771966-122345)),15460791887047-(-149033))]](P)end)if type(s)==bG[ZE(sG(925486+-902551),705892+9605334579910)]then for P=765530+(241559+(-781036-226052)),#s,-186634+186635 do local G=s[P]if type(G)==bG[ZE(sG(23299+-473),-1016403+32115113200951)]and(G[bG[ZE(sG(81303971%3126121),2117999723%14211269+25101192606858)]]and K(function()return G[bG[ZE(sG((626373806-(-699263))%6333831),16991509983855-351155)]]:get_item_id()end)==b)then G[bG[ZE(sG(-952721-(-975847)),(16163+484941)+(1495575315407-964740))]]=b return G end end end end return nil end function q.find_bag_item(b)local P=type(b)==bG[ZE(sG(-588344-(-612980)),228220+(10639222255214-(-284835)))]and tonumber(b[bG[ZE(sG((-705786+-336423)+(521844+545072)),-484121+(-785065+17912796549921))]])or nil local s,G=q[bG[ZE(sG(-730859+(1249413-495376)),-595913+18135343844037)]](b,true)if not P and((G==nil or next(G)==nil))then if type(b)==bG[ZE(sG(924000-901166),(-778339-264965)+27961354662525)]and(((b[bG[ZE(sG(-544250-(-568198)),(503498+26509996298337)-247040)]]==bG[ZE(sG(-386998-(-411269)),((-1645588-(-800042))+(952555+91045))+29577015238435)]or b[bG[ZE(sG(582744+(-281097-278348)),(-786998+(429490+4102888668200))-215669)]]==bG[ZE(sG(-54259-(-79174)),(20391590267801-(-93128))-(-963652))]))and not b[bG[ZE(sG(887966+-864405),25606981509732-51950)]])then local P,s=q[bG[ZE(sG(-147098+170110),(208763-(-366624+1028522))+19948096049398)]](),373799+-373799 for b in pairs(P)do s=s+(-827437-((674696-956196)+-545938))end if s==458206-458205 then local P,s=pcall(require,bG[ZE(sG(-933952+(1817564-859442)),1001144+15237494911786)])local G,e=nil,false for b,H in ipairs(q[bG[ZE(sG(848562-824826),33004596249129-573525207%3409711)]](b))do local q=P and s[bG[ZE(sG(-687026+711560),364082+(9267014433704-859437))]](H)or{}if q[bG[ZE(sG(40191176%337547),(111390671%2832624+(-2051765-(-787210)))+32581709863824)]]and(not q[bG[ZE(sG(-930772+954543),132150+1372929981751)]]and s[bG[ZE(sG(-562573+103130210%(443904+((339855+((924497+-1119868)-(-249)))+436808))),-36950+(-594452+14360511527438))]](H))then if G and G~=H then e=true end G=H end end if G and not e then return QA(G)end end end local P=q[bG[ZE(sG(503684+-479930),10136203352636-(-851542))]](b)if P then return P end if type(b)==bG[ZE(sG(-354201-(-378042)),29971577196901-(-629279))]and(((b[bG[ZE(sG(746425+-722375),25187066586910-(-74002))]]==bG[ZE(sG(197674920%2906632),1038270+32704646522028)]or b[bG[ZE(sG(173874030%(192177-(-583943))),((765488+-1263885)+-538044)+29543413488412)]]==bG[ZE(sG(2029029952%8181478),18332164395935-(606330+-644488))]))and not b[bG[ZE(sG(1342173610%11773247),2382664150225-548068)]])then local P,s=pcall(require,bG[ZE(sG(-674193-(-698237)),1476531287225-(-350855))])local G=P and(type(s)==bG[ZE(sG((-89575-(-759998+1679979))-(-60830-973105)),12001304624009-(-497876))]and(type(s[bG[ZE(sG(2754929721%13504436),(-836006+12491602511951)-611268)]])==bG[ZE(sG(-393319-(-416500)),426204+18123781614509)]and s[bG[ZE(sG((245343-464097)-(-241694)),-967935+7877722366865)]]()))or{}local e,H=nil,-248869+248869 for b,P in ipairs(G)do if not P[bG[ZE(sG(734305763%6675299),7174029238390-254307)]]then H=H+199418041%1072140 e=P end end local K=false local S=q[bG[ZE(sG(-79757-(-103625)),27359083995264-(-1026793))]](b)if P and(type(S)==bG[ZE(sG(166622514%15145243),152814136065-(-691360))]and type(s[bG[ZE(sG(115168-91991),1023820+(-275417+13331370012895))]])==bG[ZE(sG(-415970+(-966266+1888017498%(12233433-292861))),66571278422865%993601194414)])then for b,P in ipairs(s[bG[ZE(sG(877469+-852975),(1377885-854469)+33617736686824)]]()or{})do for b in pairs(P[bG[ZE(sG(683757+-659516),6926933131282-747933)]]or{})do if S[b]then K=true end end end end if H==984635+-984634 and(e and not K)then return QA(e[bG[ZE(sG(968193552%4119874),34559420482656-(780750641%3347403+-325991))]])end end return nil end for b=(703625-10302)-693323,(-399653+-309100)-(-708757),-746548+1005066719%4947390 do local s=K(function()return core[bG[ZE(sG(711499+-688245),-769917+19252169155981)]][bG[ZE(sG(2348777285%11238054),(-754000+29821527820186)-(-17999+((1557851-573266)-684047)))]](b)end)if type(s)==bG[ZE(sG(-5584+28641),-480628+13078904828853)]then for b=790194+(-460901-329292),#s,(3924961748%(20732081934%90936415))%378927 do local e=s[b]if type(e)==bG[ZE(sG(691366+(-375558-(558217201%2590637-(-170810+(-774966+1884567))))),(-267285+27929794461464)-903020)]and e[bG[ZE(sG(242003+(95043-313945)),73769+(17917234621658-((-199671+-217798)+17842)))]]then local b=K(function()return e[bG[ZE(sG(998275315%4266033),-373454+24701482608238)]]:get_item_id()end)if type(b)==bG[ZE(sG(1046521-1021864),32573199500005-461588)]and(P and b==P)then e[bG[ZE(sG(1591025224%15752479),25437895620617-335202)]]=b return e end if not P and(type(b)==bG[ZE(sG((-667327-342535)-(-1033568)),21723416500563-(-3522))]and(G and next(G)~=nil))then local P=K(function()return core[bG[ZE(sG(-158534-(-183261)),1167262692212-(-838954))]][bG[ZE(sG(766164645%11103479),3628+(13174227491108-(-108288)))]](b)end)local s=((type(P)==bG[ZE(sG(-917588-(832606+(-230221+-1543195))),9997982452477-(-221620))]and type(P[bG[ZE(sG(682542-657645),(415550-483183)+11128707049410)]])==bG[ZE(sG(283785-((1273412-727416)+(-439483-(-863906+711011)))),29381458132721-16471)]))and P[bG[ZE(sG(514869946%3703930),30598926951415-(914848-394319))]]or nil if vA(s,G)then e[bG[ZE(sG(773151-750163),333358472544-1832623195%11819345)]]=b return e end end end end end end return nil end function q.quest_use_item(b,P)if type(b)~=bG[ZE(sG(2097275797%(716791+(-721300+12638562))),(16666650075506-444897)-(-778254))]or P then return nil end local s,G=pcall(require,bG[ZE(sG(-796091+819592),(5800061685817-(-78780))-638255)])if not s or type(G[bG[ZE(sG(646491179%13193201),-33717+16252736170212)]])~=bG[ZE(sG(547373-523748),(((-292526-839420)-(-798019))-(-736682))+10557640730146)]then return nil end local e=G[bG[ZE(sG(-635452-(-660239)),-268178+13435998931204)]](q[bG[ZE(sG(-217460-(-241651)),-201429+8528750993694)]](b),false)or{}local H=nil for P,s in ipairs(e)do if s[bG[ZE(sG(1355781394%7289019),7.1895913547603e+14%((636470+21786639039743)-(-1001813)))]]and s[bG[ZE(sG(662660994%10862891),21956604185900-(-196922))]]~=q[bG[ZE(sG(1899080877%11237021),(570491+-298994)+14654926662593)]](b)then if H and H[bG[ZE(sG(-359853-(-384352)),21174505746474-450857)]]~=s[bG[ZE(sG(-43200-((-517126+-294245)-(-184186+-560636))),23480757129345-(-816116))]]then return nil end H=s end end return H end function q.use_bag_item(b,P)if type(b)~=bG[ZE(sG(374988+-350314),31830800658313-567740)]then return false end local s=tonumber(b[bG[ZE(sG(-533955-(-557835)),658174+28384425490423)]])if not s and b[bG[ZE(sG(133109+-110090),(5571884448096-(-307204))-(-1033348))]]then s=K(function()return b[bG[ZE(sG(855452+-832067),34067990994588-611450)]]:get_item_id()end)end if type(s)~=bG[ZE(sG((-136057+1783760648)%7400834),26651446486104-227197)]then return false end if P then local b,G=pcall(function()return core[bG[ZE(sG(-127224+150868),-485426+12005849833021)]][bG[ZE(sG(((30355523652-(-816081))%175535072)%1493488),9755488255888-(-432378+1444998))]](s,P)end)return b and G~=false end local G,e=pcall(function()return core[bG[ZE(sG(2343990250%9766529),-872980+(786867+6000989537140))]][bG[ZE(sG(1243654239%15353453),350942+19964339570216)]](s)end)return G and e~=false end local yA=365140+((-95865-353185)+103910)local hA=284043750%7474825 local ZA=nil local bE={}local PE=814375-814375 local sE={}local GE=(1042659302%11711546+97980)+-429683 local eE=false local function HE(b,P)if ZA==nil then local b,P=pcall(require,bG[ZE(sG(869259016%11144045),27466331710690-178518)])ZA=((b and type(P)==bG[ZE(sG(-207244-(-231120)),10567242132652-(-29194-604981))]))and P or false end if ZA and type(ZA[bG[ZE(sG(-233867-(-258581)),9697689855897-(684092+-1515525))]])==bG[ZE(sG(-446225+(-730748+143475900%(-734241+3967787))),(-245451-299587)+18215426676369)]then local s,G=pcall(ZA[bG[ZE(sG(833515-809746),6726480788940-(-549149))]],b,P)if s and G~=nil then return G end end return nil end local function qE()local b,P=pcall(require,bG[ZE(sG(1881688313%(7390084-(-791063))),750955+9484765541309)])if b and type(P)==bG[ZE(sG(611220-((-647375-(-875697))+358565)),1796803028498-(-226964+-273446))]then return P end return nil end local function KE(b)return type(b)==bG[ZE(sG(-142565-(-354103-(-187281))),16917215865502-366968)]and(b==b and(b>-yA and b<yA))end local function SE(b,P,s)local G=HE(P,s)if not G then return nil end local e=K(function()return core[bG[ZE(sG(-873736-(-897280)),-560996+25106887900675)]]end)if e and type(e[bG[ZE(sG((771259-(-209691))+-957629),22994691038825-(851441430%3833542+-545528))]])==bG[ZE(sG(654437-629991),9304992445309-(-118807))]then local P,s,H=pcall(e[bG[ZE(sG((365526+404986324)%1920990),-923639+24752507898208)]],b,G)if P and s~=nil then local b,P=tonumber(O(s,bG[ZE(sG(((-344786+-201598)-(-616854))-47500),17772148933273-(-132482+-892578))])),tonumber(O(s,bG[ZE(sG(441071588%9588003),513634+13684295485479)]))if KE(b)and(KE(P)and not((b==645245-645245 and P==334302+-334302)))then return{[bG[ZE(sG(452024+(-150501+-277823)),8534873092234-807481)]]=b,[bG[ZE(sG(389371390%7634255),(113164+11252691617172)-(326693+1494442563)%(-380198+7139357))]]=P;[bG[ZE(sG(521925288%5672839),443830+(((1891484-1030339)-1031087)+5657633266823))]]=nil;[bG[ZE(sG(71605281%(1057419968%12431276)),151124+1921543421745)]]=false,[bG[ZE(sG(1131986148%9055702),28700858592409-(-982461))]]=tonumber(H)or 417969688%3542116}end end end return nil end local zE=-101567+(260701-159132)local kE={[bG[ZE(sG(466129-442081),25064182506894-(-835286))]]=(((-356048+1801270294%11254973)-434328)+(-817492+-997906361))-((600391-530484)+(8505+881973));[bG[ZE(sG(-814584+(-537454+(219532073%(-223136+1183847)+886402))),(((-872805+27097563086357)-146227)-(-398442))-60443)]]=-876530+876530;[bG[ZE(sG(-939976+963616),89170502949481%17834101227839)]]=nil}local cE={[(306608457487%(-37243+1712946708))%13057807]=true,[3207976321%(-393497+13986617)]=true;[716322-(-302209-(-1018001))]=true;[803027+(-1121548-(-319092))]=true}local function OE()local b,P=pcall(function()return core[bG[ZE(sG(920+22916),17497502708763-((-594800+710658)+623106))]]()end)if b and(type(P)==bG[ZE(sG(942827+-918625),54881990628930%27441001379671)]and(P~=1242300591%14967477 and cE[P]))then return P end return nil end local function XE()local b=K(function()return core[bG[ZE(sG((-557047-(-514272))+65719),719099+(31734891822245-(-885184)))]]end)if b and(type(b[bG[ZE(sG(853501+((956488033%16768351+(-859822-277942))+-383832)),14210048978318-(-331544))]])==bG[ZE(sG(5870-(-17566)),7346881879348-(-249395))]and K(function()return b[bG[ZE(sG(86248-62527),513654+26680689870063)]]()end)==true)then return nil end if b and type(b[bG[ZE(sG(-784517+807660),8163156569253-(-812959-92548368%4199447))]])==bG[ZE(sG(816060+-791736),580406+((13916823887169-(-1027687))-(51098107%(290120+12350843)+-9019)))]then local P,s=pcall(b[bG[ZE(sG(-689431-(-714226)),-826841+5590431062685)]])if P and(type(s)==bG[ZE(sG(421068-397886),(-87804-546107)+10541982728827)]and s>(-847632-(-980896))-((1252373-2999392981%13385965)-(1020700-838412)))then return s end end return nil end local function gE()local b=R()if b-kE[bG[ZE(sG(828762-804786),4220912677956-((-359171+(1143767-(-54616+464416268)%(505789867%((4575021-1080621006%7102808)-(-128287-(-67632))))))+522371))]]<zE and kE[bG[ZE(sG(1817420863%7478997),33316335342775-(175764-176603))]]then return kE[bG[ZE(sG(614405+-590250),-1016742+28727054078802)]],kE[bG[ZE(sG(-530530+554130),(583906-718061)+19949751449338)]]end kE[bG[ZE(sG(93104710%11635088),718422+32395345006817)]]=b local P=XE()if not P then local b,s=pcall(function()return core[bG[ZE(sG((-562615-(-312441))+273693),-858450+20311893004495)]]()end)if b and(type(s)==bG[ZE(sG(506650954%4564205),(-1052509-(-883886+531793))+33091045415567)]and s>-640223-(-640223))then P=s end end kE[bG[ZE(sG(978571-954694),(190728+-787472)+(-966634+(10804987497061-(-245086))))]]=P local s=OE()if P then local b=SE(P,234761.5-234761,-902153.5-(-902154))if b then local P=tonumber(b[bG[ZE(sG((-238352+(31475733805%334946504)%2460731)+-630784),31673823177216-(-108631))]])or(581596-178966)+-402630 if s~=nil and(cE[P]and P~=s)then P=s kE[bG[ZE(sG(-113490+(646527+-508450)),(-495857-47854)+(23563108003573-(-897709)))]]=nil end kE[bG[ZE(sG(-911949+(199273838%6617786-(-196498))),24187270320734-116452)]],kE[bG[ZE(sG(-727865-(417944+-1169266)),8.3112845271747e+14%11081712750641)]]=P,true return kE[bG[ZE(sG(-290398+313552),492825+7521721478814)]],kE[bG[ZE(sG(291550357%(-866768+9976960)),33603647306614-49397)]]end end if s~=nil then kE[bG[ZE(sG(184644+-161498),576034+310959215994)]],kE[bG[ZE(sG(-740071+763254),11360909756554-416454)]],kE[bG[ZE(sG(306747+(373593+-656020)),-532779+9978994850155)]]=s,true,nil return kE[bG[ZE(sG((373890681974%2252429158)%14639518),562516+34753323834189)]],nil end return kE[bG[ZE(sG(-135816+159407),11402605755608-(-799933))]],P end local function AE(b,P)if((b or(353378+195793607)%2021591-52658))==31030860%(3038821-822331)then local s,G=pcall(require,bG[ZE(sG(285407776%1928270),15817154337024-87051)])local e=s and(type(G)==bG[ZE(sG(614969+-591909),340947+(-302306+20663738787239))]and(type(G[bG[ZE(sG((-971231+(-322426+3086803621)%16153590)+-150372),399302+33091657462571)]])==bG[ZE(sG(443516-420402),-924208+29947915870560)]and G[bG[ZE(sG(-632572-(-656077)),-566347+34882087874459)]](P)))or nil if e==nil then return true end b=e local H=gE()if kE[bG[ZE(sG(651400663%8350981),14930497653199-474379)]]then return e==H end return true end local s,G=gE()if not kE[bG[ZE(sG(897077810%7352909),19449967077592-118027)]]then return true end if b==s then return true end if P and(G and P==G)then return true end return false end q[bG[ZE(sG(737210+-714168),11485898182225-(-427430))]]=AE local function lE(b)if type(b)~=bG[ZE(sG(1383451328%11625441),11065876173639-(-497067-380238))]then return false end local P=tonumber(b[bG[ZE(sG(-41628-((108077-353677)-(-179547))),377350+6255922731558)]])return P~=nil and P~=-826799+826799 end local NE,wE,rE,CE=65730+-65670,(1146762-835390)+-311362,-575584-(-575585),498393+-498193 local uE=-923004-(-923012)local nE,mE,vE={},331966+-331966,-1000017636-(-17636)local function LE(b)if type(b)==bG[ZE(sG(-807807-(-832145)),29607680261515-(-922424))]then b=b[bG[ZE(sG(145105-121079),27812096288764-(1168254-464786))]]end b=tonumber(b)if b and(b==b and(b>-yA and b<yA))then return b end return nil end local function dE(b,P,s,G,e)local H=R()local q=nE[b]if q and(q[bG[ZE(sG(1775319043%13348088),11388923185189-117311)]]and(H-q[bG[ZE(sG(1670334599%7358200),97741+33156287052820)]])<NE)then local b=nil for P=1152907837%5651509,#q[bG[ZE(sG(173201+-148422),(-22835+(-731841+4310))+5111919039315)]],(826969384-(-513562+-247499))%5909956+-336604 do local s=LE(q[bG[ZE(sG(495523-((-1202435-(-536599-304564))-(-833543))),83965+13227509854662)]][P])if s and(math[bG[ZE(sG(-601003-(-624226)),34522902626104-(-841502-13320))]](s-G)<=((e or uE))and((b==nil or math[bG[ZE(sG(-1035791+1059207),420678+3343686977626)]](s-G)<math[bG[ZE(sG(61264718%1360901),30907683883585-(-914649))]](b-G))))then b=s end end if b and not q[bG[ZE(sG(279224580%12139175),1583501214743-(-83373))]]then q[bG[ZE(sG((-594470-382900)+1002089),-513136+1371338771840)]]=true local e=qE()if e then e[bG[ZE(sG(1021159+-996987),(-1010855+16536641151052)-460039)]](bG[ZE(sG(-166245+189165),-168985+13846342042030)],bG[ZE(sG(627568327%4074964),-734319+(25321101048014-653167))],#q[bG[ZE(sG((-353338+870692)-2660583383%14778281),((212867+-51101)-102625)+9095922405435)]],P,s,b,G)end end return b,q[bG[ZE(sG((-212777+-151062)-(152750-2252525877%8972051)),(1176113754510-(133557-632263))-528597)]]end if q and(q[bG[ZE(sG(-974835+999234),34888714827933-833455)]]and(H-q[bG[ZE(sG(216108-191646),20583+(9227487168243-253937))]])<-643394+643399)then return nil end if q and(not q[bG[ZE(sG(1040819392%10513090),-748996+14952359607452)]]and(not q[bG[ZE(sG(91394319%932348),13561986016380-(((-650082-(-744357))-981766)-(-462506+522517)))]]and(H-q[bG[ZE(sG(-65151-(-89143)),14567781779887-292733)]])<wE))then return nil end if not d or H<vE then return nil end local K=package[bG[ZE(sG(-527655-(-551967)),1702993309708-(-818196))]][bG[ZE(sG(6866709%1710445),(-691026+8779770018601)-(-580667))]]if type(K)~=bG[ZE(sG((133974369%11678800)%1642477-556089),30482555284185-249736)]or type(K[bG[ZE(sG(564799+-541936),(-1014344+(963140484-(-276410))%7398701)+(-845548+11903127105304))]])~=bG[ZE(sG(70193122%14033966),8.9343965105549e+14%16857351994576)]then return nil end vE=H+rE if mE>=CE then nE,mE={},995539+(-1983661-(-794323+-193799))end if not q then mE=mE+2147421038%16392527 end local S={[bG[ZE(sG(453859-429469),304486+19405288140041)]]=H;[bG[ZE(sG(46933622%((103646437591%(1178087362-(892285+-687296)))%5677510-(-317426))),17317266784321-(-689092+(313746834-((286709207459%2033511809)%16806581+-1466750))%8951305))]]=true}nE[b]=S local z,k=pcall(K[bG[ZE(sG(-824923-(-545553+-303167)),-502442+(33069992564229-(-55838+(-963886+1023501887)%10326926)))]],{[bG[ZE(sG(386145+((-316567+-584398)-(-537639))),7899341130854-737101)]]=P;[bG[ZE(sG(331116618%(((13120043608436%(15261930302668%69058533512))%(-989099+634512107))%4610563)),3459+17884061514701)]]=s,[bG[ZE(sG(-791116+816027),404061+9773616798461)]]=G},function(b)S[bG[ZE(sG(-264569+287876),(21445520722989-(470494-(-250711)))-151394)]],S[bG[ZE(sG(605402-581242),(24300140497350-(479688+-1228760))-95073)]]=false,R()if type(b)==bG[ZE(sG(1086503775%5718316),((-393470+192012)+13330223557980)-(44959-378209))]and#b>-582938+582938 then S[bG[ZE(sG(1034095+-1010763),20878655289676-413419)]]=b end end)if not((z and k==true))then S[bG[ZE(sG(993988+(40861-1010824)),26199973066150-229630)]]=false end return nil end q[bG[ZE(sG(1055925266%5898892),-931226+15920291363279)]]=dE local UE,WE=(-119567+87811)-(-31764),437423-437417 local YE=nil local function DE(b,P,s)if type(b)~=bG[ZE(sG((141584494916%1033496589)%7621744),32396232317563-211681)]or#b<661464-661462 or not KE(P)or not KE(s)then return nil end if math[bG[ZE(sG(691464+(-366128-(1096076-793911))),11031616895119-(-561123))]](s-P)<=UE then return nil end local G=nil for e=1045290+(-1675020-(-865324+235593)),#b,(-56124+(306655+3333918770))%(777723615%29329550)do local H=LE(b[e])if H and(H<=P-UE and(math[bG[ZE(sG(1414277427%16071069),61126+10332844338985)]](H-s)<=WE and((G==nil or math[bG[ZE(sG(1578082131%((284409-603259)+8089310)+-655179),310376+894968120800)]](H-s)<math[bG[ZE(sG(1111399143%12487366),605248525510-408052)]](G-s)))))then G=H end end return G end q[bG[ZE(sG(-868980-(-893082)),-199865+21210741642517)]]=DE local function oE(s)if not lE(s)then return nil end local G=tonumber(s[bG[ZE(sG(-272686+296353),((511104+15690579063475)-731687)-60720)]])local e=tonumber(s[bG[ZE(sG(-400676+424311),(71954701074044-989329)%(620298878765-(-280565))-(-200341-(-559071)))]])local H=tonumber(s[bG[ZE(sG(-232085+(-240270-(-495973))),2699600377011-(733072-845190))]])if not e or not H or e~=e or H~=H or e<607203+-607203 or e>224692-224691 or H<2830982882%(129595493%22568823)or H>(-619637+554604278)%6295280 then return nil end if e==-1041669-(-1041669)and H==-356772-(-356772)then return nil end local q=string[bG[ZE(sG(1590113904%8503155),24089423110850-(327436-(-438200)))]](bG[ZE(sG(223857734%1407754),28897783703833-(662499+-1385866))],G,e,H)local S=bE[q]if S==false then if R()<((sE[q]or 1034290-1034290))then return nil end S=nil end if S==nil then if PE>=hA then bE,PE,sE={},-305431-(-305431),{}end S=SE(G,e,H)bE[q]=S or false sE[q]=not S and(R()+GE)or nil PE=PE+805458153%13204232 local b=qE()if b then if S then b[bG[ZE(sG(-953761-(-978105)),(728803-837103954%3700008)+14425947418516)]](bG[ZE(sG(127080+-103832),111423+3165436650217)],bG[ZE(sG(-425154+448602),34326702559488-(-316155))],G,e,H,S[bG[ZE(sG(109084220%1225396),(-387865+25106605814979)-(-51180))]],S[bG[ZE(sG(632327234%13172994),558245075717-(-816569))]],S[bG[ZE(sG(-337756-(-361465)),918757+6752508450179)]]or-410789-(-410789))else b[bG[ZE(sG(-723502+(-750071+1498208)),29641044924241-(205837-(-42920+-295251)))]](bG[ZE(sG(-616308+640591),24962057918004-(-400082))],G,e,H)end end if not S then return nil end end if not AE(S[bG[ZE(sG(224913532%1905846),4726204336206-769001)]],G)then eE=true return nil end local z=S[bG[ZE(sG(-1020677-(-1044367)),-928617+28430534768646)]]local k=K(function()return core[bG[ZE(sG(1458004060%16199771),28354794334605-1032366)]][bG[ZE(sG(1767429603%11257355),20584670932686-250861)]]()end)==true local c=(not k)and K(function()return(b[bG[ZE(sG((-499847+1183443760)%6798386),1319225852618-594651)]]()):get_position()end)or nil local X=K(function()return b[bG[ZE(sG(949905056%8877394),23887944055499-320539)]]()end)or 781907-781907 if not k and(S[bG[ZE(sG(799319-775352),259329+20311131374980)]]and((X-((S[bG[ZE(sG(43831+-18900),6223405946675-335258)]]or-999661895-(-369723-(-707828)))))<-59406+59411 and(c and(type(c[bG[ZE(sG(-697034-(-719912)),-301353+25397310353452)]])==bG[ZE(sG(248568344%(8488129-470593)),-403488+19916764812119)]and(type(c[bG[ZE(sG(798876+((-1504697-(-777459))-47662)),-118310+22657957809004)]])==bG[ZE(sG(548563-525666),6787094168717-515334)]and(S[bG[ZE(sG(-433236-(-456879)),6193087277644-(-888737))]]and(math[bG[ZE(sG(-724714-(-748840)),950736+24218288215785)]](c[bG[ZE(sG(-618722+(283905-(500158+-859230))),24842268907570-(-565675+-75393))]]-S[bG[ZE(sG(-971796+996730),11749106008577-(-656631))]])<=(-392796.5-176872)-(-569671)and(((c[bG[ZE(sG(-157392+181574),(1257744-523785)+21430380809994)]]-S[bG[ZE(sG(588329744%11313575),33064605519166-(-100180))]]))^(-644015+644017)+((c[bG[ZE(sG(-814490-(-838190)),24641867903646-(-1666059-(-846699)))]]-S[bG[ZE(sG(3738921977%(-622072+15637729)),-945402+(3610181277964-(227193+560229)))]]))^(((-114118+911224)+(1012665+-2337177))+527408))<=(518345+-1084457)+566512)))))))then return P[bG[ZE(sG(-35177+58205),31815056006327-(271150+-598877))]](S[bG[ZE(sG(-513155+537472),9730804635336-13451)]],S[bG[ZE(sG(736641425%14443496),21001775154572-401078)]],S[bG[ZE(sG(53787-30061),15395487800951-(-863300))]])end if not S[bG[ZE(sG((-690598+(1220942-620963))+114961),-271305+3065979506925)]]and not k then local s=c local k=tonumber(O(s,bG[ZE(sG(-315647-(-340452)),23364371009713-434708)]))local g=K(function()return b[bG[ZE(sG(22171019%(-202041-(-729372))),(11352885321451-25461)-555257)]]()end)local A=g and K(function()return g:is_indoors()end)==true local l=nil local N,w=tonumber(O(s,bG[ZE(sG(256841-233266),9551511280534-71668)])),tonumber(O(s,bG[ZE(sG(-940053+964101),285225+30611222590401)]))local r=N and(w and(((S[bG[ZE(sG(213378580%1939591),2180357849662-1031531)]]-N))^(-456454-(-456456))+((S[bG[ZE(sG(1556603812%7630291),-111779+2561720842772)]]-w))^(214138907%14275927))<=1046098-1023598)if r then local b,P=pcall(require,bG[ZE(sG(1892297494%8299443),13979409575251-(915308+-454096))])local s=HE(e,H)if b and(type(P)==bG[ZE(sG((90235-583320)-(-517082)),18553004917286-160413)]and(type(P[bG[ZE(sG(615856-(-510410+1101716)),(-877196+1033912)+15317751281392)]])==bG[ZE(sG(77022128%1790641),123103+28045295320996)]and s))then local b,e=pcall(P[bG[ZE(sG(499186-476286),(1574646-744001)+23540362106050)]],P,G,s)local H=b and(type(e)==bG[ZE(sG((-312586+-490981)-(-827723)),31589500754635-658930)]and tonumber(e[bG[ZE(sG(569477+-544821),9633917631495-101289)]]))or nil if H and(H==H and((H~=(452514590-843994)%9818926 or(k and math[bG[ZE(sG(64908652%2595386),937398+30439953342019)]](k)<656950852%14930701))))then l=H end end end local C,u if l then C,u=true,l elseif A and k then C,u=pcall(core[bG[ZE(sG(-100589+123471),(557371+19568027165486)-((-1528850-(-1197642-(-818003)))-(-267512+(-769093+900442))))]],P[bG[ZE(sG(321362664%5100610),12147428427372-(124203-(-415538+685367)))]](S[bG[ZE(sG((536374-(-59203))+-571380),341185+8294170801057)]],S[bG[ZE(sG(584287+-560086),23210580981400-381010)]],k),{[bG[ZE(sG(368900+((-79225-(672207-126291))-(390594+-671263))),-876929+33775634544591)]]=683820528%5220004})else C,u=pcall(core[bG[ZE(sG(2226146655%11075242),((131940+-671745)+9979388627521)-(-176960-(-237373)))]],P[bG[ZE(sG(788889-765529),17259493471822-(-615191))]](S[bG[ZE(sG(894952-464183358%2068358),16954137552891-(-314566))]],S[bG[ZE(sG(709790038%14485009),-69973+31022802297735)]],-1013478-(-1013478)),{[bG[ZE(sG(1306801028%5399906),243765+7933963776123)]]=1096892392%11425952})end if C and(type(u)==bG[ZE(sG(1635681060%10096646),11301148706619-(-309555+482823))]and((u~=111607569%4852503 or(k and math[bG[ZE(sG(3104163887%13796177),13473415202997-1041826)]](k)<225236-225228))))then z=u elseif k then z=k end do local b=package[bG[ZE(sG((297160855-(-977220))%1528794),27057620340234-495647)]][bG[ZE(sG(766817+(-1526019-(-783517))),(848546-878023)+4385796014864)]]local P=type(b)==bG[ZE(sG(-84056-(28334-136085)),15680656786094-109779075%(-544036+2826887))]and(type(b[bG[ZE(sG(207458289%2560924),(25178730456684-(3635120616%364852724)%(491851560%6040640))-977246)]])==bG[ZE(sG(779992+-756167),232678+(-96765+20226453589550))]and K(function()return b[bG[ZE(sG(245976+-221961),288759+25982237057216)]](S[bG[ZE(sG(676692-651864),22129552730742-(-537113))]],S[bG[ZE(sG((50597664889%206559719)%13137914),501562+32306789196639)]],z)end))or nil if type(P)==bG[ZE(sG((466210-971100)-(-528148)),-226401+(883623+6655776953426))]then z=P end end local n=true if r and z then local b=z local P,s=dE(q,S[bG[ZE(sG(97550525%4433040),-359219+20832142948261)]],S[bG[ZE(sG(986092-(-739085+(-27988+1650789820)%(-810285+16222056))),28203039249716-222777)]],z,A and-1028870+1028872.5 or nil)if P then z=P local b=package[bG[ZE(sG((-578910+367278)-(-235888)),-105577+16947459330427)]][bG[ZE(sG(739284-715290),356317+(34658317887466-348468))]]if type(b)==bG[ZE(sG(1453649722%7691147),-12954+20898937946148)]and type(b[bG[ZE(sG((552719+(436684+(-1323862-(-620408))))+-261833),6889268861128-(554407+-1231876))]])==bG[ZE(sG(18969747%557256),474655+9392031284546)]then pcall(b[bG[ZE(sG(79117-55692),716751+15982891316218)]],S[bG[ZE(sG(-646026-(-670898)),737307+5668462662253)]],S[bG[ZE(sG(231207416%1562050),-786316+32416190653441)]],P)end else n=false end if not l and(not A and(C and u==b))then local P=DE(s,b,k)if P and math[bG[ZE(sG(((-721321-(-355180))+674167034)%13211333),31821259321365-(-663983))]](P-z)>(-1042375+372545.5)-(-669830)then if YE~=q then YE=q local s=qE()if s then s[bG[ZE(sG(1474343281%15682361-(13230272521%80200893)%(-77352+(645381531259%2920349029)%(4143770088%27725482))),(559142+30164705502322)-61512)]](bG[ZE(sG(378636914%15144493),-543605+(-222403+16878095596700))],bG[ZE(sG(283800107%7276294),14979470943276-276931)],S[bG[ZE(sG(2761639915%13276999),((-472195+49074075810711)-95553)%1115320235330)]],S[bG[ZE(sG((-380934+303107)-(-101007)),30229348478181-(-56281))]],b,b-k,P)end end z=P end end end local m=package[bG[ZE(sG(-959498-(-983927)),(8732985409813-203143)-(-982450))]][bG[ZE(sG((18043481164%122007716)%2708056),-729736+14741431177941)]]if not A and(type(m)==bG[ZE(sG(203887453%(497363172%(1718540930%19852718))),14350677035401-342797)]and type(m[bG[ZE(sG((((763005+-1229112)+((-1015280+489666755)-(-679316)))-(-903134))%2736005),5803765637356-(526776-241340))]])==bG[ZE(sG((-1147084-(-763408))+408129),((318264+-963116)+503753)+25831462221125)])then local b=K(function()return m[bG[ZE(sG(855167774%10428595),453345+(4439508341661-(-680257)))]]({[bG[ZE(sG(-756665-(-779635)),-746361+31050172994330)]]=S[bG[ZE(sG(856676+-833037),12830111585713-(((544750+715381)-1018060)+((94253-932610)+1180036)))]];[bG[ZE(sG(343019+(284221+-603214)),-274627+7501772087986)]]=S[bG[ZE(sG((764725+-1136036)+394653),-420329+(-9229+24586397195359))]],[bG[ZE(sG(16162945%8069011),750152+11650633926260)]]=z or 193333074%798897})end)if type(b)==bG[ZE(sG(610692154%3411552),-526559+14669705209630)]then z=b end end if n and(z and(s and type(s[bG[ZE(sG((-828193-56917)+909043),(983322+5812930637237)-242474)]])==bG[ZE(sG(251942185%1312074),6180287228405-983232)]))then S[bG[ZE(sG((-1048048+(-101817-(420466+-1077899)))+516171),-167531+27417521657954)]],S[bG[ZE(sG(226029193%3531346),817520+(841404+1436504067574))]],S[bG[ZE(sG((-671377+385660)+309248),(-957514+(464423+29301623389353))-(-367940))]],S[bG[ZE(sG(792980+-769500),31855184915563-(-822793))]],S[bG[ZE(sG(1677053236%11408369),(114242+18193108513045)-568481)]]=z,X,s[bG[ZE(sG(519279+-495346),9427284378664-(-960636))]],s[bG[ZE(sG(541729-518882),22199105076307-(50592+415578))]],s[bG[ZE(sG(86024166%(6905719-762876)),(803188+(6729218387761-(199126-389674)))-(889428194-625980)%(-329703+13018935))]]end end return P[bG[ZE(sG(1413863270%16066345),((-170712-617018)-(-246819))+18941995436384)]](S[bG[ZE(sG((-805005+2763414505)%14539929),-92034+3749607509404)]],S[bG[ZE(sG((-1000795+2033083)+-1007739),((-1842842-(-937772))+1031130)+14564444269888)]],z or 2562458850%12202185)end q[bG[ZE(sG(500916+-476614),-661680+886011490748)]]=oE local function tE()F()return D[bG[ZE(sG(-869151+893791),29978426876404-(-693591))]]end local function RE()F()return D[bG[ZE(sG(112182683%2288959),39827810%2844013+(33939798897701-(-151309)))]]end function q.waypoint()local b=tE()local P=oE(b)if not P then return nil end return P,tonumber(b[bG[ZE(sG(98088-75018),28413664092734-539800)]]),((type(b[bG[ZE(sG(1899879071%(-393555+17058943)),5.9010440784505e+14%12555412955372)]])==bG[ZE(sG(996341+-973030),-724443+19187387713627)]and b[bG[ZE(sG(2608009629%10187446),-581709+((-555113+7165528866557)-(-582629+2134845087)%(17381362-968966)))]]~=bG[ZE(sG((-227122+407033)+-156201),16131705641619-728948)]))and b[bG[ZE(sG(105221414%1481670),562598+6180160156854)]]or nil end function q.waypoint_type()local b=tE()return type(b)==bG[ZE(sG(-206701+(-473448-(641842+-1345409))),624860+25582094529134)]and b[bG[ZE(sG(((397015+127013006)-1558308930%8752404)%9769694),731693+24760781544824)]]or nil end local ME function q.goal_waypoints(b)local P=bG[ZE(sG(-65955-(-89472)),(1110697-(-61526+892817))+7314018468277)]..tostring(type(b)==bG[ZE(sG(1802030829%10790466),-358151+8097779024091)]and b[bG[ZE(sG(187426+-163593),20084846491227-(-270625+-444389))]]or-348020+348020)local s=f(P,function()return ME(b)end)return type(s)==bG[ZE(sG(2106571425%11029042),16611472028249-(341486+359456))]and s or{}end function q.step_has_waypoint()local b=RE()if type(b)==bG[ZE(sG(-636708+659533),24568994905182-(-189638))]and#b>1116163620%((236593447400%2131491821)%((424835+858184920)%20055164))then return true end return type(tE())==bG[ZE(sG(1882310271%12222633),-422883+5622014056041)]end local xE={[bG[ZE(sG(466728+-443018),25167121936245-(((287074365%15095558+-258554)+2098793286%9492731)+-1488901))]]=true;[bG[ZE(sG((110863-604734)+517942),16959353051883-(-700817))]]=true,[bG[ZE(sG(289201489%6885176),(23714014919734-(-1040628))-(-184342))]]=true;[bG[ZE(sG(176357+(81363-234456)),746788+(16058039655278-945629))]]=true;[bG[ZE(sG(-999501+1022878),(-437530+54196)+24895257221194)]]=true;[bG[ZE(sG(34786-10481),-319382+8330608409200)]]=true,[bG[ZE(sG(554098+-530188),((11727444406558-994733)-(-125610))%98549990965)]]=true,[bG[ZE(sG(-565449+589029),4657772673924-(-448149))]]=true;[bG[ZE(sG(631960-607965),-873940+2466310030170)]]=true;[bG[ZE(sG((814767-311311)-1578227529%8217435),-705741+17234765016018)]]=true;[bG[ZE(sG((-823173+495010487)%6417705),((25212194916881-393964)-836126)-(-945159))]]=true}local VE={[bG[ZE(sG(788761798%14084595),30836949511607-(-1675364-(510718+-1254327)))]]={[bG[ZE(sG(1782161279%11208409),12308501907510-332147)]]=true,[bG[ZE(sG(280532+(-274670+(-299972-(-318453)))),14946337519387-(-24690))]]=true;[bG[ZE(sG((306461780539%1683941045)%13564448),-283201+3083394821823)]]=true,[bG[ZE(sG(-511562+535408),-298347+13846304642515)]]=true,[bG[ZE(sG(-217018+240748),621396+17822282515171)]]=true,[bG[ZE(sG(402995384%7901420),23473762199235-(-556177+7206))]]=true;[bG[ZE(sG(484114-1303624351%6581637),11230595640469-790654)]]=true,[bG[ZE(sG(2134042625%(1001972+13224817)),4.7008785043972e+14%29380491426082-(-899120))]]=true;[bG[ZE(sG(-127466-(-152156)),34012501443588-950941)]]=true;[bG[ZE(sG(3343088259%14286603),30678047393095-189829)]]=true,[bG[ZE(sG(-944897+968554),-486977+35099660578355)]]=true;[bG[ZE(sG(-464057-(-487756)),17723261300116-(-724004))]]=true},[bG[ZE(sG(-716967+177683182%(5296421722%24465859)),12502233476669-(-746451))]]={[bG[ZE(sG((-752174-10871)+787377),18041014201210-909786)]]=true;[bG[ZE(sG(3189211416%13513504),983286+30960316014683)]]=true,[bG[ZE(sG(146553-122030),25934255131343-(((983761-(-3411))+959535289)%(4997287834%32340593)+-1225279))]]=true,[bG[ZE(sG(889001055%4467219),7826299529113-(-337922))]]=true,[bG[ZE(sG(61898-37978),12919587666005-120272)]]=true;[bG[ZE(sG(2440060304%(12613303-164141)),793414+31576913895275)]]=true,[bG[ZE(sG(276873-385062062%(2059499465%21622683)),(469397-394527)+25769372814167)]]=true;[bG[ZE(sG(2010438879%13054641),8381400816935-(-1254746-(427739+-1242260)))]]=true,[bG[ZE(sG(470084823%2327031),159124+26926765661301)]]=true;[bG[ZE(sG(-617198+640492),-92244+610276667252)]]=true;[bG[ZE(sG(-860006+883122),743321+(((821688-770009)+-504578)+(458825+3003032596235)))]]=true;[bG[ZE(sG(-277539-(-301055)),16722662941023-549697)]]=true;[bG[ZE(sG((-1071192-(-185406))+909496),(613438+-1373731)+4500170896419)]]=true},[bG[ZE(sG(224766622%1742185),-903071+32086734557637)]]={[bG[ZE(sG(150100+(48239+-173539)),22600424745682-368780)]]=true,[bG[ZE(sG(1239007240%6103371),-456304+17117449328478)]]=true,[bG[ZE(sG(-452684-(-475711)),19611667334317-(-832323))]]=true,[bG[ZE(sG(-798543+822823),2592651044%(-473694+(((-26957-449133)-(-381452))+15907065))+10587430216301)]]=true;[bG[ZE(sG(2117760300%11385676),5179828843203-(-814592))]]=true,[bG[ZE(sG((1048359+-1819691)-(-795641)),14793905185705-(-572142))]]=true},[bG[ZE(sG((1442025350-359345)%13996520),341220+3781878841762)]]={[bG[ZE(sG(-820162-(-843519)),(-23419+176619)+(16769734346931-851715))]]=true,[bG[ZE(sG(-605276+630135),17685392272927-69043)]]=true,[bG[ZE(sG(-922737+947084),21375947367296-807033)]]=true,[bG[ZE(sG(878825907%3457068+-706714),-519720+(18379815547888-(-375210+788247)))]]=true;[bG[ZE(sG(1846456063%(95389547%17443899)),7217017053533-(735786+-261878))]]=true}}ME=function(b)local P={}local s=type(b)==bG[ZE(sG(543804-519244),-702502+12295415246437)]and b[bG[ZE(sG(128842288%12881797),2967162887145-10271)]]or nil if not((type(b)==bG[ZE(sG((690001854-121066)%7111919),283582+31520743113428)]and b[bG[ZE(sG(((-78170+-412051)-((-941653+-101961)+(63346454449%905034587)%10695791))+91479),735863+8210331110633)]]))then if s then local b=RE()for G=1133154891%4625122,#b,((-548401+(792937+1676589))-1041858)-((237139+-257240)-(-899367))do local e=b[G]if type(e)==bG[ZE(sG(-695995-(-720842)),8160770662696-781480)]and tonumber(e[bG[ZE(sG(6248485%122822-84227),517982+26767414844158)]])==s then local b=oE(e)if b then P[#P+(54098381324%383794740)%2050937]={[bG[ZE(sG(276716+-253028),28792630488360-(-339911))]]=b;[bG[ZE(sG(990771202%3915994),-651122+9389152840974)]]=((type(e[bG[ZE(sG(1045388-1022528),764603+19739610779128)]])==bG[ZE(sG(-213822-(-237808)),460928+20396467451364)]and e[bG[ZE(sG(447541-(319128-(-104728))),25102515340995-388944751%6700777)]]~=bG[ZE(sG(2737599810%11649260),30506623639312-(-810201))]))and e[bG[ZE(sG(58721766%485106),56281765853603%770983234545)]]or nil,[bG[ZE(sG(738155380%(970189+15076131)),30960661478834-793864)]]=tonumber(e[bG[ZE(sG(3799605855%15508501),-692766+17169104986555)]]);[bG[ZE(sG(102444009%449208),27633794186297-((-1695627-(-327783))-(-413184)))]]=tonumber(e[bG[ZE(sG((-1251523-(-709158))-(-566581)),(1303318-592771)+20525302737086)]]),[bG[ZE(sG((577139819531%3224307227)%(15686150-741451)),709807+10586136747889)]]=tonumber(e[bG[ZE(sG(1288901886%9270466+-282306),(18753053529413-((-279266+1347194)-903315))-250262)]]),[bG[ZE(sG((((-274083-(-958912))+-1391577)+1244383855)%(5349168217%((685304+23101164)-(-37094)))),5849914469542-(-858566))]]=e[bG[ZE(sG(-144528-(-167829)),((-48719+1185330)-(63153-(-811848+490008)))+6000132964052)]];[bG[ZE(sG(536740-512476),-1040341+(16677446988703-(-860885)))]]=true}end end end end if#P==-165888-(-165888)and(s and(b[bG[ZE(sG(751946-(-613502+1340818)),((3850599799462-(-519895))-(-462787))-(3054625935%12169590+-745101))]]==bG[ZE(sG((44162369578%1380539314)%6264347),379577+(239398+31815554496800))]and tonumber(b[bG[ZE(sG(968750+-944283),973127+12117495923420)]]or b[bG[ZE(sG(26700925%3334715),(332197+27000026047361)-50744)]])==-817691-(-836042)))then local b=q[bG[ZE(sG(586376927%3022433),312254+10360915146975)]]()local s,G=cA(b and b[bG[ZE(sG(1483200261%6711209),7607743537094-(-1037291))]])if s and G[bG[ZE(sG(-512915+537062),33128564254388-(-842700-(-437095)))]]~=true then local e=ME(HA(G,s,b[bG[ZE(sG(725655953%(9464909-(196225-406423))),919038+(-506220+17298245815639))]]))for b,G in ipairs(e)do P[#P+((860972654-(-109391+119239))-174037)%10497424]={[bG[ZE(sG(3046335792%(4408932147%20441963)),-640324+18381738148267)]]=G[bG[ZE(sG(830394-807115),885104+(602487+7929055829169))]];[bG[ZE(sG((575540+-1041896)+490344),-1010023+27726735160034)]]=G[bG[ZE(sG(680612-(1445920-788258)),368822+9750753856811)]];[bG[ZE(sG(1475850387%6227119),3108991603810-657480)]]=G[bG[ZE(sG(2405520430%10324017),33419922930534-257327)]];[bG[ZE(sG(2864718162%13576751),8935310261174-908427)]]=G[bG[ZE(sG(-944079+966935),-483678+33495227222112)]],[bG[ZE(sG(440634-417270),508426+3473678023177)]]=G[bG[ZE(sG(-643660-(-666539)),20731355472251-(-642722))]];[bG[ZE(sG(140816286%14079332),(-1119589-(-613801))+4589548220110)]]=G[bG[ZE(sG(517724+((-304852-605456)-(-417402))),-710399+22894721576892)]],[bG[ZE(sG(-799109+(1833820-1011408)),(697543+-865019)+23171014199481)]]=false,[bG[ZE(sG(-295639+319810),295793+19816538128719)]]=s}end end end if#P==(587805+-361362)+-226443 and(s and(b[bG[ZE(sG(398599+(-1002017-(-628133))),785819+2766243350979)]]==bG[ZE(sG(4153016079%16611972),6375227385532-(1131994-737208))]and not b[bG[ZE(sG(-368560-(-392233)),-413928+23869735980536)]]))then local b=q[bG[ZE(sG(-1020787-(-1486343-(-440994))),980234+7408140520087)]]()local G=b and b[bG[ZE(sG(-896708-(-920049)),-544137+20538472840176)]]or{}for b=s+(-520893-(-520894)),#G,-992714-(-992715)do local s=G[b]local e=s[bG[ZE(sG(598228816%5643445),26725607237613-377006)]]if e==bG[ZE(sG(-806332-(-829335)),(999237+-372255)+21822949643935)]or e==bG[ZE(sG((-13150-900375)+((550124-884075)+2236570628)%8765877),6.34394664121e+15%26655238012579)]then if s[bG[ZE(sG(3107490315%12840772),((440439+-177785)+296240)+14044470750064)]]~=true then local e=ME(HA(s,b,G))if#e>1728986904%8004569 then for s,G in ipairs(e)do P[#P+(913745+-913744)]={[bG[ZE(sG(-212795-(-237365)),-671082+18295638207786)]]=G[bG[ZE(sG(-112621+136887),-813781+16347446748913)]],[bG[ZE(sG(81340+(252243+-310463)),(-51507+(25111373904194-(349181+-9576)))%(74666+3138922837559)-561462)]]=G[bG[ZE(sG(2363059381%13055447),(-1173805-(-373594))+(17807862746671-(-690428)))]];[bG[ZE(sG(-193719-(-216536)),21208879790986-(192559+-938035))]]=G[bG[ZE(sG(960040644%6315897),949474+11643586130759)]];[bG[ZE(sG(310851960%3017746),25658454212249-(-330761))]]=G[bG[ZE(sG((246387-519424)-(-297279)),5.6304691828876e+14%(-776168+(637711+23460288681279)))]];[bG[ZE(sG(937179374%12837759),22012647677391-518318)]]=G[bG[ZE(sG(-384415-(-407737)),6896548017444-(-541865))]];[bG[ZE(sG((242697629-749949)%16128251),(-367724+353826)+23868559814023)]]=G[bG[ZE(sG(-695024+717885),5796399042400-(-271769))]];[bG[ZE(sG(-36668-(-994252-(-933897))),28454872700169-(-668162))]]=false;[bG[ZE(sG(892100-868577),(18902683250297-101422)-(-417944))]]=b}end break end end elseif not xE[e or bG[ZE(sG(-276664+300374),22854454903678-(-843026))]]then break end end end if#P==831653-831653 and(s and(((b[bG[ZE(sG((-714760-(-665915))-(-72777)),553194+20495493310865)]]==bG[ZE(sG((554621+-1475931)+944896),980897+24336689503553)]or b[bG[ZE(sG(-822278-(-847102)),(17304036380349-754532)-(((-1039306+(347124295173%3099360838-(-896237))%12735273)+-1213093)-(-129164)))]]==bG[ZE(sG(541763822%5472115),35071845824305-652042)]))and b[bG[ZE(sG((-550905+(711702-(-578890)))-(1222283-505641)),(553189+-358176)+28021979785628)]]))then local G=q[bG[ZE(sG(1120457917%13499204),(((((407988+-641009)+4616934289)%18241653-776364)+(940978+29649147357133))-(43386+-178683))-(-964362-(-106881)))]]()local e=G and G[bG[ZE(sG(-849716+873324),(15555224849645-(-643314))-344638)]]or{}local H=true for P,s in ipairs(e)do if s[bG[ZE(sG(-470758+494369),-957037+17352509057412)]]==bG[ZE(sG(763368-(-280273+90217154%1087784)),14964934113370-(-227899))]and(s[bG[ZE(sG(-504065+527670),(-847692+479928357487)-106209)]]and s[bG[ZE(sG(-97943+121532),824136+(30382803663423-227868))]]~=b[bG[ZE(sG(1358881802%8766830),9412507402856-(-939400))]])then H=false break end end if H then for b=s+(120768+-120767),#e,(-1478852-(-843253))+635600 do local s=e[b]if s[bG[ZE(sG(-417601+440465),22012823244393-(-963437+1006528))]]==bG[ZE(sG(-349959+374214),405349+9804629226193)]and s[bG[ZE(sG(157451+-133916),18775486160958-(727212+-755256))]]~=true then local G=ME(HA(s,b,e))for s,G in ipairs(G)do P[#P+1196612957%(15761044-220616)]={[bG[ZE(sG(-634791-(228791-886678)),3.2687327444752e+14%12106417996080)]]=G[bG[ZE(sG((24301810776%565476861-(-724297))%2721588),-855207+1099880053703)]],[bG[ZE(sG(711696+-687094),4.0603526716517e+14%9228074610421)]]=G[bG[ZE(sG(-181670+204686),2283773336063-(-840920))]];[bG[ZE(sG(-1014608-(-1039384)),-307285+30946434637607)]]=G[bG[ZE(sG(1087164843%(2372483796%14306286)),((27588082769855-(-793950+489386))-103251)-(-862440+96919))]];[bG[ZE(sG(-273839+297422),32342598749913-354642)]]=G[bG[ZE(sG(1048480+-1025253),15478583297688-(-147163))]];[bG[ZE(sG(550018970%(-657439+7127982)),26071790165543-(-711103))]]=G[bG[ZE(sG(366012-343131),(169282+229225)+12841686350655)]];[bG[ZE(sG(1085886549%5837966),(20995317975835-(-889122))-(-1034463))]]=G[bG[ZE(sG((-805422+195844853)%9286453),14786867234932-(-670897))]],[bG[ZE(sG(((503930-415820)+-608204)-(-544452)),12098695608107-985634)]]=false,[bG[ZE(sG((-659435+57129112)%(-401745+6046331)),(82205880583%467101806)%9073176+25085046328295)]]=b}end break elseif s[bG[ZE(sG(-524595+548824),(28090698284579-(-924643))-(-269032))]]~=bG[ZE(sG(108964184%702840),1045917+25814047570238)]and(s[bG[ZE(sG(-49280+73185),-907752+1344990932158)]]~=bG[ZE(sG(379597236%16503203),951584+(615540+9976732492837))]and(s[bG[ZE(sG((15885188006%114372828)%2119040),-846102+4413664643938)]]~=bG[ZE(sG(431852+((148395-716462)+159925)),34525178681650-(-656005))]and s[bG[ZE(sG(478-(-24320)),-664074+7398677350501)]]~=nil))then break end end end end if#P==(((1478021-(-975900+452389951)%16093074)+-1556119)+((982055+283822675)%4902004+2346124347))%(195750+15036242)and(s and((b[bG[ZE(sG(1499374050%9032224),392571+(25724984551441-435203))]]==bG[ZE(sG(-82407-(-105842)),25057831532946-(-417423))]or b[bG[ZE(sG((22116016286%((241898737-(-564230))-(-639138)))%8457253),(1174033579%16764413+245426)+5861742582812)]]==bG[ZE(sG(461599719%15916413),781301+31150967220852)])))then local G=q[bG[ZE(sG(339075669%4036323),(-1012804+1960102)+10398016320149)]](b)local e,H=pcall(require,bG[ZE(sG(675409+-650683),433076+17377284013736)])local K=e and(G and H[bG[ZE(sG((925169+-1586047)-(-684813)),23169386434805-377404)]](G[bG[ZE(sG(542642348%6617311),566624122%(-746239+4093239)+30152574663577)]]))or{}local S=q[bG[ZE(sG(910716464%4442408),(-458821+1105118)+6448748204021)]]()local z=S and S[bG[ZE(sG(310029620%3069355),1011851+8032307111845)]]or{}for b=s+((6807+-812436)+805630),#z,64841201%689800 do local s=z[b]if s[bG[ZE(sG(-24329+47716),5312494020762-(580699+(681676-813450)))]]==bG[ZE(sG(((582116-360200)+49860)+-248388),769738+13427646367577)]or s[bG[ZE(sG(-49082-(959413-1032299)),813681+19614623818000)]]==bG[ZE(sG(818645707%12790958),(((-1573481-(-761503))+(-356681+125007))+29499359779412)-644508)]then break end if((s[bG[ZE(sG(556617-((1115894-946507)-(-364313))),559042+28537893652538)]]==bG[ZE(sG(29530-6513),513656+33721589042426)]or s[bG[ZE(sG(398528230%(2245844959%11955224)),19608963550365-563471)]]==bG[ZE(sG(213649+-189284),12255071906528-(-671712))]))and(s[bG[ZE(sG(-22449-(-46592)),120218+6385131158230)]]~=true and K[tonumber(s[bG[ZE(sG(1388322756%(12155940-489557)),10148799282842-215265)]])])then local G=ME(HA(s,b,z))if#G>(83457892403%(113159+878563612))%6582259 then for s,G in ipairs(G)do P[#P+((304162-(-12756))+-316917)]={[bG[ZE(sG(-869432+892790),16579760940848-(-697187))]]=G[bG[ZE(sG(((11380089131977%54190933595-161980)%(230211266190%1271949571))%((6431699709%1608735756)%8040622)),7540378757816-494751833%5957034)]];[bG[ZE(sG(2100630211%15332891),2422061427999-(-352755))]]=G[bG[ZE(sG(251793477%(5268183103%21358520)),29828682078677-(-688004))]];[bG[ZE(sG((-143752-(-202577))+-34576),18074551080461-554949)]]=G[bG[ZE(sG(1417276891%8098587),-557901+(387097+33630150093437))]];[bG[ZE(sG(-977625-(-1108003-(-106311))),(-182393-(-1077851-(292320+-427809)))+16889687019407)]]=G[bG[ZE(sG(-404805+(1395198-966432)),(-853420+1790814)+8627380591647)]],[bG[ZE(sG(1235784489%16699476),23934277664376-549092)]]=G[bG[ZE(sG(-727222+(1235158-483962)),705758+34021264574945)]];[bG[ZE(sG(919044-895381),16889771441010-(-4908))]]=G[bG[ZE(sG(-809808-(-832673)),(596495951%((106187874954%593261956)%12703379)+-1089083)+31929920234592)]];[bG[ZE(sG(-416977-(-441302)),2819168489736-(-77648))]]=false;[bG[ZE(sG(-197698-(-222299)),((-438389+31156611417657)-(-1033456))-((-437293+356468)+50625))]]=b}end break end end end end if#P==-623765-(-623765)and(s and VE[bG[ZE(sG(103323648%3332265),236192+5812349692420)]][b[bG[ZE(sG((971169176%(((((273625+-1387302)-885175)-(-1355538-(-605659)))-(-678926))+7309043)+-404817)-326065),12644499129652-(-733081))]]or bG[ZE(sG(-932595+956305),30907939325334-906945)]])then local G=q[bG[ZE(sG(529383431%10179995),-729357+(-839884+9135701429751))]]()local e=G and G[bG[ZE(sG((553454691-687934)%10838075),118282+28696485601455)]]or{}for s=s+(1013011-4051704834%16601196),#e,-873000+873001 do local G=e[s]local H=G[bG[ZE(sG(-936550-(-960218)),(29731513548102-(-168976))%170870828361)]]or bG[ZE(sG(-679460-(-1270435-(-567265))),-1001422+(225262+19471829310812))]local q=H==bG[ZE(sG(1759672736%(6794003-(1017237+-1647913))),(42143040293391-(-445026))%14047683007776)]and(b[bG[ZE(sG(-788843-(-812617)),11866064039959-162495)]]==bG[ZE(sG(-631731+654570),3126951673083-(-786826))]and(G[bG[ZE(sG(-601080+624289),(-377195+819551)+22181409394251)]]~=nil and G[bG[ZE(sG(-1014134-(-1038024)),-77903+7983415659880)]]==b[bG[ZE(sG(471962-448957),10186280969558-402854)]]))if VE[bG[ZE(sG(602684+(-701339+121593)),701928+29334270632106)]][H]and not q then break end if H==bG[ZE(sG(-427084+450544),27354724305352%2735472599602)]and(b[bG[ZE(sG(872596948%4451907),2545938397665-(-580649))]]==bG[ZE(sG(145968139%1403315),(-948462-(-681938))+20857183745850)]and G[bG[ZE(sG(914727-890216),-643041+7560565798198)]]~=b[bG[ZE(sG(3791672357%15603493),391466+25687715384991)]])then break end if VE[bG[ZE(sG(-643023-(-666136)),-459212+33560197888819)]][H]and G[bG[ZE(sG((256502728-(-4092))%3513475),(6909294022874-532007)-(1686679-1028302))]]~=true then local b=ME(HA(G,s,e))if#b>-176747+176747 then for b,G in ipairs(b)do P[#P+(-990589+990590)]={[bG[ZE(sG(343224399%4457162),6059170406006-479331)]]=G[bG[ZE(sG(((525491+2706907714)-(-1028245))%10789485-277013),6672571155566-238504)]];[bG[ZE(sG((-1001849+1023984)+1364),333978+((2444408556703-219391)-(-751761+1659361)))]]=G[bG[ZE(sG(-95007+(1015138-896838)),(133162+-653978)+32464439336699)]];[bG[ZE(sG(-372152-(-396697)),23352766344835-(931552138%9042240-(-223718)))]]=G[bG[ZE(sG((97697+374139043)%5345897),33452502583409-141855)]];[bG[ZE(sG(564019802%2792055),782153+1632980404632)]]=G[bG[ZE(sG(790086-918943752%9665029),9861376987277-(954568+-284828))]];[bG[ZE(sG(560844837%(9861482-(263770+(-634941-552379)))),322705790740-(-1020542))]]=G[bG[ZE(sG(1851456916%13816660),-492523+25833804523254)]];[bG[ZE(sG(853653+(-509627-319968)),23905024840028%251631913926)]]=G[bG[ZE(sG((236119+129789817)%(279035+2547082)),810054+24891293126534)]];[bG[ZE(sG((33399-(668663+-1604679))-946307),28354368130955-566471)]]=false;[bG[ZE(sG(284319363%2450832),31280219536012-13239)]]=s}end break end elseif not VE[bG[ZE(sG(2352116962%9446159),(-1011343+692555)+16024562071494)]][H]and(not VE[bG[ZE(sG(745193-720401),(-754387+203507)+(34869337826121-(-691053)))]][H]and not q)then break end end end end if#P==-396905-((-111323+-746314)+460732)and(type(b)==bG[ZE(sG(508149+-485253),-946966+(17134+(9185812407779-458135)))]and(s and D[bG[ZE(sG(2464415843%(14024123-483502)),-79267+12817244049843)]]))then local G=tonumber(D[bG[ZE(sG(558944+-534221),20104136455624-139783)]][bG[ZE(sG(358730-334248),684101+28139189541085)]])local e=G==s if not e and G==nil then local b=XA()e=b~=nil and b[bG[ZE(sG(785029+-761015),648882+(15726789920931-514149))]]==s end if e and((b[bG[ZE(sG(929851-906323),614880+25774004305263)]]or not q[bG[ZE(sG(-791187-(-815174)),24580678699650-(-1003263))]](b)))then local b,s,G=q[bG[ZE(sG(1634-(-22332)),-634160+2851204331874)]]()if b then P[530748+-530747]={[bG[ZE(sG(551795+(-808124+280372)),491818+(((761668+-1280067)+21573705000246)-223133))]]=b,[bG[ZE(sG(1293936910%9877192),-506229+21401710898134)]]=G;[bG[ZE(sG(1035244-1011896),6977846486923-320820)]]=q[bG[ZE(sG(1706181026%(705873+9697518)),(-582269+553853)+(30501800424698-913440))]](),[bG[ZE(sG(-571901-(-596857)),6411724250094-940697)]]=false}end end end return P end local function iE(b)if type(b)~=bG[ZE(sG(220066322%7587705),(-301246+841654)+20066883325777)]then return nil end local P,s,G=tonumber(b[bG[ZE(sG(-736815-(-1793918-(-1032456))),325622+35008179637108)]]),tonumber(b[bG[ZE(sG(554401+-531187),((2276219-568832)-(705777-(-315113)))+10601310083205)]]),tonumber(b[bG[ZE(sG(-870506-(-893849)),27195752792577-(-381416-492811))]])if not P or P==-265418+250215054%3288811 or not s or not G then return nil end local e=string[bG[ZE(sG(383534+-358625),-317820+3.3855882840229e+14%1791316571077)]](bG[ZE(sG(-105442-(-130306)),282357+34685932052077)],P,s,G)local H=bE[e]if H==nil then oE(b)H=bE[e]end local q=type(H)==bG[ZE(sG(-576357-(-349530-251600)),(-351534-(((15781+-1480532)-(-878036-(-111945)))+571510))+23279712976696)]and tonumber(H[bG[ZE(sG(-292967-(-317867)),24197804595220-(-1043530))]])or nil if q==(-1101688-(716138+(7739-873994)))-(-951571)then return nil end return q end local function BE(b)local P=iE(b)if P then return not AE(P,tonumber(b[bG[ZE(sG(123244+-98661),8496986762384-(212815+-1081496))]]))end local s=type(b)==bG[ZE(sG(446810923%3545930),(27086883544572-723767)-((855546+-426895)-110125))]and tonumber(b[bG[ZE(sG(501282681%11934753),-894729+16434715393065)]])or nil if not s or s==-286241-(-286241)then return false end return not AE((207771+202962)-410733,s)end function q.goal_off_continent(b)if type(b)==bG[ZE(sG(1277192838%7340051),365509+3840138063529)]and b[bG[ZE(sG(7372-(-16138)),12457442160651-132272)]]then return false end local P=type(b)==bG[ZE(sG(1552391584%14644982),470136+32087361848401)]and b[bG[ZE(sG(278218-253338),4408091284816-951923)]]or nil if not P then return false end local s=RE()for b=-809270-(-809271),#s,778402+-778401 do local G=s[b]if type(G)==bG[ZE(sG(2342895833%10459245),((429023+-1080041)-(-579349))+18411659424930)]and tonumber(G[bG[ZE(sG((70315403547%311188033)%3205085),4162722829817-177539)]])==P then if BE(G)then return true,tonumber(G[bG[ZE(sG((-869972+1153696)+-260433),15938042313040-888924)]]),G[bG[ZE(sG(640690+(-96749-519808)),16520739061842-994136)]]end end end return false end function q.route_title()local b=tE()if type(b)~=bG[ZE(sG(93101739%10341977),22897221475275-436701)]or(b[bG[ZE(sG(299566-274968),(27568751946163-(-663138))-(-940420+1509083))]]~=bG[ZE(sG(558987-535690),17231516359801-(-112842))]and b[bG[ZE(sG(-53646-(-77260)),11300011304667-163567)]]~=bG[ZE(sG((-269336+142604394)%799499),((21793294945803-(-315364))-(-573376))-317203)])then return nil end if type(b[bG[ZE(sG((((5249003127354%50471298143)%16825008345)%989510361)%10979919),32303048626752-563088)]])~=bG[ZE(sG(49292645%880076+16347),27822283847228-849813)]or b[bG[ZE(sG((-1777540-(-878842))+921949),14793281863771-(-975229))]]==bG[ZE(sG(-415617-(-439327)),(-861819+-63197)+33715863728683)]then return nil end return b[bG[ZE(sG(459828-436542),-87734+33136925295615)]]end function q.route_leg()local b=tE()if type(b)~=bG[ZE(sG(-368248+391389),43406+4153549684919)]or(b[bG[ZE(sG(348719-325379),4.4913564387891e+15%27724422562483)]]~=bG[ZE(sG(-682792-(-707459)),(16780220781367-199242)-(-39675))]and b[bG[ZE(sG((1579381-648167)+-907078),-192476+32131510617526)]]~=bG[ZE(sG(-643958-(-667985)),835038+17157375907822)])then return nil end local P=oE(b)if not P then return nil end return P,b[bG[ZE(sG(1036230+-1013243),440209+34843453538501)]]end local EE={{[bG[ZE(sG(609652636%12700609),16730688611136-725656)]]=(785879-380631)-(1085263-(922613+-241179)),[bG[ZE(sG(-310179-(551265-885605)),-591088+17856714801062)]]=.5872;[bG[ZE(sG(723118393%16068782),17710054770759-32911)]]=.5993,[bG[ZE(sG(1042666-1019436),-145786+32353407331506)]]=.5866;[bG[ZE(sG(937770-(17427284-101858)%2735141),14788670600377-(-306447))]]=.5956,[bG[ZE(sG(-792402-(-816958)),-414968+5124582094626)]]=-778614-(-780558);[bG[ZE(sG(438325626%6634766+-407646),37781+5648777180384)]]=bG[ZE(sG(-453616+478125),964906+10845603675283)]};{[bG[ZE(sG(-956402-(-305889+-673404)),((20323864290574-(-314822))-152982)-(-467637))]]=((280586-69431)+-726319)+517108,[bG[ZE(sG(-275171+298992),15815855212764-(-50791))]]=.8982,[bG[ZE(sG(692932384%13858174),814730+23628057655192)]]=.5021;[bG[ZE(sG((-765390+499344)-(-290176)),1017939+(437418+(17150000000344-(-887933))))]]=.8939;[bG[ZE(sG(-545427-(-569644)),84278+9746587220363)]]=.5022,[bG[ZE(sG(689487899%9849498),944955+1647995132443)]]=-625594+627013,[bG[ZE(sG(134735+(((-883653-(-597208))+(353719-390097))-(-211949))),20430102563734-(-669567))]]=bG[ZE(sG(461775+-438281),(-1329911-(-451442))+7264397544403)]}}local jE=-963293+963299 local JE={}local function aE(b,P,s)local G=string[bG[ZE(sG(675630+(383245-1034339)),2002499493597-(-1072423-(-413051)))]](bG[ZE(sG(402453939%3692015),977307+6280517385000)],b,P,s)local e=JE[G]if e==nil then e=SE(b,P,s)or false JE[G]=e end return e or nil end function q.portal_toward(b)b=tonumber(b)if not b or b==172486+-172486 then return nil end local P=gE()if not kE[bG[ZE(sG(-537849-(-562142)),21245553560868-(-218672))]]then return nil end local s=aE(b,707189132.5%(6500676.5-(-299219)),(308360.5-(-373268))-((-449535+1485239)+-354076))if not s then return nil end for b=334193-334192,#EE,-484904+484905 do local G=EE[b]local e,H=aE(G[bG[ZE(sG(-947213+1312665324%17725586),-512547+25829853548958)]],149788392.5%720136.5,1009183312%11089926.5),aE(G[bG[ZE(sG(((-91341+27875718)-(-335616-(-438800+387649)))%14022954),12598211773272-(-222543))]],646511+-646510.5,((960399+-1001917)+543699.5)-502181)if e and(H and(((e[bG[ZE(sG(112968+(-378199-(698945+(23464+-1010801)))),21229661096112-850166)]]or(((200481-921749)-(-45726))+1537219)-((870100+(-61761+(-1379520-(-574191-405312))))+288620179)%1485396))==((P or-763414-(-415527-347887)))and(((H[bG[ZE(sG(-749462+773833),232618+18793483170319)]]or 343504+-343504))==((s[bG[ZE(sG(957155+-932560),365012+11984390827174)]]or 931921914%14120029))and((e[bG[ZE(sG((29298733060%((1727056892441%21588282049-1040103)%(142711154487%759179401)))%9964456+-353769),21729770316149-(-128723))]]or-129607+129607))~=((H[bG[ZE(sG(1053689-1029625),65234481992314%21744827476690)]]or 246850545%6020745)))))then local b=aE(G[bG[ZE(sG((-980178-(-1034409))-30430),30687655969261-(-108845))]],G[bG[ZE(sG(429075344%16491009+-285768),-368887+28172920918988)]],G[bG[ZE(sG(-991581+1014711),(432459695%(4843682360%23907268)+81189)+3541761376932)]])if b then local P=aE(G[bG[ZE(sG(205080920%15773571),21359221507674-(-505133))]],G[bG[ZE(sG(974392-950141),463633+4827654680983)]],G[bG[ZE(sG(2189538809%9519626),13664286439546-423126)]])local s=nil if P then local G,e=b[bG[ZE(sG((188510+11752)-175910),-906337+(263087+10291373868789))]]-P[bG[ZE(sG(395522+-371170),-890850+23462183934539)]],b[bG[ZE(sG(298978-274323),2776235307%((((1399353187-(-531736))-(-20448+516923))-(-328902+371491))%20039480)+44820954312104%503606327553)]]-P[bG[ZE(sG(556727-532519),-762567+28792529458671)]]local H=math[bG[ZE(sG(1084484769%4951874),570073+21345824733837)]](G*G+e*e)if H>-892674.5-(-892675)then s={[bG[ZE(sG((-172277+712174)+-516712),6630667003960-715184)]]=b[bG[ZE(sG((-775474+87863)+711379),(12926471867874-46874)-84833)]]+(G/H)*jE,[bG[ZE(sG(1120668853%13501756),1.9071414184174e+14%6152069348946)]]=b[bG[ZE(sG(2779083471%15971612),((344136-191220)-(-716267))+25153003679751%148834421918)]]+(e/H)*jE}end end return{[bG[ZE(sG(753257+-728685),-812185+6891749040093)]]=b[bG[ZE(sG((-1044817+1731124)+-662307),-232203+30187490432336)]];[bG[ZE(sG((723091914639%3213769726)%14988186),(523720+9545523596264)-976594)]]=b[bG[ZE(sG(583372-559459),22538169392027-(473579-905454))]]},G[bG[ZE(sG(736648+-713025),323716+3299270861274)]],G,s end end end return nil end function q.offworld_map()local b=tE()if type(b)~=bG[ZE(sG(269962502%8707707),377392+23931932878912)]then return nil end if BE(b)then return tonumber(b[bG[ZE(sG(883183+-860204),(28377685035807-845528)-1036435)]]),b[bG[ZE(sG(447811237%2054068),9106236059163-648662)]]end return nil end function q.dump_step()local b={}local P=q[bG[ZE(sG(729419630%3143946),26142642868764-(-397922))]]()if not P then return b end b[#b+(192800-192799)]=string[bG[ZE(sG(-19958-(-44724)),33854605047425-(-256108))]](bG[ZE(sG(927664+-903515),146898+(24370555610160-37820))],P[bG[ZE(sG(51442+(831267-859296)),-36333+19251497349549)]],tostring(P[bG[ZE(sG(-284656+309305),-378182+17119657566922)]]),#P[bG[ZE(sG(2580826367%12116441),-85048+25711342676007)]])for s=1243389802%5677579,#P[bG[ZE(sG(129554271%4626123),(((16391760233324-(773727-954386))-(776389+-1236815))-((-903909+(3805404108-439719)%((670952876453%3748352112)%(18022775-255326)))-(-1907708-(-1022933))))-409013)]],346802+-346801 do local G=P[bG[ZE(sG(-354630+32409829%3559073),(10081261579177-(-790038))-(-730234))]][s]b[#b+499015233%7797113]=string[bG[ZE(sG(78781496%335135),831559847698-900434)]](bG[ZE(sG(1847649929%10264585),-297673+30218572495426)],s,tostring(G[bG[ZE(sG((254592+82281)+-313511),254580+33929183087912)]]),tostring(G[bG[ZE(sG(-229303+253165),23716130468069-494187)]]),tostring(G[bG[ZE(sG(-1038643+1063571),441510+4749498247132)]]),tostring(G[bG[ZE(sG(276461734%9214587),30600710208248-322507)]]),tostring(G[bG[ZE(sG(885765077%5149652),1000622+(28000309218520-(-24368+316783)))]]),tostring(G[bG[ZE(sG(3923347678%16013569),224319+(2575928334538-(-621291)))]]),tostring(G[bG[ZE(sG(1905429887%8740395),(-1028482+23178081097328)-570205)]]),tostring(q[bG[ZE(sG(-278823+303724),8680972692113-(-510346))]](HA(G,s,P[bG[ZE(sG(819189+-795686),33828673673371-587480)]]))))end local s=gE()local G=RE()for P=-928923-((-1091212-(-815993))-653705),#G,458363445%(43424425%27618789)do local e=G[P]b[#b+801089505%3452972]=string[bG[ZE(sG(955399-540185827%8559606),2049128977161-(-996605))]](bG[ZE(sG(186661491%731915),20986454553263-161582)],tostring(e[bG[ZE(sG(125382+-101428),25815267116392-995575)]]),tostring(e[bG[ZE(sG(711558-688321),(259067+27978)+27552284708230)]]),tonumber(e[bG[ZE(sG(91248-66303),-969159+11273771292427)]])or 740747+-740747,tonumber(e[bG[ZE(sG(((450803-(-9461))+473940430)%12163516),-906201+22460250903101)]])or 801280+(-388065-413215),tostring(e[bG[ZE(sG(1001042295%11247391),29589860587657-682042)]]),tostring(e[bG[ZE(sG(474885+-451075),-95694+14721209552110)]]),tostring(iE(e)or bG[ZE(sG(-149487+(-544509-(-718691))),(17300104849216-702480)-633702)]),s)end local e=tE()if e then b[#b+(-229676+229677)]=string[bG[ZE(sG(1405518239%10895308),(-690982+(924207+75969361096161))%340669811284)]](bG[ZE(sG(642528-617748),998121+10148881758901)],tostring(e[bG[ZE(sG((428684+-602100)-(304208+(((-1702012-268363)-(-540803-495829))+(-334458-(-767243))))),53554223421704%(26777112585054-(-606663+(-288955-(-220739)))))]]),tonumber(e[bG[ZE(sG(683161+(-705728-(-46731))),11210211309585-(-541823))]])or 74191050%8243450,tonumber(e[bG[ZE(sG(906618-883419),23002154492423-485806)]])or((-1026715+376165)-(-260732))-(-389818),tostring(e[bG[ZE(sG(808128360%(736521+2457572)),33245537856148-490683)]]),tostring(e[bG[ZE(sG(-642770+667180),42413385180622%3855763676749)]]),tostring(e[bG[ZE(sG(294569054%((44681067720%1943368223)%13726479)),(322128+10479076261732)-(-423395))]]),tostring(iE(e)or bG[ZE(sG(-363276+386461),(16335757222505-255719)-(698042+239632))]))end return b end local TE=572154+-1000572154 local IE=(274327+-959258)-(-684951)function q.arrow_probe(b)local P=R()if P-TE<IE then return end TE=P local s=tE()if not s or type(b)~=bG[ZE(sG(672441-647728),27887287830150%(1115490996841-(766536+(671740+-2438572))))]or type(b[bG[ZE(sG((74273176-(-561837))%12468399),-475393+27157172009550)]])~=bG[ZE(sG(822920-798130),11602141375727-11825)]then return end local G,e=pcall(require,bG[ZE(sG((-872285-1427092125%16402320)+986626),12229793172935-(-588044))])if not G or type(e)~=bG[ZE(sG(-658444+682073),1011319+26031228497538)]or type(e[bG[ZE(sG(1023882+-999657),(451778+-305993)+(25395972410658-1020970))]])~=bG[ZE(sG(-459290+483157),305148295%(4686085234%21183135)+19448363295743)]then return end local function H(P)local s=oE(P)if not s or type(s[bG[ZE(sG(131273571%6249970),-508085+25498550113093)]])~=bG[ZE(sG(((713209+-1788431)-(-879497))-(-219595)),852985+(-56205+19259151180407))]then return nil end local G,e=s[bG[ZE(sG(2635797642%11459888),(-790623+622638)+19555814931229)]]-b[bG[ZE(sG(-112324+136330),666945+846825156329)]],s[bG[ZE(sG(319411324%4202478),19025135169810-310471)]]-b[bG[ZE(sG(517807-494237),((-503661-59439)+1191295)+13220288323139)]]return math[bG[ZE(sG((202618-328711)+150927),220101+(3677487888816-434036))]](G*G+e*e)end local q={}local K=RE()or{}for b=-442935+(-452545-(-895481)),math[bG[ZE(sG(761490272%(((3261779836-671496167%15602906)-638231)%(4032709381%(18378619-990687)))),-734817+15997539175565)]](#K,2971158920%15474786),-405798+405799 do local P=K[b]if type(P)==bG[ZE(sG((1087279176%6789728+766127084)%(790125192%(14821533-(-887865))-(-40442+(274857+-1097302)))),-763727+13870289126894)]then local b=H(P)q[#q+1112120179%5032218]=string[bG[ZE(sG(1143628956%8663673),23343038017709-(247345+-825966))]](bG[ZE(sG(-240412-(-264363)),(541662+7811599407581)-(-782419))],tostring(P[bG[ZE(sG(-133524-(45615+-203830)),(-533665+(17299030148063-(-329065)))-(776195+1220614103)%((34592798154%320409781)%24490402))]]),tostring(P[bG[ZE(sG(2040158084%15112109),13562874023037-((1177059-947706)-965687))]]),P[bG[ZE(sG(-715535+739343),26340157179680-(-171147))]]and string[bG[ZE(sG(1009469+(837206+-1823467)),513891+(765400667%4251235+9431206441268))]](bG[ZE(sG(81521789%11642464),31843192201694-81897)],P[bG[ZE(sG(416821+-392801),-859753+16123745960609)]])or bG[ZE(sG(-942007-(-966942)),(32902560344902-(-267889))-753049)],b and string[bG[ZE(sG(-402314+425420),9345353562634-222193)]](bG[ZE(sG(-529114+553907),(-371057+4861027573573)-927776)],b)or bG[ZE(sG(506723-483023),-871463+10327230488271)])end end local S=H(s)pcall(e[bG[ZE(sG(-440647+464715),(25869089080915-224350)-(-671984))]],bG[ZE(sG(556225804%13242901),((-409342+33183798758429)-901864)-154433)],bG[ZE(sG(901875072%8052244),-100637+35126580858472)],s[bG[ZE(sG(962312+(-176764-761565)),3323910118166-(-159744))]]and string[bG[ZE(sG(13299191%2655031),1675520643019-(-231440))]](bG[ZE(sG(1097626402%((819280+1644258465%13176347)-(-465915))),4685144821571-24250)],s[bG[ZE(sG(-817671+840915),17664768497720-(-372202+-584611))]])or bG[ZE(sG(-829325-(-853261)),(932793-50005)+1467058148482)],S and string[bG[ZE(sG(547930-524446),23365122299293-242716)]](bG[ZE(sG(808595+(534586+-1319818)),169329+(-1020377+29352796277771))],S)or bG[ZE(sG(872802182%((-593635+726027912)%15026629)),89304462916493%4700234935129)],tostring(s[bG[ZE(sG(-530867-(-555128)),(-222113+17528447746086)-(-292690))]]),tostring(s[bG[ZE(sG(-235855+260029),23759974092600-(845167-126729))]]),tostring(s[bG[ZE(sG(70215597%5013754),298064+9307734702183)]]),#q>1297417140%6901155 and table[bG[ZE(sG(878761081%10716307),-155512+34445777645530)]](q,bG[ZE(sG(-541873-(519548+-1085167)),1046860+9298613076958)])or bG[ZE(sG((-952947-65674)+1041739),(276696+33781228268144)-(-897844))])end local pE=984821+-984796 local FE=-201048-(-201054)local fE=-834128+834143 local function QE(b,P)return math[bG[ZE(sG((421730384120%2888584047-(-1001058+366090))%16124625),5110789528469-(-752172))]](((b[bG[ZE(sG(539612372%13160680),(14531877236018-(-845791))-(-117436))]]-P[bG[ZE(sG(294919391%5084387),449782+(1021837+(-464918+(127913+4335605567162))))]]))^(369916+-369914)+((b[bG[ZE(sG((-556063+80417536608%((132801582477-(211545-485248))%1154854540-(-551521)))%13694421),-362137+22132872264909)]]-P[bG[ZE(sG(590930138%((401807+-831648)+(645287+3750370))),(((399906+-126856)-(-587633))+15917378724978)-(-837396))]]))^(818876+-818874))end function q.route(b,s,G)G=G or q[bG[ZE(sG(-818172-(-10200-831868)),1322920190055-220252)]](b)if s~=bG[ZE(sG(-451029-(-475606)),(10190+-843492)+18796112963903)]and(s~=bG[ZE(sG((-399312-(-304157))+118009),-904331+16143496622229)]and s~=bG[ZE(sG((349825+-46101)-279220),24030276686447-125574)])then return G end local e=bG[ZE(sG(-8368+(-38683+71238)),(13306492637317-(-384258))-625844)]..(tostring(type(b)==bG[ZE(sG((632+969288496)%13651632),(371942005%((933076-50252)+(227067+3417139))+31241674284557)-(-917094))]and b[bG[ZE(sG(74850+(985472-1037367)),-519566+329514481448)]]or-244727-(-244727))..(bG[ZE(sG(212190992%2410996),(101969+536525)+21220625923568)]..tostring(s)))local H=f(e,function()local b={}for P=(-1002987+264679)+738309,#G,1152778452%4947547 do b[#b+(-300855-(224593+(-168993-356456)))]=G[P]end if#b==(((-762784+-589722)-(-393242))+1661676456)%9382583 then local s=b[(-511842+225265)-(-192106+(692204+-786676))][bG[ZE(sG(2323612967%14706254),725677+31580856212823)]]for G=877935763%(3676164-(-484669)),FE-(-69527-(-146992+(((1159392-369259)-610636)+-102033))),351705241%11723508 do local e=((G*((2094222575-(-380301))%(1742142612%18631718)))*math[bG[ZE(sG(877031+-853316),13688154151805-(-293735))]])/FE b[#b+595303937%2730752]={[bG[ZE(sG(726115625%12306655),(-367666+318439)+29833211609939)]]=P[bG[ZE(sG(2795043451%16250117),146835971%2609465+(3254694363791-880856))]](s[bG[ZE(sG((-292015-(-110283+2198))+207575),40962201542860%620639619344)]]+pE*math[bG[ZE(sG(752708-729886),2052055322258-(437885-1037452))]](e),s[bG[ZE(sG(588393398%3654470),-287925+22258932471065)]]+pE*math[bG[ZE(sG(-118471+141908),(-302876+22857955337655)-475697)]](e),s[bG[ZE(sG(1737339802%(((573726530313%5122629494-254611)-(-226604))%(23937390-(-231575)))),20033879288982-(-759018))]]);[bG[ZE(sG(((-929870+1785204)+-656931)+-174102),(2416381913913-1176102919%4740657)-1064006624%7231727)]]=b[218323-218322][bG[ZE(sG(743434-(1703892-(919625-(-64745)))),(550501+500483863%3427766)+13282936631938)]],[bG[ZE(sG(1033829+-1011013),21521886714646-465447)]]=true}end end if#b==-673844+673844 then return nil end return b end)if type(H)==bG[ZE(sG(13704321%(-348990+14029066)),200612+(194680+34757627303342))]and#H>3491713005%(124622+15819273)then return H end return G end function q.wrong_continent()F()if D[bG[ZE(sG(633355150%5066646),-942244+((1022555+-197010)+13243181926129))]]and(oE(D[bG[ZE(sG(106100+-82110),22317919924150-624270)]])==nil and eE)then return true end return false end function q.step_waypoints()local b={}local P=RE()for s=655007599%13367502,#P,-749032-(-749033)do local G=oE(P[s])if G then b[#b+((-950736+(1206147-497484))+242074)]=G end end return b end local function yE(b,P,s,G)local e=RE()local function H(b)for P=(-1607038-(-805385))-(-801654),#e,-723063-(-91488+-631576)do local s=e[P]if type(s)==bG[ZE(sG(599829+-575752),864395+31820612206989)]and tonumber(s[bG[ZE(sG(-510896-(-534136)),(-906406+(600884+30968751405862))-(-35113))]])==b then local b=oE(s)if b then return b end end end return nil end local q=H(b)if q or not((P or s))then return q end for e=608294-(781401-173108),#G,1417496546%(97446+9047693)do local K=G[e]if e~=b and(type(K)==bG[ZE(sG(-261823+284979),485751+(29084466149490-((-633849+-203014)-(-599611)))%1454223611527)]and(sA[K[bG[ZE(sG(644847019%2528718),-980895+31646895133944)]]]and(((P and K[bG[ZE(sG(477953261%4384670),496913+3058771723540)]]==P)or(s and K[bG[ZE(sG(1574513046%9542353),589994+(1405089669780-(-336840)))]]==s)))))then q=H(e)if q then return q end end end return nil end function q.vendor_goals()local b=f(bG[ZE(sG(2148143304%11738354),549122+(28621+1824393952869))],function()local b={}local P=q[bG[ZE(sG(-779625-(-802561)),667061+10681445070790)]]()local s=type(P)==bG[ZE(sG((813916+-1411547)-(-622108)),(727748+-1128067)+17451284045596)]and P[bG[ZE(sG(-183449-(-206480)),15253432427475-(1166095-(-616371+922390)))]]or nil if type(s)~=bG[ZE(sG(-822701+845972),655179+14464213291090)]then return b end for G=-396248+(206500-(-870227+680478)),#s,143386673%((-12864+1296069)-468508)do local e=s[G]if type(e)==bG[ZE(sG(18792+5917),(145744+(1025670+(20754786735654-(-524804))))-(-1019525))]and((e[bG[ZE(sG((-1374130-(-996227))-(-528017-(-127291))),111419+24376230853396)]]==bG[ZE(sG(-839673-(-863397)),-358899+((972888+-939974)+21863551549342))]or e[bG[ZE(sG(-188204-(-212344)),32106113226968%10702041132406)]]==bG[ZE(sG(137948663%(7611906-(-1008330))),26996856434285-988619)]))then local H=HA(e,G,s)local q=H and yE(G,H[bG[ZE(sG(-1036052+(770680+290234)),-902949+33483352590435)]],H[bG[ZE(sG(-905510+928644),17968450281666-(-90644+-39426))]],s)or nil if q and(type(q[bG[ZE(sG(640254574%(-229356+(5218464-(-578113)))),-969825+13891075145099)]])==bG[ZE(sG(-209701+233987),12877114618733-96854)]and type(q[bG[ZE(sG(-196447-(-220086)),(153241-(-265009-(-654178)))+26154851253651)]])==bG[ZE(sG(1887428361%8351344),(609818+-1313048)+9408547005579)])then b[#b+(595623+((710174+-886282)+(-478013+58499)))]={[bG[ZE(sG(-828705-(-852709)),557729085485-(-238724-252316))]]=H[bG[ZE(sG(-134200-(-158179)),94583374704785%900794141006)]],[bG[ZE(sG(321494098%(492915223%16115341)),11207123999529-900265)]]=H[bG[ZE(sG(559700-(-611812+1147554)),-282957+((598509+20860430193815)-(66614-(-147061))))]];[bG[ZE(sG(-899390-(-922965)),20725566733202-(-636160))]]=q[bG[ZE(sG(35321002%155490),-663608+15198305094553)]],[bG[ZE(sG(248791+-224728),-136898+13603028729440)]]=q[bG[ZE(sG(382808-359138),(477082+-381944)+5443150006315)]];[bG[ZE(sG(867543+-843327),1009187+(-1044551+9350563231416))]]=q[bG[ZE(sG(-402067+426295),-813555+6301857214318)]],[bG[ZE(sG((116876938-660469738%14357187)%3539809),787855+26495778909551)]]=e[bG[ZE(sG(148037159%((480896-835863)+3095951)),28717378332477-140422)]];[bG[ZE(sG(-837539-(-860757)),-681914+(110357+3816471973296))]]=P[bG[ZE(sG(607029-584067),(-495066+475769593125)-(-636853))]]}end end end return b end)return type(b)==bG[ZE(sG((2170351246-(-455180))%15845122),27269436943636-350705)]and b or{}end function q.describe()if not q[bG[ZE(sG(42396452%14123853),251377+17586990942834)]]()then return bG[ZE(sG(683123+-660210),694597+15061251338288)]end if not q[bG[ZE(sG(-903908+928276),33425503984287-(-143671))]]()then return bG[ZE(sG(1572117377%7345876+-75197),(516966-190890)+26569682150460)]end local b=q[bG[ZE(sG(1778389887%(-261219+(11237483-453394))),32176733607493-(-752418))]]()if not b then return bG[ZE(sG(5616596%69051),1003586780200-280866)]end if q[bG[ZE(sG(293264214%(-401867+(-604117+2838733))),23365274598632-(-834767))]]()then return bG[ZE(sG(242374+(-345814+127661)),(5724657270145-(-947169))-(-531540))]end local P=q[bG[ZE(sG(-165553+189934),(-602449+((-781328-(-86861))-(-577519)))+27359257226279)]](b)if P==bG[ZE(sG(158663472%3777123),-1048364+19054604711043)]then return string[bG[ZE(sG(976215421%11621327),3172585366022-((391569+-317109)-893689))]](bG[ZE(sG(278218564%(1812023510%12579964-(-317730-216768817%2458623))),13575709378845-768340)],tostring(b[bG[ZE(sG(439736+-416521),(-784987-29023)+30914662328106)]]))end local s=b[bG[ZE(sG(535954-512062),((36206+-329392)-(-781844))+22681512662977)]]or tostring(b[bG[ZE(sG((121405242-(-595798+140905))%2343005),2835246531%16196328+25001991777905)]]or bG[ZE(sG(990158+-966636),25815718782827-(-586069))])return string[bG[ZE(sG(-943766+(-625655+(-216178+1809292))),(-473630-(-419007))+18493354315803)]](bG[ZE(sG((-249280+618509915)%9091707),-408867+25724149608355)],P,s)end local hE function q.snapshot()return f(bG[ZE(sG((14506351756%74815246)%13397103),62382072274394%15595521157785)],hE)end hE=function()local b={[bG[ZE(sG((-1040446-(-568841))-(-496479)),372158+23285781789520)]]=q[bG[ZE(sG(102055-78672),640637+34453642518960)]](),[bG[ZE(sG(207788-183397),(27442463631562-(-142831))-949650)]]=false;[bG[ZE(sG(384961670%11664783),(-760588+20428058349964)-(259171-740623))]]=1026975037%8487397,[bG[ZE(sG((48435+(-982244-(-714678)))-(-242994)),(731914+(-1014376-(-501174)))+(29071343360917-(-710514+54196)))]]={};[bG[ZE(sG(3881856563%15974619),-76420+(303671+22194371679773))]]=nil;[bG[ZE(sG(-377875+402758),827028+(5576274735503-(-325643)))]]=nil,[bG[ZE(sG(510597169%8104328),33203543528064-(-438191+(-222877+137418)))]]={};[bG[ZE(sG((-711275+1102690)+-368390),34435229444399-(-641722))]]=nil;[bG[ZE(sG(411465-386875),-508258+9825498417214)]]=false,[bG[ZE(sG(193755466%1793806),128893+29640843978013)]]=-632490+(1276218-643728),[bG[ZE(sG(920377-896599),((553927-252174)+(-219034+(-281955-109320)))+32724196267683)]]=q[bG[ZE(sG(293984-269710),(-1499363-(-770556))+1040281724582)]]()}if not b[bG[ZE(sG(780621370%16241469+-1006212),-837028+15561968204425)]]then return b end b[bG[ZE(sG(351029+-326490),((420510+((-1127643-438685)-(-999530)))-(806803-567500))+(-26358+31719760892288))]]=q[bG[ZE(sG(-794258-(-817739)),-532704+7680130799030)]]()if not b[bG[ZE(sG(-463186-(-487566)),88336+8536901364388)]]then return b end b[bG[ZE(sG((-254218+644532)+-367446),6771379883969-(-978171))]]=q[bG[ZE(sG(1034276600%4596681),(937526+27774763446412)-(-774940))]]()b[bG[ZE(sG(1162957200%15715326),282743+7424647426249)]]=q[bG[ZE(sG(-215619+240108),752378+32027430002353)]]()b[bG[ZE(sG(686664+(-1017647-(-354087))),515818+(18784061617448-(-447220+576881)))]]=q[bG[ZE(sG(496510-472717),-575562+(-462201+8943210426031))]]()if b[bG[ZE(sG((721272240-(-821270))%10028744),(733275+17460882614520)-(-620306))]]then b[bG[ZE(sG(603957080%((-924769-(-616484))+(10748609-854098))),21945606738833-161003)]]=q[bG[ZE(sG(((127704297632-394502)%1091547126)%13902718),30447110619284-(-889163+417312))]](b[bG[ZE(sG(-916321-(-939223)),19267754374772-406232)]])b[bG[ZE(sG((-1397220-(-487128))+933046),473380+4740561580245)]]=q[bG[ZE(sG((-55895+(110648474-(-568253+1498265)))%540089),13457297540752-654140)]](b[bG[ZE(sG(3411313470%14273177),-685640+18152446626505)]][bG[ZE(sG(1094743836%7014097-521509),-670665+(26477660425588-(-774506)))]])end local P=tE()if type(P)==bG[ZE(sG((14789+-712725)+(323266+399295)),179793+((-204413-(-965965+374900))+34063074919157))]and(tonumber(P[bG[ZE(sG((1413261-2177517134%14709563)-888052),2175322839272-(-553408))]])and tonumber(P[bG[ZE(sG(750585+-726475),-224599+14468056197302)]])~=795251+-795251)then b[bG[ZE(sG(499758809%6094336),31717571992886-(690219+-1675918))]]={[bG[ZE(sG(-534976+559705),4.5800450180487e+14%22900225794927)]]=((type(P[bG[ZE(sG((78878-(-80249))-135129),17175390353097-230669)]])==bG[ZE(sG(2482215411%15810139),-412812+11119010507742)]and P[bG[ZE(sG((93089910030%445476712)%9164489),((8836-(-41171))+18558616809141)-798164)]]~=bG[ZE(sG(286915-263205),-682608+15202873880957)]))and P[bG[ZE(sG(-174479+197450),781960+20129008968480)]]or nil,[bG[ZE(sG(2853153064%(11938396-525879)),(21402425056968-(-638907))-(-838773))]]=tonumber(P[bG[ZE(sG(-572276-(215275-811878)),(-264390+-70697)+32328229250525)]]);[bG[ZE(sG(((-915813-100616)-(674470-988489))-(-725416)),572299+4969420698072)]]=tonumber(P[bG[ZE(sG(2365427726%12192800),((24511538926383-632335)-(-393135))-531210)]]);[bG[ZE(sG(136964-112845),516387+29130931865970)]]=P[bG[ZE(sG(773871715%(11551220-496256)),(-478105+27328018470383)-(-1038623))]]}end b[bG[ZE(sG(-642683+667605),222747+12168006200117)]]=q[bG[ZE(sG(298819+-275240),24301936681622-56875)]]()b[bG[ZE(sG(-705835+729391),26941661700335-(-77681))]]=#q[bG[ZE(sG((-620812+1282406)+-636941),3483064878741-(-460121))]]()return b end function q.skip_inactive()return false end function q.inactive_step()return nil end return q end)(...)
+-- ============================================================================
+-- Master Farmer - Automated Zygor Forever
+-- Guide adapter - Zygor Guides (core.addons.zygor)
+-- ============================================================================
+-- Forked from the Questing & Grinding guide adapter (Grindbot 4.0.0). The
+-- RestedXP reads are gone: NO core.addons.rested_xp call is made anywhere in
+-- this product. The engine still asks the same questions (what is the goal,
+-- what kind, which targets, which waypoints), answered from Zygor.
+--
+-- THE SEVEN ZYGOR READS (documented, core.addons.zygor):
+--   is_loaded() -> boolean           gate for everything below
+--   has_current_step() -> boolean    false = no guide / guide finished
+--   get_current_step() -> table      { num, is_complete, goals[] }
+--     goal = { action, quest_id, npc_id, target_id, target, npc, is_complete }
+--   get_current_stickies() -> table[]  same step shape, kept beside the step
+--   get_objectives() -> (number|string)[]  every target id / name-only click
+--     of the step + stickies, in order, not de-duplicated
+--   get_current_waypoint() -> { map_id, x, y (0-1), dist, title, type,
+--     goal_num, is_manual }
+--   get_step_waypoints() -> the same, every waypoint of the step
+--
+-- GOAL ACTIONS (the user's reading of Zygor's Parser.lua / Goal.lua, 2026-10-17):
+--   talk, clicknpc, vendor, trainer, stablemaster - npc / npc_id
+--   gossip - no NPC in this API: the step's talk goal's NPC is used
+--   accept, turnin - quest_id, usually no NPC
+--   kill, from - target / target_id (first id) + get_objectives ids
+--   avoid - never a target
+--   get (= collect), click (world object, by name), goal, quest (q)
+--   use - an ITEM: target_id is the item id
+--   goto, at, gotonpc - walk the waypoint
+--   level (= ding) - grind
+--   text - commentary, not work
+--   Anything else is "unknown": the engine PAUSES and prompts (never guesses).
+--
+-- SKIP: core.addons.zygor.skip_current_step (core 2.173+) is the last rung (guide.skip_current).
+-- A goal the bot cannot finish is first HELD locally (mark_goal_done); when every goal of the step is marked
+-- and the step is still incomplete, the engine waits / prompts. Zygor's own
+-- step completion moves the guide on.
+--
+-- EVERYTHING IS OPTIONAL: the addon may be missing; every call is wrapped
+-- and every accessor answers "nothing to do" rather than throwing.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type vec3
+local vec3 = require("common/geometry/vector_3")
+
+local geometry = require("geometry")
+
+local MAX_RANGE = 300
+
+local targeting_mod = nil
+local function visible_objects()
+    if targeting_mod == nil then
+        local ok, mod = pcall(require, "targeting")
+        targeting_mod = (ok and type(mod) == "table") and mod or false
+    end
+    if targeting_mod and type(targeting_mod.visible_objects) == "function" then
+        local ok, list = pcall(targeting_mod.visible_objects)
+        if ok and type(list) == "table" then
+            return list
+        end
+        return nil
+    end
+    local ok, list = pcall(function() return core.object_manager.get_visible_objects() end)
+    return (ok and type(list) == "table") and list or nil
+end
+
+local guide = {}
+
+local function safe(fn)
+    local ok, res = pcall(fn)
+    if ok then
+        return res
+    end
+    return nil
+end
+
+local function indexable(v)
+    local t = type(v)
+    return t == "table" or t == "userdata"
+end
+
+local function call(fn, a, b)
+    local ok, result = pcall(fn, a, b)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+-- ============================================================================
+-- READING THE ADDON (plain copies only - a bound userdata result never leaks)
+-- ============================================================================
+
+local function index_of(o, k)
+    return o[k]
+end
+
+local function is_obj(v)
+    local t = type(v)
+    return t == "table" or t == "userdata"
+end
+
+local function get(o, k)
+    if not is_obj(o) then
+        return nil
+    end
+    local ok, v = pcall(index_of, o, k)
+    if ok then
+        return v
+    end
+    return nil
+end
+
+local function length_of(o)
+    return #o
+end
+
+local MAX_LIST = 512
+local function to_list(v)
+    local out = {}
+    if not is_obj(v) then
+        return out
+    end
+    local ok, n = pcall(length_of, v)
+    if ok and type(n) == "number" and n > 0 then
+        for i = 1, math.min(n, MAX_LIST) do
+            out[#out + 1] = get(v, i)
+        end
+        return out
+    end
+    for i = 1, MAX_LIST do
+        local item = get(v, i)
+        if item == nil then
+            break
+        end
+        out[#out + 1] = item
+    end
+    return out
+end
+
+local function as_bool(v)
+    return v == true or v == 1
+end
+
+--- Text without WoW escape codes (colours, textures, links).
+local function clean_text(s)
+    if type(s) ~= "string" or s == "" then
+        return s
+    end
+    s = s:gsub("|c%x%x%x%x%x%x%x%x", "")
+    s = s:gsub("|r", "")
+    s = s:gsub("|T.-|t", "")
+    s = s:gsub("|A.-|a", "")
+    s = s:gsub("|H.-|h", "")
+    s = s:gsub("|h", "")
+    s = s:gsub("^%s+", ""):gsub("%s+$", "")
+    return s
+end
+guide.clean_text = clean_text
+
+local function as_str(v)
+    if type(v) == "string" and v ~= "" then
+        return v
+    end
+    return nil
+end
+
+local function as_id(v)
+    local n = tonumber(v)
+    if n and n > 0 then
+        return n
+    end
+    return nil
+end
+
+local function plain_goal(raw)
+    if not is_obj(raw) then
+        return nil
+    end
+    return {
+        action = string.lower(as_str(get(raw, "action")) or ""),
+        quest_id = as_id(get(raw, "quest_id")),
+        npc_id = as_id(get(raw, "npc_id")),
+        target_id = as_id(get(raw, "target_id")),
+        target = clean_text(as_str(get(raw, "target"))),
+        npc = clean_text(as_str(get(raw, "npc"))),
+        is_complete = as_bool(get(raw, "is_complete")),
+    }
+end
+
+local function plain_step(raw)
+    if not is_obj(raw) then
+        return nil
+    end
+    local num = tonumber(get(raw, "num"))
+    if not num or num < 1 or num % 1 ~= 0 or not is_obj(get(raw, "goals")) then return nil end
+    local goals = {}
+    local raw_goals = to_list(get(raw, "goals"))
+    for i = 1, #raw_goals do
+        local g = plain_goal(raw_goals[i])
+        if g then
+            goals[#goals + 1] = g
+        end
+    end
+    return {
+        num = tonumber(get(raw, "num")) or 0,
+        is_complete = as_bool(get(raw, "is_complete")),
+        goals = goals,
+    }
+end
+
+local function plain_waypoint(raw)
+    if not is_obj(raw) then
+        return nil
+    end
+    return {
+        map_id = tonumber(get(raw, "map_id")) or 0,
+        x = tonumber(get(raw, "x")),
+        y = tonumber(get(raw, "y")),
+        dist = tonumber(get(raw, "dist")),
+        title = clean_text(as_str(get(raw, "title"))),
+        type = string.lower(as_str(get(raw, "type")) or "way"),   -- Zygor defaults a missing type to "way"
+        goal_num = tonumber(get(raw, "goal_num")),
+        is_manual = as_bool(get(raw, "is_manual")),
+    }
+end
+
+--- The addon namespace, or nil when this build has no core.addons.zygor.
+local function api()
+    local addons = get(rawget(_G, "core"), "addons")
+    local ns = get(addons, "zygor")
+    if not is_obj(ns) then
+        return nil
+    end
+    return ns
+end
+
+local errorlog_mod = nil
+local function probe(tag)
+    if errorlog_mod == nil then
+        local ok, mod = pcall(require, "errorlog")
+        errorlog_mod = (ok and type(mod) == "table") and mod or false
+    end
+    if errorlog_mod then
+        errorlog_mod.probe(tag)
+    end
+end
+
+-- READS ONLY FROM THE UPDATE CALLBACK: main.lua opens the window around
+-- on_update; render / GUI only ever see the last snapshot.
+local reads_ok = false
+
+local update_id = 0                      -- 1.4.0: one fresh Zygor read per update callback
+function guide.allow_reads(on)
+    reads_ok = on == true
+    if reads_ok then update_id = update_id + 1 end
+end
+
+local function ns_call(name, ...)
+    if not reads_ok then
+        return nil, "outside the update callback"
+    end
+    local ns = api()
+    if not ns then
+        return nil, "core.addons.zygor missing"
+    end
+    local fn = get(ns, name)
+    if fn == nil then
+        return nil, name .. " missing"
+    end
+    probe("zygor:" .. name)
+    local ok, res = pcall(fn, ...)
+    if not ok then
+        return nil, tostring(res)
+    end
+    return res, nil
+end
+
+-- ONE READ PER UPDATE: every Zygor call happens in refresh(), memoised for
+-- the update callback that made it (allow_reads in main.lua) - so Zygor is
+-- read every update, including in combat. (WINDOW / player_in_combat /
+-- quest_event_pending below are not used by refresh any more.)
+local WINDOW = 0.25
+
+local snap = {
+    t = -1,
+    loaded = false,
+    ready = false,
+    step = nil,
+    stickies = {},
+    wp = nil,
+    step_wps = {},
+    objectives = {},          -- quest id -> plain objective list (quest log)
+    zobj_ids = {},            -- get_objectives() numbers (set)
+    zobj_names = {},          -- get_objectives() strings (set)
+    memo = {},
+}
+
+-- Structural identities exclude completion flags; sticky slots survive reordering.
+local identity = { context = nil, epoch = 0, slots = {}, next_slot = 0 }
+function guide.step_identity(step)
+    local parts = { tostring(step and step.num or 0) }
+    for _, g in ipairs(step and step.goals or {}) do
+        for _, k in ipairs({"action", "quest_id", "npc_id", "target_id", "target", "npc"}) do
+            local v = tostring(g[k] or "")
+            parts[#parts + 1] = #v .. ":" .. v
+        end
+    end
+    return table.concat(parts, "|")
+end
+function guide.context_key()
+    return tostring(identity.epoch) .. ":" .. tostring(identity.context)
+end
+function guide.goal_key(goal)
+    return guide.context_key() .. "|" .. tostring(goal and goal.index)
+end
+local step_cache = { key = nil, wps = {}, wp = nil }
+
+local function clock()
+    local ok, t = pcall(izi.now)
+    if ok and type(t) == "number" then
+        return t
+    end
+    return 0
+end
+
+local function player_in_combat()
+    local ok, me = pcall(izi.me)
+    if not ok or not me then
+        return false
+    end
+    local ok2, c = pcall(me.is_in_combat, me)
+    return ok2 and c == true
+end
+
+local EVENT_GAP = 0.1
+local events_mod = nil
+local ev_seen = nil
+
+local function quest_event_pending(now)
+    if events_mod == nil then
+        local ok, m = pcall(require, "events")
+        events_mod = (ok and type(m) == "table" and type(m.quest_change_at) == "function") and m or false
+    end
+    if not events_mod then return false end
+    local at = events_mod.quest_change_at()
+    if type(at) ~= "number" or (ev_seen and at <= ev_seen) then return false end
+    if snap.t >= 0 and (now - snap.t) < EVENT_GAP then return false end
+    ev_seen = at
+    return true
+end
+
+-- Waypoint types that are a place to go (Zygor Pointer.set_waypoints): way =
+-- a step goal marker, path / farm = waypaths. route = a travel leg, used only
+-- as the arrow. manual / corpse / ant / poi are never a guide destination.
+local GOAL_WP_TYPES = { way = true, path = true, farm = true }
+-- 1.34.2: "taxi" too - a flight leg reported by its node type (user 2026-10-27: the
+-- arrow "is set to use flight path 'taxi'" at Telredor); it was dropped as unknown
+local ARROW_WP_TYPES = { way = true, path = true, farm = true, route = true, taxi = true }
+guide.GOAL_WP_TYPES = GOAL_WP_TYPES
+-- 1.34.2: every change of the arrow is logged (type + title), the travel legs too
+local arrow_said = nil
+-- audit F7: quest/diag.lua - logging only, never consulted by a decision.
+-- Lazy, so it cannot affect this file's load order, and nil-safe throughout.
+local diag_mod = nil
+local function diag()
+    if diag_mod == nil then
+        local ok, m = pcall(require, "quest/diag")
+        diag_mod = (ok and type(m) == "table") and m or false
+    end
+    return diag_mod or nil
+end
+guide.diag = diag
+-- One closure, not one per read: resolved through the guide table so it does
+-- not depend on where the hold test is declared in this file.
+local function held_test(i, g)
+    if type(guide.goal_held) ~= "function" then return false end
+    return guide.goal_held(i, g) == true
+end
+
+local function log_arrow(a)
+    local key = a and string.format("%s|%s|%.3f|%.3f", tostring(a.type), tostring(a.title), a.x or 0, a.y or 0) or "none"
+    if key == arrow_said then return end
+    arrow_said = key
+    local ok, log = pcall(require, "errorlog")
+    if not ok or type(log) ~= "table" or type(log.trail) ~= "function" then return end
+    if not a then return log.trail("zygor", "arrow: none") end
+    -- audit F6: "type not used" read like a defect. It is not. corpse / manual
+    -- / ant / poi are map markers, not places the guide is sending us: a corpse
+    -- arrow in particular is answered by death.lua, which corpse-runs from
+    -- core.game_ui.get_corpse_position (the real body) and never reads the
+    -- guide. The reason is spelled out now so nobody re-raises it.
+    log.trail("zygor", "arrow: type %s '%s' map %s (%.4f, %.4f)%s", tostring(a.type),
+        (tostring(a.title or ""):gsub("[\r\n]+", " / ")), tostring(a.map_id), a.x or 0, a.y or 0,
+        ARROW_WP_TYPES[a.type] and "" or " - not a destination type (marker only)")
+    -- 1.2.53: every field the arrow table carries (a hearth leg's pathnode / mode / item
+    -- would show here), so the next log says what Zygor really hands over
+    local keys = {}
+    for k, v in pairs(a) do
+        if k ~= "map_id" and k ~= "x" and k ~= "y" and k ~= "title" and k ~= "type" then
+            keys[#keys + 1] = tostring(k) .. "=" .. tostring(v)
+        end
+    end
+    table.sort(keys)
+    if #keys > 0 then log.trail("zygor", "  arrow fields: %s", table.concat(keys, ", ")) end
+end
+
+local function refresh()
+    if not reads_ok then
+        return
+    end
+    local now = clock()
+    -- 1.4.0 (user spec: "Do not cache a step number across updates"): read once
+    -- per update callback - in combat too (the step and its goals are never stale)
+    if snap.read_id == update_id and snap.t >= 0 then return end
+    snap.read_id = update_id
+    snap.t = now
+    local loaded, load_error = ns_call("is_loaded")
+    snap.problem = load_error and ("is_loaded: " .. load_error) or nil
+    snap.loaded = as_bool(loaded)
+    snap.ready = false
+    snap.step = nil
+    snap.stickies = {}
+    snap.wp = nil
+    snap.step_wps = {}
+    snap.objectives = {}
+    snap.zobj_ids, snap.zobj_names = {}, {}
+    snap.memo = {}
+    if not snap.loaded then
+        identity.context = nil
+        return
+    end
+    -- has_current_step() before get_current_step() (documented order)
+    local has_step, step_error = ns_call("has_current_step")
+    if not as_bool(has_step) then
+        snap.problem = step_error and ("has_current_step: " .. step_error) or nil
+        if not step_error then identity.context = nil end
+        return
+    end
+    local raw_step, read_error = ns_call("get_current_step")
+    local step = plain_step(raw_step)
+    if not step then
+        snap.problem = "get_current_step: " .. (read_error or "incomplete snapshot; retrying next update")
+        return
+    end
+    snap.ready = true
+    snap.step = step
+    local context = guide.step_identity(step)
+    if identity.context ~= context then
+        -- 1.2.11: A -> B -> A inside 5 s is Zygor flip-flopping between steps (log 16:43:19-22: 197, 194,
+        -- 197, 198, 197); logged with both identities so the cause can be read from the action log
+        local fl = identity.flip or { prev = nil, prev2 = nil, t = -1e9 }
+        identity.flip = fl
+        if fl.prev2 == context and (now - fl.t) < 5 then
+            pcall(function()
+                require("actlog").event("guide", "step_flip", "step flip-flop " .. tostring(fl.prev) .. " <-> " .. tostring(context),
+                    { a = tostring(context), b = tostring(fl.prev), num = step.num })
+            end)
+        end
+        fl.prev2, fl.prev, fl.t = fl.prev, context, now
+        identity.context, identity.epoch = context, identity.epoch + 1
+        identity.slots, identity.next_slot = {}, 0
+    end
+    do                                   -- audit F7: step transitions (log only)
+        local d = diag()
+        if d then pcall(d.step, step, held_test) end
+    end
+
+    local active_slots = {}
+    local list = to_list((ns_call("get_current_stickies")))
+    for i = 1, #list do
+        local st = plain_step(list[i])
+        if st then
+            local key = guide.step_identity(st)
+            if not identity.slots[key] then
+                identity.next_slot = identity.next_slot + 1
+                identity.slots[key] = identity.next_slot
+            end
+            active_slots[key] = identity.slots[key]
+            st.slot = identity.slots[key]
+            snap.stickies[#snap.stickies + 1] = st
+        end
+    end
+    identity.slots = active_slots
+    local objs = to_list((ns_call("get_objectives")))
+    for i = 1, #objs do
+        local v = objs[i]
+        if type(v) == "number" and v > 0 then
+            snap.zobj_ids[v] = true
+        elseif type(v) == "string" and v ~= "" then
+            snap.zobj_names[clean_text(v)] = true
+        end
+    end
+    local arrow = plain_waypoint((ns_call("get_current_waypoint")))
+    local live_arrow = arrow and (arrow.map_id or 0) ~= 0 and arrow or nil
+    log_arrow(live_arrow)
+    do                                   -- audit F7: the arrow tally (log only)
+        local d = diag()
+        if d then
+            pcall(d.arrow, live_arrow and live_arrow.type or nil,
+                live_arrow ~= nil and ARROW_WP_TYPES[live_arrow.type] == true or nil)
+        end
+    end
+    if arrow and (arrow.map_id or 0) ~= 0 and not arrow.is_manual and ARROW_WP_TYPES[arrow.type] then
+        snap.wp = arrow
+    end
+    local wps = to_list((ns_call("get_step_waypoints")))
+    for i = 1, #wps do
+        local wp = plain_waypoint(wps[i])
+        if wp and (wp.map_id or 0) ~= 0 and not wp.is_manual and GOAL_WP_TYPES[wp.type] then
+            snap.step_wps[#snap.step_wps + 1] = wp
+        end
+    end
+    -- 1.4.0: no per-step cache - an empty read means no waypoint this update
+end
+
+local function memo(key, fn)
+    refresh()
+    local v = snap.memo[key]
+    if v == nil and not reads_ok then
+        v = fn()
+        if v == false then
+            return nil
+        end
+        return v
+    end
+    if v == nil then
+        v = fn()
+        if v == nil then
+            v = false
+        end
+        snap.memo[key] = v
+    end
+    if v == false then
+        return nil
+    end
+    return v
+end
+
+-- ============================================================================
+-- AVAILABILITY / THE CURRENT STEP
+-- ============================================================================
+
+function guide.is_loaded()
+    refresh()
+    return snap.loaded
+end
+
+function guide.read_problem()
+    refresh()
+    return snap.problem
+end
+
+function guide.ready()
+    refresh()
+    return snap.ready
+end
+
+local diag_wanted = false
+
+function guide.update()
+    refresh()
+    if diag_wanted then
+        diag_wanted = false
+        guide.diagnose()
+        diag_wanted = false
+    end
+end
+
+function guide.step()
+    refresh()
+    return snap.step
+end
+
+function guide.stickies()
+    refresh()
+    return snap.stickies
+end
+
+--- get_objectives() as two sets: ids (numbers) and names (strings).
+function guide.zygor_objectives()
+    refresh()
+    return snap.zobj_ids, snap.zobj_names
+end
+
+local diag_cache, diag_t = nil, -1
+local DIAG_PENDING = {
+    addons = "-", namespace = "-", missing = {}, is_loaded = "(reading)",
+    has_step = "(reading)", step_type = "-", step_num = 0, goal_count = 0,
+    waypoint = "(reading)", step_waypoints = 0, objectives = 0,
+}
+
+function guide.diagnose()
+    diag_wanted = true
+    if not reads_ok then
+        return diag_cache or DIAG_PENDING
+    end
+    local now = clock()
+    if diag_cache and now >= diag_t and (now - diag_t) < 1.0 then
+        return diag_cache
+    end
+    diag_t = now
+    local out = {}
+    local addons = get(rawget(_G, "core"), "addons")
+    out.addons = type(addons)
+    local ns = get(addons, "zygor")
+    out.namespace = type(ns)
+    local fns = { "is_loaded", "has_current_step", "get_current_step",
+        "get_current_stickies", "get_objectives", "get_current_waypoint",
+        "get_step_waypoints" }
+    local missing = {}
+    for i = 1, #fns do
+        if get(ns, fns[i]) == nil then
+            missing[#missing + 1] = fns[i]
+        end
+    end
+    out.missing = missing
+    local loaded, lerr = ns_call("is_loaded")
+    out.is_loaded = tostring(loaded) .. (lerr and (" (" .. lerr .. ")") or "")
+    local has, herr = ns_call("has_current_step")
+    out.has_step = tostring(has) .. (herr and (" (" .. herr .. ")") or "")
+    local step = nil
+    if as_bool(loaded) and as_bool(has) then
+        local raw, serr = ns_call("get_current_step")
+        out.step_type = type(raw) .. (serr and (" (" .. serr .. ")") or "")
+        step = plain_step(raw)
+    else
+        out.step_type = "-"
+    end
+    out.step_num = step and step.num or 0
+    out.goal_count = step and #step.goals or 0
+    if not step then                     -- 1.4.0: no further reads without a step
+        out.waypoint, out.step_waypoints, out.objectives = "none", 0, 0
+        diag_cache = out
+        return out
+    end
+    local wp = plain_waypoint((ns_call("get_current_waypoint")))
+    out.waypoint = wp and string.format("map %d  %.3f,%.3f  %s  [%s]",
+        wp.map_id, wp.x or 0, wp.y or 0, tostring(wp.title or "-"), tostring(wp.type))
+        or "none"
+    out.step_waypoints = #to_list((ns_call("get_step_waypoints")))
+    out.objectives = #to_list((ns_call("get_objectives")))
+    diag_cache = out
+    return out
+end
+
+-- ============================================================================
+-- GOALS
+-- ============================================================================
+
+-- Zygor action -> engine kind. Only what the user's Zygor reading defines.
+local ACTIONS = {
+    accept       = "accept",
+    turnin       = "turnin",
+    talk         = "talk",
+    clicknpc     = "talk",
+    vendor       = "talk",
+    trainer      = "talk",
+    stablemaster = "talk",
+    gossip       = "talk",
+    kill         = "kill",
+    from         = "kill",
+    get          = "collect",
+    click        = "object",
+    goal         = "objective",
+    quest        = "objective",
+    q            = "objective",
+    use          = "item",
+    useany       = "item",       -- 1.4.0: "use any of" - an item use too
+    openskill    = "manual",     -- 1.4.0 (Zygor spec): a profession goal - not a quest move, left to you
+    create       = "manual",
+    ["goto"]     = "goto",
+    at           = "goto",
+    gotonpc      = "goto",
+    level        = "xp",
+    text         = "text",       -- commentary: nothing to act on
+    avoid        = "avoid",      -- never a target
+    -- 1.1.0 (user's Zygor reading, 2026-10-17)
+    fly          = "fly",        -- landing node = the step waypoint (title = node name)
+    fpath        = "fpath",      -- discover a flight path (Zygor's taxi db completes it)
+    ferry        = "fpath",      -- discover a ferry: same fields / completion as fpath
+    home         = "talk",       -- bind: the innkeeper is the step's talk goal
+    hearth       = "hearth",     -- Hearthstone (6948); done when the zone matches
+    walk         = "goto",       -- force_walk only
+    zombiewalk   = "goto",
+    confirm      = "confirm",    -- completes only when clicked in Zygor: the user clicks it
+    -- 1.2.0 (user's retail Zygor reading)
+    buy          = "buy",        -- target_id = item id, vendor = the step's talk NPC, no quantity
+    equip        = "equip",      -- target_id = item id; complete once worn
+    equipped     = "equip",
+    unequip      = "manual",     -- take an item off: no API in the reference
+    unequipped   = "manual",
+    learnspell   = "manual",     -- the spell id never reaches the goal table
+    learn        = "manual",     -- recipe id never reaches it
+    cast         = "manual",     -- castspell / id cleared off the goal
+    petaction    = "manual",     -- only the action arrives
+    info         = "text",       -- 1.8.0: display only (Goal.lua: passive) - passed over
+    havebuff     = "wait",
+    nobuff       = "wait",
+    invehicle    = "wait",
+    outvehicle   = "wait",
+    ontaxi       = "wait",
+    offtaxi      = "wait",
+    skill        = "wait",       -- reachskill arrives as "skill"
+    skillmax     = "wait",
+    -- 1.8.0 (user spec; ZygorGuidesViewerClassicTBCAnniv Goal.lua, every
+    -- GOALTYPES key - the same meaning on TBC and Retail). Client-specific keys
+    -- are added by quest/zygor_tbc.lua (Tbc) / quest/zygor_midnight.lua (Midnight).
+    -- display-only and modifier keys: no-ops, passed over
+    mapmarker    = "text", image = "text", webinfo = "text", webheader = "text", webimage = "text",
+    debugvar     = "text", debugevent = "text", popuptext = "text", devmsg = "text", goldtracker = "text",
+    grind        = "text", itemname = "text", count = "text", notinsticky = "text", onlyinsticky = "text",
+    oncomplete   = "text", polish = "text", subzone = "text", nexttab = "text",
+    achievetext  = "text",       -- display (Retail achievement text): a no-op on every client
+    noquest      = "text",       -- a daily-quest check Zygor ticks itself (click_to_complete)
+    -- item counts (GetItemCount >= count): the collect kind
+    farm         = "collect",    -- = GOALTYPES['get']
+    collect      = "collect",    -- sets action "get"; kept for a goal that still says collect
+    goldcollect  = "collect",
+    expcollect   = "collect",
+    repcollect   = "collect",
+    ding         = "xp",         -- the parser's string alias of "level"
+    discover     = "goto",       -- complete on the zone-explored message: walk the waypoint
+    countremains = "objective",  -- a quest objective count
+    multiq       = "objective",
+    bosshp       = "kill",       -- the boss down to a health level
+    reachskill   = "wait",       -- arrives as "skill"
+    turninany    = "wait",       -- its quest list (multiquests) is not in the API goal table
+    activepet    = "wait", petding = "wait", phase = "wait", rep = "wait", playertitle = "wait",
+    condition    = "wait", complete = "wait",
+    learnpetspell = "manual",    -- the spell id never reaches the goal table
+    findcity     = "manual",     -- Zygor picks the NPC at run time (WhoWhere)
+    talknpcs     = "manual",
+    guideflag    = "confirm",    -- a Zygor click (click_to_complete)
+    loadguide    = "confirm",    -- a Zygor click: loads another guide
+    reload       = "confirm",    -- a Zygor click: ReloadUI
+}
+guide.ACTIONS = ACTIONS
+-- NOT WORK: passed over by compute_goal (still the fallback when nothing else is left).
+-- 1.68.0: wait (havebuff / taxi / vehicle / skill...) is current-step work.
+local NOT_WORK = { text = true, avoid = true }
+local TALK_ACTIONS = { talk = true, clicknpc = true, vendor = true, trainer = true, stablemaster = true }
+-- goals whose target_id is an ITEM id (1.2.0)
+local ITEM_GOALS = { use = true, buy = true, equip = true, equipped = true, unequip = true, unequipped = true }
+guide.ITEM_GOALS = ITEM_GOALS
+
+-- 1.8.0: the client's own action module - quest/zygor_tbc on "Tbc",
+-- quest/zygor_midnight on "Midnight", none on any other client (Forever,
+-- Vanilla). Registered once, the first time it is asked for.
+local VM = nil
+function guide.version_module()
+    if VM == nil then
+        VM = false
+        local okg, gv = pcall(require, "gamever")
+        if okg and type(gv) == "table" then
+            local name = nil
+            if type(gv.is_tbc) == "function" and gv.is_tbc() then
+                name = "quest/zygor_tbc"
+            elseif type(gv.version) == "function" and gv.version() == "Midnight" then
+                name = "quest/zygor_midnight"
+            end
+            local okm, m = false, nil
+            if name then okm, m = pcall(require, name) end
+            if okm and type(m) == "table" then
+                pcall(m.register, ACTIONS, ITEM_GOALS)
+                VM = m
+            end
+        end
+    end
+    return VM or nil
+end
+function guide._reset_version_module() VM = nil end
+
+local function shape_goal(g, index, step_goals)
+    if type(g) ~= "table" then
+        return nil
+    end
+    local npc_id, npc = g.npc_id, g.npc
+    -- a gossip / home / buy goal has no NPC: the step's talk goal is the NPC
+    -- to speak to (Zygor's gossip handler pairs them the same way)
+    -- 1.7.11 (log 12:43, step 19 "talk Dumphry##21209 / turnin Waste Not, Want
+    -- Not##10055 / accept ##10078"): a turnin / accept goal with no NPC of its
+    -- own borrows the step's talk NPC too - Zygor writes the quest NPC once,
+    -- on the talk line; without it the hand-in (and its reward choice) never
+    -- found anyone to talk to
+    if (g.action == "gossip" or g.action == "home" or g.action == "buy" or g.action == "turnin"
+        or g.action == "accept") and not npc_id and type(step_goals) == "table" then
+        for i = 1, #step_goals do
+            local o = step_goals[i]
+            if type(o) == "table" and TALK_ACTIONS[o.action] and (o.npc_id or o.npc) then
+                npc_id, npc = o.npc_id, o.npc
+                break
+            end
+        end
+    end
+    local item_id = ITEM_GOALS[g.action] and g.target_id or nil
+    return {
+        action = g.action or "",
+        quest_id = g.quest_id,
+        npc_id = npc_id,
+        npc = npc,
+        target_id = (not item_id) and g.target_id or nil,
+        target = g.target,
+        item_id = item_id,
+        -- the name the engine / GUI show and match: the target, else the NPC
+        text = g.target or ((g.action ~= "accept" and g.action ~= "turnin") and npc or nil),
+        text_only = NOT_WORK[ACTIONS[g.action] or ""] == true,
+        is_complete = g.is_complete == true,
+        index = index,
+        ids = nil,
+    }
+end
+
+local function skipped(quest_id)
+    if type(quest_id) ~= "number" then
+        return false
+    end
+    local ok, state = pcall(require, "state")
+    if not ok or type(state) ~= "table" or type(state.quest) ~= "table" then
+        return false
+    end
+    local bag = state.quest.skipped
+    return type(bag) == "table" and bag[quest_id] == true
+end
+guide.skipped = skipped
+
+function guide.step_num()
+    local step = guide.step()
+    return step and tonumber(step.num) or 0
+end
+
+-- Goals the bot finished itself (Zygor has no skip): keyed "step|index",
+-- forgotten when the step changes.
+local done_goals = {}
+local done_step = nil
+
+-- 1.4.0 (user spec rule 2: work the first goal whose is_complete is false):
+-- the bot never marks a goal done. A goal it cannot do is HELD - it stays the
+-- current goal and the engine waits with a note until Zygor completes it (or
+-- the user acts in the Zygor window). Held goals are keyed "step|index".
+local held_why = {}
+function guide.mark_goal_done(step_num, index, why)
+    if step_num ~= guide.step_num() then return end
+    if done_step ~= guide.context_key() then
+        done_goals, held_why = {}, {}
+        done_step = guide.context_key()
+    end
+    local k = guide.context_key() .. "|" .. tostring(index)
+    done_goals[k] = true
+    held_why[k] = why or held_why[k] or "the bot cannot do this goal - finish it, or skip it in the Zygor window"
+    snap.memo = {}
+end
+guide.hold_goal = guide.mark_goal_done
+
+--- core.addons.zygor.skip_current_step() (declared on the live stub, core 2.173+; Zygor's own
+--- next-step call): true when Zygor moved past the current step. False when Zygor is not
+--- loaded, has no step, follows a party sync leader, or the core has no such function.
+--- The engine calls it as the last rung (a trainer that taught nothing, an unresponsive giver,
+--- no progress after the recoveries twice); the bot never marks a goal done itself.
+function guide.skip_current(why)
+    local r, err = ns_call("skip_current_step")
+    guide.invalidate()
+    local okl, elogmod = pcall(require, "errorlog")
+    local function say(fmt, ...)
+        if okl and type(elogmod) == "table" and type(elogmod.trail) == "function" then pcall(elogmod.trail, "skip", fmt, ...) end
+    end
+    if r == true then
+        pcall(function() require("quest/diag").skip_requested(why) end)
+        say("Zygor step skipped: %s", tostring(why or "-"))
+        return true
+    end
+    if err then say("skip_current_step unavailable: %s", tostring(err)) end
+    return false
+end
+
+--- audit F7 (2026-10-28): is this goal one the bot is HOLDING (mark_goal_done
+--- / hold_goal)? Zygor never marks it complete, so quest/diag would otherwise
+--- count every held goal as an open one and read a step that waits on the user
+--- as a step that moved on its own. Index-and-goal, so diag needs nothing of
+--- this file's internals.
+function guide.goal_held(index, goal)
+    if type(goal) ~= "table" then return false end
+    local step = snap.step
+    if type(step) ~= "table" or done_step ~= guide.context_key() then return false end
+    return done_goals[guide.context_key() .. "|" .. tostring(index)] == true
+end
+
+function guide.has_local_done()
+    return false                         -- 1.4.0: the bot holds goals, it never completes them
+end
+
+function guide.forget_local_done()
+    done_goals, held_why = {}, {}            -- 1.4.3: Start lets held goals be tried again
+    snap.memo = {}
+end
+
+--- Every quest id a goal names (Zygor: one, quest_id).
+function guide.goal_quest_ids(goal)
+    local out = {}
+    if type(goal) == "table" and tonumber(goal.quest_id) and goal.quest_id > 0 then
+        out[1] = goal.quest_id
+    end
+    return out
+end
+
+function guide.invalidate()
+    snap.t, snap.read_id = -1, nil
+    snap.memo = {}
+end
+
+-- 1.8.6 (log 2026-10-19 20:34, step 89 "kill Deranged Helboars / get Tainted
+-- Helboar Meat 23270 / use / get Purified Helboar Meat |q 9361"): the use goal
+-- (Purification Mixture 23268 - the API gives no item id) went out with no
+-- meat in the bags. A use goal that follows a `get` goal of the same step
+-- uses that item: the INGREDIENT. Not in the bags: the use goal is passed over
+-- (the kills that drop it are worked) and is not moved ahead in the ActionBar
+-- order.
+local function bag_count(id)
+    local ok, bags = pcall(require, "bags")
+    if not ok or type(bags) ~= "table" or type(bags.count) ~= "function" then return nil end
+    local okc, n = pcall(bags.count, id)
+    return okc and tonumber(n) or nil
+end
+--- The ingredient of a use goal: the nearest earlier get / collect goal of the
+--- step with an item id - id, name - or nil.
+function guide.use_ingredient(goal, goals)
+    if type(goal) ~= "table" or (goal.action ~= "use" and goal.action ~= "useany") then return nil end
+    goals = goals or (guide.step() or {}).goals
+    if type(goals) ~= "table" then return nil end
+    local idx = tonumber(goal.index)
+    if not idx or idx > #goals then return nil end
+    for j = idx - 1, 1, -1 do
+        local o = goals[j]
+        if type(o) == "table" and (o.action == "get" or o.action == "collect") and tonumber(o.target_id) then
+            return tonumber(o.target_id), o.target
+        end
+    end
+    return nil
+end
+--- True when the use goal has an ingredient and it is not in the bags.
+function guide.use_missing_ingredient(goal, goals)
+    local id = guide.use_ingredient(goal, goals)
+    if not id then return false end
+    local n = bag_count(id)
+    return n ~= nil and n <= 0
+end
+
+-- Installed Nagrand/Sha'tar guide: Lump is subdued, then interrogated.
+-- Its bare kill/talk lines share the quest objective's live waypoint.
+local function lump_objective(goals)
+    for i,g in ipairs(goals or {}) do
+        if g.action == "q" and tonumber(g.quest_id) == 9918 then return i,g end
+    end
+end
+local function lump_surrendered(goal, goals)
+    if goal.action ~= "kill" or tonumber(goal.target_id or goal.npc_id) ~= 18351
+        or not lump_objective(goals) then return false end
+    local _,q = lump_objective(goals)
+    if q.is_complete == true then return true end
+    local player = safe(function() return izi.me() end)
+    if not player or call(player.is_valid,player) ~= true then return false end
+    for _,unit in ipairs(visible_objects() or {}) do
+        if call(unit.is_valid,unit) == true and call(unit.get_npc_id,unit) == 18351
+            and call(unit.is_dead_or_ghost,unit) == false
+            and call(player.can_attack,player,unit) == false
+            and call(player.is_enemy_with,player,unit) == false then return true end
+    end
+    return false
+end
+
+-- Positive completion evidence only. A ready turn-in still needs its dialog;
+-- accepted repeatable quests still need their new objectives.
+function guide.goal_completed(goal)
+    if type(goal) ~= "table" then return false end
+    if goal.is_complete == true then return true end
+    local qid = tonumber(goal.quest_id)
+    if not qid or qid <= 0 then return false end
+    local on = safe(function() return core.quests.is_on_quest(qid) end)
+    local done = safe(function() return core.quests.is_quest_flagged_completed(qid) end) == true
+    if goal.action == "accept" then return on == true or done and on == false end
+    if done and on == false then return true end
+    if on == true and (goal.action == "kill" or goal.action == "get" or goal.action == "collect" or goal.action == "complete") then
+        return safe(function() return core.quests.is_quest_complete(qid) end) == true
+    end
+    return false
+end
+
+function guide.release_goal(index)
+    local k = guide.context_key() .. "|" .. tostring(index)
+    done_goals[k], held_why[k] = nil, nil
+    snap.memo = {}
+end
+
+local function compute_goal()
+    local step = guide.step()
+    if not step or step.is_complete == true then
+        return nil
+    end
+    if done_step ~= guide.context_key() then
+        done_goals, held_why = {}, {}
+        done_step = guide.context_key()
+    end
+    local goals = step.goals
+    if type(goals) ~= "table" then
+        return nil
+    end
+    -- 1.4.1 (log 23:20, step 11 goal 2: action '' with no waypoint of its own): a
+    -- goal with no action and no step waypoint carries nothing to do - it is
+    -- passed over like text (still the fallback when nothing else is left)
+    local has_wp = {}
+    for _, wp in ipairs(snap.step_wps or {}) do
+        local gn = tonumber(type(wp) == "table" and wp.goal_num or nil)
+        if gn then has_wp[gn] = true end
+    end
+    local arrow_goal = snap.wp and tonumber(snap.wp.goal_num)
+    if arrow_goal then has_wp[arrow_goal] = true end
+    -- Conditional goto lines remain incomplete in the Core snapshot even when
+    -- Zygor hides their marker. Defer only with live evidence of later work;
+    -- never complete the goal, borrow another goal's coordinates, or skip on
+    -- an empty snapshot. A returning marker makes the goto active again.
+    local function inactive_goto(sg)
+        if sg.action ~= "goto" or has_wp[sg.index] then return false end
+        for j = sg.index + 1, #goals do
+            if has_wp[j] and goals[j].is_complete ~= true then return true end
+        end
+        return false
+    end
+    -- 1.6.0 (Zygor's own Goal.lua: talk / clicknpc / click / use / useany / gossip /
+    -- text goals are PASSIVE - Zygor never sets them complete; the step completes
+    -- through its q / accept / turnin goals): a goal the bot has done or cannot do
+    -- is PASSED OVER while a later goal of the step still has work; it is the
+    -- held fallback ("WAITING for Zygor") only when nothing else is left.
+    local fallback, held_fb = nil, nil
+    -- 1.7.11: a talk goal whose NPC is the NPC of an open turnin / accept goal
+    -- of the same step is that quest dialog - the talk itself is passive
+    -- (Zygor never ticks it) and only got the window opened and stalled; the
+    -- turnin / accept goal does the work, the talk is passed over
+    local function quest_partner(sg)
+        -- 1.17.0: a click on an OBJECT that gives / takes the step's quest
+        -- ("click Scourge Cauldron" / turnin Target: Dalson's Tears##5219): the
+        -- click has no quest of its own and the turnin / accept goal with no
+        -- NPC uses that object (engine find_giver) - the click is passed over
+        if sg.action == "click" and not sg.quest_id then
+            for j = 1, #goals do
+                local o = goals[j]
+                if type(o) == "table" and o.is_complete ~= true and (o.action == "turnin" or o.action == "accept")
+                    and o.npc_id == nil then
+                    return true
+                end
+            end
+            return false
+        end
+        if sg.action ~= "talk" or not sg.npc_id then return false end
+        for j = 1, #goals do
+            local o = goals[j]
+            if type(o) == "table" and o.is_complete ~= true and (o.action == "turnin" or o.action == "accept")
+                and (o.npc_id == nil or o.npc_id == sg.npc_id) then
+                return true
+            end
+        end
+        return false
+    end
+    -- 1.7.17 (log 15:04, step 29 "kill Subjugator Shi'aziv, Wrathguard, ... /
+    -- collect 4 Demonic Rune Stone |n / click Portal Kaalez / Disrupt Portal Grimh
+    -- |q 10144/1"): a bare kill (no quest of its own) is passive - Zygor never
+    -- ticks it - and the bot killed on for ever. Once every collect ('get')
+    -- goal of the step is complete (Zygor counts the items), the kill is done:
+    -- passed over to the click / q goals that use the items.
+    local gets, gets_done = 0, 0
+    for j = 1, #goals do
+        local o = goals[j]
+        if type(o) == "table" and (o.action == "get" or o.action == "collect") then
+            gets = gets + 1
+            if guide.goal_completed(o) then gets_done = gets_done + 1 end
+        end
+    end
+    local function kill_collected(sg)
+        return sg.action == "kill" and not sg.quest_id and gets > 0 and gets_done == gets
+    end
+    -- 1.8.0: the client module's goal order (TBC: Zygor's ActionBar order -
+    -- usable actions before NPC actions, quest/zygor_tbc.lua goal_order)
+    local vm = guide.version_module()
+    local order = nil
+    if vm and type(vm.goal_order) == "function" then
+        local okord, o = pcall(vm.goal_order, goals, function(g0, i0)
+            local sg0 = shape_goal(g0, i0, goals)
+            if sg0 == nil or guide.use_missing_ingredient(sg0, goals) then return false end   -- 1.8.6
+            return guide.find_bag_item(sg0) ~= nil
+        end)
+        if okord and type(o) == "table" then order = o end
+    end
+    for n = 1, #goals do
+        local i = order and order[n] or n
+        local g = goals[i]
+        if type(g) == "table" and not guide.goal_completed(g) then
+            local sg = shape_goal(g, i, goals)
+            if (g.action == nil or g.action == "") and not has_wp[i] then sg.text_only = true end
+            if not sg.text_only and (inactive_goto(sg) or quest_partner(sg) or kill_collected(sg) or lump_surrendered(sg, goals)
+                or guide.use_missing_ingredient(sg, goals)) then                    -- 1.8.6
+                fallback = fallback or sg                  -- 1.7.11: passed over
+            elseif not sg.text_only then
+                local k = guide.context_key() .. "|" .. tostring(i)
+                if done_goals[k] then sg.held = held_why[k] or "held" end
+                if skipped(tonumber(g.quest_id)) then
+                    sg.held = "quest skipped in the bot - skip it in the Zygor window"
+                end
+                if not sg.held then return sg end
+                held_fb = held_fb or sg
+            else
+                fallback = fallback or sg
+            end
+        end
+    end
+    -- 1.4.0 (rule 9): the stickies are real work - their first incomplete goal,
+    -- after the step's own goals (index 1000 * sticky + goal: Zygor's goal_num
+    -- only counts the step's goals)
+    for s = 1, #snap.stickies do
+        local st = snap.stickies[s]
+        local sgl = type(st) == "table" and st.goals or nil
+        if type(sgl) == "table" then
+            for i = 1, #sgl do
+                local g = sgl[i]
+                if type(g) == "table" and not guide.goal_completed(g) then
+                    local sg = shape_goal(g, 1000 * st.slot + i, sgl)
+                    if sg and not sg.text_only then
+                        sg.sticky = true
+                        local k = guide.context_key() .. "|" .. tostring(sg.index)
+                        if done_goals[k] then sg.held = held_why[k] or "held" end
+                        if not sg.held then return sg end
+                        held_fb = held_fb or sg
+                    end
+                end
+            end
+        end
+    end
+    return held_fb or fallback
+end
+
+function guide.goal()
+    local g = memo("goal", compute_goal)
+    do                                   -- audit F7: goal transitions (log only)
+        local d = diag()
+        if d then pcall(d.goal, g) end
+    end
+    return g
+end
+
+function guide.goals()
+    guide.version_module()            -- audit V5: the client's keys registered before shape_goal reads ACTIONS
+    return memo("goals", function()
+        local out = {}
+        local step = guide.step()
+        if not step or type(step.goals) ~= "table" then
+            return out
+        end
+        for i = 1, #step.goals do
+            local g = shape_goal(step.goals[i], i, step.goals)
+            if g then
+                out[#out + 1] = g
+            end
+        end
+        return out
+    end)
+end
+
+-- ============================================================================
+-- WHAT THE ENGINE SHOULD DO
+-- ============================================================================
+
+-- Quest objective type (core.quests.get_quest_objectives) -> kind, for a
+-- goal / quest / get line whose verb does not say how.
+local OBJECTIVE_KIND = {
+    monster = "kill",
+    item    = "collect",
+    object  = "object",
+    event   = "wait", -- scripted objective: Zygor remains the completion authority
+}
+
+--- The unfinished quest-log objective a goal refers to, or nil (matched on
+--- the goal's target name, else the sole unfinished one).
+function guide.goal_objective(goal)
+    if type(goal) ~= "table" or not goal.quest_id then
+        return nil
+    end
+    local list = guide.objectives(goal.quest_id)
+    local first, count, matched, matches = nil, 0, nil, 0
+    local want = goal.text and string.lower(goal.text) or nil
+    for i = 1, #list do
+        local o = list[i]
+        if not o.finished then
+            first = first or o
+            count = count + 1
+            local head = o.text and string.lower(o.text:match("^(.-):%s*%d+%s*/%s*%d+%s*$") or o.text)
+            if want and head and head ~= "" and (string.find(head, want, 1, true) or string.find(want, head, 1, true)) then
+                matched, matches = o, matches + 1
+            end
+        end
+    end
+    if matches == 1 then return matched end
+    if matches == 0 and count == 1 then return first end
+    return nil
+end
+
+local classify_raw
+
+function guide.classify(goal)
+    if type(goal) ~= "table" then
+        return "goto"
+    end
+    return classify_raw(goal)            -- 1.4.0: classified every tick (no cache on the goal)
+end
+
+classify_raw = function(goal)
+    local a = goal.action
+    if type(a) ~= "string" or a == "" then
+        return "goto"                      -- a coordinates-only line is "goto" in Zygor
+    end
+    local vm = guide.version_module()
+    if vm and type(vm.classify) == "function" then
+        local special = vm.classify(goal)
+        if special then return special end
+    end
+    local kind = ACTIONS[a]
+    if kind == nil then
+        return "unknown"                   -- never guessed: the engine pauses and prompts
+    end
+    if kind == "objective" or kind == "collect" then
+        local o = guide.goal_objective(goal)
+        local t = o and o.type and string.lower(o.type) or nil
+        if t and OBJECTIVE_KIND[t] then
+            return OBJECTIVE_KIND[t]
+        end
+        if kind == "objective" then
+            -- 1.2.38: the quest is in the log with every objective finished: nothing is
+            -- unknown, Zygor just has not ticked the line yet - wait for it, do not pause
+            if not o and goal.quest_id then
+                local objs = guide.objectives(goal.quest_id)
+                if type(objs) == "table" and #objs > 0 then
+                    local all = true
+                    for i = 1, #objs do
+                        if not objs[i].finished then all = false end
+                    end
+                    if all then return "wait" end
+                end
+            end
+            return "unknown"
+        end
+    end
+    return kind
+end
+
+--- The raw goal for the "unknown action" prompt (GUI / log).
+function guide.unknown_goal()
+    local g = guide.goal()
+    if g and guide.classify(g) == "unknown" then
+        return g
+    end
+    return nil
+end
+
+-- ============================================================================
+-- OBJECTIVE PROGRESS - from the quest log (Zygor gives no per-quest progress)
+-- ============================================================================
+
+--- { text, type, num_required, num_fulfilled, finished } for one quest, from
+--- core.quests.get_quest_objectives(quest_id) (documented fields: text, type,
+--- finished, fulfilled, required).
+function guide.objectives(quest_id)
+    local out = {}
+    quest_id = tonumber(quest_id)
+    if not quest_id then
+        return out
+    end
+    refresh()
+    local hit = snap.objectives[quest_id]
+    if hit then
+        return hit
+    end
+    if not reads_ok then
+        return out
+    end
+    local list = safe(function() return core.quests.get_quest_objectives(quest_id) end)
+    list = to_list(list)
+    for i = 1, #list do
+        local o = list[i]
+        if is_obj(o) then
+            out[#out + 1] = {
+                text = clean_text(as_str(get(o, "text"))),
+                type = as_str(get(o, "type")),
+                num_required = tonumber(get(o, "required")) or 0,
+                num_fulfilled = tonumber(get(o, "fulfilled")) or 0,
+                finished = as_bool(get(o, "finished")),
+            }
+        end
+    end
+    snap.objectives[quest_id] = out
+    return out
+end
+
+function guide.needs_progress(quest_id)
+    local objectives = guide.objectives(quest_id)
+    if #objectives == 0 then
+        return false
+    end
+    for i = 1, #objectives do
+        if not objectives[i].finished then
+            return true
+        end
+    end
+    return false
+end
+
+local log_cache = {}
+local LOG_TTL = 1.0
+local headers_expanded = false
+
+local function strip_progress(text)
+    if type(text) ~= "string" or text == "" then
+        return nil
+    end
+    local head = text:match("^(.-):%s*%d+%s*/%s*%d+%s*$")
+    if head and head ~= "" then
+        return head
+    end
+    return text
+end
+guide.strip_progress = strip_progress
+
+local function log_index_of(quest_id)
+    if not headers_expanded then
+        headers_expanded = true
+        pcall(function() core.quests.expand_quest_header(0) end)
+    end
+    local n = safe(function() return core.quests.get_num_quest_log_entries() end)
+    if type(n) ~= "number" then
+        return nil
+    end
+    for i = 1, n do
+        local info = safe(function() return core.quests.get_quest_log_title(i) end)
+        if type(info) == "table" and info.is_header ~= true
+            and tonumber(info.quest_id) == quest_id then
+            return i, info
+        end
+    end
+    return nil
+end
+
+function guide.log_title(quest_id)
+    quest_id = tonumber(quest_id)
+    if not quest_id then
+        return nil
+    end
+    local _, info = log_index_of(quest_id)
+    if type(info) == "table" and type(info.title) == "string" and info.title ~= "" then
+        return info.title
+    end
+    return nil
+end
+
+--- Names of the unfinished objectives of a quest, as the client words them.
+function guide.objective_names(quest_id)
+    quest_id = tonumber(quest_id)
+    if not quest_id then
+        return {}
+    end
+    local now = safe(function() return izi.now() end) or 0
+    local hit = log_cache[quest_id]
+    if hit and (now - hit.t) < LOG_TTL then
+        return hit.names
+    end
+    local names = {}
+    local list = guide.objectives(quest_id)
+    for i = 1, #list do
+        if not list[i].finished then
+            local name = strip_progress(list[i].text)
+            if name then
+                names[#names + 1] = name
+            end
+        end
+    end
+    if reads_ok then
+        log_cache[quest_id] = { names = names, t = now }
+    end
+    return names
+end
+
+-- ============================================================================
+-- TARGETS
+-- ============================================================================
+-- For the goal being worked its own npc_id / target_id / name come first;
+-- get_objectives() (step + stickies) is the wider wanted set for fight /
+-- collect goals - minus every id / name an avoid goal names.
+local compute_targets
+local TARGET_KINDS = { kill = true, collect = true, object = true, item = true }
+
+function guide.targets(goal, primary)
+    goal = goal or guide.goal()
+    local key = "targets:" .. tostring(goal and goal.index or 0) .. (primary and ":own" or "")
+    local pair = memo(key, function()
+        local i, n = compute_targets(goal, primary)
+        return { i, n }
+    end)
+    return pair[1], pair[2]
+end
+
+-- No guide-file data in this product (RestedXP-only helpers answer nothing).
+function guide.rxp_step_for() return nil end
+function guide.gossip_option(unit, rows)
+    local vm = guide.version_module()
+    if vm and type(vm.gossip_option)=="function" then
+        return vm.gossip_option(unit, (guide.step() or {}).goals, rows)
+    end
+end
+
+function guide.rxp_item_for() return nil end
+function guide.rxp_quest_givers() return {} end
+function guide.rxp_quest_mobs() return {} end
+
+--- The avoid lines of the step: ids and names never to fight.
+local function avoided()
+    return memo("avoid", function()
+        local ids, names = {}, {}
+        local function scan(step)
+            if type(step) ~= "table" or type(step.goals) ~= "table" then return end
+            for i = 1, #step.goals do
+                local g = step.goals[i]
+                if type(g) == "table" and g.action == "avoid" then
+                    if g.target_id then ids[g.target_id] = true end
+                    if g.target then
+                        for n in g.target:gmatch("[^,]+") do
+                            names[n:match("^%s*(.-)%s*$")] = true
+                        end
+                    end
+                end
+            end
+        end
+        scan(guide.step())
+        local st = guide.stickies()
+        for i = 1, #st do scan(st[i]) end
+        return { ids, names }
+    end)
+end
+function guide.avoided()
+    local a = avoided()
+    return a[1], a[2]
+end
+
+--- The names of the step's other unfinished kill goals (the kill fallback / log).
+function guide.step_target_names()
+    return memo("step_targets", function()
+        local set = {}
+        local step = guide.step()
+        if step and type(step.goals) == "table" then
+            for i = 1, #step.goals do
+                local g = step.goals[i]
+                if type(g) == "table" and g.is_complete ~= true and ACTIONS[g.action] == "kill" and g.target then
+                    set[g.target] = true
+                end
+            end
+        end
+        local out = {}
+        for n in pairs(set) do out[#out + 1] = n end
+        table.sort(out)
+        return out
+    end)
+end
+
+compute_targets = function(goal, primary)
+    local ids, names = {}, {}
+    if type(goal) ~= "table" then
+        return ids, names
+    end
+    local kind = guide.classify(goal)
+    -- 1.4.0 (Zygor spec): an NPC by get_npc_id only - never by the displayed name
+    if kind == "talk" or kind == "accept" or kind == "turnin" then
+        if goal.npc_id then ids[goal.npc_id] = true end
+        return ids, names
+    end
+    if kind == "item" then
+        if goal.item_id then ids[goal.item_id] = true end
+        if goal.target then names[goal.target] = true end
+        return ids, names
+    end
+    -- the goal's own target first: a kill / get by its id, an object by its exact
+    -- name (no quest-log objective text as names)
+    if kind == "kill" and goal.action ~= "get" and goal.action ~= "collect" and goal.target_id then ids[goal.target_id] = true end
+    -- 1.5.1 (log 23:58, step 17: one target_id, nine mob names "Voidborn Reserve,
+    -- Voidfront Conjurer, ..."): a kill goal's own target list names every mob it
+    -- takes - each name in it is a target too (exact get_name() match)
+    if (kind == "kill" or kind == "collect") and type(goal.target) == "string" then
+        for part in goal.target:gmatch("[^,]+") do
+            local n = part:gsub("^%s+", ""):gsub("%s+$", "")
+            if n ~= "" then names[n] = true end
+        end
+    end
+    if kind == "object" and goal.target then names[goal.target] = true end
+    -- The flattened bridge list has no action/owner; never promote it to targets.
+    -- Explicit kill/from siblings are the only wider combat sources.
+    if not primary and (kind == "kill" or kind == "collect") and not goal.sticky then
+        for _, g in ipairs((guide.step() or {}).goals or {}) do
+            if not g.is_complete and (g.action == "kill" or g.action == "from") then
+                if g.target_id then ids[g.target_id] = true end
+                for n in (g.target or ""):gmatch("[^,]+") do
+                    names[n:match("^%s*(.-)%s*$")] = true
+                end
+            end
+        end
+    end
+    local aid, aname = guide.avoided()
+    for id in pairs(aid) do ids[id] = nil end
+    for n in pairs(aname) do names[n] = nil end
+    return ids, names
+end
+
+function guide.target_ids(goal)
+    local ids = guide.targets(goal)
+    local out = {}
+    for id in pairs(ids) do
+        out[#out + 1] = id
+    end
+    table.sort(out)
+    return out
+end
+
+--- Does a unit or object name match the target names?
+---
+--- Exact first, then the name occurring inside a candidate - the candidates
+--- are objective lines and guide sentences, which carry more than the name.
+local function name_wanted(name, names)
+    if type(name) ~= "string" or name == "" then
+        return false
+    end
+    -- 1.4.0 (Zygor spec): exact get_name() matches only
+    return names[name] == true
+end
+
+-- Object names against objective names, both ways round (2.79.0): an
+-- objective names the ITEM, the object holding it is often longer or plural
+-- ("Crate of ...", "... Candles"). A significant word of 4+ letters in common
+-- also counts.
+local function singular(n)
+    n = string.lower(n)
+    if n:sub(-3) == "ies" then return n:sub(1, -4) .. "y" end
+    if n:sub(-2) == "es" and n:sub(-3, -3):match("[sxz]") then return n:sub(1, -3) end
+    if n:sub(-1) == "s" and n:sub(-2) ~= "ss" then return n:sub(1, -2) end
+    return n
+end
+local function object_wanted(name, names)
+    -- 1.4.0 (Zygor spec): the object whose get_name() IS the string objective
+    if type(name) ~= "string" or name == "" then return false end
+    if names[name] then return true end
+    local c = clean_text(name)
+    if c ~= nil and names[c] == true then return true end
+    -- 1.6.0 (audit: Zygor labels the objects in the plural - "Healing Salves",
+    -- "Lightspire Spears" - the game names one "Healing Salve"): the same name
+    -- up to case and a plural ending
+    local one = singular(name)
+    for n in pairs(names) do
+        if type(n) == "string" and singular(n) == one then return true end
+    end
+    return false
+end
+
+guide.object_wanted = object_wanted          -- 1.2.73: esp.lua matches world objects the same way
+
+-- ============================================================================
+-- FINDING THINGS IN THE WORLD
+-- ============================================================================
+
+--- The nearest visible game object this goal wants, or nil.
+---
+--- Objects are not units: the mob scan will never return a chest or a herb,
+--- so this walks the visible-object list itself.
+local kind_logged = {}                       -- 1.7.17
+function guide.find_object(player, range, goal, skip)
+    if not player then
+        return nil, nil
+    end
+    range = math.min(tonumber(range) or 30, MAX_RANGE)
+
+    local ids, names = guide.targets(goal)
+    -- Nothing named means nothing to look for. Returning the nearest object
+    -- of any kind would have the bot clicking scenery.
+    if next(ids) == nil and next(names) == nil then
+        return nil, nil
+    end
+
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+
+    local me = safe(function() return player:get_position() end)
+    if not me then
+        return nil, nil
+    end
+
+    -- ZYGOR (user, 2026-10-17): a world object is matched by NAME - no
+    -- documented game_object call returns its entry id (get_npc_id is
+    -- NPC-only), so the click goal's target_id never matches. Kept: basic
+    -- objects (not a unit, not an item) the client will use (can_be_used);
+    -- several with the name -> the one nearest this goal's own waypoint.
+    local anchor = nil
+    local gw = goal and guide.goal_waypoints(goal) or nil
+    if type(gw) == "table" and gw[1] and gw[1].pos then anchor = gw[1].pos end
+    local best, best_d, best_key = nil, nil, nil
+    for i = 1, #list do
+        local o = list[i]
+        if indexable(o) and call(o.is_valid, o) ~= false then
+            if call(o.is_basic_object, o) == true and call(o.is_unit, o) ~= true
+                and call(o.is_item, o) ~= true and call(o.can_be_used, o) == true
+                and not (skip and skip[call(o.get_guid, o) or false]) then
+                if object_wanted(call(o.get_name, o), names) then
+                    local pos = call(o.get_position, o)
+                    if pos then
+                        local d = call(player.distance_to, player, o)
+                        if type(d) ~= "number" then
+                            d = geometry.distance(me, pos)
+                        end
+                        local k = anchor and geometry.distance(anchor, pos) or d
+                        if d <= range and (best_key == nil or k < best_key) then
+                            best, best_d, best_key = o, d, k
+                        end
+                    end
+                end
+            end
+        end
+    end
+    -- 1.7.17 (step 29: Zygor's text says "click Portal Kaalez" on the Portal
+    -- Grimh step): nothing of that name - a usable object of the same KIND (the
+    -- name's first word, "Portal") standing within KIND_YD of this goal's own
+    -- waypoint is the one meant (logged once per object)
+    if not best and anchor then
+        local kind = nil
+        for n in pairs(names) do
+            if type(n) == "string" then
+                local w = n:match("^(%a+)%s")
+                if w and #w >= 4 then kind = string.lower(w) end
+            end
+        end
+        if kind then
+            local KIND_YD = 20
+            for i = 1, #list do
+                local o = list[i]
+                if indexable(o) and call(o.is_valid, o) ~= false and call(o.is_basic_object, o) == true
+                    and call(o.is_unit, o) ~= true and call(o.is_item, o) ~= true and call(o.can_be_used, o) == true
+                    and not (skip and skip[call(o.get_guid, o) or false]) then
+                    local on = call(o.get_name, o)
+                    local w = type(on) == "string" and on:match("^(%a+)") or nil
+                    local pos = call(o.get_position, o)
+                    if w and string.lower(w) == kind and pos then
+                        local k = geometry.distance(anchor, pos)
+                        local d = call(player.distance_to, player, o) or geometry.distance(me, pos)
+                        if k <= KIND_YD and d <= range and (best_key == nil or k < best_key) then
+                            best, best_d, best_key = o, d, k
+                        end
+                    end
+                end
+            end
+            if best then
+                local g = call(best.get_guid, best)
+                if g and not kind_logged[g] then
+                    kind_logged[g] = true
+                    local ok_l, log = pcall(require, "errorlog")
+                    if ok_l and type(log) == "table" and type(log.trail) == "function" then
+                        log.trail("guide", "no object named for this goal at its waypoint - using %s (same kind, %.0f yd from the waypoint)",
+                            tostring(call(best.get_name, best)), best_key or -1)
+                    end
+                end
+            end
+        end
+    end
+    return best, best_d
+end
+
+local function tap_denied(u)
+    local v = call(u.is_tap_denied, u)
+    return v == true or (type(v) == "number" and v ~= 0)
+end
+
+--- Can the bot fight this unit? Alive, not a player, attackable.
+local function fightable(player, u)
+    if not (indexable(u) and call(u.is_valid, u) == true
+        and call(u.is_unit, u) == true
+        and call(u.is_dead_or_ghost, u) ~= true
+        and call(u.is_player, u) ~= true
+        and not tap_denied(u)                -- audit 2026-10-17: is_tap_denied returns a number
+        and call(player.can_attack, player, u) ~= false) then
+        return false
+    end
+    -- 1.2.30: "Avoid other player targets" - a mob another player is fighting
+    do
+        local okt, tgm = pcall(require, "targeting")
+        if okt and type(tgm) == "table" and type(tgm.fought_by_other_player) == "function"
+            and tgm.fought_by_other_player(player, u) == true then
+            return false
+        end
+    end
+    -- ZYGOR avoid lines: never fought
+    local aid, aname = guide.avoided()
+    local nid = call(u.get_npc_id, u)    -- (u is a unit: checked above)
+    if (type(nid) == "number" and aid[nid]) or aname[call(u.get_name, u) or false] then
+        return false
+    end
+    -- Never more than 5 levels above the player (2.95.0).
+    local my_lvl = call(player.get_level, player)
+    local lvl = call(u.get_level, u)
+    if type(my_lvl) == "number" and type(lvl) == "number" and lvl > my_lvl + 5 then
+        return false
+    end
+    -- Not one movement has given up on (2.84.0, the re-pathing ladder).
+    local ok_s, st = pcall(require, "state")
+    if ok_s and st and type(st.is_unreachable) == "function"
+        and st.is_unreachable(call(u.get_guid, u)) then
+        return false
+    end
+    -- Not in an area the player died in repeatedly (deathzones.lua, 2.247.0).
+    local ok_t, tg = pcall(require, "targeting")
+    if ok_t and type(tg) == "table" and type(tg.in_death_zone) == "function" and tg.in_death_zone(u) then
+        return false
+    end
+    -- Not behind a wall, down a mine under the player or on a ledge overhead
+    -- (2.81.0) - targeting.can_see, cached per mob.
+    local t = targeting_mod
+    if t == nil then
+        local ok, m = pcall(require, "targeting")
+        t = (ok and type(m) == "table") and m or false
+        targeting_mod = t
+    end
+    if t and type(t.can_see) == "function" then
+        return t.can_see(player, u) == true
+    end
+    return true
+end
+
+--- The nearest unit this goal wants to fight, or nil.
+---
+--- Name-matched against RestedXP's objective names, because its mob and
+--- target steps carry names rather than creature ids. An id is used when the
+--- guide happens to supply one.
+function guide.find_mob(player, range, goal, primary)
+    if not player then
+        return nil, nil
+    end
+    range = math.min(tonumber(range) or 40, MAX_RANGE)
+
+    local ids, names = guide.targets(goal, primary)
+    if next(ids) == nil and next(names) == nil then
+        return nil, nil
+    end
+
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+
+    local aid, aname = guide.avoided()
+    local best, best_d, best_sc = nil, nil, nil
+    local esp = package.loaded["esp"]            -- 1.2.73: the ESP ranks a mob with a pack / an elite beside it farther
+    for i = 1, #list do
+        local u = list[i]
+        -- Cheap filters first, fightable last (2.145.0): the id / name and the
+        -- distance rule out most units without fightable's native calls.
+        if indexable(u) and call(u.is_valid, u) == true and call(u.is_unit, u) == true
+            and call(u.is_player, u) ~= true then
+            -- 1.4.0 (Zygor spec): get_npc_id (NPCs only) against the goal's ids
+            local uid = call(u.get_npc_id, u)
+            local want = (type(uid) == "number" and ids[uid] == true)
+                or name_wanted(call(u.get_name, u), names)          -- 1.5.1: the goal's own mob names
+            if want and not aid[uid] and not aname[call(u.get_name, u)] then
+                local d = call(player.distance_to, player, u)
+                if type(d) == "number" and d <= range then
+                    local pen = (type(esp) == "table" and type(esp.penalty) == "function") and (select(1, call(esp.penalty, u)) or 0) or 0
+                    local sc = d + pen
+                    if (best_sc == nil or sc < best_sc) and fightable(player, u) then
+                        best, best_d, best_sc = u, d, sc
+                    end
+                end
+            end
+        end
+    end
+    return best, best_d
+end
+
+--- 2.287.0: the nearest mob named by ANOTHER unfinished kill goal of the
+--- current RestedXP step (each by its own targets: line + objectives), or
+--- nil. Replaces the step's generic target lines as the kill fallback: in
+--- Northshire they listed Young Wolf for a Kobold Vermin step and a wolf was
+--- always within reach, so the bot fought wolves instead of the quest.
+function guide.find_other_goal_mob(player, range, goal)
+    local step = guide.step()
+    if not step or type(step.goals) ~= "table" then return nil end
+    local best, best_d = nil, nil
+    for i = 1, #step.goals do
+        local g = shape_goal(step.goals[i], i)
+        -- .target / .unitscan lines only set RestedXP's target macro: not a
+        -- kill directive (.mob / .rare and quest objectives are)
+        local act = string.lower(tostring(g and g.action or ""))
+        if g and g.is_complete ~= true and (not goal or g.index ~= goal.index)
+            and act ~= "target" and act ~= "unitscan"
+            and guide.classify(g) == "kill" then
+            local u, d = guide.find_mob(player, range, g, true)
+            if u and (best_d == nil or (d or 1e9) < best_d) then best, best_d = u, d or 1e9 end
+        end
+    end
+    return best, best_d
+end
+
+--- The nearest level-appropriate hostile near a point, or nil.
+---
+--- The closest fightable unit with this npc id, within `range` (2.139.0).
+--- Returns unit, distance, how many of that id are in range.
+-- duplicate (audit D6): NPC by id -> targeting.find_npc is the copy to keep
+function guide.find_npc_mob(player, range, npc_id)
+    if not player or type(npc_id) ~= "number" or npc_id <= 0 then
+        return nil, nil, 0
+    end
+    range = math.min(tonumber(range) or 40, MAX_RANGE)
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil, 0
+    end
+    local best, best_d, n = nil, nil, 0
+    for i = 1, #list do
+        local u = list[i]
+        if indexable(u) and call(u.is_valid, u) == true and call(u.is_unit, u) == true
+            and call(u.get_npc_id, u) == npc_id then
+            local d = call(player.distance_to, player, u)
+            if type(d) == "number" and d <= range and fightable(player, u) then
+                n = n + 1
+                if best_d == nil or d < best_d then
+                    best, best_d = u, d
+                end
+            end
+        end
+    end
+    return best, best_d, n
+end
+
+--- For an item objective whose drop source RestedXP does not name: its
+--- waypoints sit on the camp that drops it, so what stands there is what to
+--- fight. Kept to within LEVEL_GAP levels below the player, so critters and
+--- grey wildlife around the camp are left alone.
+local LEVEL_GAP = 4
+-- A camp is judged from its waypoint, but the mob chosen must also be near the
+-- PLAYER: one at the far edge of a 45-yard camp could be 90 yards off, which
+-- sends the bot on a long pull-in across broken ground for a random mob.
+local CAMP_REACH = 40
+
+-- Never a camp target: nothing about these drops quest items.
+local NOT_CAMP = nil
+local function camp_excluded(u)
+    if NOT_CAMP == nil then
+        NOT_CAMP = {}
+        local ok, enums = pcall(require, "common/enums")
+        local ct = ok and type(enums) == "table" and enums.creature_type or nil
+        if type(ct) == "table" then
+            for _, k in ipairs({ "CRITTER", "NON_COMBAT_PET", "WILD_PET", "TOTEM", "GAS_CLOUD" }) do
+                if type(ct[k]) == "number" then
+                    NOT_CAMP[ct[k]] = true
+                end
+            end
+        end
+    end
+    local t = call(u.get_creature_type, u)
+    return type(t) == "number" and NOT_CAMP[t] == true
+end
+
+function guide.find_camp_mob(player, center, radius)
+    if not player or not center then
+        return nil, nil
+    end
+    radius = math.min(tonumber(radius) or 40, MAX_RANGE)
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+    local my_level = call(player.get_level, player) or 1
+    local best, best_d = nil, nil
+    for i = 1, #list do
+        local u = list[i]
+        if indexable(u) and call(u.is_valid, u) == true then
+            local lvl = call(u.get_level, u) or 0
+            local pos = call(u.get_position, u)
+            if lvl >= my_level - LEVEL_GAP and pos and geometry.distance(center, pos) <= radius then
+                local d = call(player.distance_to, player, u)
+                if type(d) == "number" and d <= CAMP_REACH and (best_d == nil or d < best_d)
+                    and not camp_excluded(u) and fightable(player, u) then
+                    best, best_d = u, d
+                end
+            end
+        end
+    end
+    return best, best_d
+end
+
+-- ============================================================================
+-- DROP SOURCES FROM THE ITEM NAME (2.24.0)
+-- ============================================================================
+-- RestedXP names the ITEM a collect objective wants - "Tough Wolf Meat" - but
+-- not the creature that drops it, and no unit is called "Tough Wolf Meat". The
+-- bot used to fall straight back to fighting whatever stood at the waypoint:
+-- troggs, boars and rabbits for wolf meat, and the quest never moved.
+--
+-- Item names almost always carry the dropper's name: Tough WOLF Meat, BOAR
+-- Meat, KOBOLD Candle, WENDIGO Mane, Crag BOAR Rib. So the words of the item
+-- name, minus the generic ones, are matched against the words of each unit's
+-- name. Plurals are folded to one form on both sides (wolves -> wolf).
+local GENERIC = {}
+for w in ([[
+    a an the of and or in on with for from to
+    tough small large big young old fresh rotten raw cured fine coarse thick
+    thin heavy light broken torn ragged pristine intact whole
+    meat flesh flank rib ribs shank chop steak leg legs haunch loin
+    hide hides pelt pelts skin skins leather fur scale scales feather feathers
+    fang fangs tooth teeth claw claws talon talons tusk tusks horn horns hoof
+    hooves paw paws tail tails ear ears eye eyes heart hearts head heads skull
+    skulls bone bones blood venom sac sacs gland glands wing wings mane manes
+    spine spines stinger stingers carapace shell shells egg eggs gizzard
+    tongue brain liver kidney essence dust powder sample samples shard shards
+    fragment fragments piece pieces chunk chunks scrap scraps bundle bundles
+    sack sacks bag bags crate crates box boxes pouch pouches satchel bottle
+    note letter orders package parcel token tokens badge insignia ring charm
+    slain killed defeated destroyed collected gathered
+]]):gmatch("%a+") do
+    GENERIC[w] = true
+end
+
+local function fold(w)
+    w = string.lower(w)
+    if #w > 4 and w:sub(-3) == "ves" then
+        return w:sub(1, -4) .. "f"           -- wolves -> wolf
+    end
+    if #w > 4 and w:sub(-3) == "ies" then
+        return w:sub(1, -4) .. "y"
+    end
+    if #w > 3 and w:sub(-1) == "s" and w:sub(-2) ~= "ss" then
+        return w:sub(1, -2)                  -- troggs -> trogg
+    end
+    return w
+end
+
+--- The meaningful words of the goal's objective names, as a set, or nil.
+local function source_words(goal)
+    local names = guide.objective_names(goal and goal.quest_id)
+    local text = goal and strip_progress(goal.text)
+    local set, any = {}, false
+    local function take(s)
+        if type(s) ~= "string" then
+            return
+        end
+        for w in s:gmatch("%a+") do
+            local f = fold(w)
+            if #f >= 3 and not GENERIC[f] and not GENERIC[string.lower(w)] then
+                set[f] = true
+                any = true
+            end
+        end
+    end
+    for i = 1, #names do
+        take(names[i])
+    end
+    take(text)
+    return any and set or nil
+end
+
+--- Does the goal's item name give any clue to its drop source?
+function guide.has_source_words(goal)
+    return memo("srcw:" .. tostring(goal and goal.index or 0), function()
+        return source_words(goal) and true or false
+    end) == true
+end
+
+--- The nearest fightable unit whose name shares a meaningful word with the
+--- item the goal collects, or nil.
+function guide.find_source_mob(player, range, goal)
+    if not player then
+        return nil, nil
+    end
+    local words = memo("srcset:" .. tostring(goal and goal.index or 0), function()
+        return source_words(goal)
+    end)
+    if not words then
+        return nil, nil
+    end
+    range = math.min(tonumber(range) or 50, MAX_RANGE)
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+    local best, best_d = nil, nil
+    for i = 1, #list do
+        local u = list[i]
+        if indexable(u) and call(u.is_valid, u) == true then
+            local name = call(u.get_name, u)
+            if type(name) == "string" then
+                local hit = false
+                for w in name:gmatch("%a+") do
+                    if words[fold(w)] then
+                        hit = true
+                        break
+                    end
+                end
+                if hit then
+                    local d = call(player.distance_to, player, u)
+                    if type(d) == "number" and d <= range and (best_d == nil or d < best_d)
+                        and not camp_excluded(u) and fightable(player, u) then
+                        best, best_d = u, d
+                    end
+                end
+            end
+        end
+    end
+    return best, best_d
+end
+
+--- The nearest unit RestedXP has marked with a raid-target icon (2.53.0).
+---
+--- The guide puts raid markers (star ... skull, get_target_marker_index 1-8)
+--- on the NPC a step wants spoken to and the mobs it wants killed. `want` is
+--- "friendly" (an NPC to talk to - not attackable) or "hostile" (a mob to
+--- fight - fightable). `exclude` is a GUID set to skip.
+function guide.find_marked(player, range, want, exclude)
+    if not player then
+        return nil, nil
+    end
+    range = math.min(tonumber(range) or 60, MAX_RANGE)
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+    local best, best_d = nil, nil
+    for i = 1, #list do
+        local u = list[i]
+        if indexable(u) and call(u.is_valid, u) == true and call(u.is_unit, u) == true then
+            local mark = call(u.get_target_marker_index, u)
+            if type(mark) == "number" and mark >= 1 and mark <= 8
+                and call(u.is_player, u) ~= true
+                and call(u.is_dead_or_ghost, u) ~= true
+                and not (exclude and exclude[call(u.get_guid, u) or ""]) then
+                local ok
+                if want == "hostile" then
+                    ok = fightable(player, u)
+                else
+                    ok = call(player.can_attack, player, u) == false
+                end
+                if ok then
+                    local d = call(player.distance_to, player, u)
+                    if type(d) == "number" and d <= range and (best_d == nil or d < best_d) then
+                        best, best_d = u, d
+                    end
+                end
+            end
+        end
+    end
+    return best, best_d
+end
+
+--- The best hostile mob to clear on the way to `dest`, or nil (2.51.0).
+---
+--- Hostile (is_enemy_with the player, or already in combat), fightable -
+--- alive, attackable, not a player, not tapped by someone else - not a
+--- critter / pet / totem, within `range` of the player, within `cone`
+--- degrees of the direction of travel (so the bot does not turn back for
+--- mobs behind it), and between `below` levels under and `above` levels over
+--- the player (no greys, no dangerous elites). Nearest wins.
+function guide.find_path_mob(player, dest, range, cone, below, above)
+    if not player or not dest then
+        return nil, nil
+    end
+    local me = call(player.get_position, player)
+    if not me then
+        return nil, nil
+    end
+    local hx, hy = dest.x - me.x, dest.y - me.y
+    local hlen = math.sqrt(hx * hx + hy * hy)
+    if hlen < 1 then
+        return nil, nil
+    end
+    hx, hy = hx / hlen, hy / hlen
+    local cos_cone = math.cos(math.rad(cone or 70))
+    local my_level = call(player.get_level, player) or 1
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+    local best, best_d = nil, nil
+    local count = 0              -- 2.119.0: hostiles in range
+    for i = 1, #list do
+        local u = list[i]
+        if indexable(u) and call(u.is_valid, u) == true then
+            local d = call(player.distance_to, player, u)
+            local hostile = type(d) == "number" and d <= (range or 20)
+                and (call(u.is_enemy_with, u, player) == true or call(u.is_in_combat, u) == true)
+            local lvl = hostile and (call(u.get_level, u) or 0) or 0
+            -- 2.268.0: a path pull is never an elite (targeting.too_strong)
+            local tg = hostile and targeting_mod or nil
+            local strong = tg and type(tg.too_strong) == "function" and tg.too_strong(player, u)
+            if hostile and not strong and lvl >= my_level - (below or 4) and lvl <= my_level + (above or 3)
+                and not camp_excluded(u) and fightable(player, u) then
+                local pos = call(u.get_position, u)
+                if pos then
+                    local ux, uy = pos.x - me.x, pos.y - me.y
+                    local ul = math.sqrt(ux * ux + uy * uy)
+                    -- Right beside the player counts whatever the angle.
+                    if ul < 5 or (ux * hx + uy * hy) / ul >= cos_cone then
+                        count = count + 1
+                        if best_d == nil or d < best_d then
+                            best, best_d = u, d
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return best, best_d, count
+end
+
+--- The npc id of whatever is currently targeted, or nil.
+---
+--- get_target is a UNIT method, not an object_manager one. An id of 0 means
+--- "not a creature" - a player, a pet, an object - and is rejected.
+---
+--- Returns id, unit.
+function guide.target_npc_id(player)
+    if not player then
+        return nil, nil
+    end
+    local target = safe(function() return player:get_target() end)
+    if not target then
+        return nil, nil
+    end
+    if safe(function() return target:is_valid() end) ~= true then
+        return nil, nil
+    end
+    local id = geometry.object_id(target)
+    if not id then
+        return nil, target
+    end
+    return id, target
+end
+
+-- ============================================================================
+-- LEARNING NPC IDS
+-- ============================================================================
+-- RestedXP never names the NPC behind an accept or turnin, so one can only be
+-- read off a unit. Two pairings are kept:
+--
+--   quest title -> npc id   learned whenever a gossip frame is open with the
+--                           NPC targeted: that NPC gives what the frame lists.
+--   accept/turnin + quest id -> npc id
+--                           learned when a dialog the bot opened with a unit
+--                           actually accepted or handed in that quest.
+--
+-- Either lets the next visit go straight to a verified unit instead of
+-- guessing by proximity. Persisted per character through settings.lua.
+--
+-- Staleness is handled rather than feared: an id that no longer matches
+-- anything simply finds no unit, and the proximity path takes over.
+local learned = {}           -- quest title -> npc id
+local by_quest = {}          -- "a<quest id>" / "t<quest id>" -> npc id
+
+local function mark_dirty()
+    local ok, settings = pcall(require, "settings")
+    if ok and settings and type(settings.mark_dirty) == "function" then
+        settings.mark_dirty()
+    end
+end
+
+-- RIGHT NPC ONLY (2.185.0). This saved every title in an open gossip frame
+-- against the player's TARGET - and the target is not always the NPC whose
+-- frame is open: a vendor trip targets the merchant, so "Investigate Echo
+-- Ridge" was learned for Dermot Johns (a vendor), and every later turn-in
+-- went to him ("via learned id 190"), stalled three times and skipped the
+-- goal. A title is learned now only for a target standing at talking range
+-- that the game flags as a quest giver (npc flag 0x2; not checked where the
+-- client reports no flags).
+local LEARN_RANGE = 6.0
+local QUESTGIVER_FLAG = 0x2
+
+--- Does this unit give quests? true / false, or nil when flags are unreadable.
+function guide.gives_quests(u)
+    local f = safe(function() return u:get_npc_flags() end)
+    if type(f) ~= "number" then return nil end
+    return math.floor(f / QUESTGIVER_FLAG) % 2 == 1
+end
+
+--- Record the targeted npc as the giver of whatever the gossip frame lists.
+function guide.learn_npc_id(player)
+    if safe(function() return core.quests.is_gossip_frame_shown() end) ~= true then
+        return nil
+    end
+    local id, target = guide.target_npc_id(player)
+    if not id or not target then
+        return nil
+    end
+    local d = safe(function() return player:distance_to(target) end)
+    if type(d) ~= "number" or d > LEARN_RANGE then
+        return nil
+    end
+    if guide.gives_quests(target) == false then
+        return nil
+    end
+
+    local changed = false
+    local function record(list)
+        if type(list) ~= "table" then
+            return
+        end
+        for i = 1, #list do
+            local q = list[i]
+            if type(q) == "table" and type(q.title) == "string" and q.title ~= "" then
+                if learned[q.title] ~= id then
+                    learned[q.title] = id
+                    changed = true
+                end
+            end
+        end
+    end
+    record(safe(function() return core.quests.get_gossip_active_quests() end))
+    record(safe(function() return core.quests.get_gossip_available_quests() end))
+
+    -- Only ask for a write when something actually changed: this runs on
+    -- every tick that has a gossip frame open.
+    if changed then
+        mark_dirty()
+    end
+    return id
+end
+
+local function quest_key(kind, quest_id)
+    quest_id = tonumber(quest_id)
+    if not quest_id then
+        return nil
+    end
+    if kind == "accept" then
+        return "a" .. quest_id
+    end
+    if kind == "turnin" then
+        return "t" .. quest_id
+    end
+    return nil
+end
+
+--- Remember which NPC took an accept or a turnin for a quest.
+function guide.learn_quest_npc(kind, quest_id, npc_id)
+    local key = quest_key(kind, quest_id)
+    npc_id = tonumber(npc_id)
+    if not key or not npc_id or npc_id <= 0 then
+        return
+    end
+    if by_quest[key] ~= npc_id then
+        by_quest[key] = npc_id
+        mark_dirty()
+    end
+end
+
+--- Forget a learned NPC for a quest (2.185.0): it refused the quest, stalled
+--- the goal, or is not a quest giver. Clears the quest-keyed pairing and any
+--- title pairing that points at that NPC for this quest.
+function guide.forget_quest_npc(kind, quest_id, npc_id, text)
+    local changed = false
+    local key = quest_key(kind, quest_id)
+    if key and by_quest[key] and (npc_id == nil or by_quest[key] == npc_id) then
+        by_quest[key] = nil
+        changed = true
+    end
+    local title = guide.log_title(quest_id)
+    for t, id in pairs(learned) do
+        if (npc_id == nil or id == npc_id)
+            and (t == title or (type(text) == "string" and string.find(text, t, 1, true))) then
+            learned[t] = nil
+            changed = true
+        end
+    end
+    if changed then mark_dirty() end
+    return changed
+end
+
+--- The NPC learned for an accept or turnin of a quest, or nil.
+---
+--- The quest-keyed pairing is tried first. A title learned from a gossip
+--- frame is the fallback, matched against the quest's log title and the
+--- goal's text.
+function guide.known_quest_npc(kind, quest_id, text)
+    local key = quest_key(kind, quest_id)
+    if key and by_quest[key] then
+        return by_quest[key]
+    end
+    local title = guide.log_title(quest_id)
+    if title and learned[title] then
+        return learned[title]
+    end
+    if type(text) == "string" and text ~= "" then
+        for t, id in pairs(learned) do
+            if string.find(text, t, 1, true) then
+                return id
+            end
+        end
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- PERSISTENCE
+-- ----------------------------------------------------------------------------
+-- settings.lua stores one line per provider as key=value and escapes the
+-- value, so anything may be put in it. The inner format is one entry per line:
+--
+--     <npc id>=<quest title>       from a gossip frame
+--     a<quest id>=<npc id>         the NPC that took an accept
+--     t<quest id>=<npc id>         the NPC that took a turnin
+--
+-- A title line leads with its numeric id, so the first "=" is always the
+-- separator and a title containing one cannot break the parse. The quest
+-- lines lead with a letter, which an older build's parser skips.
+local ENTRY_SEP = "\n"
+
+--- Everything learned, for settings.lua to write out.
+function guide.serialise()
+    local lines = {}
+    for title, id in pairs(learned) do
+        if type(title) == "string" and title ~= "" and type(id) == "number" then
+            lines[#lines + 1] = string.format("%d=%s", id, title)
+        end
+    end
+    for key, id in pairs(by_quest) do
+        if type(key) == "string" and type(id) == "number" then
+            lines[#lines + 1] = string.format("%s=%d", key, id)
+        end
+    end
+    -- Sorted so the file does not churn between sessions that learned the
+    -- same things in a different order.
+    table.sort(lines)
+    return table.concat(lines, ENTRY_SEP)
+end
+
+--- Load what a previous session learned.
+function guide.deserialise(text)
+    learned = {}
+    by_quest = {}
+    if type(text) ~= "string" or text == "" then
+        return
+    end
+    for line in text:gmatch("[^\n]+") do
+        local qkey, qnpc = line:match("^([at]%d+)=(%d+)$")
+        if qkey then
+            local n = tonumber(qnpc)
+            if n and n > 0 then
+                by_quest[qkey] = n
+            end
+        else
+            local id, title = line:match("^(%d+)=(.+)$")
+            id = tonumber(id)
+            if id and id > 0 and type(title) == "string" and title ~= "" then
+                learned[title] = id
+            end
+        end
+    end
+end
+
+--- Forget everything. Used by the tests and on a settings reset.
+function guide.forget_npc_ids()
+    learned = {}
+    by_quest = {}
+end
+
+--- The npc id learned for a quest title, or nil.
+function guide.known_npc_id(title)
+    if type(title) ~= "string" or title == "" then
+        return nil
+    end
+    return learned[title]
+end
+
+local CENTER_DZ = 30
+
+--- The nearest NPC that can be spoken to.
+---
+--- Once the bot is standing where the guide sent it, the nearest unit it
+--- cannot attack is a quest giver, a vendor or a guard rather than a mob.
+--- Deliberately short ranged: it is a guess, and a guess is only reasonable
+--- once standing where the guide pointed.
+-- QUEST GIVERS ONLY (2.165.0). An accept / turn-in that the first NPC
+-- refused went on to "the nearest friendly unit at the waypoint" - in the
+-- 12:40 log Marryk Nurribit, Wren Darkspring and a player's Imp Minion. With
+-- `quest_only` a unit must carry the quest-giver npc flag (0x2); a client
+-- that reports no flags at all (nil) is not filtered.
+local NPC_QUESTGIVER = 0x2
+
+local function gives_quests(u)
+    local f = call(u.get_npc_flags, u)
+    if type(f) ~= "number" then return true end
+    return math.floor(f / NPC_QUESTGIVER) % 2 == 1
+end
+
+function guide.nearest_talkable(player, range, center, exclude, quest_only)
+    if not player then
+        return nil, nil
+    end
+    range = math.min(tonumber(range) or 8, MAX_RANGE)
+
+    local list = visible_objects()
+    if type(list) ~= "table" then
+        return nil, nil
+    end
+
+    local best, best_d = nil, nil
+    for i = 1, #list do
+        local u = list[i]
+        if indexable(u) and call(u.is_valid, u) == true
+            and call(u.is_unit, u) == true
+            and call(u.is_dead_or_ghost, u) ~= true
+            and call(u.is_player, u) ~= true then
+            if call(player.can_attack, player, u) == false
+                and not (exclude and exclude[call(u.get_guid, u) or ""])
+                and (not quest_only or gives_quests(u)) then
+                local d
+                if center then
+                    -- Flat (2.134.0): a waypoint's height is the terrain
+                    -- under it, which indoors is the ground outside, not the
+                    -- floor the NPC stands on. CENTER_DZ keeps a unit on a
+                    -- floor far above or below out.
+                    local pos = call(u.get_position, u)
+                    d = pos and geometry.distance_flat(center, pos) or nil
+                    if d and type(center.z) == "number" and type(pos.z) == "number"
+                        and math.abs(center.z - pos.z) > CENTER_DZ then
+                        d = nil
+                    end
+                else
+                    d = call(player.distance_to, player, u)
+                end
+                if type(d) == "number" and d <= range and (best_d == nil or d < best_d) then
+                    best, best_d = u, d
+                end
+            end
+        end
+    end
+    return best, best_d
+end
+
+-- ============================================================================
+-- FINDING THINGS IN THE BAGS
+-- ============================================================================
+
+--- The bag entry for an item this goal wants, or nil.
+---
+--- Returns the entry as core.inventory.get_items_in_bag gives it - the object
+--- and its slot - because core.input.use_item wants the object, not an id.
+-- 1.29.2 (user: "interact with items in bags at Zygor set locations"): Zygor's
+-- API sends a use goal with no item id and no target (log 20:45, step 43 "use
+-- Ironvine Seeds##24355 / Disable the Umbrafen Lake Pump Controls |q 9720/1").
+-- data/zygor_use_items.lua (tools/import_zygor_use_items.py) holds every use
+-- line of the TBC guides with its step's quest ids: the step's quests name it.
+-- 1.29.3: the rows live in questitems.lua (QI.rows)
+local function use_table()
+    local ok, qi = pcall(require, "questitems")
+    if ok and type(qi) == "table" and type(qi.rows) == "function" then return qi.rows() end
+    return {}
+end
+
+--- 1.29.3: the quest ids of the current step's goals (plus `goal`'s own) - a set.
+function guide.step_quests(goal)
+    local quests = {}
+    local gl = guide.goals()
+    for i = 1, #gl do
+        local q = tonumber(gl[i].quest_id)
+        if q and q > 0 then quests[q] = true end
+    end
+    local gq = type(goal) == "table" and tonumber(goal.quest_id) or nil
+    if gq and gq > 0 then quests[gq] = true end
+    return quests
+end
+
+--- 1.35.0: the item ids the current step names - its get / collect goals' targets
+--- and its item goals' ids - the goals before `goal` first, nearest first.
+function guide.step_item_ids(goal)
+    local gl = guide.goals()
+    local at = type(goal) == "table" and tonumber(goal.index) or 0
+    local before, after, seen = {}, {}, {}
+    for i = 1, #gl do
+        local g = gl[i]
+        local id = tonumber(g.item_id)
+        if not id and (g.action == "get" or g.action == "collect" or g.action == "goldcollect") then
+            id = tonumber(g.target_id)
+        end
+        if id and id > 0 and not seen[id] and (tonumber(g.index) or i) ~= at then
+            seen[id] = true
+            if (tonumber(g.index) or i) < at then table.insert(before, 1, id) else after[#after + 1] = id end
+        end
+    end
+    for i = 1, #after do before[#before + 1] = after[i] end
+    return before
+end
+
+--- 1.35.0: the quests the current step accepts that are not in the log yet - a set.
+function guide.step_open_accepts()
+    local out = {}
+    local gl = guide.goals()
+    for i = 1, #gl do
+        local g = gl[i]
+        local q = tonumber(g.quest_id)
+        if g.action == "accept" and q and q > 0 and g.is_complete ~= true
+            and safe(function() return core.quests.is_on_quest(q) end) ~= true then
+            out[q] = true
+        end
+    end
+    return out
+end
+
+--- The item ids Zygor's guide uses on this goal's step (the step's quest ids),
+--- the one in this use goal's place first. {} when none.
+function guide.use_item_ids(goal)
+    local out = {}
+    if type(goal) ~= "table" then return out end
+    local quests, n_use, any = {}, 0, false
+    local gl = guide.goals()
+    for i = 1, #gl do
+        local g = gl[i]
+        local q = tonumber(g.quest_id)
+        if q and q > 0 then quests[q], any = true, true end
+        if (g.action == "use" or g.action == "useany") and (tonumber(g.index) or 0) <= (tonumber(goal.index) or 0) then
+            n_use = n_use + 1
+        end
+    end
+    local gq = tonumber(goal.quest_id)
+    if gq and gq > 0 then quests[gq], any = true, true end
+    if not any then return out end
+    local rest, seen = {}, {}
+    local rows = use_table()
+    for i = 1, #rows do
+        local r = rows[i]
+        if not seen[r.item] then
+            for q in pairs(r.quests) do
+                if quests[q] then
+                    seen[r.item] = true
+                    if r.n == n_use then out[#out + 1] = r.item else rest[#rest + 1] = r.item end
+                    break
+                end
+            end
+        end
+    end
+    for i = 1, #rest do out[#out + 1] = rest[i] end
+    return out
+end
+
+local function bag_entry_of(item_id)
+    for bag = 0, 4 do
+        local items = safe(function() return core.inventory.get_items_in_bag(bag) end)
+        if type(items) == "table" then
+            for i = 1, #items do
+                local entry = items[i]
+                if type(entry) == "table" and entry.object
+                    and safe(function() return entry.object:get_item_id() end) == item_id then
+                    entry.item_id = item_id
+                    return entry
+                end
+            end
+        end
+    end
+    return nil
+end
+
+function guide.find_bag_item(goal)
+    -- ZYGOR: a use goal's target_id is the ITEM id (shape_goal: item_id).
+    -- Bags are matched by that id first (get_item_id on a bag item), the
+    -- target name second (core.quests.get_item_info(id).name).
+    local want_id = type(goal) == "table" and tonumber(goal.item_id) or nil
+    local _, names = guide.targets(goal, true)
+    if not want_id and (names == nil or next(names) == nil) then
+        -- A single quest starter in this step, with one open accept, is supported.
+        -- General usable items without an association are never inferred from bags.
+        if type(goal) == "table" and (goal.action == "use" or goal.action == "useany") and not goal.sticky then
+            local accepts, naccept = guide.step_open_accepts(), 0
+            for _ in pairs(accepts) do naccept = naccept + 1 end
+            if naccept == 1 then
+                local ok, bs = pcall(require, "quest/bagstart")
+                local candidate, ambiguous = nil, false
+                for _, id in ipairs(guide.step_item_ids(goal)) do
+                    local f = ok and bs.facts(id) or {}
+                    if f.quest and not f.spell and bs.has(id) then
+                        if candidate and candidate ~= id then ambiguous = true end
+                        candidate = id
+                    end
+                end
+                if candidate and not ambiguous then return bag_entry_of(candidate) end
+            end
+        end
+        -- Only an explicit, unique quest association may supply a missing item.
+        local qu = guide.quest_use_item(goal)
+        if qu then return qu end
+        -- 1.2.27 (log 03:35-08:40, step 12 "use" with no item id, 5 h paused with
+        -- "Well Water Sample Kit" in the bags): a use goal with no item id and
+        -- exactly ONE usable quest item in the bags uses that item. Two or more
+        -- stay ambiguous and are never guessed.
+        if type(goal) == "table" and (goal.action == "use" or goal.action == "useany") and not goal.sticky then
+            local okq, qi = pcall(require, "questitems")
+            local list = okq and type(qi) == "table" and type(qi.list) == "function" and qi.list() or {}
+            local only, n = nil, 0
+            for _, e in ipairs(list) do
+                if not e.buff_only then n = n + 1 only = e end
+            end
+            -- never when the bundled data already names an item for this step's
+            -- quests (that item is missing: using another one would be wrong)
+            local known = false
+            local sq = guide.step_quests(goal)
+            if okq and type(sq) == "table" and type(qi.rows) == "function" then
+                for _, row in ipairs(qi.rows() or {}) do
+                    for q in pairs(row.quests or {}) do
+                        if sq[q] then known = true end
+                    end
+                end
+            end
+            if n == 1 and only and not known then return bag_entry_of(only.item_id) end
+        end
+        return nil
+    end
+    for bag = 0, 4 do
+        local items = safe(function() return core.inventory.get_items_in_bag(bag) end)
+        if type(items) == "table" then
+            for i = 1, #items do
+                local entry = items[i]
+                if type(entry) == "table" and entry.object then
+                    local iid = safe(function() return entry.object:get_item_id() end)
+                    if type(iid) == "number" and want_id and iid == want_id then
+                        entry.item_id = iid
+                        return entry
+                    end
+                    if not want_id and type(iid) == "number" and names and next(names) ~= nil then
+                        local info = safe(function() return core.quests.get_item_info(iid) end)
+                        local iname = (type(info) == "table" and type(info.name) == "string")
+                            and info.name or nil
+                        if name_wanted(iname, names) then
+                            entry.item_id = iid
+                            return entry
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return nil
+end
+
+--- Missing item IDs require a unique verified quest association. No bag cycling.
+function guide.quest_use_item(goal, only)
+    if type(goal) ~= "table" or only then return nil end
+    local ok, qi = pcall(require, "questitems")
+    if not ok or type(qi.for_quests) ~= "function" then return nil end
+    local list = qi.for_quests(guide.step_quests(goal), false) or {}
+    local chosen = nil
+    for _, e in ipairs(list) do
+        if e.item_id and e.item_id ~= guide.use_ingredient(goal) then
+            if chosen and chosen.item_id ~= e.item_id then return nil end
+            chosen = e
+        end
+    end
+    return chosen
+end
+
+--- Use a bag item by id - the documented calls only:
+---   core.input.use_item(item_id)                  no target
+---   core.input.use_item_target(item_id, target)   on a unit / object
+--- Returns true when a use was issued.
+function guide.use_bag_item(entry, target)
+    if type(entry) ~= "table" then
+        return false
+    end
+    local iid = tonumber(entry.item_id)
+    if not iid and entry.object then
+        iid = safe(function() return entry.object:get_item_id() end)
+    end
+    if type(iid) ~= "number" then
+        return false
+    end
+    if target then
+        local ok, res = pcall(function() return core.input.use_item_target(iid, target) end)
+        return ok and res ~= false
+    end
+    local ok, res = pcall(function() return core.input.use_item(iid) end)
+    return ok and res ~= false
+end
+-- ============================================================================
+-- WAYPOINTS
+-- ============================================================================
+-- Zygor waypoints are map coordinates: x, y in 0-1 on map_id.
+-- core.game_ui.get_world_pos_from_map_pos(map_id, vec2) -> vec2, continent
+-- converts them without touching terrain (no ray). The second return is the
+-- continent (instance map id, 0 when unknown): a point on another continent
+-- than the player's is refused - Zygor has no wrong_continent field.
+-- The height is measured in to_world: within 150 yd of the player it IS
+-- coords_helper:map_to_world (1.7.13, pcall'd; it casts from the player's own
+-- floor - the old Grindbot crash came from casts far from the player), else
+-- core.get_height_for_position; then the mesh floor (get_all_heights).
+local WORLD_LIMIT = 20000
+local CONV_MAX = 400
+
+local vec2_mod = nil
+local conv = {}
+local conv_n = 0
+local conv_retry = {}
+local CONV_RETRY = 5.0
+local wrong_continent_seen = false
+
+local function vec2_new(x, y)
+    if vec2_mod == nil then
+        local ok, mod = pcall(require, "common/geometry/vector_2")
+        vec2_mod = (ok and type(mod) == "table") and mod or false
+    end
+    if vec2_mod and type(vec2_mod.new) == "function" then
+        local ok, v = pcall(vec2_mod.new, x, y)
+        if ok and v ~= nil then
+            return v
+        end
+    end
+    return nil
+end
+
+local function elog()
+    local ok, mod = pcall(require, "errorlog")
+    if ok and type(mod) == "table" then
+        return mod
+    end
+    return nil
+end
+
+local function finite(n)
+    return type(n) == "number" and n == n and n > -WORLD_LIMIT and n < WORLD_LIMIT
+end
+
+local function convert(map_id, x, y)
+    local mp = vec2_new(x, y)
+    if not mp then
+        return nil
+    end
+    local gui = safe(function() return core.game_ui end)
+    if gui and type(gui.get_world_pos_from_map_pos) == "function" then
+        local ok, w, cont = pcall(gui.get_world_pos_from_map_pos, map_id, mp)
+        if ok and w ~= nil then
+            local wx, wy = tonumber(get(w, "x")), tonumber(get(w, "y"))
+            if finite(wx) and finite(wy) and not (wx == 0 and wy == 0) then
+                return { x = wx, y = wy, z = nil, final = false, continent = tonumber(cont) or 0 }
+            end
+        end
+    end
+    return nil
+end
+
+-- 1.4.1 (log 23:20, Isle of Quel'Danas: every waypoint "on another continent"):
+-- the conversion said continent 2858 for map 2432 while core.get_map_id()
+-- answered 2432 (the zone's UI map) and core.get_instance_id() 2537 - three
+-- numbering schemes. The player's continent is now asked the SAME way as the
+-- waypoint's: get_world_pos_from_map_pos on the player's own UI map
+-- (core.game_ui.get_current_map_id). get_map_id / get_instance_id only when
+-- the conversion cannot answer. Cached CONT_TTL s.
+local CONT_TTL = 2.0
+local my_cont = { t = -1e9, id = 0, ui = nil }
+-- 1.7.7 (log 2026-10-18 12:00: through the Dark Portal, in Hellfire Peninsula,
+-- the bot still read "player 0" and walked back to the Blasted Lands portal):
+-- core.get_instance_id() is the continent's map id on the open world (nav log
+-- "instance_id 530 ... Outland"). When it names one of these continents and
+-- the UI-map conversion disagrees (a stale or missing UI map after a loading
+-- screen), it wins. A dungeon / another client's numbering (Quel'Danas 2537,
+-- 1.4.1) is not in the list and leaves the conversion alone.
+local WORLD_CONTINENTS = { [0] = true, [1] = true, [530] = true, [571] = true }
+local function instance_continent()
+    local ok, id = pcall(function() return core.get_instance_id() end)
+    if ok and type(id) == "number" and id ~= 0 and WORLD_CONTINENTS[id] then return id end   -- 0 may mean "unknown"
+    return nil
+end
+local function player_ui_map()
+    local gui = safe(function() return core.game_ui end)
+    -- 1.7.26 (game_ui doc): with the world map open get_current_map_id is the
+    -- zone being browsed, not the player's - nil, the last good continent stands
+    if gui and type(gui.is_map_open) == "function" and safe(function() return gui.is_map_open() end) == true then
+        return nil
+    end
+    if gui and type(gui.get_current_map_id) == "function" then
+        local ok, id = pcall(gui.get_current_map_id)
+        if ok and type(id) == "number" and id > 0 then return id end
+    end
+    return nil
+end
+local function my_continent()
+    -- 1.6.0 (audit: after a UI reload the UI map read nil, the fallback stored
+    -- core.get_map_id()'s ZONE map 2432 / 2565 as "the continent" and every
+    -- waypoint (continent 2858) was refused for minutes): the continent is only
+    -- ever a CONVERTED value - the UI map, else core.get_map_id(), is converted;
+    -- when that fails the last good continent stands (0 = unknown, not refused)
+    local now = clock()
+    if now - my_cont.t < CONT_TTL and my_cont.known then return my_cont.id, my_cont.ui end
+    my_cont.t = now
+    local ui = player_ui_map()
+    if not ui then
+        local ok, id = pcall(function() return core.get_map_id() end)
+        if ok and type(id) == "number" and id > 0 then ui = id end
+    end
+    my_cont.ui = ui
+    local inst = instance_continent()                     -- 1.7.7
+    if ui then
+        local e = convert(ui, 0.5, 0.5)
+        if e then                            -- a converted map: its continent is known (0 = Eastern Kingdoms)
+            local c = tonumber(e.continent) or 0
+            if inst ~= nil and WORLD_CONTINENTS[c] and c ~= inst then
+                c = inst                     -- 1.7.7: a stale UI map after a portal
+                my_cont.ui = nil
+            end
+            my_cont.id, my_cont.known = c, true
+            return my_cont.id, my_cont.ui
+        end
+    end
+    if inst ~= nil then                      -- 1.7.7: no usable UI map: the instance's continent
+        my_cont.id, my_cont.known, my_cont.ui = inst, true, nil
+        return my_cont.id, nil
+    end
+    return my_cont.id, ui                    -- the last converted continent (or unknown)
+end
+
+--- 1.4.1: is a converted waypoint (map map_id, continent cont) where the player is?
+local function same_continent(cont, map_id)
+    -- 1.31.2 (log 2026-10-25 23:43, step 64 "talk Elsharin", Stormwind City 36,81 from
+    -- Zangarmarsh): the conversion answers 0 for the Eastern Kingdoms - the same 0 as
+    -- "unknown" - so every EK waypoint was taken as local: a move_to 8425 yd to
+    -- (-9006, 885) on the Outland mesh, HTTP 422 "not on navmesh" for minutes. 0 / nil:
+    -- the UI map's own continent (gamever.continent_of_uimap: 1453 -> 0) decides.
+    if (cont or 0) == 0 then
+        local okg, gv = pcall(require, "gamever")
+        local by_map = okg and type(gv) == "table" and type(gv.continent_of_uimap) == "function"
+            and gv.continent_of_uimap(map_id) or nil
+        if by_map == nil then return true end         -- unknown: not refused
+        cont = by_map
+        local here0 = my_continent()
+        if my_cont.known then return by_map == here0 end
+        return true
+    end
+    local here, ui = my_continent()
+    if not my_cont.known then return true end               -- 1.6.0: ours unknown: not refused
+    if cont == here then return true end
+    if map_id and ui and map_id == ui then return true end   -- the player's own map
+    return false
+end
+guide.same_continent = same_continent
+
+local function usable(wp)
+    if type(wp) ~= "table" then
+        return false
+    end
+    local map_id = tonumber(wp.map_id)
+    return map_id ~= nil and map_id ~= 0
+end
+
+-- 1.7.14 MESH FLOOR PICK (user): every mesh floor under a point. 1.10.0:
+-- Sentinel get_all_heights, asked through movement/nav N.all_heights (the
+-- adapter movement/sentinel.lua; cb(list of heights)). A waypoint within 150 yd asks once (on the update tick,
+-- FLOOR_GAP s apart, cached FLOOR_TTL s, a miss again after FLOOR_BAD_TTL) and
+-- takes the mesh floor CLOSEST to the height already picked (the Coords
+-- Helper's floor of the player) - a stair landing, a bridge or a cave under it
+-- is told apart from the one the player is on. No answer yet: that height stands.
+local FLOOR_TTL, FLOOR_BAD_TTL, FLOOR_GAP, FLOOR_MAX = 60, 10, 1.0, 200   -- 1.19.1: GAP 0.5 -> 1.0 (Sentinel <= 1 request/s)
+-- 1.7.31 (log 2026-10-18 20:38:54: the waypoint (315, 1442) flipped from z 1 to
+-- z -1190 - the only mesh floor answered there, picked as the "closest"): a
+-- floor more than FLOOR_DZ yd from the measured height is not this spot's.
+-- 1.67.0: was 60 (a cave under a hill counted as the same spot). Matches
+-- movement/nav N.FLOOR_LAYER (8). movement/nav's no-path height search tries
+-- the others.
+local FLOOR_DZ = 8
+local floors, floors_n, floor_next = {}, 0, -1e9
+local function floor_value(v)
+    if type(v) == "table" then v = v.z end
+    v = tonumber(v)
+    if v and v == v and v > -WORLD_LIMIT and v < WORLD_LIMIT then return v end
+    return nil
+end
+local function floor_pick(key, x, y, z, max_delta)
+    local t = clock()
+    local e = floors[key]
+    if e and e.values and (t - e.t) < FLOOR_TTL then
+        local best = nil
+        for i = 1, #e.values do
+            local v = floor_value(e.values[i])
+            if v and math.abs(v - z) <= (max_delta or FLOOR_DZ) and (best == nil or math.abs(v - z) < math.abs(best - z)) then best = v end
+        end
+        if best and not e.logged then
+            e.logged = true
+            local log = elog()
+            if log then
+                log.trail("waypoint", "mesh floors %d under (%.1f, %.1f): %.1f picked (closest to %.1f)",
+                    #e.values, x, y, best, z)
+            end
+        end
+        return best, e.values                         -- 1.9.2: the cached floors too (cave_floor)
+    end
+    if e and e.pending and (t - e.t) < 5 then return nil end
+    if e and not e.pending and not e.values and (t - e.t) < FLOOR_BAD_TTL then return nil end
+    if not reads_ok or t < floor_next then return nil end
+    local nav = package.loaded["movement/nav"]
+    if type(nav) ~= "table" or type(nav.all_heights) ~= "function" then return nil end
+    floor_next = t + FLOOR_GAP
+    if floors_n >= FLOOR_MAX then floors, floors_n = {}, 0 end
+    if not e then floors_n = floors_n + 1 end
+    local rec = { t = t, pending = true }
+    floors[key] = rec
+    local okc, sent = pcall(nav.all_heights, { x = x, y = y, z = z }, function(vals)
+        rec.pending, rec.t = false, clock()
+        if type(vals) == "table" and #vals > 0 then rec.values = vals end
+    end)
+    if not (okc and sent == true) then rec.pending = false end
+    return nil
+end
+guide._test_floor_pick = floor_pick
+
+-- 1.9.2 (Forever 1.0.22) THE CAVE FLOOR. Outdoors the probe_up 1000 surface
+-- sample is the first solid from above - over a cave, its roof - and the mesh
+-- floor nearest it is the hill. From floor_pick's CACHED mesh floors
+-- (get_all_heights - not asked more often): when one lies at least CAVE_BELOW
+-- yd under the surface sample and within CAVE_NEAR yd of the player's own z,
+-- the player stands at the mouth - that floor is the waypoint's z (several:
+-- the one nearest the player). The player within CAVE_BELOW yd of the surface
+-- (on the hill, a bridge), a single floor, or a lower floor far from the
+-- player (not a mouth): the floor picked as before. Not indoors, not swimming.
+local CAVE_BELOW, CAVE_NEAR = 8, 6
+local cave_logged = nil
+local function cave_floor(values, z_surface, mz)
+    if type(values) ~= "table" or #values < 2 or not finite(z_surface) or not finite(mz) then return nil end
+    if math.abs(mz - z_surface) <= CAVE_BELOW then return nil end
+    local best = nil
+    for i = 1, #values do
+        local v = floor_value(values[i])
+        if v and v <= z_surface - CAVE_BELOW and math.abs(v - mz) <= CAVE_NEAR
+            and (best == nil or math.abs(v - mz) < math.abs(best - mz)) then
+            best = v
+        end
+    end
+    return best
+end
+guide._cave_floor = cave_floor
+
+local function to_world(wp)
+    if not usable(wp) then
+        return nil
+    end
+    local map_id = tonumber(wp.map_id)
+    local x = tonumber(wp.x)
+    local y = tonumber(wp.y)
+    if not x or not y or x ~= x or y ~= y or x < 0 or x > 1 or y < 0 or y > 1 then
+        return nil
+    end
+    if x == 0 and y == 0 then
+        return nil
+    end
+    local key = string.format("%d|%.4f|%.4f", map_id, x, y)
+    local e = conv[key]
+    if e == false then
+        if clock() < (conv_retry[key] or 0) then return nil end
+        e = nil
+    end
+    if e == nil then
+        if conv_n >= CONV_MAX then
+            conv, conv_n, conv_retry = {}, 0, {}
+        end
+        e = convert(map_id, x, y)
+        conv[key] = e or false
+        conv_retry[key] = not e and (clock() + CONV_RETRY) or nil
+        conv_n = conv_n + 1
+        local log = elog()
+        if log then
+            if e then
+                log.trail("waypoint", "map %d (%.4f, %.4f) -> world (%.1f, %.1f) continent %d",
+                    map_id, x, y, e.x, e.y, e.continent or 0)
+            else
+                log.warn("waypoint map %d (%.4f, %.4f) could not be converted", map_id, x, y)
+            end
+        end
+        if not e then
+            return nil
+        end
+    end
+    if not same_continent(e.continent, map_id) then
+        wrong_continent_seen = true
+        return nil
+    end
+    -- 1.4.0 (user spec): Z is measured - core.get_height_for_position from 1000 yd
+    -- up on open ground; indoors the probe starts just above the player (a high
+    -- ray hits the ceiling). A miss (0) keeps the player's own height.
+    local z = e.z
+    local swim = safe(function() return core.character.is_swimming() end) == true     -- 1.7.2: R9.2
+    -- audit P2: a measured height is kept on the point for 5 s while the
+    -- player stays within 20 yd of where it was measured (e.final is never
+    -- set - not waited on) - no height query, coords_helper or reach_z per tick
+    local me0 = (not swim) and safe(function() return izi.me():get_position() end) or nil
+    local t_now = safe(function() return izi.now() end) or 0
+    if not swim and e.mz and (t_now - (e.mz_t or -1e9)) < 5 and me0 and type(me0.x) == "number"
+        and type(me0.z) == "number" and e.mz_pz and math.abs(me0.z - e.mz_pz) <= 2.5
+        and ((me0.x - e.mz_px) ^ 2 + (me0.y - e.mz_py) ^ 2) <= 20 * 20 then
+        return vec3.new(e.x, e.y, e.mz)
+    end
+    if not e.final and not swim then
+        local me = me0
+        local mz = tonumber(get(me, "z"))
+        local p = safe(function() return izi.me() end)
+        local indoors = p and safe(function() return p:is_indoors() end) == true
+        -- 1.7.13 (user: "apply the height change"): the Coords Helper first -
+        -- coords:map_to_world(ui_map, vec2) casts from the PLAYER's own floor
+        -- (extra_height nil = 4 yd above the player), so a point near the player
+        -- gets this floor's height, not a roof / an arch / a canopy above it. Only
+        -- within COORDS_RANGE yd: farther away (another hill) a ray from the
+        -- player's height can start under the ground there. A miss (0 away from
+        -- 0, R9.1) or no helper: the 1.4.0 probes below.
+        local cz = nil
+        local px, py = tonumber(get(me, "x")), tonumber(get(me, "y"))
+        local near = px and py and ((e.x - px) ^ 2 + (e.y - py) ^ 2) <= 150 * 150
+        if near then
+            local okc, ch = pcall(require, "common/utility/coords_helper")
+            local mp = vec2_new(x, y)
+            if okc and type(ch) == "table" and type(ch.map_to_world) == "function" and mp then
+                local okw, w = pcall(ch.map_to_world, ch, map_id, mp)
+                local wz = okw and type(w) == "table" and tonumber(w.z) or nil
+                if wz and wz == wz and (wz ~= 0 or (mz and math.abs(mz) < 8)) then cz = wz end
+            end
+        end
+        local ok_h, h
+        if cz then
+            ok_h, h = true, cz
+        elseif indoors and mz then
+            ok_h, h = pcall(core.get_height_for_position, vec3.new(e.x, e.y, mz), { probe_up = 4 })
+        else
+            ok_h, h = pcall(core.get_height_for_position, vec3.new(e.x, e.y, 0), { probe_up = 1000 })
+        end
+        -- 1.7.2 (R9.1): a miss returns 0, which is also a real height - 0 counts
+        -- only when the player stands near 0 too
+        if ok_h and type(h) == "number" and (h ~= 0 or (mz and math.abs(mz) < 8)) then z = h elseif mz then z = mz end
+        -- 1.22.0: a Zygor point under Telredor's mushroom cap is the town on top
+        -- (movement/elevator EL.cap_z): looked for at the town's height, so the
+        -- floor pick below takes the cap's floor, not the marsh under it
+        do
+            local EL = package.loaded["movement/elevator"]
+            local capz = type(EL) == "table" and type(EL.cap_z) == "function" and safe(function() return EL.cap_z(e.x, e.y, z) end) or nil
+            if type(capz) == "number" then z = capz end
+        end
+        -- 1.7.14: the mesh floor closest to that height (near the player only)
+        local settled = true
+        if near and z then
+            local z_surface = z
+            local fz, vals = floor_pick(key, e.x, e.y, z, indoors and 2.5 or nil)
+            if fz then
+                z = fz
+                -- 1.67.0: nav reuses this height (no second get_all_heights).
+                local nv = package.loaded["movement/nav"]
+                if type(nv) == "table" and type(nv.remember_floor) == "function" then
+                    pcall(nv.remember_floor, e.x, e.y, fz)
+                end
+            else
+                settled = false
+            end   -- floors still being asked: not cached yet
+            -- 1.9.2: outdoors, the probe_up 1000 sample at a cave mouth - the cave
+            -- floor, not the roof (map_to_world, cast from the player's floor, stays)
+            if not cz and not indoors and ok_h and h == z_surface then
+                local cfz = cave_floor(vals, z_surface, mz)
+                if cfz and math.abs(cfz - z) > 0.5 then
+                    if cave_logged ~= key then
+                        cave_logged = key
+                        local log = elog()
+                        if log then
+                            log.trail("waypoint", "(%.0f, %.0f): surface z %.1f is a roof %.0f yd above the player - "
+                                .. "the cave floor z %.1f", e.x, e.y, z_surface, z_surface - mz, cfz)
+                        end
+                    end
+                    z = cfz
+                end
+            end
+        end
+        -- 1.7.31: a height movement/nav found a path at, after no path at this one
+        local nav = package.loaded["movement/nav"]
+        if not indoors and type(nav) == "table" and type(nav.reach_z) == "function" then
+            local zf = safe(function() return nav.reach_z({ x = e.x, y = e.y, z = z or 0 }) end)
+            if type(zf) == "number" then z = zf end
+        end
+        if settled and z and me and type(me.x) == "number" then    -- audit P2: kept for 5 s
+            e.mz, e.mz_t, e.mz_px, e.mz_py, e.mz_pz = z, t_now, me.x, me.y, me.z
+        end
+    end
+    return vec3.new(e.x, e.y, z or 0)
+end
+guide.to_world = to_world
+
+local function raw_waypoint()
+    refresh()
+    return snap.wp
+end
+
+local function raw_step_waypoints()
+    refresh()
+    return snap.step_wps
+end
+
+--- Where Zygor's arrow points now, in world coordinates: pos, dist, title.
+function guide.waypoint()
+    local wp = raw_waypoint()
+    local pos = to_world(wp)
+    if not pos then
+        return nil
+    end
+    return pos, tonumber(wp.dist), (type(wp.title) == "string" and wp.title ~= "") and wp.title or nil
+end
+
+--- The arrow's waypoint type (way / path / farm / route), or nil.
+function guide.waypoint_type()
+    local wp = raw_waypoint()
+    return type(wp) == "table" and wp.type or nil
+end
+
+local compute_goal_waypoints
+
+--- The waypoints of one goal as { pos, title, map_id, mx, my }: the step
+--- waypoints whose goal_num is this goal's index (type way / path / farm);
+--- the current arrow only when the goal has none.
+function guide.goal_waypoints(goal)
+    local key = "wps:" .. tostring(type(goal) == "table" and goal.index or 0)
+    local wps = memo(key, function() return compute_goal_waypoints(goal) end)
+    -- audit P3: no second compute in the same call when there are none
+    return type(wps) == "table" and wps or {}
+end
+
+--- 1.7.20: does the step (or Zygor's arrow) have ANY waypoint, usable here or
+--- not (another continent)? A use goal is only used on the spot when it has none.
+function guide.step_has_waypoint()
+    local list = raw_step_waypoints()
+    if type(list) == "table" and #list > 0 then return true end
+    return type(raw_waypoint()) == "table"
+end
+
+-- Goals a bare kill line may be scanned THROUGH on its way to the collection block that owns the camp
+-- (action log 2026-11-15, step 137: kill Frostmane Seers / click Shimmerweed Baskets / goto / goto /
+-- get Shimmerweed - the click line stopped the scan, the kill had no waypoint and the bot stood at the
+-- previous NPC for 2 minutes). Anything that starts other work (accept, turnin, talk, use ...) still stops it.
+local BORROW_PASS = { [""] = true, kill = true, text = true, click = true, clicknpc = true, goto = true, at = true,
+    mapmarker = true, avoid = true, info = true, confirm = true }
+
+-- 1.2.38: forward borrow tables (see compute_goal_waypoints); one local, the file is near the 60-local limit
+local FWD = {
+    origin = { talk = true, gossip = true, accept = true, turnin = true, click = true, clicknpc = true,
+        vendor = true, trainer = true, stablemaster = true, home = true, buy = true, bank = true },
+    source = { q = true, collect = true, get = true, accept = true, turnin = true, fpath = true, ferry = true,
+        home = true, buy = true, bank = true, ["goto"] = true, at = true, [""] = true },
+    new_npc = { talk = true, gossip = true, clicknpc = true, vendor = true, trainer = true, stablemaster = true },
+    pass = { text = true, info = true, mapmarker = true, avoid = true, confirm = true },
+}
+
+compute_goal_waypoints = function(goal)
+    local out = {}
+    local index = type(goal) == "table" and goal.index or nil
+    -- Stickies are not in get_step_waypoints; the live arrow below is used
+    -- when this sticky is the work Zygor currently has the bot doing.
+    if not (type(goal) == "table" and goal.sticky) then
+    if index then
+        local list = raw_step_waypoints()
+        for i = 1, #list do
+            local wp = list[i]
+            if type(wp) == "table" and tonumber(wp.goal_num) == index then
+                local pos = to_world(wp)
+                if pos then
+                    out[#out + 1] = {
+                        pos = pos,
+                        title = (type(wp.title) == "string" and wp.title ~= "") and wp.title or nil,
+                        map_id = tonumber(wp.map_id), mx = tonumber(wp.x), my = tonumber(wp.y),
+                        wtype = wp.type, own = true,
+                    }
+                end
+            end
+        end
+    end
+    if #out == 0 and index and goal.action == "kill"
+        and tonumber(goal.target_id or goal.npc_id) == 18351 then
+        local step = guide.step()
+        local qi,q = lump_objective(step and step.goals)
+        if qi and q.is_complete ~= true then
+            local shared = compute_goal_waypoints(shape_goal(q,qi,step.goals))
+            for _,wp in ipairs(shared) do
+                out[#out+1]={pos=wp.pos,title=wp.title,map_id=wp.map_id,mx=wp.mx,my=wp.my,
+                    wtype=wp.wtype,own=false,source_goal=qi}
+            end
+        end
+    end
+    -- Zygor writes a drop-source kill line before the collect lines that own
+    -- its camp coordinates (e.g. Zangarmarsh step 124). Only a bare kill may
+    -- share the following collection block; never borrow another task's point.
+    if #out == 0 and index and goal.action == "kill" and not goal.quest_id then
+        local step = guide.step()
+        local goals = step and step.goals or {}
+        for j = index + 1, #goals do
+            local g = goals[j]
+            local action = g.action
+            if action == "get" or action == "collect" then
+                if g.is_complete ~= true then
+                    local shared = compute_goal_waypoints(shape_goal(g, j, goals))
+                    if #shared > 0 then
+                        for _, wp in ipairs(shared) do
+                            out[#out + 1] = {pos=wp.pos, title=wp.title, map_id=wp.map_id,
+                                mx=wp.mx, my=wp.my, wtype=wp.wtype, own=false, source_goal=j}
+                        end
+                        break
+                    end
+                end
+            elseif not BORROW_PASS[action or ""] then
+                break
+            end
+        end
+    end
+    -- A talk/gossip block can keep its location on the following quest response
+    -- (Elder Kuruti). Require one named NPC and stop at any unrelated action.
+    if #out == 0 and index and (goal.action == "talk" or goal.action == "gossip") and goal.npc_id then
+        local step = guide.step()
+        local goals = step and step.goals or {}
+        local one_npc = true
+        for _, g in ipairs(goals) do
+            if g.action == "talk" and g.npc_id and g.npc_id ~= goal.npc_id then one_npc = false break end
+        end
+        if one_npc then
+            for j = index + 1, #goals do
+                local g = goals[j]
+                if g.action == "q" and g.is_complete ~= true then
+                    local shared = compute_goal_waypoints(shape_goal(g, j, goals))
+                    for _, wp in ipairs(shared) do
+                        out[#out + 1] = {pos=wp.pos,title=wp.title,map_id=wp.map_id,
+                            mx=wp.mx,my=wp.my,wtype=wp.wtype,own=false,source_goal=j}
+                    end
+                    break
+                elseif g.action ~= "gossip" and g.action ~= "text" and g.action ~= "" and g.action ~= nil then
+                    break
+                end
+            end
+        end
+    end
+    -- A verified use item may share its own quest objective's live location.
+    -- Zygor often puts |goto on the following |q line, not on the use line.
+    if #out == 0 and index and (goal.action == "use" or goal.action == "useany") then
+        local entry = guide.find_bag_item(goal)
+        local ok, qi = pcall(require, "questitems")
+        local quests = ok and entry and qi.quests_of(entry.item_id) or {}
+        local step = guide.step()
+        local goals = step and step.goals or {}
+        for j = index + 1, #goals do
+            local g = goals[j]
+            if g.action == "use" or g.action == "useany" then break end
+            if (g.action == "q" or g.action == "havebuff") and g.is_complete ~= true and quests[tonumber(g.quest_id)] then
+                local shared = compute_goal_waypoints(shape_goal(g, j, goals))
+                if #shared > 0 then
+                    for _, wp in ipairs(shared) do
+                        out[#out + 1] = {pos=wp.pos,title=wp.title,map_id=wp.map_id,
+                            mx=wp.mx,my=wp.my,wtype=wp.wtype,own=false,source_goal=j}
+                    end
+                    break
+                end
+            end
+        end
+    end
+    -- 1.2.38 FORWARD BORROW. Zygor puts the step's |goto on ONE line; the other goals on the
+    -- same NPC / object get no waypoint (log audit 2026-11-18, 312 sessions: every click goal,
+    -- every talk goal, 17 of 143 turn-ins and 21 of 186 accepts read "0 waypoints" - 994 "no usable
+    -- waypoint for Waterlogged Axe" ticks, 120 s waits at "talk Ariena Stormfeather" before an fpath
+    -- line and at "talk Innkeeper Allison" before a home line). An NPC / object goal with no point of
+    -- its own takes the first later point of the same step; a different NPC starting ends the scan.
+    if #out == 0 and index and FWD.origin[goal.action or ""] then
+        local step = guide.step()
+        local goals = step and step.goals or {}
+        for j = index + 1, #goals do
+            local g = goals[j]
+            local a = g.action or ""
+            local same_talk = a == "talk" and goal.action == "talk" and g.npc_id ~= nil and g.npc_id == goal.npc_id
+            if FWD.new_npc[a] and not same_talk then break end
+            if a == "click" and goal.action == "click" and g.target ~= goal.target then break end
+            if FWD.source[a] and g.is_complete ~= true then
+                local shared = compute_goal_waypoints(shape_goal(g, j, goals))
+                if #shared > 0 then
+                    for _, wp in ipairs(shared) do
+                        out[#out + 1] = {pos=wp.pos,title=wp.title,map_id=wp.map_id,
+                            mx=wp.mx,my=wp.my,wtype=wp.wtype,own=false,source_goal=j}
+                    end
+                    break
+                end
+            elseif not FWD.pass[a] and not FWD.source[a] and not same_talk then
+                break
+            end
+        end
+    end
+    end
+    -- 1.68.0: Zygor's live arrow is the current-step destination when this
+    -- goal has no point of its own. The arrow is used when it names this
+    -- goal, or when it names none and this is the work compute_goal() is
+    -- performing. An arrow that names another goal stays refused (stale
+    -- travel / another continent).
+    if #out == 0 and type(goal) == "table" and index and snap.wp then
+        local gn = tonumber(snap.wp.goal_num)
+        local mine = gn == index
+        if not mine and gn == nil then
+            local cur = compute_goal()
+            mine = cur ~= nil and cur.index == index
+        end
+        if mine and (goal.sticky or not guide.goal_off_continent(goal)) then
+            local pos, _, title = guide.waypoint()
+            if pos then
+                out[1] = { pos = pos, title = title, wtype = guide.waypoint_type(), own = false }
+            end
+        end
+    end
+    return out
+end
+
+--- 1.3.1: the continent of a converted map point, or nil when unknown.
+local function continent_of(wp)
+    if type(wp) ~= "table" then return nil end
+    local map_id, x, y = tonumber(wp.map_id), tonumber(wp.x), tonumber(wp.y)
+    if not map_id or map_id == 0 or not x or not y then return nil end
+    local key = string.format("%d|%.4f|%.4f", map_id, x, y)
+    local e = conv[key]
+    if e == nil then
+        to_world(wp)
+        e = conv[key]
+    end
+    local c = type(e) == "table" and tonumber(e.continent) or nil
+    if c == 0 then return nil end          -- 0 = unknown (documented)
+    return c
+end
+
+--- 1.2.48 IS THIS WAYPOINT ON ANOTHER CONTINENT? continent_of() answers nil for the Eastern Kingdoms (the conversion's 0 is
+--- also "unknown"), so a Loch Modan waypoint seen from Darkshore was never "off the continent": offworld_map() was nil, the boat
+--- was never asked for and the bot stood in Darkshore for 90 minutes after a hearth (log 2026-11-18 09:44-11:20). A nil / 0
+--- continent is judged by the waypoint's own UI map (same_continent -> gamever.continent_of_uimap).
+local function wp_off_continent(wp)
+    local c = continent_of(wp)
+    if c then return not same_continent(c, tonumber(wp.map_id)) end
+    local mid = type(wp) == "table" and tonumber(wp.map_id) or nil
+    if not mid or mid == 0 then return false end
+    return not same_continent(0, mid)
+end
+
+--- 1.3.1: is this goal's own step waypoint on another continent than the
+--- player? Returns true, map_id, title.
+function guide.goal_off_continent(goal)
+    if type(goal) == "table" and goal.sticky then return false end
+    local index = type(goal) == "table" and goal.index or nil
+    if not index then return false end
+    local list = raw_step_waypoints()
+    for i = 1, #list do
+        local wp = list[i]
+        if type(wp) == "table" and tonumber(wp.goal_num) == index then
+            if wp_off_continent(wp) then return true, tonumber(wp.map_id), wp.title end
+        end
+    end
+    return false
+end
+
+--- 1.2.52: the title of Zygor's arrow when it is a travel leg (route / taxi), even when
+--- its point is on no continent the bot can place (a hearth leg); nil otherwise.
+function guide.route_title()
+    local wp = raw_waypoint()
+    if type(wp) ~= "table" or (wp.type ~= "route" and wp.type ~= "taxi") then return nil end
+    if type(wp.title) ~= "string" or wp.title == "" then return nil end
+    return wp.title
+end
+
+--- 1.3.1: is Zygor's arrow a travel leg (route) on this continent? pos, title.
+function guide.route_leg()
+    local wp = raw_waypoint()
+    if type(wp) ~= "table" or (wp.type ~= "route" and wp.type ~= "taxi") then return nil end
+    local pos = to_world(wp)
+    if not pos then return nil end
+    return pos, wp.title
+end
+
+-- 1.7.6 WALK-IN PORTALS BETWEEN CONTINENTS. Zygor's own travel data
+-- (ZygorGuidesViewerClassicTBCAnniv\Libs-TBC\LibRover-1.0\data_transit.lua,
+-- {mode:PORTAL} nodes) - "Blasted Lands/0 58.72,59.93 -to- Hellfire
+-- Peninsula/0 89.39,50.22" and back "Hellfire Peninsula/0 89.82,50.21 -to-
+-- Blasted Lands/0 58.66,59.56". UI maps 1419 = Blasted Lands, 1944 =
+-- Hellfire Peninsula (both as the client reports them in the session logs).
+-- Boats / zeppelins (a ride, a wait) are not walk-ins and are not here.
+-- 1.7.7 (user: "move the step in waypoint closer to the portal"): ax / ay is
+-- where Zygor puts a player ARRIVING on this side (the other node's "-to-"
+-- point, in front of the portal); the step-in point is STEP_IN yd beyond the
+-- entry along arrival -> entry, inside the portal.
+local PORTALS = {
+    { from = 1419, x = 0.5872, y = 0.5993, ax = 0.5866, ay = 0.5956, to = 1944,
+      title = "the Dark Portal (to Hellfire Peninsula)" },
+    { from = 1944, x = 0.8982, y = 0.5021, ax = 0.8939, ay = 0.5022, to = 1419,
+      title = "the Dark Portal (to the Blasted Lands)" },
+}
+local STEP_IN = 6.0
+local portal_conv = {}                       -- "map|x|y" -> converted point or false
+local function conv_cached(map_id, x, y)
+    local k = string.format("%d|%.4f|%.4f", map_id, x, y)
+    local e = portal_conv[k]
+    if e == nil then
+        e = convert(map_id, x, y) or false
+        portal_conv[k] = e
+    end
+    return e or nil
+end
+
+--- 1.7.6: the walk-in portal from the player's continent to the continent of
+--- UI map `dest_map`: world point { x, y } (no height - the caller's) and a
+--- title, or nil.
+function guide.portal_toward(dest_map)
+    dest_map = tonumber(dest_map)
+    if not dest_map or dest_map == 0 then return nil end
+    local here = my_continent()
+    if not my_cont.known then return nil end
+    local d = conv_cached(dest_map, 0.5, 0.5)
+    if not d then return nil end
+    for i = 1, #PORTALS do
+        local p = PORTALS[i]
+        local a, b = conv_cached(p.from, 0.5, 0.5), conv_cached(p.to, 0.5, 0.5)
+        if a and b and (a.continent or 0) == (here or 0) and (b.continent or 0) == (d.continent or 0)
+            and (a.continent or 0) ~= (b.continent or 0) then
+            local e = conv_cached(p.from, p.x, p.y)
+            if e then
+                -- 1.7.7: the step-in point, STEP_IN yd past the entry, into the portal
+                local r = conv_cached(p.from, p.ax, p.ay)
+                local step = nil
+                if r then
+                    local dx, dy = e.x - r.x, e.y - r.y
+                    local l = math.sqrt(dx * dx + dy * dy)
+                    if l > 0.5 then step = { x = e.x + dx / l * STEP_IN, y = e.y + dy / l * STEP_IN } end
+                end
+                return { x = e.x, y = e.y }, p.title, p, step
+            end
+        end
+    end
+    return nil
+end
+
+--- 1.7.6: the UI map of Zygor's arrow when it points to another continent, or nil.
+function guide.offworld_map()
+    local wp = raw_waypoint()
+    if type(wp) ~= "table" then return nil end
+    if wp_off_continent(wp) then return tonumber(wp.map_id), wp.title end
+    return nil
+end
+
+--- 1.3.1: one line per goal and waypoint of the current step, for the log on
+--- every step change (so a stall can be read from the session log).
+function guide.dump_step()
+    local out = {}
+    local step = guide.step()
+    if not step then return out end
+    out[#out + 1] = string.format("step %d (complete %s), %d goal(s)", step.num, tostring(step.is_complete), #step.goals)
+    for i = 1, #step.goals do
+        local g = step.goals[i]
+        out[#out + 1] = string.format("  goal %d: action '%s' quest %s npc %s (%s) target %s (%s) complete %s -> %s",
+            i, tostring(g.action), tostring(g.quest_id), tostring(g.npc_id), tostring(g.npc), tostring(g.target_id),
+            tostring(g.target), tostring(g.is_complete), tostring(guide.classify(shape_goal(g, i, step.goals))))
+    end
+    local here = my_continent()
+    local list = raw_step_waypoints()
+    for i = 1, #list do
+        local wp = list[i]
+        out[#out + 1] = string.format("  waypoint goal_num %s: map %s (%.4f, %.4f) type %s '%s' continent %s (player %d)",
+            tostring(wp.goal_num), tostring(wp.map_id), tonumber(wp.x) or 0, tonumber(wp.y) or 0, tostring(wp.type),
+            tostring(wp.title), tostring(continent_of(wp) or "?"), here)
+    end
+    local a = raw_waypoint()
+    if a then
+        out[#out + 1] = string.format("  arrow: map %s (%.4f, %.4f) type %s '%s' goal_num %s continent %s",
+            tostring(a.map_id), tonumber(a.x) or 0, tonumber(a.y) or 0, tostring(a.type), tostring(a.title),
+            tostring(a.goal_num), tostring(continent_of(a) or "?"))
+    end
+    return out
+end
+
+--- 1.2.55 ARROW PROBE. What the arrow's numbers really are: `dist` (Zygor: yards from the player to the
+--- waypoint, said by the user 2026-11-19; the 1.2.53 log read 0 at every arrow change), `goal_num` (the step goal
+--- the arrow belongs to) and `is_manual`. Every PROBE_GAP s a line pairs them with what the bot measures itself:
+---   arrow dist <Zygor> vs <own flat yards to the arrow point> | goal_num <n> | manual <b> | step waypoints: g<goal>:<type>:<dist>/<own>
+--- so a later change can trust (or drop) dist. Logging only; nothing decides on it yet. `pos` = the player's position.
+local probe_t = -1e9
+local PROBE_GAP = 20
+function guide.arrow_probe(pos)
+    local now = clock()
+    if now - probe_t < PROBE_GAP then return end
+    probe_t = now
+    local a = raw_waypoint()
+    if not a or type(pos) ~= "table" or type(pos.x) ~= "number" then return end
+    local ok, log = pcall(require, "errorlog")
+    if not ok or type(log) ~= "table" or type(log.trail) ~= "function" then return end
+    local function own(wp)
+        local w = to_world(wp)
+        if not w or type(w.x) ~= "number" then return nil end
+        local dx, dy = w.x - pos.x, w.y - pos.y
+        return math.sqrt(dx * dx + dy * dy)
+    end
+    local parts = {}
+    local list = raw_step_waypoints() or {}
+    for i = 1, math.min(#list, 8) do
+        local wp = list[i]
+        if type(wp) == "table" then
+            local o = own(wp)
+            parts[#parts + 1] = string.format("g%s:%s:%s/%s", tostring(wp.goal_num), tostring(wp.type),
+                wp.dist and string.format("%.0f", wp.dist) or "-", o and string.format("%.0f", o) or "-")
+        end
+    end
+    local o = own(a)
+    pcall(log.trail, "zygor", "arrow probe: dist %s vs own %s | goal_num %s | manual %s | type %s | step waypoints: %s",
+        a.dist and string.format("%.0f", a.dist) or "-", o and string.format("%.0f", o) or "-",
+        tostring(a.goal_num), tostring(a.is_manual), tostring(a.type),
+        #parts > 0 and table.concat(parts, " ") or "none")
+end
+
+-- THE ROUTE a kill / collect / xp goal is walked along: the goal's points,
+-- else every step point, plus the arrow; a single point becomes a patrol ring.
+local ROUTE_RADIUS = 25
+local ROUTE_RING = 6
+local ROUTE_SAME = 15
+
+local function flat_apart(a, b)
+    return math.sqrt((a.x - b.x) ^ 2 + (a.y - b.y) ^ 2)
+end
+
+function guide.route(goal, kind, wps)
+    wps = wps or guide.goal_waypoints(goal)
+    if kind ~= "kill" and kind ~= "collect" and kind ~= "xp" then
+        return wps
+    end
+    local key = "route:" .. tostring(type(goal) == "table" and goal.index or 0) .. ":" .. tostring(kind)
+    local r = memo(key, function()
+        local out = {}
+        for i = 1, #wps do out[#out + 1] = wps[i] end
+        if #out == 1 then
+            local c = out[1].pos
+            for k = 0, ROUTE_RING - 1 do
+                local a = k * 2 * math.pi / ROUTE_RING
+                out[#out + 1] = {
+                    pos = vec3.new(c.x + ROUTE_RADIUS * math.cos(a), c.y + ROUTE_RADIUS * math.sin(a), c.z),
+                    title = out[1].title, patrol = true,
+                }
+            end
+        end
+        if #out == 0 then return nil end
+        return out
+    end)
+    if type(r) == "table" and #r > 0 then
+        return r
+    end
+    return wps
+end
+
+--- Was a waypoint of this step on another continent? (status line)
+function guide.wrong_continent()
+    refresh()
+    if snap.wp and to_world(snap.wp) == nil and wrong_continent_seen then
+        return true
+    end
+    return false
+end
+
+function guide.step_waypoints()
+    local out = {}
+    local list = raw_step_waypoints()
+    for i = 1, #list do
+        local pos = to_world(list[i])
+        if pos then
+            out[#out + 1] = pos
+        end
+    end
+    return out
+end
+
+-- 1.9.2 ZYGOR VENDOR SPOTS (merchants.lua): the vendor and buy goals of the
+-- current step and its stickies as { npc_id, name, x, y, z, action, step }.
+-- npc_id / name: the goal's NPC (a buy goal borrows the step's talk NPC, as
+-- shape_goal pairs them). The point: the step waypoint whose goal_num is the
+-- goal's index, else the waypoint of the step's talk / vendor goal of the same
+-- NPC, converted by to_world (get_world_pos_from_map_pos; refused on another
+-- continent). Sticky goals have no step waypoint of their own and are left
+-- out. A goal with a point but neither id nor name is a spot (merchants.lua).
+local function vendor_goal_point(index, npc_id, npc, goals)
+    local list = raw_step_waypoints()
+    local function point_of(gi)
+        for i = 1, #list do
+            local wp = list[i]
+            if type(wp) == "table" and tonumber(wp.goal_num) == gi then
+                local pos = to_world(wp)
+                if pos then return pos end
+            end
+        end
+        return nil
+    end
+    local pos = point_of(index)
+    if pos or not (npc_id or npc) then return pos end
+    for j = 1, #goals do
+        local o = goals[j]
+        if j ~= index and type(o) == "table" and TALK_ACTIONS[o.action]
+            and ((npc_id and o.npc_id == npc_id) or (npc and o.npc == npc)) then
+            pos = point_of(j)
+            if pos then return pos end
+        end
+    end
+    return nil
+end
+function guide.vendor_goals()
+    local v = memo("vendor_goals", function()
+        local out = {}
+        local step = guide.step()
+        local goals = type(step) == "table" and step.goals or nil
+        if type(goals) ~= "table" then return out end
+        for i = 1, #goals do
+            local g = goals[i]
+            if type(g) == "table" and (g.action == "vendor" or g.action == "buy") then
+                local sg = shape_goal(g, i, goals)
+                local pos = sg and vendor_goal_point(i, sg.npc_id, sg.npc, goals) or nil
+                if pos and type(pos.x) == "number" and type(pos.y) == "number" then
+                    out[#out + 1] = { npc_id = sg.npc_id, name = sg.npc, x = pos.x, y = pos.y, z = pos.z,
+                        action = g.action, step = step.num }
+                end
+            end
+        end
+        return out
+    end)
+    return type(v) == "table" and v or {}
+end
+
+-- ============================================================================
+-- STATUS
+-- ============================================================================
+
+function guide.describe()
+    if not guide.is_loaded() then
+        return "Zygor Guides not loaded"
+    end
+    if not guide.ready() then
+        return "Zygor has no active step (no guide loaded, or the guide is finished)"
+    end
+    local goal = guide.goal()
+    if not goal then
+        return "Zygor step complete"
+    end
+    if guide.wrong_continent() then
+        return "Zygor waypoint is on another continent"
+    end
+    local kind = guide.classify(goal)
+    if kind == "unknown" then
+        return string.format("Zygor action '%s' is not handled yet - paused", tostring(goal.action))
+    end
+    local what = goal.text or tostring(goal.quest_id or "?")
+    return string.format("%s %s", kind, what)
+end
+
+local compute_snapshot
+
+function guide.snapshot()
+    return memo("snapshot", compute_snapshot)
+end
+
+compute_snapshot = function()
+    local out = {
+        loaded = guide.is_loaded(),
+        ready = false,
+        step = 0,
+        goals = {},
+        goal = nil,
+        kind = nil,
+        objectives = {},
+        waypoint = nil,
+        wrong_continent = false,
+        stickies = 0,
+        describe = guide.describe(),
+    }
+    if not out.loaded then
+        return out
+    end
+    out.ready = guide.ready()
+    if not out.ready then
+        return out
+    end
+    out.step = guide.step_num()
+    out.goals = guide.goals()
+    out.goal = guide.goal()
+    if out.goal then
+        out.kind = guide.classify(out.goal)
+        out.objectives = guide.objectives(out.goal.quest_id)
+    end
+    local wp = raw_waypoint()
+    if type(wp) == "table" and tonumber(wp.map_id) and tonumber(wp.map_id) ~= 0 then
+        out.waypoint = {
+            title = (type(wp.title) == "string" and wp.title ~= "") and wp.title or nil,
+            dist = tonumber(wp.dist),
+            map_id = tonumber(wp.map_id),
+            type = wp.type,
+        }
+    end
+    out.wrong_continent = guide.wrong_continent()
+    out.stickies = #guide.stickies()
+    return out
+end
+
+-- ============================================================================
+-- SKIPPING - guide.skip_current (above) is Zygor's own skip_current_step. The inactive-step
+-- escape of the RestedXP engine has no Zygor counterpart and answers false.
+-- ============================================================================
+function guide.skip_inactive() return false end
+function guide.inactive_step() return nil end
+
+return guide

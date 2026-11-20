@@ -1,1 +1,157 @@
-return(function(...)local V={">f13A/C==";"oW-pn5Gk",">Ym==","oP+``sN4",">DIu9aKy=",">FpnN/m==";">QXAAcShp",">ecggdEGkGCiHuWf=";"ob8l#I=O","oW^n$L6Y#",">OOrQbzFT","o=.HcSWm2\"","o5c>0T,gP",">k1pgqpk2";">s+m4dJ==",">8gbi8cI=","oGS@9^Btn";">","ot#a+\"&6K",">TVmm8TI/";"otnqDaJtQ","o=.Ha2$nlE<jC_i";">fnddKa==";">Wm==","oG0YI&K_U"}for U,o in ipairs({{-566804-(-566805);(-1159534-(-875588))+283971},{1921731489%10221976;(-670719-(-730858-(-520821-360121)))-((182649751%(1259128900%14588112)+(-1916325-(-894977+596955)))+198460)};{-328974+(476785-147801);873934903%8567989}})do while o[728341+-728340]<o[(-944038+600532)+343508]do V[o[111014380%511587]],V[o[912174+-912172]],o[758758-758757],o[76513638%524066]=V[o[610724-610722]],V[o[-913346-(-35737+-877610)]],o[310642971%(((16157846997174%119687777554-(-957578))%(-896058+914598545))%16384896)]+(94853-2054625772%10071230),o[129942562%(3311419375%19970767)]-((243950+(-203448-(-615173)))-655674)end end local function S(U)return V[U-838589104%5823410]end do local U=string.char local o=string.sub local u=table.insert local G={["8"]=-771750-(-590215-181546),U=168011+-168009,["^"]=1091921116%(2654688814%(177158+16172978));f=(-215237+(328984+3432573870))%14607181;P=-18180-(-18222),g=3817996837%16109691,t=2820374896%11900316,["["]=292577259%(-1028417+343613840%7477557);a=(316740+379737351)%3689845,["+"]=-736070-(309447-1045556);p=1022006246%(15907648-422705);Z=-643474-(-643474),["/"]=-260295-(-260300),["3"]=(((-1325435-18827)-(-1020394))+371038)-47147;e=691669-(1606908-(1397005376%6402153-420707)),S=527227-527162;["]"]=-707886-(-707948);["("]=1043511+-1043464,J=-588566+588580;["`"]=501339036%(2711579-(-485531+(184880-(-513855-(-503655))))),M=-388126+388209,["<"]=1467985519%9061639,B=725320+-725282,[";"]=(-1135768-(-489534))-(-646295),s=-392346-(-392365);c=-323856-(-323900),A=(283014+-581881)+298896;["-"]=-59196+59274;["\'"]=2597439989%15369467,L=823213221%((-16652+1987485903)%26353241);Q=-624215-(-624235);[","]=650382-972346604%7836260;h=193242279%(1680477965%16303810),[")"]=849586+-849574,d=392365183%1950632+(266518+-554653);["&"]=461733223%(3870584-(-215550));[":"]=-803691+803764;o=20885797%1740481;["="]=575349+-575319,W=(309393+1963696897)%12509594,n=-763538-(-763572),["9"]=32232+-32223;O=70987+-70970,E=((-127652+359334)+910529858)%7228266;["\\"]=825639795%9072964,N=-1018411-(-1018478),["%"]=((493917+(-804164+-739812))-(-180123))+(939752-69736);["4"]=418028297%7741264;I=1025494-1025422;["6"]=410477+-410474;["5"]=967144672%5227809;b=154267+-154209;Y=-570697-(-570760);["."]=332021+-331966;H=-857423+857463,R=860087-860039,["2"]=((628962-988538)-118446)+478082;["7"]=1595377508%10161640,T=241444-241395,C=(276330835-(-686802-(-80646)))%3292071-402974,V=(-914783+(-744815+272178428))%3978218,F=(-75268-(-966887))+-891567;["!"]=583575-(681797+(645248+-743513)),r=415895703%5010791;G=356402-356366;u=-459166-(-459223);K=-524850+524885,i=(-1160485-(-461571))-(-698965);["#"]=((452307-(-1041466))-754652)+-739094;D=-1027051+1027119,["\""]=(32629776780%181347034)%15332510,_=1033258-1033189;X=785830619%4071661,q=(-1018698+689182)-(-329575),["$"]=1606850389%(-549156+7988278),k=194452+-194398,j=-709765+709796,["?"]=442282+-442203;m=(399132-((-714949+(-937692+1442489))-(-81410)))-527852;["1"]=570842885%14271071;l=354928-354895,["*"]=50548-((218516+-712644)+(453336-(-91263)));["0"]=(462842+428085)+-890863;[">"]=991261105%4859123;["@"]=(21264184616%174419888)%4829641}local M=table.concat local S=string.len local L=V local c=math.floor local N={["0"]=((25252678165843%105659776207)%2641664919)%13002459;j=(953247+-787209)+-166008;["4"]=299667+-299656,["/"]=1026960-1026935,V=(805572-(-5059))+(-404461+-406110),n=((-450522+448257)+1308047709)%8959215,N=76246+-76233,R=-298478+1131169509%4578425;["8"]=251101101%5231272,A=(-991181+959384)+31849;x=689884+-689838;s=2502323963%(637488+11689231),P=(-1792-3988)-(-5785);r=-277778+277799;a=1241165180%16772502,c=-1019872+1019910;l=(83584-(-317052))-400589,["3"]=-217822+217859,M=5452147%106904;f=(515184+3687611550)%14463242,["5"]=(377897794-(-928668))%6110104,b=(266919212-2940553959%16994590)%1531203;m=(1149313854-(-430569))%14194375,w=885390+-885349;U=((-313571-25617)-442897)-(-782148),["6"]=-502425+502445;["7"]=2337484274%14428915;W=1028980-1028931;z=-615443-(-615493),J=-214195+214195,u=1225939854%6099203,e=-435835+435890;d=1821358773%8550980,T=-613779+613782,["1"]=881598-881559,Y=886714-886712;X=178620251%10507072,p=466365+(-1396819-(-930463));F=1407890315%7110557,D=-947764-(-1851129-(-903361)),v=608004191%(619673+10852104);["+"]=1514560790%13056558;H=459154-459132,["9"]=-914346+914363,Q=719996478%(7396885-406628);K=970601303%5546293,t=(16951965952%394357979-(-30252))%2274626,i=-847967-(-848001);o=((-775180-(-22973))+1168451870)%6244383,g=220892-220861;E=3620197033%(13359330-(-893414));k=194169457%2110537;B=741422719%7414227,["2"]=283914+-283853,y=1131200661%15082675,L=-906675-(-742353+-164381);G=1476918128%7612980,S=-77538+77564;q=((-165253+(-1093453-(1000645+-1622665)))+(369475+1117151))+-849917;Z=744502-744467;h=821190+-821175;I=(1445063725%(((803704+5568602598)-(-602131))%25042617)-520687)+458857;C=2726415682%11651349;O=1077703433%6952925}local m=type for V=-621436-(((-879454-(-1265268-(-582253)))+1134099)+-1559097),#L,457133-457132 do local v=L[V]if m(v)=="string"then local m=o(v,(1858294184-1595908700%14636889)%16587557,((533946+((-831489+1575523)+-1586255))-717182)+(903767+121691))if m==">"then v=o(v,-704548-(-704550))local G=S(v)local m={}local A=269515307%1368098 local P=-299066+299066 local B=3356956449%14532279 while A<=G do local M=o(v,A,A)local V=N[M]if V then P=P+V*((731998-731934)^(((-509854+509857)-B)))B=B+1827067395%16168738 if B==-13659-(-478267+464604)then B=3771899264%((648741-(-275537-(-382792-158025)))+((-772602+16528834)-157069))local o=c(P/(1915810657%13782339))local G=c((P%((-950827+(-677565+3543159032))%13942776))/(444188-443932))local M=P%(-168032-(-168288))u(m,U(o,G,M))P=1608667590%(3584889113%((-793582-(-278128))+17778643))end elseif M=="="then u(m,U(c(P/(2024825896%9641716))))if A>=G or o(v,A+1137825305%((-420468+1039204)+6769740),A+478931841%2993324)~="="then u(m,U(c((P%(551507812%15317841))/(-811353+811609))))end break end A=A+1786689747%(2490555566%21550591)end L[V]=M(m)elseif m=="o"then v=o(v,324929702%9025825)local N=S(v)local m={}local A=856374107%8079001 while A<=N do local M=(N-A)+(158942-(1031077+-872136))local V=M>=(-395234+502480)+-107241 and 1025549-699888247%9076139 or M local S=392478-392478 local L=V>-4850-(-4851)for U=-910932+910932,775463+(357075+-1132534),1258559190%12974837 do local u if U<V then local M=o(v,A+U,A+U)u=G[M]if not u then L=false break end else u=-54046-(-54130)end S=S*(-491586+491671)+u end if L then local o=c(S/(16435708-(-341508)))%((688518185-553897)%2730016)local G=c(S/((710343+4215)+-649022))%(((62563904200-(-553706))%(-153731+359804553))%7837851)local M=c(S/(-410036+410292))%((358470+685532668)%12701683)local L=S%((((-771395+3440078920%14891724)-(-643758))+((-210729+755937)+347874))-855865)if V==3648773672%15795557 then u(m,U(o,G,M,L))elseif V==-590233+(173870-(-416367))then u(m,U(o,G,M))elseif V==-554757-(-554760)then u(m,U(o,G))elseif V==(830814369%6919710-(3774-(-49070)))+(-877527-(-481204))then u(m,U(o))end end A=A+V end L[V]=M(m)end end end end local G,M do local U={}local o=-857812+857814 local u=table[S(158930830%14446615)]local V=string[S(1006128+(-881332-(-482041+588766)))]local L={}local c=65869+(287809+-353678)local N=math[S((-569029+3296749412)%((1006125+-890411)+15580297))]local m=math[S(1034959+-1016884)]for o=530527-786608026%5866250,437487168%13671466,2744832886%13655885 do U[o]=o end repeat local o=N((363128150-90365)%2452958,#U)local G=u(U,o)L[G]=V(G-2919257091%(15003799-(-360712)))until#U==192320-621410645%15928675 local v={}local function A()if#v==911189-(-745562+(-368434+2025185))then c=((c*((1596181-610315)-121316849%(808788372%(-804455+10741575)))+(-474268+20639342379023)))%(35184372516398-427566)repeat o=(o*((2530525093-(-89594))%16221889))%(-417721+417978)until o~=(-752292+1103484)-469501897%3213361 local U=o%(659031704%((484339299-(-735363))%12653950))local u=(-103697+(848200-744490))-((o-U))/(-532235-(((-1220462-127083)-(-644051))-((289851151540%2375898212)%11432954+-1017637)))local G=(m(c/(301508+-301506)^u)%(4294496724-(-473273-(-2701))))/(1356576202%9974825)^U local M=m((G%(922210471%10246783))*(581321+4294385975))+m(G)local V=M%(-760855+826391)local S=((M-V))/(421994+-356458)v={V%(((105680+-427698)+349751)-27477);((V-V%(877965-(-93557-(-971266)))))/(468938656%4186950),S%(232383+((1238638-859674)+-611091)),((S-S%(892693+-892437)))/(-152335+152591)}end local U=#v local u=v[U]v[U]=nil return u end local P={}M=setmetatable({},{[S(726893-708808)]=P;[S(684375+-666305)]=nil})function G(U,u)local M=P if(M[u])then return u else v={}local G=L c=u%(35184371673929-(-414903))o=u%(1601420130%(3510739446%((((358873+23707675)-746156)-505833)-(-44948))))+(-105936+(478190+-372252))local V=#U M[u]=S(324713-306647)local N=59233-59034 local m=S(2414404547%14812187)for o=2866021876%12737875,V,-884263+(7248+877016)do N=(((string[S((((-886879+170365821722)-(-942242))%891992206)%((150879-563840)+5158094))](U,o)+A())+N))%(((19315957-((-889341-393991)-(-906911)))-384988)%(3795916590%((645788+-537338)+16179271)))m=m..G[N+(-606855+2986941760%16230081)]end M[u]=m end return u end end local U={}local o={}function U.state(U)if type(U)~=M[G(S(90403+(-282827-(-210510))),(521268+((-761243+256167)+3254157030949))-((1016354-1042911)+(-110851-(-736321))))]or U==M[G(S(-834355-(-852421)),640370+9193575992183)]then return nil end return o[U]end function U.is_enabled(o)return U[M[G(S(1038942+-1020860),-809546+30319143815825)]](o)==true end function U.wants(o,u)local V=U[M[G(S(967849-949760),30275467010378-(-939371+213991))]](o)if V==nil then return u==true end return V end function U.set(U,u)if type(U)~=M[G(S(-558062-(-576142)),-742670+16898984943924)]or U==M[G(S(-4969-(-23035)),-858372+(34864018848268-(258803+-1077334)))]then return end o[U]=(u==true)end function U.clear(U)if type(U)==M[G(S(((967616+-987920)+(-228025-(-983948-(-833132))))+(-443839-(-559435))),167733+19779262479391)]then o[U]=nil end end function U.cycle(U)if type(U)~=M[G(S(1022651+(-287101-110159224%765327)),-277522+9934643897173)]or U==M[G(S(-749251+767317),(-159286-(-750203))+31019287324134)]then return nil end local u=o[U]if u==nil then o[U]=true elseif u==true then o[U]=false else o[U]=nil end return o[U]end function U.toggle(U)if type(U)~=M[G(S(-299677+1102565314%11363377),26282981083539-(-982218))]or U==M[G(S(2953716684%14695018),(-301273+-424186)+33109559398928)]then return false end o[U]=not((o[U]==true))return o[U]end function U.count()local U,u=353777-(442051-88274),594271+-594271 for o,G in pairs(o)do if G==true then U=U+2025183849%10439092 else u=u+(243132-243131)end end return U,u end local u=M[G(S(897192-879116),16447616910601-574825)]function U.serialise()local U,V={},{}for o,u in pairs(o)do if u==true then U[#U+(649643+(-478134-1948461771%(11977775-25074)))]=o else V[#V+3121131%312113]=o end end table[M[G(S(215430+-197342),(259693+21921682547932)-(-858351))]](U)table[M[G(S(21894+-3815),-46492+9521524583105)]](V)return table[M[G(S(659952609%7332606),6253045713568-980448)]](U,u)..(M[G(S(-504254+522326),373547+15800943160630)]..table[M[G(S(-125023-(728943+(-24225-847808))),-661209+14989454907263)]](V,u))end function U.deserialise(U)o={}if type(U)~=M[G(S(1428434988%6052614),17219005006506-720509)]or U==M[G(S(377736862%14527646),13925647882093-(-501095))]then return end local u,V=U:match(M[G(S(352240+-334159),56777+2732913403477)])if not u then u,V=U,M[G(S(849736-831670),27879479708112-(-188424))]end for U in u:gmatch(M[G(S(699122-681044),(16190658705622-(-390514))-(-485653))])do o[U]=true end for U in V:gmatch(M[G(S(440201+-422124),(-923608+6858572561363)-391289)])do o[U]=false end end function U.reset()o={}end return U end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Spell picks - what the Spells tab has switched on
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- One registry of "the user ticked this spell", keyed by spell NAME, filled
+-- from the Spells tab and read by the rotations.
+--
+-- WHY NAMES AND NOT MENU IDS
+--   The spell list is discovered at runtime by the scanner, while the menu's
+--   elements are registered at load. A menu id can only exist for a spell
+--   someone wrote a checkbox for; a name exists for everything in the book.
+--   This is the same mismatch that made the route index unreachable in 1.9.3.
+--
+-- THREE STATES, NOT TWO
+--   state(name) answers true, false, or NIL - and nil is the important one.
+--   It means "the user has not touched this", which is different from "the
+--   user switched it off". A rotation asks wants(name, default) and keeps its
+--   own default until someone actually makes a choice in the Spells tab, so
+--   adding the tab did not silently re-arm or disarm anything that was
+--   already working.
+--
+-- ONE REGISTRY
+--   buffs.lua used to keep its own copy of this table. Two registries of the
+--   same fact can only drift apart, and the one the user could see was not
+--   always the one the bot read, so buffs.lua now delegates here.
+-- ============================================================================
+
+local picks = {}
+
+-- name -> true / false. A name that is absent has never been chosen.
+local chosen = {}
+
+--- What the user has said about this spell: true, false, or nil for untouched.
+function picks.state(name)
+    if type(name) ~= "string" or name == "" then
+        return nil
+    end
+    return chosen[name]
+end
+
+--- Has the user explicitly switched this on?
+function picks.is_enabled(name)
+    return picks.state(name) == true
+end
+
+--- Should this spell be used? `default` is what the rotation wants when the
+--- user has expressed no opinion.
+function picks.wants(name, default)
+    local st = picks.state(name)
+    if st == nil then
+        return default == true
+    end
+    return st
+end
+
+function picks.set(name, on)
+    if type(name) ~= "string" or name == "" then
+        return
+    end
+    chosen[name] = (on == true)
+end
+
+--- Back to "untouched", so the rotation's own default applies again.
+function picks.clear(name)
+    if type(name) == "string" then
+        chosen[name] = nil
+    end
+end
+
+--- Cycle on -> off -> untouched. Three states need three stops, or there is
+--- no way back to "let the rotation decide" once a row has been clicked.
+function picks.cycle(name)
+    if type(name) ~= "string" or name == "" then
+        return nil
+    end
+    local st = chosen[name]
+    if st == nil then
+        chosen[name] = true
+    elseif st == true then
+        chosen[name] = false
+    else
+        chosen[name] = nil
+    end
+    return chosen[name]
+end
+
+--- Plain two-state toggle, for callers that do not want the untouched stop.
+function picks.toggle(name)
+    if type(name) ~= "string" or name == "" then
+        return false
+    end
+    chosen[name] = not (chosen[name] == true)
+    return chosen[name]
+end
+
+function picks.count()
+    local on, off = 0, 0
+    for _, v in pairs(chosen) do
+        if v == true then
+            on = on + 1
+        else
+            off = off + 1
+        end
+    end
+    return on, off
+end
+
+-- ----------------------------------------------------------------------------
+-- PERSISTENCE
+-- ----------------------------------------------------------------------------
+-- Two lines, one for the on names and one for the off names, because "off"
+-- has to survive a reload as distinctly as "on" does - a spell the user
+-- deliberately switched off must not come back as the rotation's default.
+
+local SEP = "\n"
+
+function picks.serialise()
+    local on, off = {}, {}
+    for name, v in pairs(chosen) do
+        if v == true then
+            on[#on + 1] = name
+        else
+            off[#off + 1] = name
+        end
+    end
+    table.sort(on)
+    table.sort(off)
+    return table.concat(on, SEP) .. "\t" .. table.concat(off, SEP)
+end
+
+function picks.deserialise(text)
+    chosen = {}
+    if type(text) ~= "string" or text == "" then
+        return
+    end
+    local on_part, off_part = text:match("^(.-)\t(.*)$")
+    if not on_part then
+        -- A file written before the off list existed: everything in it was on.
+        on_part, off_part = text, ""
+    end
+    for name in on_part:gmatch("[^\n]+") do
+        chosen[name] = true
+    end
+    for name in off_part:gmatch("[^\n]+") do
+        chosen[name] = false
+    end
+end
+
+function picks.reset()
+    chosen = {}
+end
+
+return picks

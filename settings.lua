@@ -1,1 +1,323 @@
-return(function(...)local s={"],iE#lX4s","m3JqXv2vhaHE1CzRgauhd";"]-?";"mgHOQDDNx","mOdJ2cd==";"mxHM7h8/6";"mZZyfMPfo3l==";"m4d==";"]__+HJ`+d";"m0d==","mMl==","mOGhNgpc=","]IC","]+soQI$)1","mrdAZtW==","m2X3+","]=6ZFO9TYCI#hG5","mxR/ZRFeQfcM=","]t+,<Q>2HRq&o\'V?WLY","][I7;F,IRV&aZ]FQ","]tE>Qd0qskRQL,s_&NC``o)lZSIt/FTV7<;0>ub!kt*W&D:3C(&oYQEJ*6f1q9Y\'Z)jl)Fo$Kj";"mZYwttnPmaTua1v+t";"mKC8c","]^I`e","]X50ZQY.Z^=Sfj+=3PV";"]s.DAAI&#";"mLhOnoGtV","m";"mdYop84r+iJ6NlQhe8QzTQd==","]fW/MI?Ac7","m2V+mZM3h9ohdXwOUqGcInJeWcd9Xi/fGph6qxY0V7OUZ1mhGhMRQtkXPWrhiT5tddSk6ukjG7NFEr2yJNO6i2OyG";"mpl==";"mfd==";"mEtM=";"]Ve.k1uA[","mW+Dk";"mDW==";"]=6ZnQmUOR","mkFppTl==","m3QjVxM==";"mko4q/cVdzvzCxjHR1uLm";"mOa1c1FW1lebO/V8MHCaolLYa","]Wnk?N@elV!65S^PS.oC+$aQ\\78:*8)Z4()5\'YBk&K*^l<OOhFh9FL$bC^,ik","]c&&J","]3\\";"myCKDgM==","mlWTjJIzFKKxFfbSf","]dO";"mYNQl";"meGjoqLPm","]p_)9KmAf","mBrVORIcO";"m/Wey8Oq=","mT/8zE5ea";"mT/AjesUz","mSkqrgbyt";"]m0A","mnM==","mVlbc2Rub3kM9REKzz8LiiiKm53o9AFaoLoWCq3upJgv2lkzclY3Ft8jX0B++y+Dg4SvsuRl8kN6EoHOP2FhWavDRe8QNzSa2Aq9ixb6OPydEKd==","]_l3(]=W?>eb:q\'1<aa35#`RfYBf9Ll4^0!W08_d+91%U8k$1HSgIX%g5FmeaEPJaVBV<A@ZXZTd+9WT4_AP`\"[.\"4>W=","mk0a1eM==";"]0lSk","]9l";"mzW==","]><#73ftm`FG<Lm>b3#G@uth&q(K\'tn:&?\"\'D:)!F*P3H]hfV:XbbP:G_+6c(;\"X?J3CZZ?QBO-@-a?#YYh!m.is1^t/!\'9C],0EB","],>mQ\'bj?7?iE=t(UmL$,Toa","]mlVT\"8P","]/EQ&NiqB";"]7[Lt(","mHqK/j/StSO1=","m3v5O75xe";"]EMDd4D-\'";"]c1","]aS&,!$bQ8";"mHLf+61FWxtT="}for m,W in ipairs({{(-1196852-(-791067))+405786,-15809-(-15884)};{-232728+232729,75613-75580},{-554265-(-554299),-561193-(-561268)}})do while W[-534519-(-534520)]<W[2903869265%13259677]do s[W[-112227-(-112228)]],s[W[((1975555827-(-928078))-1045735)%10736077]],W[((3807591340-((784626829%6645498-675436)-120209))%15477145-196372)-354877],W[-454024+454026]=s[W[-68162+(439665+-371501)]],s[W[916508+(-893503-23004)]],W[230908-230907]+(-385476+385477),W[1853704590%12525031]-(1038672+-1038671)end end local function S(m)return s[m+(1771718388%7603051-155933)]end do local m=string.char local W=string.sub local r=table.concat local y=string.len local F=math.floor local e=type local H=table.insert local K={["/"]=-787320-(-787358),T=882577648%9593235,["0"]=(414977+173673593)%(2071179-(-1029068))-474699,d=10897+-10849,e=846478+-846453,Q=-783372+783416,["+"]=(1039819118-852271)%11417218,n=(308331117-124889)%(20393+5032168),g=167308323%(1251903411%12708862),L=(-619080+406320)+212811;O=252427-(1449068752-(50742-106531))%7354681,P=-138665-(-138680),Y=((-955688+945428)+141245)+-130954,["9"]=976903-(-345616+1322509);a=955692-(1980367595%13377623-(932554+-1408818));f=(-828771-(-827374))+1453,w=-361522-(-361534);A=937297-((-780083+83238488557)%523596503)%11557357;b=-232855+232881,i=-331934+331956;c=-797340+797360,["6"]=470899-470882;V=1399345046%(9381365-(-832832));j=868944+-868898;U=363698+-363637,h=317499835%(606566+1272131);["8"]=76196633%1291468,H=627804-627746,J=(-790295+2601672567)%13983238,B=420359+(-984779+564461);I=2616977272%16254517;u=322324+-322271,["2"]=1745900935%11120388;m=1543241331%9350134+-469158,k=140827-1094375345%(963621362%23241932-(-938643));M=2247438079%10169403,G=-987640+631912835%3123392;E=1137230902%9097847,q=3336108057%14696511;X=-1010038-(-1010046),S=2582276084%14672023,["1"]=-55209-(-55261),C=554010+-553963,o=-19669+19687,N=-131717-(-131731),r=1760012150%13333425,K=1894109578%8892533;y=363441+-363418,z=-361821-(-361866);["7"]=941063-941001,p=-1034758+((2325462-70949655%1294500)-(1151797-907781)),F=-211474+(-138512-(-350040)),R=-990992+(-599563+(488890304%3268367-313064));W=(-465432+(552150906778%2629331263)%14969386)-564829;x=877625+-877591;["5"]=-257851-(-257906),s=1604939826%14590362,v=-310323-(-310324);Z=-819817-(-819820),t=214602416%1141502;["3"]=-924066-(-924096),D=385727-696120294%6441987;["4"]=(-356409+(164014+176088))+16366,l=13635428%2272566}local g={N=-599916+(1591064-1091092758%10093534),R=984811477%(11774965-(-691002)),g=939290-((-768065+3112660573)%14077659-(340823+-550186)),Y=-611976+612009;p=917722+-917717,O=1345582340%10851470;[">"]=(362516-(-338382))-700869,["+"]=-245658+245710;K=661558-661531,["5"]=((-1476015-267367)-(-947184))-(-796249);H=(119900+796288)+-916163;A=516168+-516140,_=-257720-(-257755);L=-191716-(-191728);e=2899226903%12605334,["("]=86846-907950433%(1356423457%(5296118008%35879982)),["-"]=653045625%2654657,["&"]=115639-115620;["2"]=379246612%(9602863-(-121409));m=(144121-578476)-(-434387),["$"]=3352488570%14768672;a=804518+-804443,r=524327280%2557694,["/"]=-867402-(-867465),X=(722882+(-156443+-111513))-454877,I=402988847%15499571;f=777610541%7069186;["!"]=280616-280534,["8"]=848986524%13475976,V=2530578524%10860852;["."]=72438+-72425;c=(386709+1891339081)%8260811;["<"]=(2745117424%22916148)%(543578-446809);j=119675+-119607,["1"]=2605802997%16703865,s=908460-16293546%15385145,["["]=(-44499+534287)+-489722;d=-742592-(-742635);["0"]=-881621+881700,E=382117-382047;["7"]=505986612%5216356;u=4479734%4479718;["="]=148043-148013;["\\"]=812984-812936,F=-289449+289505;["*"]=886576433%11816163+-364167,["%"]=848358-848291;Z=701135-701095;["9"]=(569219043-691166)%3553299,C=(202463-47769)+-154670;["@"]=-931559+(1886336-954700),[";"]=-663422-(-663445),[","]=1906652695%11991526,["\'"]=-184811-(-184861);W=-649115-(-649132),n=-203545+203589;b=-445871-(-445918),k=287190+-287144;T=1259443762%15548688;["?"]=205747528%3372910;["3"]=493105823%(4666923-((-158221+577693)+364728)),[":"]=-803119+803134;l=(-396588+503607)-(891656+(-218953-565762));o=-602244+602255;["4"]=634451+-634378,["6"]=479755903%6150716;["^"]=-791312-(-791332),U=-1004157-(-1004179);["]"]=-272003+272009;S=174378+-174339,M=-808301+808365;[")"]=-265875-(789370+-1055321),B=3107001938%13277786;["\""]=(-538054+1379678)-(1677475-835858),h=89762+-89709;q=(-690045+269256229)%1778584,D=5922+-5877,J=163991-163949,["#"]=952047955%10348347;P=-675003-(-675057),t=-648775-(-767310-(-118463)),["`"]=(((-782205-(-541577))+772314478)-(308646+-66984))%16421961;i=191491094%(-608095+(9623588-(-103127)));G=406660209%4518446,Q=-568564+568629}local L=s for h=1799013656%15643597,#L,96370-96369 do local E=L[h]if e(E)=="string"then local e=W(E,((-832535+1239098)+-487117)-(-80555),3079200227%15630458)if e=="m"then E=W(E,93803-93801)local e=y(E)local g={}local P=-934893+934894 local i=215391456%6730983 local I=1040740+-1040740 while P<=e do local r=W(E,P,P)local y=K[r]if y then i=i+y*((9650-9586)^((1405139208%14790939-I)))I=I+(144806+-144805)if I==((-1024833+61474)+876022)+87341 then I=-571243-(-571243)local W=F(i/(301099+((210416946%(-424922+3249584077%15527632)+-446575)+-466316)))local r=F((i%(26552-(-38984)))/((1471314075-(-1036458+1863457))%6684031))local y=i%(-44415-(-44671))H(g,m(W,r,y))i=34505198%189589 end elseif r=="="then H(g,m(F(i/(729247+-663711))))if P>=e or W(E,P+354226656%5286965,P+(-828366+828367))~="="then H(g,m(F((i%(210137-581372017%3774204))/(980086006%13067810))))end break end P=P+(990188-990187)end L[h]=r(g)elseif e=="]"then E=W(E,524395307%11653229)local e=y(E)local K={}local P=-789571-(-789572)while P<=e do local r=(e-P)+839964509%(-710183+1644645952%12109672)local y=r>=195951557%1020581 and 492717239%((-685066+13151034)-(-500275))or r local L=3252657078%16427561 local h=y>(-43075+(-91571-477254))-(-611901)for m=(9060-1018475)+1009415,684306+-684302,-63841-(-63842)do local r if m<y then local y=W(E,P+m,P+m)r=g[y]if not r then h=false break end else r=608185+-608101 end L=L*((-758538+1167561623)%(997365+3824135))+r end if h then local W=F(L/(16954236-177020))%(1151695616%4498810)local r=F(L/(593776-528240))%(-609560-(((-605367-(-875178))+(-212071-159590))-507966))local e=F(L/(799901+-799645))%(2024365686%14776390)local g=L%(1572903889%14170303)if y==(2009830197-633720)%12251198 then H(K,m(W,r,e,g))elseif y==-223607+223611 then H(K,m(W,r,e))elseif y==1906092365%8434037 then H(K,m(W,r))elseif y==577163-577161 then H(K,m(W))end end P=P+y end L[h]=r(K)end end end end local v,p do local m=table[S(-700791-(-649231))]local W={}local r=math[S(-4095-47452)]local y=string[S(859148-96241738%1381610)]local F={}local e=330033-330031 local H=math[S(-357555-(-305996))]local K=-603791-(-603791)for m=((-68437+-881232)-(-227515+2098091716)%16649467)+981029,1033243+(((909308+(((43129+(-1037023-(-5248)))-2025813629%(-138676+13207284))-(-226702)))-533313)-467649),108155161%(1786211757%12604247)do W[m]=m end repeat local r=H((-690297-(-331580+-566839))-208121,#W)local e=m(W,r)F[e]=y(e-(118922-118921))until#W==1219582590%10605066 local g={}local function L()if#g==764891-764891 then K=((K*(734529-1217527763%15402449)+((-335697-(-110101))+34165721577227)))%(((947306+35184371914952)-(-1014541+1041104))-746863)repeat e=(e*(531515+-531472))%((162281629628%867843600)%9267480-(1712768-868637))until e~=-459291+459292 local m=e%(-245496-(-245528))local W=((-1823649-(-358652-488326))-(-1284495-(-307811)))-((e-m))/(-533447+(477430+56049))local y=(r(K/(3727467185%15596097)^W)%(-207732+4295175028))/(484508+-484506)^m local F=r((y%(-922577+922578))*((-376887+-400717)+4295744900))+r(y)local H=F%((-577121-(-451745))-(-190912))local L=((F-H))/(-272858-(-29231-309163))g={H%(-453052+453308);((H-H%((251127501-760544)%4909151)))/(-817455+817711);L%(166691812%4630321);((L-L%(1040441278%12535434)))/(418416-418160)}end local m=#g local W=g[m]g[m]=nil return W end local h={}p=setmetatable({},{[S(371187-2245392198%10690331)]=h;[S(746339-797861)]=nil})function v(m,W)local r=h if(r[W])then return W else g={}local y=F K=W%(-158927+35184372247759)e=W%(-159216+159471)+((2417642146%17139702+-165718)-778444)local H=#m r[W]=S(-325588-(839526+-1113603))local h=(426567+((451855+-308193)+-412173))+(((-423352+1400229)+-1769332)-(-634464))local E=S(234589+-286100)for W=(1856293921-(-1029674))%8519833,H,-481505+481506 do h=(((string[S(-731899+680346)](m,W)+L())+h))%((-312331+-212611)+525198)E=E..y[h+(-315656-(-315657))]end r[W]=E end return W end end local m=require(p[v(S(-913895-(-862381)),1477247777%8486620+3345571715962)])local W={}local r=p[v(S(-771217-(275890+-995592)),274213+6869819464598)]local y=(929562-905391539%(2389217386%14167689))+-101419 local F=821130-(-660395+(410284+1071240))local e=nil local H=false local K=-169339+-999830661 local g=false local L={}local h={}local function E(m)local W,r=pcall(m)if W then return r end return nil end local function P(m)m=tostring(m or p[v(S((-118313+854294)+-787492),-569366+26848075806673)])m=m:gsub(p[v(S((177211-109873)+-118866),(13604226617160-(-85395))-(-1034744))],p[v(S(476459+-528016),20234137046583-(-457345))])m=m:gsub(p[v(S(103947-155498),530232+(4.5896441263534e+14%3301902343437-974771))],p[v(S(-275159+(-239142-(-462796))),9123723618313-(-681214))])m=m:gsub(p[v(S((-36788+194381)+-209099),-835858+182808887770)],p[v(S(257154+-308665),-7781+(-385286+31826071947304))])return m end local function i(m)local W={}local r=381586-381585 local y=#m while r<=y do local F=m:sub(r,r)if F==p[v(S(656993-708562),33646551764532-(-496794))]and r<y then local y=m:sub(r+(-560760+1196441359)%(-529446+(435627+6133620)),r+((967087+-752765)-3266014153%14912328))if y==p[v(S(790838-842379),28207792317181-139175)]then W[#W+(280339539-(1393307-1029714))%1985645]=p[v(S(-380537-(-329008)),20593403914660-(-835171))]r=r+(-445105-(-445107))elseif y==p[v(S(953431683%11483798+(116086538%849785-843729)),(30847322650741-214995)-(-767353))]then W[#W+((-225287-(-49222))+176066)]=p[v(S(939238+-990745),(-547145+554909)+7070963847242)]r=r+(173759177002%779238775)%16699325 else W[#W+2495738015%16206091]=y r=r+170258910%1506716 end else W[#W+(1464267472%13187400-351457173%15954141)]=F r=r+(49969+-49968)end end return table[p[v(S(929658-(409291+(-449836-(-1021766)))),25719887072751-(-227698))]](W)end local function I(m)if not m then return nil end local W=E(function()return m:get_guid()end)if type(W)==p[v(S(799851-851393),9054326525513-(-109562-(-1661761-((536533+-2016153)-(-563433)))))]and W~=p[v(S(79835+-131346),8.0131597679294e+15%31179610017432)]then return W end return nil end local function J(m)local W=(tostring(m)):gsub(p[v(S(-540725+489181),13130697228310-(-368396))],p[v(S(-148255-(-605450-(-508726))),8553914778981-(-790539))])return r..(p[v(S(-400926-(-349376)),31662355574108-(-118947))]..(W..p[v(S(849848+-901347),14318495629883-(-685249))]))end function W.register(m,W,r)if type(m)~=p[v(S(314495+-366020),4.5597161916599e+14%14249113552615)]or m==p[v(S((-887501+(1605988-((162730-(-199173))+31657992)%814733))+-524690),-578797+(5363981255178-255837))]then return end if type(W)~=p[v(S(-640923+589384),(-785538-(-233690))+13472550952963)]or type(r)~=p[v(S(221413-272934),8660750483013-803247)]then return end if not L[m]then h[#h+468963003%11438122]=m end L[m]={[p[v(S(471578-523094),-673923+30998801361485)]]=W;[p[v(S(679221-730744),32147259288492-((1108153-690057)-116076))]]=r}end function W.mark_dirty()H=true end local function x(m)local W={p[v(S(-208583-(-157075)),18129431693714-575006)],p[v(S(803451-854991),25615177703021-(-653513))]..tostring(F);p[v(S(749608+-801169),-635034+6107964743877)]..P(m)}for m=(-1029004-(-245564))+275967809%17199023,#h,-593356-(-593357)do local r=h[m]local y=L[r]if y then local m=E(y[p[v(S(661270+-712822),34376958257691-(-180834))]])if type(m)==p[v(S(822727-874262),133802+6947963298391)]and m~=p[v(S(-572797-(-521286)),(2017657834074-(1030242648%4996552+(-193051-143269)))-327922)]then W[#W+(876948-(-609184+1486131))]=r..(p[v(S(-74412-(249117-271993)),(55443609789165%27721804913329-1727855216%8636270)-(-887592))]..P(m))end end end return table[p[v(S(99783-151329),-853087+1784754541403)]](W,p[v(S(-534128-(-1384979-(-902377))),32686287812474-943067)])..p[v(S(55776+-107342),(19917586374890-706986)-(-333224))]end local function B(m)local W={}if type(m)~=p[v(S(836938+(41753+-930224)),25816979304559-((-536502-(-453846))-(145026+((-779889-(-318950))-(-167131)))))]then return W end for m in m:gmatch(p[v(S((-930668+(-237722-(-218848)))+898015),709626+(-428818+18328207523617))])do if m:sub(-754934-(-754935),232972+-232971)~=p[v(S(382736-434292),653316+((-679942-89972)+28978072148915))]then local r,y=m:match(p[v(S((540293-554825)-656098659%3231831),((512562-(-193635))-(-10721))+8692404066382)])if r then W[r]=i(y)end end end return W end local function T()if g then return end g=true pcall(function()core[p[v(S(((((-834720+(738797-847013))+(-531195+1520130))-(-87272))-471540)+286721),1413596357165-852656)]](r)end)end function W.load(m)local W=I(m)if not W then return false end if e==W then return false end e=W T()local r=J(W)local y=E(function()return core[p[v(S(-1049975-(-998478)),12715596990158-982847)]](r)end)if type(y)~=p[v(S(635931+(-925484+237989)),6445480313969-(-375905))]or y<=792764+-792764 then(require(p[v(S(-354931-(-303388)),32056564929101-253802297%2981118)]))[p[v(S(-184622+133090),2203603485533-(-1030585+1541173))]](p[v(S(820562-872116),34615250092004-(-622118))])return false end local F=E(function()return core[p[v(S(826001-877521),921406+21511065028952)]](r)end)if type(F)~=p[v(S(-675134+(72976-(-550654))),(686255+13519296569970)-866047)]or F==p[v(S(757263-808774),46990865%7769573+12858525973354)]then return false end local K=B(F)if K[p[v(S(977658+-1029226),157607+(-325400+31589929432896))]]~=W then(require(p[v(S((-550951+385741)+113698),34003997098919-(-398459-(842633+-1731168)))]))[p[v(S(-723980-(354070-((-41627+581060)-(-487098)))),-78663+(8411022035689-889631))]](string[p[v(S(-624749+573211),-714029+4195196994012)]](p[v(S(-66489-(-14934)),31506687327814-64502)],r,tostring(K[p[v(S(837877+-889411),14244528197965-(-504542))]])))return false end local g=49777+-49777 for m=-349049-(-349050),#h,538629+-538628 do local W=h[m]local r=K[W]if r~=nil and L[W]then local m=pcall(L[W][p[v(S(-485664-(-434161)),8026555670867-(-113647))]],r)if m then g=g+1254449197%5430516 else(require(p[v(S(-878098-(-826536)),(13535491862907-(-835379))-333809193%((934567492011%5221060817)%30776050))]))[p[v(S(633288+-684855),13243996565674-(-488190-(-1018275)))]](p[v(S((-839217+2398721552%(3626067569%(2076713276%27778418)))-519593),8513210015722-(27498-285178))]..W)end end end;(require(p[v(S(366041+-417599),117587+(1038125+31280325662600))]))[p[v(S(-587629-(-536120)),-716329+9134297448076)]](string[p[v(S(364534-416064),3740573832673-2703084393%10766015)]](p[v(S(345725+(-1012554-(-615280))),200641+6834546446771)],g))H=false return g>-535382-(-535382)end function W.save(W)local r=I(W)if not r then return false end T()local y=J(r)local F=x(r)pcall(function()core[p[v(S(-930526-(-879016)),20713890841462-450016)]](y)end)local e=pcall(function()core[p[v(S((846359+-915996)-(-18100)),27401575187728-540508)]](y,F)end)if e then H=false K=m[p[v(S(((-986990-(-113011))+543751)-(-278658)),735780+17643791819011)]]()return true end;(require(p[v(S(-432110+380597),922425+15448232478500)]))[p[v(S(-716528-(-185095-479916)),901380+29896307734415)]](p[v(S(-745506-(-693935)),5751077621652-26572)]..y)return false end function W.tick(r)if not r then return end if e==nil then W[p[v(S(-178534+(-802142+929152)),1038301+(-386213+35001678762008))]](r)return end if not H then return end local F=m[p[v(S((-174636-661036)-(-784107)),(-432080+18501949262584)-901982)]]()if(F-K)<y then return end W[p[v(S(1019254+-1070799),134813+17405895751208)]](r)end function W.reset()e=nil H=false end function W.path_for(m)local W=I(m)if not W then return nil end return J(W)end return W end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Per-character settings, saved to scripts_data/
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- WHAT THIS IS FOR, AND WHAT IT IS NOT FOR
+--   core.menu elements already persist. Every checkbox, slider and combobox in
+--   this plugin is created as core.menu.checkbox(default, id) and the loader
+--   stores it against that id, so those come back on their own and are NOT
+--   written here - duplicating them would mean two copies that disagree.
+--
+--   What does not survive is the state held in plain Lua tables, because it is
+--   discovered at runtime and has no element behind it:
+--
+--     the chosen grind route   a route list that only exists after the
+--                              catalog loads
+--     the buff toggles         a spell list that only exists after the
+--                              spellbook scan
+--
+--   Those are what this file keeps.
+--
+-- KEYED ON THE CHARACTER, NOT THE ACCOUNT
+--   One file per GUID, and the GUID is also written inside it. The filename
+--   alone would be enough in the normal case, but a file that gets copied or
+--   renamed would then be applied to the wrong character, and a bot that
+--   silently loads another character's route is worse than one that loads
+--   nothing. The inside copy is checked before anything is applied.
+--
+-- THE FORMAT IS LINES, NOT LUA
+--   `key=value`, one per line, with newlines and backslashes escaped in the
+--   value. Reading a settings file must never be able to execute anything:
+--   this file is on disk where other programs can edit it, and load()ing it
+--   would turn "restore my settings" into "run whatever is in that file".
+--   A line the parser does not understand is skipped, not fatal.
+--
+-- WRITING IS DEBOUNCED
+--   Settings change on a click; a write is a disk hit. Changes mark the state
+--   dirty and the tick flushes at most once every SAVE_GAP seconds, plus once
+--   more when the bot stops.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local settings = {}
+
+local FOLDER = "mfz"
+local SAVE_GAP = 4.0
+local FORMAT = 1
+
+local loaded_for = nil       -- guid whose file has been applied
+local dirty = false
+local last_save = -1e9
+local folder_ready = false
+
+-- key -> { get = fun():string|nil, set = fun(value:string) }
+local providers = {}
+local order = {}
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- ESCAPING
+-- ----------------------------------------------------------------------------
+-- A value may contain anything a spell name may contain. Newlines would break
+-- the line format and backslashes would break the unescaping, so both are
+-- encoded; nothing else needs to be.
+local function escape(v)
+    v = tostring(v or "")
+    v = v:gsub("\\", "\\\\")
+    v = v:gsub("\n", "\\n")
+    v = v:gsub("\r", "")
+    return v
+end
+
+local function unescape(v)
+    local out = {}
+    local i = 1
+    local n = #v
+    while i <= n do
+        local c = v:sub(i, i)
+        if c == "\\" and i < n then
+            local nxt = v:sub(i + 1, i + 1)
+            if nxt == "n" then
+                out[#out + 1] = "\n"
+                i = i + 2
+            elseif nxt == "\\" then
+                out[#out + 1] = "\\"
+                i = i + 2
+            else
+                out[#out + 1] = nxt
+                i = i + 2
+            end
+        else
+            out[#out + 1] = c
+            i = i + 1
+        end
+    end
+    return table.concat(out)
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+--- The character's GUID, or nil while the player object is not ready.
+local function guid_of(player)
+    if not player then
+        return nil
+    end
+    local g = safe(function() return player:get_guid() end)
+    if type(g) == "string" and g ~= "" then
+        return g
+    end
+    return nil
+end
+
+--- A GUID is "Player-970-0002FD41". Anything outside that shape is not put
+--- into a path: a filename is the one place a surprising string becomes a
+--- request to write somewhere unintended.
+local function file_for(guid)
+    local safe_name = tostring(guid):gsub("[^%w%-_]", "_")
+    return FOLDER .. "/" .. safe_name .. ".txt"
+end
+
+-- ----------------------------------------------------------------------------
+-- REGISTRATION
+-- ----------------------------------------------------------------------------
+--- Register one persisted value.
+---
+--- `get` returns a string to store, or nil to store nothing for this key.
+--- `set` receives the stored string on load. Both are wrapped, so a provider
+--- that throws costs its own key and not the whole file.
+function settings.register(key, get, set)
+    if type(key) ~= "string" or key == "" then
+        return
+    end
+    if type(get) ~= "function" or type(set) ~= "function" then
+        return
+    end
+    if not providers[key] then
+        order[#order + 1] = key
+    end
+    providers[key] = { get = get, set = set }
+end
+
+--- Something changed; write it out on the next flush.
+function settings.mark_dirty()
+    dirty = true
+end
+
+-- ----------------------------------------------------------------------------
+-- SERIALISE
+-- ----------------------------------------------------------------------------
+local function serialise(guid)
+    local lines = {
+        "# Master Farmer - Zygor Forever settings. Rewritten automatically.",
+        "format=" .. tostring(FORMAT),
+        "guid=" .. escape(guid),
+    }
+    for i = 1, #order do
+        local key = order[i]
+        local p = providers[key]
+        if p then
+            local value = safe(p.get)
+            if type(value) == "string" and value ~= "" then
+                lines[#lines + 1] = key .. "=" .. escape(value)
+            end
+        end
+    end
+    return table.concat(lines, "\n") .. "\n"
+end
+
+local function parse(text)
+    local out = {}
+    if type(text) ~= "string" then
+        return out
+    end
+    for line in text:gmatch("[^\n]+") do
+        if line:sub(1, 1) ~= "#" then
+            local k, v = line:match("^([%w_]+)=(.*)$")
+            if k then
+                out[k] = unescape(v)
+            end
+        end
+    end
+    return out
+end
+
+-- ----------------------------------------------------------------------------
+-- LOAD / SAVE
+-- ----------------------------------------------------------------------------
+local function ensure_folder()
+    if folder_ready then
+        return
+    end
+    folder_ready = true
+    pcall(function() core.create_data_folder(FOLDER) end)
+end
+
+--- Read this character's file and apply it. Returns true when something was
+--- applied, false when there was nothing to apply.
+function settings.load(player)
+    local guid = guid_of(player)
+    if not guid then
+        return false
+    end
+    if loaded_for == guid then
+        return false
+    end
+    loaded_for = guid          -- one attempt per character, success or not
+
+    ensure_folder()
+    local path = file_for(guid)
+
+    local size = safe(function() return core.get_data_file_size(path) end)
+    if type(size) ~= "number" or size <= 0 then
+        require("actlog").console("[Master Farmer - Zygor Forever] No saved settings for this character yet.")
+        return false
+    end
+
+    local text = safe(function() return core.read_data_file(path) end)
+    if type(text) ~= "string" or text == "" then
+        return false
+    end
+
+    local data = parse(text)
+
+    -- The GUID inside the file has to match. A copied or renamed file would
+    -- otherwise apply another character's route and buffs to this one.
+    if data.guid ~= guid then
+        require("actlog").console_warn(string.format(
+            "[Master Farmer - Zygor Forever] %s belongs to %s, not this character. Ignoring it.",
+            path, tostring(data.guid)))
+        return false
+    end
+
+    local applied = 0
+    for i = 1, #order do
+        local key = order[i]
+        local value = data[key]
+        if value ~= nil and providers[key] then
+            local ok = pcall(providers[key].set, value)
+            if ok then
+                applied = applied + 1
+            else
+                require("actlog").console_warn("[Master Farmer - Zygor Forever] settings: could not apply " .. key)
+            end
+        end
+    end
+
+    require("actlog").console(string.format("[Master Farmer - Zygor Forever] Restored %d setting group(s) for this character.", applied))
+    dirty = false
+    return applied > 0
+end
+
+--- Write this character's file now.
+function settings.save(player)
+    local guid = guid_of(player)
+    if not guid then
+        return false
+    end
+    ensure_folder()
+    local path = file_for(guid)
+    local body = serialise(guid)
+
+    -- create_data_file creates the file, or empties it when it exists;
+    -- write_data_file appends and never creates (audit F4) - so this pair
+    -- replaces the file's contents every time.
+    pcall(function() core.create_data_file(path) end)
+    local ok = pcall(function() core.write_data_file(path, body) end)
+    if ok then
+        dirty = false
+        last_save = izi.now()
+        return true
+    end
+    require("actlog").console_warn("[Master Farmer - Zygor Forever] could not write " .. path)
+    return false
+end
+
+--- Load once, then flush when something changed. Cheap enough for every tick.
+function settings.tick(player)
+    if not player then
+        return
+    end
+    if loaded_for == nil then
+        settings.load(player)
+        return
+    end
+    if not dirty then
+        return
+    end
+    local now = izi.now()
+    if (now - last_save) < SAVE_GAP then
+        return
+    end
+    settings.save(player)
+end
+
+--- Forget which character was loaded, so a character swap re-reads.
+function settings.reset()
+    loaded_for = nil
+    dirty = false
+end
+
+--- The file this character would use, for a status line.
+function settings.path_for(player)
+    local guid = guid_of(player)
+    if not guid then
+        return nil
+    end
+    return file_for(guid)
+end
+
+return settings

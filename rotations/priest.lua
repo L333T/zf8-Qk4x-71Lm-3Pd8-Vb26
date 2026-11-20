@@ -1,1 +1,163 @@
-return(function(...)local h={"U&`+>![_m","Us<i#i\\.Vb>","UZ+qInip","UO\"kc9","?z5VktXGdhXbdB22FKpf=","?zkdVWzqpUBiKCBn=";"Uj\"$S;=GT(Im:","?7xeF1isc";"?3eimmuMp","U>bI).ha";"?tED/jcViO2kYx/7=";"Uo)BLt";"UV--N1-tm:p\'pGuZ#V","?GJIPdJ0V";"U","?OFaqP96=","?WtlQCIY=";"?aeMk35pHMKYym11U";"UcsiL5Q4u","U/hR;:rV8";"?+omnzuh=","UcK%4jF!=)9tcB_";"?7epphF==";"?z1IDYC9=","?htJVCIWZ","U\',W4j2$kfB77","UdlB2*K%E","?yZwDxuyV","UESBh7j3>)16i-uIaR","?Wu24NrjX64F=","Uu*G-)fpIDgtq`eA","U5PgL4","?kQFbhm4gBVNNArBnGS==","?7GR7EJ96JF+D6+==";"U4\'ZY0idl@","?NuJsM2RoAxHZUS==";"?RwkNZaphDN==","?zkdaCtqZMS==","UddLm","?NiuheD1+","?WYQJEiyQ","UB98&/Ggbh4_DZuZuE(";"?dGf9Tnz9aF==","?S2lSI7KI/XL8/19V"}for E,T in ipairs({{1412863952%8667877,720128+(779309474%3590732-840714)},{-943838+943839,-601695-(-601737)};{-910956+910999;1466101799%(465628+7545857)}})do while T[-896580-(-896581)]<T[197582702%3293045]do h[T[-952166-(-952167)]],h[T[(1564468-853323)+-711143]],T[920794-502261893%3213725],T[(-140738+892230)+-751490]=h[T[-239111+239113]],h[T[157906-157905]],T[(-586368-24391)-(-610760)]+1122750281%5909212,T[-849035-(-849037)]-(-685480-(-685481))end end local function H(E)return h[E-(70003582%(5035-(-901548))+-174186)]end do local E=table.insert local T=table.concat local L=h local t=math.floor local w=string.char local k={E=22041866%5510466,["5"]=((-682500+185202950)-(-112771-22740))%14204303;Q=(1225972-533613)-692312,j=1240471117%10424127;U=502687253%3222354,q=651385493%5169726,k=93559481%866291,p=(842274134235%(-532591+378708170097%(177030146099%4116992253)))%16049050,L=-479998+480005,l=(514259+221465)+-735675;["1"]=-1031139+1031201,a=(1998946877-709346)%14072095;o=516646640%3184422-770257,V=-922887-(-922932),d=-939868+939929;c=((-480619-(-1037900))-1020253)+462982,["9"]=-642192+((474419+-500014)+667847),["2"]=194152401%1849070,P=(994577+-964838)-29696,i=2915611457%12459878;K=96461-96427,["/"]=1273537831%9643650+-576022;w=532116982%(7520246-523808)-387642,H=-397762-(120614-422890435%1703113);T=(54920469508%409950217)%1557218,Y=636480805%14801879;I=788115-788060;m=-28902+28928;D=(752382944-766045)%((3282699791-226393)%14232197-986186);M=(20704677744%163141428)%(1222191-(-1033230));X=2839945883%12241146,B=2420146770%10901562;["0"]=2431968435%15105394,O=-985773-(939854+-1925642),F=283881512%2365679,x=-312915+312927,["8"]=(-705974-(-183417))+522560;h=1008622-1008594,J=1729410671%11926970,["7"]=796652+-796628,N=116111+-116095,R=314604462%4915694,S=-502254+(715213-212959),["4"]=155714-155700;C=861267+(-665174+-196066);A=-771890+771940;G=2283909005%10927794;["6"]=(715811+-1626828)-(-911073);f=281786039%(1605619933%8268624);s=-818109-((-2043045-(-371069))-(-853809)),g=227184295%(628997659%4429991),Z=-737285-(-737322);u=3354035112%14212013;W=1653408145%9841715,b=351179154%1520256;["+"]=(100853099084%579651860)%13333192,y=(-77583+-713322)-(-790936),t=(-630717-96653)+727408,r=294978751%1337778+-667528,z=(((1188459142%6564820+-970362)+658408)-774862)-(-860117);n=172597+((884212+(453145+-2207188))-(205755-903009)),e=(-96567+828601)+-731980;v=953267535%13815471;["3"]=(-124518+926209)+-801649}local K=type local i=string.sub local l=string.len local B={["\\"]=(((204118343881%(223845912292%1472697525))%12633886+442830)-723770)+-295643,["#"]=(688598+535440996)%6459392;["^"]=-1027052+1027099;[">"]=-241361+241426;["("]=-848913-(-848973);S=396726+(-837333-(-440632));["1"]=748897+-748849,T=(2385402610%9579797+1279590813)%(-860252+8568830);["!"]=502227041%2759489,["2"]=(-572689+129582)+((-577303-(-415330))-(-605096));h=716296-716232;["&"]=427487-(-330432-(-757843));["["]=-674366-(-674434),b=-283618-(-542093-(-258405));X=3311029029%15842244;K=-555239+(-290266+845537);Q=-349814-(371612-721466),e=207375-207322;["`"]=(-715665-(-318417-348871))+((53246509967488%380332252393)%1578123408)%10308618,["/"]=-654125+654161,c=-493789+(1413206-919365),q=-477028+477110;D=-824778-(-824861),["0"]=236896+(723587-960462);L=-622268+622274,Z=1057328451%4597080;V=100371-(-865599-(-965901));["7"]=642803+-642776;d=1276591879%11297273;["3"]=-682515-(-682556),[";"]=836287-836215,[","]=420258-420249;i=-897749-(-897795);j=517219241%4789067;["?"]=408751+-408717,["]"]=757189+-757170,C=3231107446%13987478,["\'"]=(12181635-(-105183))%945136,f=1738106754%13904854,_=-609290-(-609327),[")"]=-275242-(-275271),["4"]=536250-536239;a=1193649108%9473405,["."]=340960-(112625+228320),N=(43981-(-557477))+(-1320071-(335747+-1054384));F=987406-987380,n=(2830223-895906)%77371;p=800383-800360;s=143490559%1939061,["*"]=3453301505%14949357,["5"]=-174758+174789,G=(1395737373-(-560426))%(1088054037%17184123),[":"]=128577929%4592066,["8"]=204549050%(1618391-(476655+-1182685)),["$"]=492996880%9480709;R=293430+-293367,W=-337787-(-337860),I=-180411+180468,["6"]=946539-946465,o=630945-630870;Y=934330+-934246;["<"]=-294685-(-294702),k=((-825083-98362)+306431)-((916947250%41726522)%(3046383383%15596848-24351)+-1518003),["-"]=(800161+134986)+((155017+(1003221+(-1880323-(-157182))))+-370183);m=-309609+309663;P=1074546655%(-388441+14715729);t=-8598+8664;["9"]=2548913924%(431919+(10402955-((442917+-1510904)-(-263985))));["\""]=395451758%7322715-25148,B=-607261+607264,["="]=6704-6690,O=-843866-(-843915);M=1345186402%11697273,u=1016746-1016745;g=2732033322%(2291265007%21284737);A=-840729+840773;H=-373736+373795,["+"]=122004039%1220040,l=-501046-(-501102),E=2184507268%13739039,r=1041037+-1041002;U=(-76020-(-151980))-75947;J=-889031-(-889110);["%"]=1718935555%15211819,["@"]=303198+-303178}for a=121931-(909392-787462),#L,-480878-(-480879)do local M=L[a]if K(M)=="string"then local K=i(M,-422643+422644,2333514637%10325286)if K=="?"then M=i(M,525405442%4104730)local K=l(M)local B={}local I=(74489529%1125824-(-1033368-(-699568)))-518944 local x=228256994%((11615821383%((137161315721-97901)%(-1031584+(97775+(-257612+842743566)))))%7480003)local p=406586-406586 while I<=K do local T=i(M,I,I)local L=k[T]if L then x=x+L*((-263430-(-263494))^((1840256995%16430866-p)))p=p+(16423992941%328574665)%8303445 if p==-789512+789516 then p=774745+-774745 local T=t(x/(113089+-47553))local L=t((x%(-97250-(-162786)))/(615285-615029))local k=x%(-428598-(-428854))E(B,w(T,L,k))x=-83376+83376 end elseif T=="="then E(B,w(t(x/(-619616+685152))))if I>=K or i(M,I+(26492-26491),I+(-908107-(-1863831-(-955723))))~="="then E(B,w(t((x%(717354-((-1015170+1292179)+374809)))/(641829936%(664034+15381708)))))end break end I=I+1921041865%15246364 end L[a]=T(B)elseif K=="U"then M=i(M,-680221+680223)local k=l(M)local K={}local I=-515323-(-515324)while I<=k do local T=(k-I)+(570395-349002328%1968542)local L=T>=-801808+1112863198%(2406356959%17753236)and(2629732920-348028)%(725391+9750246)or T local l=710788+-710788 local a=L>978429258%(5740401-276921)-466337 for E=(-1221247-(-971760+373422))-(-622909),147617+-147613,-513881-(-513882)do local T if E<L then local L=i(M,I+E,I+E)T=B[L]if not T then a=false break end else T=100495+-100411 end l=l*(289943-289858)+T end if a then local T=t(l/(3496837553%20592073))%((-1179707-(-627320))+552643)local k=t(l/(981500+-915964))%(2915795502%16109366)local i=t(l/(461038-460782))%(-856566+856822)local B=l%(-487243+487499)if L==-420893-(-420898)then E(K,w(T,k,i,B))elseif L==(109541+(-1061658-(-612291)))+339830 then E(K,w(T,k,i))elseif L==-485979+485982 then E(K,w(T,k))elseif L==(79600281108%(331772108-2890731186%11335996))%5700438 then E(K,w(T))end end I=I+L end L[a]=T(K)end end end end local V,p do local E=table[H((641438+1255678038)%11851858)]local T={}local L=string[H(((-56732-(-450178))+-837372)-(-466452))]local t={}local w=math[H(-1036911+1059431)]local k=((-925538+2762165)-973320)-(720060-(-322360-(-179113)))local K=(-24549-(-205913))-181362 local i=math[H(-934930+(-107409+1064862))]for E=-690975-(-690976),1249912%52069,390349-390348 do t[E]=E end repeat local w=i(97786018%4656477,#t)local k=E(t,w)T[k]=L(k-(250990+430949779)%13475024)until#t==-122236-(-122236)local l={}local function B()if#l==((757945+-701172)+844673)-901446 then k=((k*(-1024373+1024482)+(-62679+21356667269912)))%(35184371605396-(-483436))repeat K=(K*((256253+913845524)%12352726))%(-348645+(-373912-(-722814)))until K~=749298+(587139+-1336436)local E=K%(-912903-(-1616660-(-703725)))local T=(-517014-(-517027))-((K-E))/(773358-(795518+-22192))local L=(w(k/(-102609+(637161-534550))^T)%((822055+(-772613+482565))+4294435289))/(53750445%392339)^E local t=w((L%(-982349-(-982350)))*((-861254+253535196680)%(4297756577-526092)))+w(L)local i=t%(-249744+315280)local B=((t-i))/(-605532+671068)l={i%(2426379556%((46973924097%484332847)%11937603+15187395)),((i-i%(1400457982%8092558-445192)))/(964084+(534219+((-1269850-(-923217+626504))-524910))),B%(560694+-560438),((B-B%(-751809+752065)))/(-69491+69747)}end local E=#l local T=l[E]l[E]=nil return T end local a={}V=setmetatable({},{[H(732519611%4386210)]=a,[H(-911662-(-934171))]=nil})function p(E,L)local t=a if(t[L])then return L else l={}local w=T k=L%((35184371045867-(-358228))-(-151123+-533614))K=L%(169935-169680)+(-118258+118260)local i=#E t[L]=H(249410+-226892)local a=521750-521690 local M=H(39215+-16697)for T=791883-(559288543-716741)%11620415,i,-989342-(-989343)do a=(((string[H(1361336785%5445257)](E,T)+B())+a))%(-358982-(-359238))M=M..w[a+(202191-202190)]end t[L]=M end return L end end local E=require(V[p(H((-801186+1699127)-875396),5582741301692-1312059820%5580659)])local T=require(V[p(H(-162018-(-184539)),-901463+7081714532748)])local L=require(V[p(H(270648226%8200586-(247190-240844)),159065+25373338266546)])local t=require(V[p(H((-4872-371280)+398690),833971+20994569041846)])local w=require(V[p(H(-605051-(-1488141-(-860544))),(-380557+1122706)+18054415336349)])local k=require(V[p(H(-394923+417442),-286859+17057762021172)])local K=require(V[p(H(1977606622%7847556),20387491453474-(-247403))])local i=require(V[p(H(1459447066%6030680),(582322+((17859635744696-(-164917))-(-606851)))-889125)])local l={}local function B(T,L,t)local w=E[V[p(H(1994756401%10389239),-334512+(9035672656032-(5105+-490012)))]](T)if not w then return nil end if L and w[V[p(H(-998684-(-1021223)),838229+11730890471763)]]then w:track_buff(T)end if t and w[V[p(H(1990030609%(1898391157%14970877)),(-259550+(29286873922280-844847))-262736)]]then w:track_debuff(T)end return K[V[p(H(837310-814786),(-1757353-(-902021))+19992091517476)]](w,T,L,t)end local a=B({-56467+81854;-75291+94098,(-309973-(-519909-138854))-331476,350158-1201160133%13963108,(((-615599+-477816)-(-97499))+317669)+695559;111204+-93893;261646+-246239})local function M(E)local T,L=pcall(E)if T then return L end return nil end local function I(E)if not E then return false end if not K[V[p(H(141321+-118794),264478+11959146677434)]]()then return false end return K[V[p(H((2494751378-(-777262))%14673813-957916),-158756+32355333946174)]](E)end local function x(E)local T=M(function()return E:get_health()end)local L=M(function()return E:get_max_health()end)if type(T)==V[p(H(1258271676%14137631),23691390823085-((-1829250-(-477240))-(-718233)))]and(type(L)==V[p(H(-992226+559472299%7865599),15361072508004-(572734-737297620%16382099))]and L>-921782-(-921782))then return((T/L))*(-1016351+1016451)end local t=M(function()return E:get_health_percentage()end)if type(t)==V[p(H((-1155233-(-992518+815518))-(-1000776)),31720462241085-961794)]and t==t then return t end return 562384-562284 end function l.class_id()return T[V[p(H(1318519033%9839526),((-244479+-403144)-(41753+-460530))+((211951+688284)+(150804+27297318727095)))]][V[p(H(496449-473937),47989143230117%564578180422)]]end function l.label()return V[p(H(2291278367%10005484),34132690781700-(-218470))]end function l.combat_range(E)local T=a if T and(type(T[V[p(H(-352292-(-374808)),(808939+21819956249225)-653408)]])==V[p(H((988773+-77775)+-888450),9685769294550-(-330104))]and T[V[p(H(-821224+843756),1036406+(27512800789477-847110))]]>10049446%10049446)then return T[V[p(H(-177190-((-707094-(-353520+(640850+(-366709-662335))))+-234346)),32735829834536-540906)]]end return-764963-(-648596-((-1298638-(-820184))-(-729517-(-134666))))end function l.scan_range(E)return((-1015017+667985)+-335742)-(-682809)end function l.combat_profile()return{[V[p(H(406441-383926),(-314405+(9987497477741-(611279+371905)))-(-325132))]]=V[p(H(1323147279%(869976656%11361300)),34322810641190-(-747501))],[V[p(H(-1021482-(-1261655-(-217626))),(-1646250-(-191356+-835465))+7708558817041)]]=190041356%9049588;[V[p(H(-190107-(-212644)),((-791307+(-681833+(((-645588-(-218985))+-102873)+2310327)))+74657640309409)%3393529691820)]]=2183280436%8839192,[V[p(H((317341+691107)-985940),(23010541955117-806215)-(-151271))]]=function(E)if not E or not E[V[p(H(-899642-(-922164)),965554+557564485685)]]then return false end if E[V[p(H(651032025%13020190),21521316183493-(286758+-628313))]]<892093-892092 and E[V[p(H(68607+-46074),(-90709-(-474737))+1771433570800)]]>254888058%10195522 then return false end local T=E[V[p(H((214840+-456080)+263770),(-600528+1162933)+7123333039994)]]if T and x(T)<502949+-502914 then return false end return false end}end function l.rest(E)return t[V[p(H(1316093703%12415766),-449783+7397799559224)]](E,{[V[p(H((76096732-(-1025214))%707334),19976202515016-417269)]]=845255+-845225,[V[p(H(466072-(-161784+605327)),((-374215+23371816505410)-(-782791))-(-861494))]]=2493686377%10388494+-447787})end return l end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Priest grind filler + OOC buffs (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- Ported from the reference grindbot's Buff_Check Priest branch, which kept
+-- only Power Word: Fortitude and Shadowform. That is not enough to level with,
+-- so this adds a shadow-leaning filler rotation and self-healing.
+--
+-- Two things the source does that are NOT copied:
+--   * it casts Shadowform unconditionally whenever the spell is known.
+--     Shadowform locks out every healing spell, so here it is behind a GUI
+--     toggle that defaults OFF.
+--   * it has no self-heal at all. A priest that cannot heal itself while
+--     grinding dies to any two-pull.
+--
+-- SPELL IDS
+--   Rank arrays are highest-rank-first, matching rotations/mage.lua. A wrong ID
+--   fails CLOSED - spellbook reports the spell as not learned and it is simply
+--   never cast - but it fails silently, so `mfz_priest_debug` logs which of
+--   these the scanner actually resolved. Turn it on once after any ID edit.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local priest = {}
+
+-- ----------------------------------------------------------------------------
+-- SPELLS  (highest rank first)
+-- ----------------------------------------------------------------------------
+local function make(ids, track_buff, track_debuff)
+    local spell = izi.spell(ids)
+    if not spell then
+        return nil
+    end
+    if track_buff and spell.track_buff then
+        spell:track_buff(ids)
+    end
+    if track_debuff and spell.track_debuff then
+        spell:track_debuff(ids)
+    end
+    return spellbook.watch(spell, ids, track_buff, track_debuff)
+end
+
+local mind_flay  = make({ 25387, 18807, 17314, 17313, 17312, 17311, 15407 })
+
+-- ----------------------------------------------------------------------------
+-- HELPERS
+-- ----------------------------------------------------------------------------
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+local function learned(spell)
+    if not spell then
+        return false
+    end
+    if not spellbook.ready() then
+        return false
+    end
+    return spellbook.spell_known(spell)
+end
+
+local function health_pct(unit)
+    -- 2.306.0 (audit IZI-2): get_health / get_max_health first (game_object.lua,
+    -- exact); then get_health_percentage AS IS - izi_sdk.lua:72 says 1..100, so
+    -- the old "0..1.5 means a fraction, x100" rescale read a unit at 1% as 100%.
+    -- The undeclared health_pct() is no longer read.
+    local cur = safe(function() return unit:get_health() end)
+    local mx = safe(function() return unit:get_max_health() end)
+    if type(cur) == "number" and type(mx) == "number" and mx > 0 then
+        return (cur / mx) * 100
+    end
+    local p = safe(function() return unit:get_health_percentage() end)
+    if type(p) == "number" and p == p then
+        return p
+    end
+    return 100
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function priest.class_id()
+    return enums.class_id.PRIEST
+end
+
+function priest.label()
+    return "Priest"
+end
+
+function priest.combat_range(player)
+    local flay = mind_flay
+    if flay and type(flay.maximum_range) == "number" and flay.maximum_range > 0 then
+        return flay.maximum_range
+    end
+    return 30
+end
+
+-- ----------------------------------------------------------------------------
+-- MOVEMENT PROFILE
+-- ----------------------------------------------------------------------------
+-- The movement controller owns positioning; this only supplies the rules.
+-- A priest has no reliable snare or root while levelling, so backing out of
+-- melee mid-fight just eats damage with no cast time gained. Retreat only when
+-- something is actually on us AND we are healthy enough to survive the walk.
+--- How far out to look for something to fight.
+---
+--- A caster opens from where it is already standing, so a wide
+--- scan costs nothing and gives the rotation time to start a cast.
+function priest.scan_range(player)
+    return 35
+end
+
+function priest.combat_profile()
+    return {
+        name         = "priest",
+        melee_danger = 8,
+        melee_safe   = 12,
+        should_retreat = function(ctx)
+            if not ctx or not ctx.target then
+                return false
+            end
+            if ctx.melee_count < 1 and ctx.distance > 8 then
+                return false
+            end
+            local player = ctx.player
+            if player and health_pct(player) < 35 then
+                return false        -- too low to kite; stand and fight or heal
+            end
+            return false            -- no snare available: kiting is a net loss
+        end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat or drink. The thresholds are this class's to choose; the
+--- machinery lives in resting.lua so a fix lands once rather than nine times.
+function priest.rest(player)
+    return resting.tick(player, { eat_pct = 30, drink_pct = 30 })
+end
+
+return priest

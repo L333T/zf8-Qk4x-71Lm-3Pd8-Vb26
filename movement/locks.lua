@@ -1,1 +1,282 @@
-return(function(...)local X={"_\"e","_[A$d]j,:^D15%C";"4mHG=";"_Lf?ps";"_oHRZ-S$*h","4uUxAKo==","_AJ6qH","_N2[IT";"_*_#(a@[","4PtyfSGl=";"4Z6Bz2TtUXd9daYVt6m+JxMIQrZrS1prP";"4lySy8u69zo==","_1Xp+ap?[1sO2Qr9H51","4XKsEYpU=";"4U4AS54l=";"4tDJIKxde/ygr";"_H.MR$4U#","4OHPUU3V7VX4a","430TxcNV3+pp=","4Mg3eXh==","42vI=","_E=_>P2<3","4wMciOp5ic/hr";"_8T","4h9k4FvUY4K3zWeShopW3";"46iHY4o==","_C<!@IkpDLgPh3/$JJ";"_3&QH>";"4yEWJyo2OFYJ7SCRr";"4BqZs/o==","_Qn@C_qOW1\'=\\0f52&r";"_<\"QQdQ\'uE1<#1N16U8Oo$8&1gO`#<I";"_>L*%,:o","4DQ1wlk==","43qoo";"4sk==","_J%\'2f","_CMGOUFaC/\\/$8fX","_J>^/9";"4/MfPmJ6IMCPGo/OEKRUz";"_J\\.S]m?l";"_cB";"4hnwCTo==","4jE==";"_G^Kd=";"_S\'uts";"4ZM2o";"4AgEFgGoGsgL6kRFsGg3sSE==";"_0.b-E2m1Ztqh\"joZfa";"4ST6sPWb=","4E/Lh9E==","_[>G2pV=";"_<man=QP";"_U\'dNLn\'YfKIsKHu&B1hMn)k@U","41a/lOk==","_i>N+65#","4bNn=";"_,YkF";"4qk+lOE==","_$&@hP";"_oL9)VX!","4Fk==";"_4SK\\^";"4C4cAPE==","_opS(","_CA,Sh;t?H?ND:b)^k\'\'";"4lo==","4YHUAqFxb5PYeVKTD1AYhElso","4rNthtwI=","_:peU_","4E6Fh+h==","4x20Gto==","_KaU3Z","_hP!\'+","_O!c2_>oSgXNY","_5D!r","4wJ437JGdZjj=";"_iOU","4vRDnQnf+Fk==","4rXTQoh==";"_1k+PqP7ac","4qfALNs/AOuUYLew5Waxt";"44hYoHwLV7ed6Gk3l/x9z","_RHGRg*#1%B^R","_Wn:Z%KJsf^h4<0T";"_ATFbK6ftBDCWh.t;d:#","4u3gNXh==";"46jmDuh==";"4ee8C4TXbz1P0r/0XjCNF","4dEP0AJzt3/raRo==";"4hJiw0lb=","4Bj3Mx5f3Fh==";"_<,c.K","_Mn=\\UZ?llZ<3<lGqg+";"4qN/kek==","_-p4_`2RN";"_$P4D\"]Qt.","4GJAAjo==","4Eh==","4LlVRjsKuY1Eysk==","_m5W\"[m&7)[hF$G;47,[9bT0Ki]gAcK!XiBij8jqBJInsc/SoinpPP/D<oI`2";"4uzTLEk==";"4zMcrE52j","_*rg-A","_S6","_N\"[V?sjIM]o.";"4+AWRoE==","4kNrUto==","4wo==";"_\\W_Q2gTJb\"","_9>","_eb@[";"_d`^8#Kk";"_q+U";"_K\"\\,","_\\.CTa+%","4OeHtpiOurh==","4hY3sDzdb0LioElgTco==","_e5tG(";"40nFbHPGTAE==","_o8]!\'R#-_p";"_.X%^","_H!GA","4lk+x+yl=","_[?.E-`Q";"_Ibjdm","4HWHdnk==";"_I-QJ\'.XT<F82<mE1!&XG1Db^";"_2Q`E=R8Rk26th=gCj$Ik<%+";"46ZO+aoPPzwe9IXmA2ghL","_[A$@OYW]#";"4","_\'l7NE","4/8OyxK76Ck==","_ZX`T69QSq?\"hI/5Tdp8","_`?";"_Z%$";"_QR";"_*XM?,","4oQxrEo==";"4WkcdkDkHuo==","_A-Y";"_W,Z5;(BfU3","4Vj8+ewoMOo==";"_SkB/]]Q:Iqm8?5BSACP`(V=?O[FRgZ<:Za8L<h3HJV-N\\.T","4GZgvdE==","41x/J1R5mCNK+3k==","_O?<Yb=j]T";"4gk0ZVo==";"42Zi6L/C3R+SEuOXnC1UE";"_j;";"_C/\'L\"";"4jwxuD9dg";"_Ha07M","_gDt+sN#Yie=Zafj4EjP";"_IZ-c5";"_osn.";"_KOeYW?P","4ak==","_st2TcAr0<3MU]Uc:Fc3";"4bQsX0aI=","4jwePdOzu","_Y!R,qP(","4+VyI/X/mwM+zWcOQLQSgIrKvvK8GyKe+3qcWTut+g+JJ9+6VUm1OruU1aQR62Yb=";"4gi50/aW/PoixY6iA";"4urefwJ1E","_HRaT\\qpB@l","_@-&E(RI)9","_/7>;o";"4+wCIxjh=","47iO15TIrAGa2NPdXGTqa";"_P\'90H";"_,MFU;ki,q+;>YJ.i2g","_r@N&T%4E>";"_SV;\'sh#","4EFl=";"_Si25F";"_K#Occ";"_:ShVC";"4XE==","_-:49uH8W\\gT9=jdKaJ","4iZbh+RU=";"45W3/Wk==";"4O8SRswK2VE==","45TCsy7apAE==";"4hCQdvU/W";"_0CI;:$NTci8R-gk;9\\!7Z:","4Xk87/k==";"_9GOWL";"42AO1";"43W4aUR3fkdkkMGs4lNuZG3xmaGcyM/EeKnDHovD+vf94r2p=";"4SLMNvo==";"4INfktfKItglwP/+0bCPp";"_t@1l2S`#ZP"}for L,J in ipairs({{1013593816%15593751;(856610665-250451)%7511930},{(2645425179-(797286-(-125734)))%((-702167+-209418)+11884623);832231+-832230},{775161632%5741938,294515-294321}})do while J[935022+-935021]<J[1308619117%15395519]do X[J[1265112233%5101259]],X[J[-274054+274056]],J[(2390555256-(-10106))%9559667-648611],J[-314256+314258]=X[J[(103123-988074)-(-884953)]],X[J[616865281%9949440]],J[349452598%(8287484-(-672839))]+(900488+-900487),J[-671168+671170]-(-203761+(-612588+816350))end end local function a(L)return X[L+(-704521-(-746406))]end do local L=type local J={["("]=285411-285357;["`"]=512102-512098,d=-504030-(-241801-262285);["?"]=(2527656230-(-553999))%15900693,A=203332426%6161587,["+"]=1149769763%(-1012238+11560584),["#"]=1766940791%(276781568%15635693),p=647540049%4692319;["-"]=560837+-560821;O=-340787-(-340852);R=125480004%2727826;["5"]=(185554+141976)-327477,["$"]=1990796787%11638809-560408;t=(1374196-871864)-(28280-(-473976)),B=-1041107+1041124,c=(-37215-(-860180))+(704326+-1527225);q=2129721120%8910967;F=-728647-(-728675);S=15203+(-1023456+1008291);e=526140-526131;b=923945-923942;["@"]=10910+(804560+-815426),o=451861-451798;Z=(-930476+1847098921)%(15603468-(-311777)),u=(618941-791686)+(492334+-319579);["2"]=427518-427479,s=(1227970628%6929537-813899)-628600;H=1044864+-1044843,E=555806+-555729;["9"]=503585-503538;_=-642493+642550,D=(-1176595-(-314058))-(-862538),T=710275-710273,n=213262104%2508965,C=-550218+550269;g=(208653-(1379166-367700))-(-802883);N=-824738-(-824799),[":"]=(-713106-(-672410+-180561))-139832,V=-815940+816008;["1"]=1098503815%15256997,i=-1034210-(-1034223);["!"]=(1286004645-415887)%13973790;M=-347478+347537,[">"]=(-937598+639696)-(-297977),P=(841783-1002776)+161029,["3"]=2848178135%12772099,["]"]=2990483868%14377326;W=-249277+249299,["/"]=120618+-120568;["7"]=-205881-((33461-133383)+-106040);[";"]=8563339%4281658;["="]=1776345321%15719870;U=666082-666008;["4"]=792817+-792776,["\\"]=(969446+-1225709)+(1563142079%13954544+779468995%5489055),[")"]=1531132932%(11568319-861096),Y=-928391-(-928423),["%"]=881578+-881509,["^"]=546401304%3415008,J=(-771950-203800)+975750;f=423675-423593;["8"]=3469103078%15840653,G=767607-767589;["\'"]=290687+-290641;["\""]=207114906%((3364896-752381)-409165),r=(745967+-897811)-(-151856),["*"]=-445521+445593;["0"]=(-826989+838209)+-11175;["&"]=(-519465+2430344541%13879496)-913256,a=1025483-((((418780+-1512650)-(-183311))+430830)+(150548+(2782186994-(440043+-1379116))%((1629103110-(-1030626))%15560056))),["["]=429884814%11941244,K=192393890%(1370693209%6597801-(-710240));j=579934297%12887428,m=-849734+849748,k=469420-469391;l=-878157-(-878240);["6"]=-400106+400154,h=(-53034-(-780904))-727835;[","]=-603963-(-603997),X=(742327-292402)-(-315654-(-765560)),["<"]=-950731+950783,I=117251+-117187,L=-425955-(-426022),Q=477878949%(398656+(11878363-23713));["."]=430615-430589}local q=math.floor local u=X local y=string.sub local d=table.insert local t={Q=336396-336389,G=259649-((594002+-262210)+(691910-764077)),m=(-722450+1236879423)%8186470,f=1053889343%(2177688227%22587954),M=-884456+884486;["2"]=-846453-(-846470);["0"]=-990986+990987;["4"]=-983977+2913446115%12718175,l=197304+-197296,W=1393380682%12552979;b=906050-906038,y=-228315-(-228349),V=611386+-611337;d=498369225%5085400;P=(79647832592%1731639532)%9219538;S=194142685%1133612+-294980;x=-427302-(-427323),["7"]=1035678+-1035636;k=81214050%501321;I=(1037501+986278491)%(3518544558%20793114);D=1013543427%9936700,n=((265544+289866050%2394289)+(-572466+1154705))+-1004844,w=51183954%(-737830+1171592),R=243805+-243803;A=635013-634980;Z=609415659%5540142;["6"]=(155252752981%638951751)%3026228,o=(-202237-639885)-(-842154),t=-858809+858840,L=110862+(74844+-185691),C=-538353-(-538363);O=-418089+418095;Y=(-583288+723426)+-140087,E=(234157716041%(921615444-(-278389)))%10558348;p=(-108623+271278)-(-706793-(-869392));j=208509-208481;T=1177452647%(10130492-2521691384%10819338),N=190792+-190756;r=-524480-(-524506);a=-144853+144862;g=753733+-753696,q=(-238155-(622156+-565065))+295264,c=196938540%794107,i=(442446+-1181713)-(-739289);u=1983769361%(2635316741%28800403);["8"]=672439-672416;["/"]=828215277%((-1747961-((-929048+-729821)-(-949719)))+9489987);["+"]=1164249446%15512330-824685,["9"]=315263673%16592822,["3"]=-728176-(-728234);F=911937+-911887;e=516581-516576;["1"]=633030+-633011,z=610408-1063163057%9748190,H=(-187676+-67385)-(-255108),["5"]=-575334-((-1200560-370557)-(-995743));J=880760-880706;v=981894+-981842,h=-1018061-(-2032284-(-1014223));B=(((336270-73864122%1003396)+-307068)-(-787557))-200483;U=-398573-(-398633);X=821328-2589968079%(-923796+11941442);s=(-538810-274998)-(-813865),K=545715839%7908925}local Y=string.len local s=string.char local T=table.concat for i=-459404-(-290073+-169332),#u,-835604+835605 do local c=u[i]if L(c)=="string"then local L=y(c,(-794556+538240)+256317,-526156-(-526157))if L=="4"then c=y(c,1361608702%13616087)local L=Y(c)local J={}local G=1001204-1001203 local Z=(409984318-454728)%14121710 local m=-360729+360729 while G<=L do local u=y(c,G,G)local Y=t[u]if Y then Z=Z+Y*((1331339288%12559804)^(((3234637814-397015476%7771725)%(15603166-129576)-m)))m=m+(84834+1284687297)%5761310 if m==313881-(516365+(74890-277378))then m=1101236388%8218182 local L=q(Z/(-557502-(-623038)))local u=q((Z%(661881-596345))/(1641711316%7462323))local y=Z%(625488-625232)d(J,s(L,u,y))Z=(-22317-(-420353+-322138))-720174 end elseif u=="="then d(J,s(q(Z/(732014+-666478))))if G>=L or y(c,G+(183181-183180),G+323633601%1949600)~="="then d(J,s(q((Z%(-138285+203821))/(242442-242186))))end break end G=G+159085321%(3087598-436176)end u[i]=T(J)elseif L=="_"then c=y(c,(-1001341+(611120+38099))-(-352124))local L=Y(c)local t={}local G=1778034619%(1893168972%19049911)while G<=L do local u=(L-G)+(-110304+110305)local Y=u>=-751144+751149 and 988322+-988317 or u local T=899649+-899649 local i=Y>3634068187%16746858 for L=-317185-(-317185),532639-532635,356610241%1819440 do local q if L<Y then local u=y(c,G+L,G+L)q=J[u]if not q then i=false break end else q=((13134796-552013)-(1696707-649380))%71206 end T=T*(-578735+578820)+q end if i then local L=q(T/(16921020-143804))%(204298+-204042)local J=q(T/(2918893961%12858275))%(814939-814683)local u=q(T/((-1009030+1922645)-913359))%((242665-972165)+729756)local y=T%(820953-820697)if Y==588561-588556 then d(t,s(L,J,u,y))elseif Y==1981788544%(6113475330%24218432)then d(t,s(L,J,u))elseif Y==373537-373534 then d(t,s(L,J))elseif Y==-534035-(991494+((783030+-1595899)-712662))then d(t,s(L))end end G=G+Y end u[i]=T(t)end end end end local z,v do local L=math[a(-620499-(-578778))]local J=string[a(-126535+84749)]local q=table[a(-358822+317091)]local u=math[a(-1044995+1003273)]local y={}local d={}local t=492090722%15377835 local Y=-85063+85063 for L=(-549928+((992092+2973405670)-(661516+-202855)))%11846172,(1730352641-(-117341))%15179559,45686265%5710783 do d[L]=L end repeat local L=u(919783-919782,#d)local t=q(d,L)y[t]=J(t-657305779%3270178)until#d==(((165414800220-973927)%1148708774)%6823381)%52283 local s={}local function T()if#s==44953+-44953 then Y=((Y*(-418566+418695)+(703363180%15621234+8404434785567)))%(((-796717-(-910055))-153146)+35184372128640)repeat t=(t*((-477945+2145772865)%(11954776-295565)))%(304531216%5970138+-53921)until t~=-970494-(-970495)local J=t%(662576-(336086+326458))local q=((401979-350531)+((883859+-970962)+35668))-((t-J))/(878355426%6554891)local u=(L(Y/((265362+-663394)+(658094-449375839%10444553))^q)%((416892+4293563119)-(-987285)))/(-450392+(714415+-264021))^J local y=L((u%((-28916-(-785091))+(-1041155-(-284981))))*(4295810066-842770))+L(u)local d=y%(652677147%(2049260235%(((803519950-333065)-(-193917))%(2715311477%26197075-(-468832)))))local T=((y-d))/(-510695+576231)s={d%((-585849+-351955)-(161307+-1099367)),((d-d%(127608096%15950980)))/((-594298-(-1148501-(-622694)))-(-68747));T%((-202267+485849)+-283326);((T-T%(3405720257%15272287)))/(-182125+1354303301%(911742054%16577013+7273881))}end local J=#s local q=s[J]s[J]=nil return q end local i={}z=setmetatable({},{[a(-463474-(-421721))]=i;[a((403188+-821844)-(-376774))]=nil})function v(L,J)local q=i if(q[J])then return J else s={}local u=y Y=J%(35184371975723-(-113109))t=J%(409116807%7867626)+(-903935+122153053)%13472124 local d=#L q[J]=a(101181-142933)local i=685114-685066 local c=a(462008+-503760)for J=((-245001+104974)+-314568)+454596,d,1598117074%12583599 do i=(((string[a(-685595+643857)](L,J)+T())+i))%(856680-856424)c=c..u[i+(1008280+-1008279)]end q[J]=c end return J end end local L=require(z[v(a(-327407+(52485656801%546859636)%2261465),27159563387844-(-15945))])local J=require(z[v(a(-706714+(789807-124939)),11959487048975-368880)])local q=require(z[v(a(-377202-(-335345)),15251628215638-((-743166+524520)+(-4357+-754624)))])local u={}local y=983369-3721217823%15061678 local d={}local function t(q,u)u=tonumber(u)or 1948529087%((18998597959%206577006)%(7336926503%(30595893-(-824427))))if u>y then u=y end if u<=(217262193788%(113829079338%1054013983))%9887391 then return end if not d[q]then J[z[v(a(156348-198223),9565783713109-(-161024))]](z[v(a(447660+(-808539+319071)),1.8182306485877e+15%9182983103691)]..q)end d[q]=L[z[v(a(-589921+548160),(588526+28520201160123)-(-1008297))]]()+u end local function Y(L)if d[L]then d[L]=nil J[z[v(a(250224-(32990877629%(((-99154+-637737)+4840644238)%161813795))%4864118),(860682+-1478616)+19856174622952)]](z[v(a(-336842-(-295070)),2903889416%13959384+24847585227298)]..L)end end local function s(q)if L[z[v(a(-272198+230345),480934+14580896667090)]]()then return end local u,y,d=L[z[v(a((-560995-(-184249))+334984),-704966+(318072+32789070359950))]](q)if not u then return end local t,Y=pcall(require,z[v(a((-983710-(-260437))-(-681400)),-318740+19253070818548)])local s=((t and(Y and Y[z[v(a(706382+(-1185252-(-437033))),-506429+20767182169156)]])))and Y[z[v(a(254674-296523),3730834153343-(-399080))]](u,y,d)or{[z[v(a(416591-(618243-159867)),(-910552+7627838718692)-665871)]]=u,[z[v(a(-262596+220713),-270364+(11745986297250-330231))]]=y,[z[v(a(-636880-(-595132)),5918802500353-(-310353))]]=d}if J[z[v(a((-306091+321960)-57597),708265+12347496815009)]]()then J[z[v(a(496774+-538480),17234312627238-910250)]](z[v(a(-809361+767632),14997982062661-591861)])end if J[z[v(a(-751846-(-710116)),-432917+29798727697909)]]()then return end do local L=package[z[v(a(((((1309435-972040)-200392)-419892)+-47750)+288921),-684107+13627887016963)]][z[v(a(-706434+664625),571966+32626032522072)]]if L then L[z[v(a(-68456+26705),10005810159114-356750)]](z[v(a(228353-882392154%5069667),22512528698558-(-787836))])end end pcall(core[z[v(a(18832+(394123-454714)),31687961097733-153953)]][z[v(a(-659476+617726),404885+((-445855-269581)+(15841088210051-435482)))]],s)end function u.prepare_cast(L,J)t(z[v(a((-261326+(-1439984-(-683623)))-(-975942)),388940+(19443411038525-(-737297+647573)))],J)if L then local J,q=pcall(L[z[v(a(656695194%8872662+-159925),815305+28444624262697)]],L)if J and q then s(q)end end end function u.prepare_channel(L,J)u[z[v(a(790709-(499401-(-333163))),572891+2287288006522)]](L,J)end function u.prepare_ground(L,J)t(z[v(a(580514+-622391),-257776+28889173176020)],J)s(L)end function u.pause_for_loot(L)t(z[v(a(-368527-(-326663)),799346+31939686346437)],L or-78060-(-78062))end function u.holding()return next(d)~=nil end function u.release()Y(z[v(a(2270568111%10965741-(392649-(-308810))),502402535%(7685666-909652)+24592303986565)])Y(z[v(a(774986+-816678),12992722568025-(-507332+766284))])end function u.cast_cancelled()Y(z[v(a(-268062-(528836+(-569367+-185673))),1023004+10455982548609)])end function u.set_resting(q)q=q==true if q and not L[z[v(a(305512+-347391),((-540456-231864)+28160257032451)-(-313464))]]then J[z[v(a(89740-131544),25374981303508-(-1031640))]](z[v(a(((-246852-(-50550-82707))-(-650440))-578670),25087181265709-(-703425))])u[z[v(a((463321-(-150658))-655850),292866+28092710635854)]]()end L[z[v(a(-1075354-(-1033618)),-81236+25636704434086)]]=q end function u.is_resting()return L[z[v(a(-690292-(-648500)),-741237+34585320021337)]]==true end local T={[z[v(a(491962-533765),-877542+16617214070352)]]=nil,[z[v(a(-628723+586861),15469508819219-604694)]]=false,[z[v(a(((15088+989821)+-1338094)+291403),-873234+12660850700262)]]=nil,[z[v(a(923611-965431),87984042691206%2666183239919)]]=nil}local i=(((132013+-849288)+141502.75)-(-185334))-(-390439)local c=-621913+1009923589%(1210268670.5%12049284.5)local function G(L)local J=core[z[v(a(-1018852+((-262555+1824463)-584758)),954074+17457016660103)]]and core[z[v(a(506223+-548054),-425690+(1379406423267-979702))]][L]if type(J)==z[v(a(-361991-(-320228)),21484871803329-(-115806))]then pcall(J)end end local function Z(q,u,y,d)if not J[z[v(a((1600091-576698)+-1065184),(-569793-(-609948))+(29920416168385-((-308192+-914572)-(-302447))))]]()then y(q)return end T[z[v(a(400471+-442282),1017412+33404899403326)]]={[z[v(a(848192038%6421029+-657952),6549700956331-620145)]]=q,[z[v(a(-391294+349547),-70403+(982712+(23986563183015-(-998525))))]]=y,[z[v(a(834584-876291),-206319+10567772268277)]]=d}L[z[v(a(335410+-377211),825663+28642713142540)]]=(q+c)+u L[z[v(a(((-887570-(-509909))-525881)+2787106645%(11582475-(769352999%5963082-(-140855)))),(958440+-746284)+5893240918543)]](z[v(a((23708314047%153060185)%(1056380-(-11242))-431653),48230+35117248854063)],z[v(a(896875+-938614),(5341474290981-(-543099))-914892)],d)end function u.backpedal(u,y)if L[z[v(a(276230+-317954),67305+18070439106127)]]or L[z[v(a((706674+-1717448)-(-969064)),-578492+32829733799098)]]then return false end if q[z[v(a(492832+-534716),-841371+(28144691776828-633307))]]()then return false end u=tonumber(u)or 102192.5-102191 J[z[v(a(56309-(214852881-(-1042835))%(715239-(-634927-88485))),-175118+32225902801055)]](z[v(a((971555+-1176989)-(-163573)),689070+(14227887400081-266263))])Z(L[z[v(a(-295413-(-253644)),832871+(-515527+(-281971+12149327814008)))]](),u,function(J)L[z[v(a(-117743+(205445+-129561)),17053179918474-1011433)]]=J+u T[z[v(a(1011004435%9447840+-127319),-16771+23341819420157)]]=J+((tonumber(y)or i))T[z[v(a(-852312-(-810524)),374619+27915995968982)]]=false G(z[v(a(960996-1002752),(396468+6191340373600)-(-1122710-(-151144)))])L[z[v(a(145034+-186743),764000+986885858046)]](z[v(a(698368+(736744+(-122657+-1354231))),28446965432437-(-102552))],z[v(a(-673894+(415248-(-216810))),9773765100106-(-58905))],u)end,z[v(a(330536-372314),((-531836+11051520933144)-650936)-(-804048+242873))])return true end function u.backpedal_stop()if not L[z[v(a(146365-188099),(1686076542%15457509-733025)+2332327790647)]]then return end L[z[v(a((((-712841-(-653239))-1675767039%8682456)+52055)+18824),30231234221849-(-9396))]]=nil if T[z[v(a(-734731-(-692902)),2578131538300-(-1017200))]]then T[z[v(a((36986-467887)+389205),625014+((-35989-797466)+(173586+10113204290105)))]],T[z[v(a((-182724-(791046+(-1574736-(-140396))))+-502411),-502990+11725153969323)]]=nil,nil return end if T[z[v(a(428795+-470645),83736162257813%2147081328451)]]==z[v(a((-323205-2155681358%14764093)+(533254-128092)),29107807109626-(-828675))]then T[z[v(a(-499110+(545190577-(-110806))%8648319),-500228+14082157573371)]]=nil G(z[v(a(477646+-519343),179151+8811830841939)])return end G(z[v(a(-588199-(-546444)),71936488570220%446810564418)])end u[z[v(a((-1806310-(-838749))+925820),28861042167213-929912)]]=203393+((296588+-1213992)-(-715964))local m,e=646381590.75%(3091559.25-(169698+(-1350089-(776774224%3770227+-748055)))),2092858285.5%(970867471.5%22788063.5)local w={[z[v(a(-405737-(-1341921-(-620621-357390))),(((868433+-136905)-(((991744+(456302+-109884))-(778739-(765328-(-12588))))-292975521%1151361))+15857074408429)-(-21102))]]=(83052513-1662402407%7658813)%2232771;[z[v(a(-803519-(-761814)),-179757+(-783963+(-131378+16000345175839)))]]=false;[z[v(a(-290085-(-248270)),31120032890018-52878)]]=nil;[z[v(a(1039087+-1080788),-723453+(14673588939018-(-885444)))]]=nil}local function j(J)if L[z[v(a(-907818+(-99296+965411)),14381297373897-(-194732))]]()then return end if not J then return end local q,u=pcall(require,z[v(a(126986-168838),889537+17225059305134)])local y=((q and(u and u[z[v(a(582548+-624374),(-1206140-((981938-83902)+(-394720+-1238783)))+(2321342729440-(-572374-39719)))]])))and u[z[v(a((372789+-714882)+300274),-225882+11329050908519)]](J[z[v(a(-119728+77995),(22824293792115-835108)-((235778+449426)+-919438))]],J[z[v(a(-602592+560846),11303422324204-(-739815+1547295))]],J[z[v(a(959616+-1001476),349426+15425440272662)]]or-828663-(-828663))or J pcall(core[z[v(a(149530-289531676%(809554607%(470454+4148091))),-820583+17520127639943)]][z[v(a(-222411-(-180695)),84057964455697%1585999478331)]],y)end function u.blink_away(u)if L[z[v(a(-103819-(-62106)),-361104+14349534664507)]]or L[z[v(a(979987+-1021687),(28371956926612-211240)-765406)]]or not u then return false end if q[z[v(a(2031562661%11474609-598585),6331659331239-(-847515))]]()then return false end local y=L[z[v(a(-895016-(-853246)),-1011157+4219769365607)]]()local d,t=pcall(function()return y:get_position()end)local Y,s=pcall(function()return u:get_position()end)if not((d and(t and(Y and s))))then return false end local i,c=t[z[v(a(913463-955303),21440485286755-588526)]]-s[z[v(a(-75391-(-33543)),359329309%6515351+(366553+26198390501797))]],t[z[v(a(371493+(-1098087-((-896729+137280)+(-561337-(-636009))))),15358793192611-(183533+(1540003317%11235626+-764174)))]]-s[z[v(a(801192+-842971),29293078365526-(-559706))]]local m=math[z[v(a(-949057-(-907177)),30203989826143-(-360503))]](i*i+c*c)if m<.05 then i,c,m=(-886002+390837)-(-495166),-78879+(-920259+999138),(-462182+1375878)-913695 end J[z[v(a(30933+-72729),9780389170551-(-252195))]](z[v(a(-563504+521720),18548658961938-929377)])T[z[v(a(-996961-(-955148)),-1029494+23783015034262)]],T[z[v(a(-78633-(-36893)),1004876+(-22646+21284401525404))]],T[z[v(a(280863638%(835192+2666462)-773161),((1049077-676708)+(787373+-1313188))+32574171985218)]]=z[v(a(-217235+(36292-(-139220))),289108258355-((453931+-618026)+-823264))],nil,true w[z[v(a(-631976-(-1015093-(-424875))),8975+(11114961561103-(-156063)))]],w[z[v(a(-1046249-(165637+-1170058)),10298852304411-242455)]]=false,u w[z[v(a((-1039864-(978026+-1559311))-(-416758)),7553327328326-474358)]]={[z[v(a(-684258-(-661137+18583)),(27154706054156-(-377542))-(-621658+93317))]]=t[z[v(a((747802-483620)+-306004),28184142894397-135211)]]+(i/m)*(-588453+588468);[z[v(a(242672+(-307174+22777)),(15690577180036-393256)-((-41709+-722785)+1639050))]]=t[z[v(a((166785-463702)-(-255075)),27447531233715-(-998705))]]+(c/m)*((-924441+(225727+344705))-(-354024));[z[v(a(-361023+(88700213357%3411613032)%(17486092-690189)),18597427064445-8971)]]=t[z[v(a(-865860+824087),661988+(-783528+1471943526039))]]}Z(L[z[v(a(430195+-471922),33687415031195-(-342214))]](),e,function(J)L[z[v(a(850897-(289807+917470663)%11319355),278908+32692762609647)]]=J+e w[z[v(a((-1166353-(-361797))-(-1047314-(-284466))),364998+4736615827531)]]=J j(w[z[v(a(308801-(126548+518820486)%3704260),967622+12701532777285)]])G(z[v(a(313789+-355605),(1093568-(621636+-252602))+14496879640277)])L[z[v(a(410247-452015),24220443556222-827297)]](z[v(a((750364+-1131663)-(-339555)),32995004782177-(((945457+-1507943)+1321350)+-1133686))],z[v(a(-1030448-(-988665)),-587864+18453093038412)],m)end,z[v(a((1621471-761285)+-901980),17126403124451-(-793893))])return true end function u.blinking()return T[z[v(a(43088-84902),23659675711384-(-162628))]]==z[v(a(435423-477293),3.8032522121179e+14%1940434887098)]end local function D(J)if T[z[v(a((480034+(-659106+482670))+-345293),19520144528288-(-424684))]]~=z[v(a(895306-937140),-1017339+(10659512313393-929332))]then return end if not w[z[v(a(518651+-560505),((749672+9746727769171)-(-738320))-(-129405))]]and J-w[z[v(a(885072+(-990793-(-63915))),-667283+15869365281129)]]>=m then w[z[v(a((814083+580897504)%12910707-(179533-(-592078))),33137461830845-145481)]]=true j(w[z[v(a(272568131%4612286-485102),11292306362392-45881)]])local J,q=pcall(require,z[v(a(-1054038-(-1221849-(-209548))),(-342106+(-691998-(-254595)))+11014888567350)])local y=false if J and(type(q)==z[v(a(-728857-((111616+-774984)+-23775)),134219+34085080225681)]and type(q[z[v(a(-723685-(-681817)),3147446654606-112932)]])==z[v(a(168432-210297),(989357+(524734+-2178514))+27502138923346)])then y=q[z[v(a(-930009-(-888143)),162834+3772219438854)]](u[z[v(a(-9664+-32143),374805+26207852717920)]],nil,{[z[v(a(60867+-102666),((557599+-1519387)+30604847828736)-711068)]]=true})==true end L[z[v(a(-720416+((913991-55921)-179523)),18826659759377-706839)]](z[v(a(750064-(552627+(-813685+(2048820-995918)))),20949895341916-997734)],z[v(a(47953+-89783),10125896715106-809764)],y and z[v(a(862292+(-549241+((177512+(-1326207-(-679890)))+113907))),20704306447181-((1027226+(-276496+-1164343))+1080025))]or z[v(a(751040+-792807),-526267+33764152199745)])end if J>=((L[z[v(a((-1486320-(-661803-95207))+687619),((917590+-2154861)-(-374653+157107))+6952532559704)]]or-152472+152472))then local J=w[z[v(a(-321326+279566),33678895034377-275338)]]u[z[v(a(521829-563619),15000146489718-535307)]]()local q,y=pcall(function()return J:get_position()end)if q and y then j(y)end w[z[v(a(846630+-888401),25060154620642-965108)]],w[z[v(a(65399+-107255),295673+4194453543554)]]=nil,nil L[z[v(a((((-1005242+706938)-436865)+(-270150-66008))-(-1029534)),21759149179738-(-477645))]](z[v(a(407658+-449496),26904252810664-319862)],z[v(a((605566+-1584953)+937694),-884913+14327893957097)])end end function u.backpedaling()return L[z[v(a(-524609-(-257589+-225271)),(636101+30299490650173)-(-438807))]]~=nil end function u.tick(y)y=y or L[z[v(a(-342555+(-361284+662145)),(-1180933-(-952292))+29534182577269)]]()for L,J in pairs(d)do if y>=J then Y(L)end end if T[z[v(a(-125195-(-83385)),(259573+((-2191677-(-812607))-(-564746)))+32146283411362)]]then local q=T[z[v(a(((-34113-323952)-(-107879))+208471),1658494037683-562578)]]if not J[z[v(a(306130+-347862),-1037155+20738134100535)]]()then T[z[v(a(31075+-72864),14949908478141-50374)]]=nil q[z[v(a(((-688783+935505313)%5802873+-566522)-29318),5970960174613-1013858)]](y)elseif y-q[z[v(a(-435639-(-522003+128245)),((-843077+489583)-(-33274))+27588160052765)]]>=c then L[z[v(a((-1220228-(-135512))-(-1042884)),14274284325355-(-964261))]](z[v(a(49464+-91261),-597004+1080047978569)],z[v(a(832440+-874160),(21539408897837-651572)-248415)],q[z[v(a(-982858+941081),389918+(32742230390565-168538))]],c)T[z[v(a(965756-1007634),450056+19722334122982)]],T[z[v(a((770236+-926945)+114833),(((32583451034068-(-473033))-554553)-(-465357+(8769+(66748+-587818))))-(-400261))]],L[z[v(a(631570+-673414),1.5180154556533e+14%16866838776831)]]=nil,nil,nil end return end if L[z[v(a(-841697+799902),9935097965502-(-236746))]]and T[z[v(a(820408-862173),((188432+-1160435)+9187845771557)-316214)]]==z[v(a(-77318+35592),(504939-312497)+2908415006126)]then D(y)elseif L[z[v(a(973504+-1015302),(5246182738584-219250)-743355)]]then if T[z[v(a((-98935+68792)-11556),(((-484029+(871595+-1419773))+(558594+20156273105278))-(-799724))-(-997360))]]and(not T[z[v(a(287340+-329038),((877479+-818345)+1108157668750)-322148)]]and y>=T[z[v(a((567794-1009736)+400137),4542937661893-846802)]])then T[z[v(a(-1040630+998849),142770+(1374962559235-(-481788)))]]=true if not q[z[v(a(925988+(-156446-811414)),-2219+21113953653789)]]()then G(z[v(a(572876+-614688),(11660643010472-(-116425))-(-728258))])end end if y>=L[z[v(a(478426-520228),(-585485-97990936%16314174)+19342190222101)]]then u[z[v(a(130345+-172056),(12848656380530-(-89216))-401363)]]()end end end function u.clear()for L in pairs(d)do Y(L)end u[z[v(a((((426378+-1809948)-(-351077))-(-414227))+576431),(1303794-927063)+8935796086479)]]()L[z[v(a(848474+(752923+-1643184)),6831787571313-931144)]]=false L[z[v(a(766077+-807877),22223424618108-(-155068+(-314666+(328457+473972))))]],L[z[v(a(216242072%(-731046+(-851235+4383278))-607077),8568276797101-679664)]]=nil,nil end return u end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- movement/locks.lua - rest, cast, channel and loot holds; backpedal
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- ============================================================================
+-- HOLDS go through movement/nav N.pause(reason) / N.resume(reason) (1.10.0:
+-- Sentinel has no pause / resume, so a hold is stop() + the destination
+-- remembered and walked again when the last hold lifts). Reasons are counted
+-- separately, so a cast hold and a loot hold do not undo each other. Sentinel
+-- defers a walk asked for while casting by itself (navigating.deferred); the
+-- hold here covers the moment before the cast starts, when moving would
+-- cancel it. Each hold has an end time and is lifted by the pulse even if
+-- nobody calls release().
+--
+-- REST halts everything and refuses travel and combat movement until lifted.
+--
+-- BACKPEDAL (Frost Nova, hunter dead zone, unstacking) walks backwards with
+-- the core movement keys for a set time, with an optional jump. While it
+-- runs nothing else moves the player (nav refuses).
+-- ============================================================================
+
+local R = require("movement/core")
+local N = require("movement/nav")
+local SW = require("movement/swim")    -- 1.23.0
+
+local Lk = {}
+
+local HOLD_MAX = 12.0
+local holds = {}               -- reason -> end time
+
+local function hold(reason, seconds)
+    seconds = tonumber(seconds) or 1.0
+    if seconds > HOLD_MAX then seconds = HOLD_MAX end
+    if seconds <= 0 then return end
+    if not holds[reason] then N.pause("mf_" .. reason) end
+    holds[reason] = R.now() + seconds
+end
+
+local function lift(reason)
+    if holds[reason] then
+        holds[reason] = nil
+        N.resume("mf_" .. reason)
+    end
+end
+
+local function face_pos(pos)
+    if R.shaman_casting() then return end
+    local x, y, z = R.xyz(pos)
+    if not x then return end
+    local ok, vec3 = pcall(require, "common/geometry/vector_3")
+    local p = (ok and vec3 and vec3.new) and vec3.new(x, y, z) or { x = x, y = y, z = z }
+    -- 1.7.2 (movement ownership policy): no look while the walk owns the
+    -- keys - a cast that must face its target stops the walk first
+    if N.busy() then N.stop("face for a cast") end
+    if N.busy() then return end
+    do local fr = package.loaded["flightrec"] if fr then fr.note("look_at") end end 
+    pcall(core.input.look_at, p)        -- audit 2026-10-17: movement_handler is not pumped here
+end
+
+--- Hold the walk for a cast of `seconds` and face `unit` (nil = no facing).
+function Lk.prepare_cast(unit, seconds)
+    hold("cast", seconds)
+    if unit then
+        local ok, pos = pcall(unit.get_position, unit)
+        if ok and pos then face_pos(pos) end
+    end
+end
+
+function Lk.prepare_channel(unit, seconds)
+    Lk.prepare_cast(unit, seconds)
+end
+
+--- Hold for a ground-targeted spell at `pos`.
+function Lk.prepare_ground(pos, seconds)
+    hold("cast", seconds)
+    face_pos(pos)
+end
+
+function Lk.pause_for_loot(seconds)
+    hold("loot", seconds or 2)
+end
+
+--- 1.7.8: a cast / channel / loot hold is on (the walk is paused on purpose).
+function Lk.holding() return next(holds) ~= nil end
+
+--- Lift the cast / channel / loot holds (not rest).
+function Lk.release()
+    lift("cast")
+    lift("loot")
+end
+
+--- The cast ended early (callbacks.lua): only the cast hold goes.
+function Lk.cast_cancelled()
+    lift("cast")
+end
+
+-- ----------------------------------------------------------------------------
+-- rest
+-- ----------------------------------------------------------------------------
+function Lk.set_resting(on)
+    on = on == true
+    if on and not R.resting then
+        N.stop("rest")
+        Lk.backpedal_stop()
+    end
+    R.resting = on
+end
+
+function Lk.is_resting() return R.resting == true end
+
+-- ----------------------------------------------------------------------------
+-- backpedal
+-- ----------------------------------------------------------------------------
+local bp = { jump_at = nil, jumped = false, mode = nil, wait = nil }
+local BACKPEDAL_JUMP_AT = 0.75 -- s in: the default jump (Frost Nova backpedal)
+-- 1.19.1: N.stop defers the stop of a walk still awaiting its path or under
+-- 1 s old (the crash rule), so Sentinel may still steer for a moment. The
+-- keys then wait (bp.wait) until the walk is idle - at most START_WAIT s, else
+-- the move is dropped - and R.backpedal_until holds every other walk meanwhile.
+local START_WAIT = 1.5
+
+local function key(name)
+    local f = core.input and core.input[name]
+    if type(f) == "function" then pcall(f) end
+end
+
+--- Start `go(t)` now, or once the stopped Sentinel walk is idle.
+local function when_idle(t, extra, go, what)
+    if not N.busy() then
+        go(t)
+        return
+    end
+    bp.wait = { t0 = t, go = go, what = what }
+    R.backpedal_until = t + START_WAIT + extra
+    R.trail("move", "%s waits for the walk's deferred stop", what)
+end
+
+--- Walk backwards for `seconds`, jumping `jump_at` s in (default 0.75 s; a
+--- value past `seconds` means no jump).
+--- True when started, false when one is already running.
+function Lk.backpedal(seconds, jump_at)
+    if R.backpedal_until or R.resting then return false end
+    -- 1.26.0 (user: "if swimming just attack, kill and loot"): no back-off in the
+    -- water - the Frost Nova back-off, the Hunter back-jump, the unstack step
+    if SW.swimming() then return false end
+    seconds = tonumber(seconds) or 1.5
+    N.stop("backpedal")
+    when_idle(R.now(), seconds, function(t)
+        R.backpedal_until = t + seconds
+        bp.jump_at = t + (tonumber(jump_at) or BACKPEDAL_JUMP_AT)
+        bp.jumped = false
+        key("move_backward_start")
+        R.trail("move", "backpedal %.1f s", seconds)
+    end, "backpedal")
+    return true
+end
+
+function Lk.backpedal_stop()
+    if not R.backpedal_until then return end
+    R.backpedal_until = nil
+    if bp.wait then                     -- 1.19.1: no key was pressed yet
+        bp.wait, bp.mode = nil, nil
+        return
+    end
+    if bp.mode == "blink" then
+        bp.mode = nil
+        key("move_forward_stop")
+        return
+    end
+    key("move_backward_stop")
+end
+
+-- ----------------------------------------------------------------------------
+-- 1.7.15 BLINK AWAY (user: Mage, an enemy within 5 yd - turn 180 degrees away,
+-- move forward, Blink after 0.25 s, stop after 1.5 s, face the enemy again and
+-- go on with the rotation). It runs as a mode of the backpedal hold
+-- (R.backpedal_until), so nav, combat walks, facing, the pivot and the indoor
+-- jump all leave the keys alone while it runs. Core API: look_at, the forward
+-- keys, spellcheck.core_cast (core.spell_book checks + cast_target_spell).
+-- ----------------------------------------------------------------------------
+Lk.BLINK_ID = 1953
+local BLINK_AT, BLINK_END = 0.25, 1.5
+local blink = { t0 = 0, cast = false, enemy = nil, away = nil }
+
+local function look(pos)
+    if R.shaman_casting() then return end
+    if not pos then return end
+    local ok, vec3 = pcall(require, "common/geometry/vector_3")
+    local p = (ok and vec3 and vec3.new) and vec3.new(pos.x, pos.y, pos.z or 0) or pos
+    pcall(core.input.look_at, p)
+end
+
+--- Start Blink Away from `enemy` (a unit). True when started.
+function Lk.blink_away(enemy)
+    if R.backpedal_until or R.resting or not enemy then return false end
+    if SW.swimming() then return false end              -- 1.26.0: no Blink Away in the water
+    local me = R.me()
+    local okp, pp = pcall(function() return me:get_position() end)
+    local oke, ep = pcall(function() return enemy:get_position() end)
+    if not (okp and pp and oke and ep) then return false end
+    local dx, dy = pp.x - ep.x, pp.y - ep.y
+    local l = math.sqrt(dx * dx + dy * dy)
+    if l < 0.05 then dx, dy, l = 1, 0, 1 end             -- standing on it: any direction
+    N.stop("blink away")
+    bp.mode, bp.jump_at, bp.jumped = "blink", nil, true
+    blink.cast, blink.enemy = false, enemy
+    blink.away = { x = pp.x + dx / l * 15, y = pp.y + dy / l * 15, z = pp.z }
+    when_idle(R.now(), BLINK_END, function(t)              -- 1.19.1
+        R.backpedal_until = t + BLINK_END
+        blink.t0 = t
+        look(blink.away)                                   -- 180 degrees: facing away from the enemy
+        key("move_forward_start")
+        R.trail("move", "blink away: enemy %.1f yd - turned away, running", l)
+    end, "blink away")
+    return true
+end
+
+function Lk.blinking() return bp.mode == "blink" end
+
+local function blink_tick(t)
+    if bp.mode ~= "blink" then return end
+    if not blink.cast and t - blink.t0 >= BLINK_AT then
+        blink.cast = true
+        look(blink.away)                                   -- still facing away for the Blink
+        local ok_s, spellcheck = pcall(require, "spellcheck")
+        local sent = false
+        if ok_s and type(spellcheck) == "table" and type(spellcheck.core_cast) == "function" then
+            sent = spellcheck.core_cast(Lk.BLINK_ID, nil, { skip_casting = true }) == true
+        end
+        R.trail("move", "blink away: Blink %s", sent and "cast" or "refused")
+    end
+    if t >= (R.backpedal_until or 0) then
+        local e = blink.enemy
+        Lk.backpedal_stop()                                -- move_forward_stop
+        local ok, ep = pcall(function() return e:get_position() end)
+        if ok and ep then look(ep) end                     -- face the enemy: the rotation goes on
+        blink.enemy, blink.away = nil, nil
+        R.trail("move", "blink away: done - facing the enemy")
+    end
+end
+
+function Lk.backpedaling() return R.backpedal_until ~= nil end
+
+--- Per frame: end holds and the backpedal on time.
+function Lk.tick(t)
+    t = t or R.now()
+    for reason, ends in pairs(holds) do
+        if t >= ends then lift(reason) end
+    end
+    if bp.wait then                                        -- 1.19.1: keys wait for the stopped walk
+        local w = bp.wait
+        if not N.busy() then
+            bp.wait = nil
+            w.go(t)
+        elseif t - w.t0 >= START_WAIT then
+            R.trail("move", "%s dropped: the walk did not stop within %.1f s", w.what, START_WAIT)
+            bp.wait, bp.mode, R.backpedal_until = nil, nil, nil
+        end
+        return
+    end
+    if R.backpedal_until and bp.mode == "blink" then
+        blink_tick(t)                                      -- 1.7.15
+    elseif R.backpedal_until then
+        if bp.jump_at and not bp.jumped and t >= bp.jump_at then
+            bp.jumped = true
+            if not SW.no_jump() then key("jump") end         -- 1.23.0: no hop in the water
+        end
+        if t >= R.backpedal_until then Lk.backpedal_stop() end
+    end
+end
+
+--- Everything off (bot stop, unload).
+function Lk.clear()
+    for reason in pairs(holds) do lift(reason) end
+    Lk.backpedal_stop()
+    R.resting = false
+    R.npc_until, R.npc_ev_t = nil, nil
+end
+
+return Lk

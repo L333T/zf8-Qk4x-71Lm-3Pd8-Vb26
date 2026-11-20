@@ -1,1 +1,104 @@
-return(function(...)local K={"waSK(G06sX`9-]t8","8dq7u7/xkdbcy32BxOD==";"w4Ll$/HO^YL;4H$Aem0","8tNVX+2UiqBGG4aQW7wKM";"8+337fUhQ+WodniOctn1L3lLglT/SiEcWYjFv","w7npR]Zq_","8ZVCYxqZ=";"8D9hAx6pv";"wnIo@2FN";"8mmGHF3g=";"8","wkNgYrgk%Xc,g,","wg1rZenH";"8xVf+riP=","wu=7\'-/EYqJOY?","wZMJO","8dbXsCZdebD==","8v/I95abH";"w7VkNl?B@","8CxPNZ+K=";"8nt3QY92q7f3eMxF=","87455NhQYYhM/4hg6rXK8","87iDGRDumlVwKuU+=";"8hBvVf7zkE5QF";"w\"2J/*rX.a-HTGgJNZ;4","8bw9mZGxwc3Y7tcpP6NOM","wY7bo0o`s(i0PV";"wu*MmE6DE\'o:fBI67js<^$(\\(";"w\\Iru&ue","8LwEK8svwHrpCzRF=","8iYHIiFEFND==";"8SWBhCx2=","8e2WJxi9=","w+CXG-YCWEbK\\Tnm/c%Vo_n`&";"8DobkxLK=","w#/tl`";"w7SHMEf7","wE<YTVjLqT$HI[","8eQBuM1MxC8kg5uQqjm2J6lJ1AD==";"8hIzoS0a=";"wC%a-!";"w<XA0Q0<uUgjgcK";"80E9V2kTOi2==","8D33Vm73Id05ICcNH5fbWr4OH5P/YzybRpmSL4qpzmrT9ICPMyYj9K271NIYOIOjQM2xzuaEFqyxA5Vh967cV";"wMiHV<se","wXbQFO,;";"w2uTIam_8fsC^BL","wuZ#O/";"wYH#SSue","wWV2/jsF2";"w$;*:)A8","8BOfroJAAYEle";"w2uT[nJ.a&";"wq5@4+,:";"wCuoSt";"w`#t)]jo]W"}for R,Q in ipairs({{985921861%9389732;952596+-952540};{(14613640-(-233694))%4949111;(-225375-519702)-(691336+-1436430)},{(23707346-(-103879))%485943,1221610571%7683085}})do while Q[1154185819%10124437]<Q[-472644-(-472646)]do K[Q[2457593665%(12762609-162299)-533214]],K[Q[52748-52746]],Q[148265-148264],Q[-673155-(-673157)]=K[Q[3404115776%(14114683-276814)]],K[Q[62126-62125]],Q[472464+(-999285+(-262644-(-789466)))]+142597990%932013,Q[(790968+-279210)-511756]-877146241%9431680 end end local function b(R)return K[R-((-601287+528875)-(-96809))]end do local R=math.floor local Q={R=1999530311%12983963,u=219869613%11572082;["7"]=781895-781859,["["]=2104119817%16061983;["#"]=(136187-173094)+36983,c=-936311+936365;[":"]=23794-23728,g=67106-67057,U=1964583701%10677085,["!"]=267176-(-867115+1134217);N=-832165+832237,["<"]=8839+(-667182+658369);["8"]=-486448+(1049965-((-1368006-(-385106))+1546384)),V=838817+-838753,p=1763605978%11233159,m=801361+-801324;b=67287850%325062,["="]=1021266+-1021253;H=-543031+543051,["0"]=55409593%3957823,["/"]=270349+-270310;o=1001719+-1001701,r=-51733+51795;n=503558445%(920377+5977683);P=-971229-(-971248),["`"]=-774558+774599,["&"]=965401819%4851265,Q=(1264587635-(-229533))%14880201,Z=((-663074-((-759445+(261133669-(284813-556512))%1285185)+-382132))+-331156)+365504;E=((975130+-1353632)+-363464)-(60911+-802927),["-"]=190575865%5955495,["9"]=2717421187%(701009+(856768+6684503863%28632159));D=-948883-(-948912),["5"]=-174833-(-174838),K=698004502%6122846,["3"]=962723-962664;["?"]=286346077%(556655335%9748819+799476550%7821332)-298876,s=69203945%3259828-747556;a=16445-16385;["@"]=371412+(564716-936126);[">"]=-811522+811567,[";"]=-441865+441877,["]"]=219363880%3988434,X=101012928%9182986,Y=((219899234860%(-529498+1083783590)-231224)-268580)%5077035;A=90442+-90399;M=360303+-360256,["$"]=-866485+866485,h=-21300+21379;_=102821242%7344372,["*"]=(-179098+13077)-(-166044),["1"]=37162930%1907870+(-1210193-(-296839)),J=((-1022685+1456576)+-961122)+527263,d=(57678006031%291328236)%2254673;["2"]=330045-330015;k=1045438+-1045375,["6"]=701058945%3034887;["\\"]=429004115%3928910+-752898;[")"]=783349-783297;["%"]=40311+-40231;["^"]=151084+-151031,O=162652+(-1113129-(-950519));W=(-901666+1186871)+-285197;t=895766+(159096+-1054851);[","]=214785+-214771,e=249608+-249530,["+"]=2191364166%12814995;i=200128357%(10448738-((84921250001%424637347)%8710766-(-928462-(-787319))));T=2714037910%12449715,G=-783049-(-783116),C=(-776037-(-1038075))-262007;["."]=420215+-420193,q=-716188+716192;["\'"]=(2054855044-905352)%((302393+12041968)-(-821983)),["("]=(-762709+-265369)-(-1112044-(-83959));j=404074+-403997;S=(514320+-1560853)+1046539,["\""]=499296761%2836913,L=44515455%585729,I=567472+-567416;F=501800835%3097536;["4"]=1176269380%11638772+-753338;l=932010880%4636759+-22240;f=-105411+105435,B=(459529+427874)+-887334}local F=string.char local M=table.insert local D=string.sub local B=table.concat local G=type local b=string.len local w={C=225306+(-516334-(-291089)),t=((-1515610-(-466609))-(-911676))-(-137355);A=442528+-442514,p=458640474%8046323,["/"]=-650189-(-650237);Q=1021069+-1021029,N=1336310169%12488880;H=440400+(-829108+388710),F=450939-450919,O=(683445-((-835595-(-79401))-(-698636)))-740968;U=-1012350+1012354;R=63588538%363363;I=((13248050074526%(43822291296592%254780824493)-(-610950))%1455875157)%(64306+9816895)+(331677+-361712),v=153682968%(4912117-(-210648)),d=941393563%8558123,["4"]=(162732245619%(127566236786%2199423386))%16041382,q=58238117%7279759,["9"]=-299757+299801,B=458485+((-356605-749458)-(-647589)),z=-332072+332121,T=805340+-805288,w=700236+-700224;x=1813229363%7082927;W=983661771%((534438059651%2418315855)%12549012),["1"]=(1402894-(176411-(-430727)))+-795753,e=834833199%16054484,g=566166-566130;["5"]=(913812+-1917003)-(-1194225-(-840804-(-649824))),D=197194+-197194,["2"]=((-768616+734718)+((-462008-980004)-(-483627)))+992299,["8"]=445335141%14365649;o=31871-31824,K=944331000%4996460;["7"]=2143574022%(1434421250%22865719);["0"]=-682088-(-682143);L=-774205+774263,Y=793109+-793081,b=(-37676-286714312%8952067)-(-1005631+719764),P=-805811-(-805843);h=134664-134639,u=-493529-(-493558);E=-223831-(-223890),l=-467100-(-759650+292531);G=883281039%6220289,n=-788285+788326,r=-581527-(-581569),m=634340-(577878+56436);J=-330189+22330823%3142947;c=707337516%15718611;s=75281+-75219;["6"]=-223951+223985;M=238867207%1291174,["3"]=-878434+(-637022+(1761030432-(-225045)))%11426883,X=540426177%15440745+-52,i=339289+-339243,S=(-742601+1920020946)%(7189909-(-1047337));V=-567765-(-567775),f=941360665%14253021+-661236;k=219949867%(8466424-320134);a=-359694-(-359702);Z=1002800-(532865+469879),j=134241+-134184,["+"]=393064+-393040;y=90587241%9057764-9594}local I=K for K=(-1500430-(-520133))+980298,#I,501938977%2851926 do local J=I[K]if G(J)=="string"then local G=D(J,916515668%15024847,877252863%(99460+7268654)+(-1006211+558915))if G=="8"then J=D(J,-796736-(-14488+-782250))local Q=b(J)local G={}local A=-320994-(-320995)local d=(-505214-48612)-(175491+(-866367+137050))local o=-324774+324774 while A<=Q do local B=D(J,A,A)local K=w[B]if K then d=d+K*((2995742044%(-913329+12801194))^((630021523%(13825+6834235)-o)))o=o+(-37449-(-37450))if o==890193602%12537938 then o=-541641+541641 local Q=R(d/(3204455140%14631916))local D=R((d%(222267166%6348618))/(1344564298%5673266))local B=d%(228167422%6710799)M(G,F(Q,D,B))d=-368474-(-368474)end elseif B=="="then M(G,F(R(d/(349277-283741))))if A>=Q or D(J,A+(677759-677758),A+(169651678%(212966592%14282596)-518453))~="="then M(G,F(R((d%(2593546412%11325244))/(226473-226217))))end break end A=A+(-242608-(-6230+(-552933+(-512475-(-829029)))))end I[K]=B(G)elseif G=="w"then J=D(J,752848+-752846)local G=b(J)local w={}local A=((-452841-(-756867))+-232287)-71738 while A<=G do local B=(G-A)+(-669934-(-669935))local K=B>=2209054412%15027581 and(((-47705+1838061159)-632300)%(369584029%10300953)+-285356)+191029 or B local b=1718978716%8638084 local I=K>519359505%5645212 for R=-286885-(-286885),969816-969812,-634900+634901 do local F if R<K then local M=D(J,A+R,A+R)F=Q[M]if not F then I=false break end else F=677062-676978 end b=b*(600633-(-328644+929192))+F end if I then local Q=R(b/(-469512+17246728))%(289573-1068930462%7473015)local D=R(b/(213468+(272989+-420921)))%(-223926-(-224182))local B=R(b/(((-641768-(-979744-(-808049)))-33243)-(-503572)))%(133530040%1628412)local G=b%(195904516%6530142)if K==(896990+-276543)+-620442 then M(w,F(Q,D,B,G))elseif K==698232+-698228 then M(w,F(Q,D,B))elseif K==470004-470001 then M(w,F(Q,D))elseif K==587697774%14334092 then M(w,F(Q))end end A=A+K end I[K]=B(w)end end end end local B,G do local R={}local Q={}local F=(578149+-246685)+(250885463%8078006+-798741)local M=math[b(-583064-(-607462))]local D=math[b(-435617+460050)]local K=table[b(-485810-(-510230))]local w=string[b((3005433677-175359)%15734209)]local I=(21057160676%242099995)%4549252 for Q=(-600225+(1211727165-(-77616)))%10009955,-316112+316368,897190+(18814-(((-721322-(1005853-1027066))-(-666407))+2043714064)%9590443)do R[Q]=Q end repeat local F=D(-136352-(-239594-(-103241)),#R)local M=K(R,F)Q[M]=w(M-(983805+-983804))until#R==(685114+(200899-1601373050%6376142))+75395 local J={}local function A()if#J==458714-458714 then F=((F*(-33151+33380)+41621173520285%303804286124))%((473829-1047623)+(35184371758020-(-904606)))repeat I=(I*(1413539414%14572571))%(623318+(-740796-(-117735)))until I~=(((-888478+559139)+133824)+(4372866423665%(218642775371-(-1031149))-(-636514+780723))%1467393945)%(12568724-406589)local R=I%(-448892-(-448924))local Q=(451818+-451805)-((I-R))/(-273300-(-273332))local D=(M(F/(660734516%7023607+-515456)^Q)%(4295419449-452153))/(195115177%7804607)^R local B=M((D%(330451573%8696094))*(637397+4294329899))+M(D)local G=B%(940953-875417)local K=((B-G))/(695798739%3759920-148003)J={G%(1421252554%8029674),((G-G%((-387583-(-483936))-96097)))/(((916729089%(2217365611%9401712)-787233)-450470)+287335);K%(760382608%15841299),((K-K%(389689-389433)))/(-433801+(324198857-((-352535+(411909-858446))-(-437044)))%9003523)}end local R=#J local Q=J[R]J[R]=nil return Q end local d={}G=setmetatable({},{[b(((-237794-309468)+1138580013)%16257262)]=d,[b(828609+-804204)]=nil})function B(R,M)local D=d if(D[M])then return M else J={}local B=Q F=M%(35184371522338-(-566494))I=M%(666662-666407)+75972072%399853 local G=#R D[M]=b(468945211%4423781)local K=68421304%345561 local w=b(128745+-104320)for Q=(-294059-(-247064))+46996,G,231922-231921 do K=(((string[b(-647437-(-671850))](R,Q)+A())+K))%(-386102+386358)w=w..B[K+(-374274+(1124405-750130))]end D[M]=w end return M end end local R={}local Q={[G[B(b(393406441%3002916),30122768910248-(-317459+35404))]]=true,[G[B(b((-968702+627495)+365621),33736135632271-474095)]]=true;[G[B(b(596210-571800),589197+11586392740026)]]=true,[G[B(b(196861244%2460460),740566+(31816850859295-886932))]]=true;[G[B(b(1707246328%(-505252+(10748084-(-988891)))),9479616976119-845591)]]=true}local function F(R)local Q,F=pcall(R)if Q then return F end return nil end function R.is_secondary(R)return Q[string[G[B(b(344208+-319781),-872123+24588534748530)]](tostring(R or G[B(b(431766+-407341),-613166+13286702074021)]))]==true end local function M(R)local Q=tonumber(F(function()return core[G[B(b(((-44514+-459930)-(-21789))-(-507102)),2213398495837-(-853870))]][G[B(b(-44998+69446),(-129810+20707472526874)-(800545+125877))]]()end))or 781083-781083 for Q=461094+-461093,math[G[B(b(-147730+172160),18285444024924-(-367627+(900622+-1518124)))]](Q,1180729245%5491763),-435792-(-562148+126355)do local M=F(function()return core[G[B(b(-680796+(1436769-731549)),-180678+19879334233943)]][G[B(b((420362149829%1804135636)%(13529738-176717)),4339170267608-(-668580))]](Q)end)if type(M)~=G[B(b(134577+-110173),453400+32889374709729)]then break end if M[G[B(b(-11841+1438349633%9525254),973927775%10694740+(1512722174066-655172))]]~=true and string[G[B(b(268071+-243625),961785+23972430934516)]](tostring(M[G[B(b(-749839+296100005%(3342372-881324)),29567898701419-185374)]]or G[B(b(2354850431%10063359),16750714793930-(-18347))]))==R then return tonumber(M[G[B(b(1140990819%6832134),5498700577021-(-474020))]])or 1424566443%10874553,tonumber(M[G[B(b(110869382%10076815),18016000699244-559048)]])or-183524+183524 end end return nil end local function D(R)local Q=F(function()return core[G[B(b(974936-950507),26607703165136-(-25131))]][G[B(b(-906548+930988),-490621+17305666206578)]]()end)if type(Q)~=G[B(b(135242+-110833),1853487205929-(-27898))]then return nil end for M,D in ipairs({G[B(b(188449-164046),2751586106346-(-286989))],G[B(b(180231580%1217616),8150198491353-(197052-497502))],G[B(b(2327135972%13147523),29023691880750-(-93184))];G[B(b(1037911-1013480),-904228+31253188705429)],G[B(b(3420408484%14617026),(-337193+(837692+-962726))+20377305401560)]})do local K=Q[D]if type(K)==G[B(b(3484425149%(614702+14735081)),10886026135444-(-781488+159948))]then local Q=F(function()return core[G[B(b(658746+-634320),1404483607046-(-432420))]][G[B(b((((817238+-2015651)-(-282146))+1287759)+-347039),(374391+15938050642868)-656502)]](K)end)if type(Q)==G[B(b(161590+(-886028+(1495436-746555))),-258195+(-738707+1763342374993))]then local F=string[G[B(b((-47891+515893759)%((3957398684-(-84381))%19286429)),505154821795-(-195344))]](tostring(Q[G[B(b(424409+-399973),-891895+31651906274188)]]or G[B(b(-874201-(-859113-39513)),22008767306506-(726-(1356505-372640)))]))local M=string[G[B(b(6422528%6398121),27249617743138-949217)]](tostring(Q[G[B(b(346898330%4564130),((-149748-(-911014+1501544))+16341868743930)-(-905559))]]or G[B(b(436955-412530),16880276476607-(-869748-(-486396)))]))if F==R or M==R then return tonumber(Q[G[B(b((374969+352096128)%11748222),32393372908321-185303)]])or-325386-(-325386),tonumber(Q[G[B(b(-826034-(-850452)),11246580025508-(-275719))]])or 258758-(1153917-895159)end end end end return nil end function R.known(R)R=string[G[B(b(-563927+588348),31829370858215-(-682455))]](tostring(R or G[B(b(47790+-23365),16005377032994-(((-1004832+1001750)-(-937376))-688149))]))if R==G[B(b(737737-713312),455997+5988633962117)]then return false end local Q,F=M(R)if Q==nil then Q,F=D(R)end if Q==nil then return false end return true,Q,F end function R.primary_count()local R=tonumber(F(function()return core[G[B(b(480343-455908),675508+1554881546375)]][G[B(b(423506163%7562174),20989965399525-938595)]]()end))if R and R>855748-855748 then return R end local Q=F(function()return core[G[B(b(-466465+490917),812456+1429280486851)]][G[B(b((806320+1077845619)%8629020),4536167032985-960524)]]()end)if type(Q)==G[B(b((-110040+(-410737+((-209410+127036)-314046)))-(-941648)),(-64005-(-718730))+32626645519828)]then local R=((Q[G[B(b((-936342+38605802)%(951850+-645793)),1884432611260-980959)]]and-542892+542893 or 672467+-672467))+((Q[G[B(b(628936673%(1343304584%11245994)),32783993324909-(-66736))]]and 42423076%4713675 or 1995791952%((201202352914%1378192139)%24163447)))if R>631938379%3652823 then return R end end return R end function R.can_learn(Q)if R[G[B(b(-628691+653106),1000689+30928197795871)]](Q)then return true end local F=R[G[B(b(888119-863685),167436+2265657755110)]](Q)if F then return true end local M=R[G[B(b((304970-(-334922))-615476),7175399839772-470738049%2401502)]]()if type(M)==G[B(b(2166143728%12817274),557815+27774915982443)]and M>=1721049968%(13800662-662876)then return false,G[B(b(-158087-(-182489)),-471256+21251024418406)]end return true end return R end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- professions.lua - which professions the character has (Profession API)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- One place that answers "does this character know <profession>, at what
+-- rank", for the quest engine's profession steps and the gathering trainer:
+--   1. core.skill skill lines (Classic / TBC / Forever since the 2026-10-06
+--      core update): every profession, primary and secondary, by name,
+--   2. core.spell_book.get_professions + get_profession_info (prof1, prof2,
+--      fishing, cooking, archaeology - no First Aid there),
+-- and how many PRIMARY professions are learned
+-- (core.trade_skill.get_num_primary_professions; Blizzard's trainer refuses
+-- a third primary). Names are matched in lower case ("first aid").
+-- ============================================================================
+
+local P = {}
+
+local SECONDARY = { cooking = true, fishing = true, ["first aid"] = true, archaeology = true, riding = true }
+
+local function safe(fn)
+    local ok, v = pcall(fn)
+    if ok then return v end
+    return nil
+end
+
+function P.is_secondary(name)
+    return SECONDARY[string.lower(tostring(name or ""))] == true
+end
+
+--- From the skill lines: rank, max rank of `name`, or nil.
+local function from_skill_lines(name)
+    local n = tonumber(safe(function() return core.skill.get_num_skill_lines() end)) or 0
+    for i = 1, math.min(n, 200) do
+        local info = safe(function() return core.skill.get_skill_line_info(i) end)
+        if type(info) ~= "table" then break end
+        if info.is_header ~= true and string.lower(tostring(info.name or "")) == name then
+            return tonumber(info.skill_rank) or 0, tonumber(info.skill_max_rank) or 0
+        end
+    end
+    return nil
+end
+
+--- From the profession spell tabs: rank, max rank of `name`, or nil.
+local function from_profession_tabs(name)
+    local profs = safe(function() return core.spell_book.get_professions() end)
+    if type(profs) ~= "table" then return nil end
+    for _, slot in ipairs({ "prof1", "prof2", "fishing", "cooking", "archaeology" }) do
+        local idx = profs[slot]
+        if type(idx) == "number" then
+            local info = safe(function() return core.spell_book.get_profession_info(idx) end)
+            if type(info) == "table" then
+                local a = string.lower(tostring(info.skill_line_name or ""))
+                local b = string.lower(tostring(info.name or ""))
+                if a == name or b == name then
+                    return tonumber(info.skill_level) or 0, tonumber(info.max_skill_level) or 0
+                end
+            end
+        end
+    end
+    return nil
+end
+
+--- Does the character know profession `name`? known, rank, max_rank.
+function P.known(name)
+    name = string.lower(tostring(name or ""))
+    if name == "" then return false end
+    local r, m = from_skill_lines(name)
+    if r == nil then r, m = from_profession_tabs(name) end
+    if r == nil then return false end
+    return true, r, m
+end
+
+--- How many primary professions are learned (0, 1, 2), or nil when the
+--- client does not answer.
+function P.primary_count()
+    local n = tonumber(safe(function() return core.trade_skill.get_num_primary_professions() end))
+    if n and n > 0 then return n end
+    -- 0 can also mean "API unavailable": count the primary profession tabs
+    local profs = safe(function() return core.spell_book.get_professions() end)
+    if type(profs) == "table" then
+        local c = (profs.prof1 and 1 or 0) + (profs.prof2 and 1 or 0)
+        if c > 0 then return c end
+    end
+    return n
+end
+
+--- Can `name` be learned at all, as far as the profession limit goes?
+--- false + why when two primary professions are already learned.
+function P.can_learn(name)
+    if P.is_secondary(name) then return true end
+    local known = P.known(name)
+    if known then return true end
+    local n = P.primary_count()
+    if type(n) == "number" and n >= 2 then
+        return false, "two primary professions are already learned (unlearn one first)"
+    end
+    return true
+end
+
+return P

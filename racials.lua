@@ -1,1 +1,505 @@
-return(function(...)local A={"c8e\'4]X(";"cUaZJM`mG.\"","Y4pJG1BC=";"caE6:i\'6","YQhuKnqX=","Y4Q4PBu==";"cf^rA\\VT^s";"cn4aWSL0";"cq./\'D:RK","c_];c3Op","YQ8YEvGeo6iUGfpX=","c82`37!D`","YcVbj4zp=";"c[F#^eR\\+","Yz0Ov/5edM+==","YrGrTuP7=","c_nW/iNi\"B!","YIBsjMSI3nMl+";"Yp5ShE9OD","c&-Tn","Y9qoWn7X33T7X";"c)(pEn1U//[Rup$@75mC3YP[\\Wt5iga,/R#ULE";"YVjeU","Ytfr+pu1=","cc\\(g4";"c#pQ;\"U:G";"c%07&C@O,X";"YdcTOO+Sx5m==";"cAHg[a\"E","cQcE.\\","c6OH/jLI*K)(d25","c5`Ej`?c";"Y8iNBOQJF";"Y/8Pq0w+=","YRNdiBRR=","Y7gvOHrN=";"cCNaaVnV","YLDnuom==","YpAO1tVR=";"Y9Yujq6+=","YBz8B797azcby","YPpMRm/5SwlMwZh6zSWIuMocHSu==";"c4aq5@LC\\OB#gMpc";"YiKwdzJQGY+N=";"c\';c/7l[1e";"YmMPJ","YVOr5Cp/bEsM3O2x=";"c;4Cc*0.";"cpW%*`QYRU";"c[.B/","c-Y%+P[s";"YM8DXipzZowp=";"cj/l","YyRluz1b=";"YUWqv2h5j50Sv";"cYM>2][s","cR6pGa/^a)t-U","YNDoy","YOpJoIUO8CS4Ec/X=";"Y05yVoL9NKNVH","YKvTIJSgcHlb=","YV52H8m==","c^D4T0[s","YCu==","YUYsbzmHMhy1=";"cdYSZiT9%<q";"cqUVnMjJ";"YvQvh20OuoFV+i3R=","YQD4T54AWZLfR+HOIdiX=","cFi*Hm@F","cij?/]lW";"c!7&T\']j";"ch@SR","YwoaUMojS","Ydk6o6xp=","YcruBkeYvpPwm/Ab=";"c7LQLCC\"gYN-?","cAj)O)J*";"YIcltS+Q4/nUkKQp=","c%5,MIjOWsjg0";"Yx5lsd88=";"c?@oP","YOe/ivBMVUxfLVmm=","cS8UC_e7^Ll+G";"YbKSk";"c[an5(","YJ2EL3I9k";"c_?)pdQ$+EKReu","Yp56D/YEd","c:4+d(;$jrh9jQ";"YZRTwUZKhS/b=";"cVtXfJR?","YjgZpbcL=";"YCIP0","c\"W(2","YRWJP";"YvEwEfu==","YKFGmp6RvCNR=","YV0JRzLn3iNp=","YX6Z1N+==";"YellUcISoGBDne+u=","YLXiIYrko+Cx=","YT7dU0SR=","cIQoQ*.*","ce!.jh";"cei[-;";"cUZLf<X6","Y87kQp/efBsq3kop=";"YWP0M3H91";"c!!P`<.f.";"YqM7NY7wTjW==";"clV8in-[","c7KQq<!%";"ciK!s";"YZtcoDcr87JCq";"YeErbTL+=","Y","cRuDG3NU8W6g[t]";"c.?&p";"cck>La\'(","YcF/G1+==","YhOOrem==","cq!sCX^C","YNux3Uk+=","YZju=","Y8P8YkpsQ","YxOkudyX=";"YEEsPmIwR","ceNom1","YLO2soRX=";"c$_lHliSed>o\'j`k3i?2","YK6bL+NW=";"Ys0ig","cf9t8";"ckt(hf^Ng","c\\r55U","YYqHGEZicLuy5","YPSFAjamhG+==","c1AcIdeV";"c`#`?";"YBd7mr+==","cQ/SP1+%","YSVdJSm==","c7S>G7","YRSzNYou9";"Y6/TnVWUYL3B8","YFoR263R=";"Yage3dg1=","ciVGrhYd";"c<,R#*(e^8(","YZS13Hq54+kinfyeb6nC=","cN3aoXZl&nmK6";"cV9FG:/tEt","Y+3jFwyHoDnp=","Y7m2Y","YgB4Uku7=";"YSNHEFTv7z+==";"YCmPxXUu/ymc5";"YvwHacTLt";"YHaLXGhrZ/50L","YGMLphm==","Y1roSd3IbSa4uu51=","YnCm7y9z3McZOEm==";"c]?9hX";"c.`8I","YiHC5L895","YE5Kn/YT=","YxdN=";"c8UFC!(g";"Y3XGVfwR=","YI5jBY/W=","Y9Z1PCu==";"Y49eph7rK5eJ+";"YEJVHCT/wyFvk","Y2qY4";"c\\jp\\NFc";"Yy+8Uk5hBQpnxoEBAdLHqF8qZ1u==";"cYXPVI!QUV7","YyBk/sGNv";"cdgX]9";"YGf222DRZ";"c#)0ML`ST+CLC";"Yz0ODEze4c9SZ/91=";"YWRT6yaX=","c7;gZ?8P","cbatPVQ\".IB","cdZUij@r&F#Yk";"c!uqp;p-%","c1BsOa]H","coEF";"YYKJ4DLLHqPN=";"Y2qVEV/7="}for Q,Y in ipairs({{314060792%(669576-(-571771)),(-924738+1019801)+-94871},{382181233%7962109;-579785+579839},{930801-930746,-949381-(-949573)}})do while Y[-671287+671288]<Y[-63858-(-63860)]do A[Y[(-704211-96662)+800874]],A[Y[-816489+2459951219%11384883]],Y[-199472+199473],Y[(-477006-(314469-(-132497)))-(-923974)]=A[Y[-540378-(-540380)]],A[Y[371793+-371792]],Y[976545-976544]+(865021-865020),Y[(836176+-963432)+127258]-(165929+-165928)end end local function d(Q)return A[Q-782765047%(-959931+4873589)]end do local Q=table.insert local Y={m=-61621+(133418-71791),[":"]=632251-632205,["6"]=406218+-406143;E=137486943%((444198-(613738+-1564744))-849621),["2"]=3100539253%13364393,I=-484702+484724,["!"]=-330038+330082,R=-87162-(621332+-708537),d=1031549-1031483;[")"]=(-297675-(-640365-(-1595120-(-681625))))+570861;["\\"]=700111+-700047,C=-730957-(-731011),["%"]=337863503%1494971;i=-772424+(1219885-447381);X=-273447-(-1062096-(-788602));["3"]=-397559-(-397611),["0"]=4000125921%15686768;k=108173-108134;["?"]=((1045999-497455)+-943787)-(-395276),Q=368828606%10825681+-755418,r=394652-394569;D=-885540-(-885608);[";"]=(26752807160%169424488)%3735670,t=409164-409082,u=58331869%1041640,Z=(217398-(-221118))-438458;["9"]=-1013719+(421274+592486);h=230355300%3199379,["5"]=-248674+248681,["&"]=350331193%2048720,n=841462281%8090983,o=-492101-(-492119);["$"]=-411452-(-411456);q=-199974-(-200027);f=(794762+-1467685)-(-346090+-326894),["*"]=-355078-(-355162);j=-181628-(-181706),["^"]=124910-1329172277%9918264;["("]=684454-684406;["-"]=(-721054-(-66850))+654229;["@"]=457802057%16350073;e=2454008655%(((65978771368899%402309613409)%(411392107817%1632545291-1039289)-790121)%((13255164-340087)-(-364166))+14262316);c=1292767488%9576055,s=-871888-(11933+-883856);O=689509-689508,K=599383823%3084244+-1040449;U=-86891-(-899799-(-812903));L=1442624001%5840583;["/"]=-202808+202829;["="]=505996226%8295019,V=548493+-548424,G=903066-903036,["1"]=1466576066%(632351+(-18815+8848245));a=652569-652566;["\""]=-274515-(-983930-(-709379));["`"]=715450+(-790058+74653);g=(603117096-((-226440-543998)+157288))%5861458,[","]=-20125+20144;T=-747092+(-61995-(261299+-1070462));H=580521654%6110754;["+"]=-560110+560127,F=634141+-634126,p=((-253813-(-52736-122991))+-299583)-(-377720);B=(18838-((1497422-(-366720+693737))-679738))-(-471894),J=967310+-967302,["\'"]=-544191+1398830331%7855540,_=-818129+818152,N=-719703-(-719758),b=-969434+969484;l=-243788-(-243858),["."]=66826216%6682619,["8"]=511977+-511937;A=-792984+792986;["7"]=1155302698%5272149+-702051,P=-540954-(-540996);["#"]=-874874+874933;[">"]=719597-719535;["4"]=(-58529-(-955620))+-897012,M=((-481508-126634)-(-914714))-(2645833293-592570)%(-243046+11356215),["["]=2384329395%11862335,W=(1233063185-16620)%8274244-((-962323+(1032384-280129))+394245),["]"]=309045-309035,S=690920588%7851370,Y=(601010-845075)-(-244079),["<"]=-1020698+1020735}local W=type local o=string.sub local U=A local T=table.concat local j={j=-351748+351810;O=-451838-(-451899);I=1647193828%11359957,["/"]=943285+-943258,["7"]=263668584%1843836;P=-131657+131659;["2"]=((-382393+((-138256+1392605)-926605))+(((497519-(-501491))+(340957-839982))+69110))+(-26199+-488246);Y=884942-733590367%9393660;T=969747962%7291338,["6"]=(941203+-368458)-572724;Z=(131847-520394)+388581;W=(-397083+49981)+347134;l=((890193-645329)-49271)+-195534;N=-244730+244754;t=253563582%15847723;i=284706340%2588239,n=-442743-(748397+-1191187);U=-824792-(-824799),k=51654494%266260;o=767780-767758,C=-379623+(-526382-(49247-955296));g=696474375%6389673,["5"]=31867+-31829,G=987742+-987707,B=-525755+525797,D=747989901%7791561;["9"]=245320466%1592990;["8"]=966424-966412;x=283758915%2270071,V=97351-97293,r=-978945-(-978976),p=837547-837519;e=570588-(89699261801%533986442-(-847950))%2086866;w=(15695302286%96972718)%((-9928+(85394-(-406803)))-(1026575+-1742779));A=927327-927308;K=648668+-648619;u=817170708%6053116;R=148595+-148543,["1"]=305919773%10548957;f=-962513+962539,["0"]=28478998%121187,a=(328516466-867733)%(3845400254%15253032)-410724,v=-904493+(4171588092%(17938781-341572)-145025);b=226415-226359,z=196585879%((-129338+992864)+9483098);S=(501607+2033493455)%(10675407-1035620),["3"]=(-593001+-57513)+650517;q=129752017%11795637;L=432210436%2251096,c=621194-621165,J=142543+-142500;E=(447372489-(-269465))%3243700-(-400979+(-283822+696130)),F=-961242-(188973+(-1657407-((1061006-716737)-(1063828-212424)))),Q=162573+-162534;h=1814229484%10929093;H=248447-248432;M=-979751+979781;["4"]=-194418-(-616254-(-421803)),["+"]=48121329%16040443;d=-495554+495591;s=233995+-233982;m=148684981%2703363,y=76205265%2241331;X=932982+-932922}local D=string.len local M=math.floor local x=string.char for q=(174149599-(-542095))%15881063,#U,143174-143173 do local J=U[q]if W(J)=="string"then local W=o(J,-852384-(-852385),-726543-(-726544))if W=="Y"then J=o(J,8710-8708)local Y=D(J)local W={}local p=245897+-245896 local R=300666621%5274853 local L=-320541+320541 while p<=Y do local U=o(J,p,p)local T=j[U]if T then R=R+T*(((69593056-251611)%877739)^(((699950-699947)-L)))L=L+(-560361+560362)if L==1041278379%10960825 then L=-481918-(-481918)local Y=M(R/(440186-374650))local o=M((R%(2393916226%10362990))/((485982+784905058)%8181154))local U=R%(-560082+560338)Q(W,x(Y,o,U))R=833771607%(-257732+13926119)end elseif U=="="then Q(W,x(M(R/(712828-647292))))if p>=Y or o(J,p+1016323695%5677786,p+1797862773%15498817)~="="then Q(W,x(M((R%(-702602+(866967904%(12798276-(-130100))+1426)))/(-345082-(-345338)))))end break end p=p+1306824069%6988364 end U[q]=T(W)elseif W=="c"then J=o(J,953779-953777)local W=D(J)local j={}local p=289308-289307 while p<=W do local U=(W-p)+(-513640+(152763-(-727623+366745)))local T=U>=(382478-(-312253))+-694726 and 2259604196%9375951 or U local D=890952-890952 local q=T>266803-266802 for Q=-892901+892901,1587-1583,509122648%15427959 do local W if Q<T then local U=o(J,p+Q,p+Q)W=Y[U]if not W then q=false break end else W=-943571+943655 end D=D*(2211324760%12636141)+W end if q then local Y=M(D/(826756399%20768697))%(776781+-776525)local W=M(D/(2528824862%13971046))%(715698+-715442)local o=M(D/(91219865%7016893))%((-255730-(-258062))+-2076)local U=D%(747680896%3894170)if T==905477+-905472 then Q(j,x(Y,W,o,U))elseif T==-161592+161596 then Q(j,x(Y,W,o))elseif T==(52702272899%1317928762)%6175598 then Q(j,x(Y,W))elseif T==755372+-755370 then Q(j,x(Y))end end p=p+T end U[q]=T(j)end end end end local O,t do local Q={}local Y={}local W=string[d(-686522-(-720129))]local o=-825798+825798 local U=table[d(-723268-(-756858))]local T=math[d(1076655236%9968720)]local j=math[d(-383383+416903)]local D=2327009954%(1517319206%(28524894-185084))for Y=874813+-874812,-853760-(-854016),835887+-835886 do Q[Y]=Y end repeat local o=j(804823+-804822,#Q)local T=U(Q,o)Y[T]=W(T-383295841%7985330)until#Q==(5225+2311894400)%(221959325%(341994+20532853))local M={}local function x()if#M==564392+(-1073416-((-791071+1598794)+-1316747))then o=((o*(674419+-674334)+(337688+4699152401363)))%((-690987+35184372479692)-((419086+-172146)-1324728912%8123815))repeat D=(D*((-31699+-502421)-(-534372)))%(1007035+-1006778)until D~=-531509-(-531510)local Q=D%(996071+-996039)local Y=(538830949378%((118255+(2436648468-(-1024408)))-(-370626)))%13916359-((D-Q))/(500249+(-594765+94548))local W=(T(o/(415965975%(690386358%11247509))^Y)%((7583073797461%(32228399710760%473947121433))%(310254130222%4309091612)))/(67669+-67667)^Q local U=T((W%(944814+-944813))*(386475+4294580821))+T(W)local j=U%((1139890-95115)+-979239)local x=((U-j))/(-710737+776273)M={j%(916974-916718),((j-j%(2805472528%14240976)))/((316228568-(-700088-(-211860)))%5460630),x%(3361557450%14808622),((x-x%(-1023002-(-1023258))))/(3102963808%(-355663+13616191))}end local Q=#M local Y=M[Q]M[Q]=nil return Y end local q={}O=setmetatable({},{[d(1187318404%(489903+6749639))]=q;[d(934407-900915)]=nil})function t(Q,W)local U=q if(U[W])then return W else M={}local T=Y o=W%((35184373020135-29923)-901380)D=W%(-31141+31396)+(622586+-622584)local j=#Q U[W]=d(-982776-(-1016394))local q=(-401071+(886059+-701613))+216788 local J=d(570741366%2797587)for Y=912631-912630,j,937935001%12505800 do q=(((string[d(-1032204+1065834)](Q,Y)+x())+q))%(762503056%6354190)J=J..T[q+((965548+-1891291)-(-925744))]end U[W]=J end return W end end local Q=require(O[t(d(378920-345460),1848+33725216114509)])local Y=require(O[t(d(198013671%6599336),33938808472233-(-22411))])local W=require(O[t(d(868124-834580),871255+24453466576077)])local o=require(O[t(d(593291894%6665824),82268681078435%((9140965116529-174499)-(-391597)))])local U=require(O[t(d(410566226%(3538036-837163)),8291105926069-((-195149-105937)-485473))])local T={}local j=75449+-75448 local D=(1506912277-227490)%13216533 local M=-640452+640512 local x=884520+-884440 local q=-999874802-125198 local J=nil local p=nil local R={}local L={}local r={[O[t(d(885380+-851877),197526+4030120809205)]]=true,[O[t(d(1040099299%8667214),34445014029889-(-498662))]]=true,[O[t(d((347639404-(-276440))%9939493),474856+14014278262150)]]=true;[O[t(d(2016380988%12446589),445795+24108624126350)]]=true,[O[t(d((2225484125%149259523)%2829528),-453093+(451739+9248659614174))]]=true;[O[t(d(-800271+833743),8542328299081-(-400481+-356647))]]=true,[O[t(d(1007499-3959795220%17673309),1027047+1465014929661)]]=true}function T.set_extra(Q)local Y={}if type(Q)==O[t(d(-982603+1016220),9497396876144-787679)]then for W=571315519%(91225494%(357313+10744547)),#Q,-703696-(-703697)do local o=Q[W]if type(o)==O[t(d(135005023%4499047),((-646966-(-956836))+(765804+24952146847500))-(364768+-750565))]and not r[o[O[t(d(-261814+295331),34342400371014-256029)]]]then Y[#Y+(-514314+(302962490-(-946983))%5230951)]=o end end end L=Y J,p=nil,nil end local function f(Q)local Y,W=pcall(Q)if Y then return W end return nil end local function S(Q)local Y=f(function()return Q:get_health()end)local W=f(function()return Q:get_max_health()end)if type(Y)==O[t(d(43460283%529594),11940047258494-789225)]and(type(W)==O[t(d(-434670-(-468258)),20964463875482-(977282+-1326424))]and W>-698306-(-698306))then return((Y/W))*(1378922695%9509811)end local o=f(function()return Q:get_health_percentage()end)if type(o)==O[t(d(831865+((-1021243-430647)-(-653636))),4841880186956-763065)]and o==o then return o end return 230124-229589154%3276559 end local b=require(O[t(d(-472076+505556),18236242936794-741047)])local function a(Q)return b[O[t(d((992009+2989375795)%(4498714531%(3543398466%27968053))),442280+21369578664786)]](Q)end local function Z(Y)local U=f(function()return Y:get_race_id()end)if type(U)~=O[t(d(-217843-(-251311)),5379997513464-324470)]then return nil end if J and p==U then return J end local T={}local j={}local D=W[O[t(d(629234-(702385-106754)),1810790752329-(-151054))]](U)for Q=764043-764042,#D,414784+((916568-701006)+-630345)do j[#j+(418341-418340)]=D[Q]end for Q=2324-2323,#L,604453-604452 do j[#j+(-866321+1638749922)%14367400]=L[Q]end for Y=309251611%3392612+-523918,#j,(-982665+1327882)-345216 do local W=j[Y]local U=type(W[O[t(d(1291858816%13890594),15842828773637-(-451496))]])==O[t(d(-610118+643651),19851315159972-(-489726))]and table[O[t(d(-941220+974847),(49463+-684078)+21942271363752)]](W[O[t(d(2573678900%13474583),10231367268573-612385)]],O[t(d(640795-607230),(-305649-590933)+10739436052021)])or nil local D=U and R[U]or nil if not D then D=f(function()return Q[O[t(d(-186062-(-219555)),31885430141929-(-142410))]](W[O[t(d(283378361%6746305),-117582+31291414784269)]])end)if D and U then R[U]=D end end if D then if o and type(o[O[t(d(901077-867576),(557535+-1309985)+9062276786741)]])==O[t(d(-21756+((-231630+-618306)+(3312481543-62988)%16809712)),-815205+34379841551083)]then D=o[O[t(d(-283212-(-316820)),6.0010848423432e+14%2521464288141)]](D)or D end T[#T+((-659285+-278768)+938054)]={[O[t(d(-804393+837952),-909599+10984940034149)]]=W,[O[t(d(167376+(-1043142-(-909231))),831982+6012072288621)]]=D}end end J,p=T,U return J end local function y(Q)local Y,W=pcall(require,O[t(d(-526687+560196),824783+14188769734002)])if Y and(type(W)==O[t(d(243547233%(4556962-(-261495+-51815))),18337700589548-386148)]and type(W[O[t(d(64802006%588805),21804767439063-442062)]])==O[t(d(171679587%3652043),25675152761647-764321)])then return W[O[t(d(-176502-(-210054)),427644+26555938971723)]](Q[O[t(d(861099932%4948657),31944481137410-(682382-328050))]],Q[O[t(d(2149750012%16163281),556587+11895275832027)]]~=false)end return Q[O[t(d(1144442634%16585638),-309973+12505176917177)]]~=false end local function B(Q)if not Q then return false end if o and(type(o[O[t(d(150932819%5588861),-869457+10187187297663)]])==O[t(d(762188-728626),428095+(-757666+13767833118059))]and o[O[t(d(979596-946102),4245547525796-404315)]]()~=true)then return false end if o and type(o[O[t(d(2107935394%11455988),17032853135182-(-387903))]])==O[t(d(130944769%711474),16793567221356-(-1040830))]then return o[O[t(d(1005077+-971493),93914559242883%31304857558074)]](Q)==true end return true end local function X(Q)local Y=f(function()return Q:cooldown_up()end)return Y~=false end local g={}local z=-805182-(-805190)local m=544242+-544122 local E={[O[t(d(-368706-(-402338)),14941457377656-(-389251))]]=true;[O[t(d(1703791899%8557619-792232),-957098+13051130223775)]]=true;[O[t(d(3257517926%12724548),(12779674880967-910548)-(-418498))]]=true}local function l(W,o,T,j)local D=f(function()return Y[O[t(d(130196-96580),10962095337184-(783648-884564552%4250626))]](W,o,T)end)if D==true then q=Q[O[t(d(((-1292838-(-733019))-(-394384))+199050),(-12653-(-364928))+30150989880437)]]()U[O[t(d((287405925072%(1389471342-971117))%12613258),-825710+22213148038898)]](O[t(d(2615882500%(14692874-(-859374-(-518633)))),(22815428401334-207764)-(411582+51718))],T)return true end return false end local G=77610752%15522150 local w=183430+-183400 local C={[O[t(d(1356257490%8121101),30591631352295-177802)]]=false;[O[t(d(-265869+299331),1091767072158-342934)]]=-1000758115-((941614+1429000305)%8664884-(-436520+2347505733)%10156169);[O[t(d(-667872+701384),-363961+26658464408824)]]=false,[O[t(d(-1011623-(-1045208)),-861862+29624477913145)]]=nil}local function V(Y)local W=Q[O[t(d((-531763+2233240384)%13613873),31591579788013-(-1034613))]]()local o=f(function()return Y:is_in_combat()end)==true if o then C[O[t(d((-703351+1196645)+-459713),28086479869999-443153)]]=nil if C[O[t(d((1074101404%11930040+37165530)%(-63548+347864)),292116471314-831483)]]then C[O[t(d(594455+-560923),295817+24643009956039)]]=true end return end C[O[t(d(38317251%308740),(20441029377495-988360)-((333813-(-596320))-((1227081-532427)+173445)))]]=C[O[t(d((1893873-857250)-(366877+636277)),864225+8995900359520)]]or W if C[O[t(d(772911+-739380),12494871682067-((-779576-(-3818))+1141899509)%(14326894-(-480881)))]]and((W-C[O[t(d((573697387955%2595940890)%14311374),-838393+26640175920255)]])>=G and((C[O[t(d(70761675%7858674),3.4401712241019e+14%(-129817+7167023764644))]]or(W-C[O[t(d(14413-(974313-(28424540152%631917466)%5578182)),840540+34302870871533)]])>=w)))then C[O[t(d(858721276%3733425),407758+(865172+(732582+20067250913078)))]],C[O[t(d(227883+-194335),589045+7695102336633)]]=false,false end end local function P(Q)if f(function()return Q:is_rooted(-445676+445676)end)==true then return O[t(d(1860584542%11009177),-125096+24023519147703)]end if f(function()return Q:is_stunned(160512690%1234713)end)==true then return O[t(d(-79955-(-113421)),29400888898115-621083)]end if f(function()return Q:is_sapped(-321709+321709)end)==true then return O[t(d((-609707+1579140003)%15628681),437301+33866371394889)]end return nil end local function k(Q,Y)if Y==O[t(d(399841816%2514518),31504483020755-(-771385))]then return P(Q)~=nil end if Y==O[t(d((503613165878%3357501055)%15002131),-52200+(431028+11024277018504))]then return f(function()return Q:is_rooted()end)==true end if Y==O[t(d(-50970+84509),-3769+13335219927161)]then if f(function()return Q:is_feared()end)==true then return true end return f(function()return Q:is_stunned()end)==true end if Y==O[t(d(639071865%5407266-980973),956408+22665218247100)]then return S(Q)<=x end return false end local function i(Y,W,o,U)local T=Y[O[t(d((808667+66882040%5349443)%1731897),4368578563972-614845)]]local j=T[O[t(d(368544233%8189128),232714+14529441136273)]]if j==O[t(d(-470008+503527),(-722213+16348420539831)-(-146442))]then if not o then return false end return S(o)>=D end if j==O[t(d(1384698466%((585202+10207647152%(1934495374%(272412+55366848)))%12641247)),30120671825013-(-686035))]then local o,U=pcall(require,O[t(d(-186655-(-220216)),63861+33503263778612)])if not o or type(U)~=O[t(d((763592+-572720)+-157247),19473759135123-686947)]then return false end local T=(2131040018-1532673173%(2597971349%29036963))%12758747 local j,D=pcall(require,O[t(d(205038815%7321619),31877581271660-378301)])if j and(type(D)==O[t(d(550367365%(161544633%(29270376-(321299737369%1709095761)%11714699))),(201670+4.5358709687547e+14)%(7.9377826121144e+14%11339689618972))]and type(D[O[t(d(268936+-235358),-1021370+(16946336260769-(-402986)))]])==O[t(d(-511211-(-544698)),6157445232223-(-490237))])then T=f(function()return D[O[t(d(580410-546914),-137475+726117336229)]](W)end)or(103598700344%635581482)%7377910 end local M=U[O[t(d(1803178863%12020969),-134272+(-41196+(-914307+34441627985589)))]](W,Q[O[t(d((-223245+-530961)-(-1321888-(-534096))),8.7558314168988e+14%8755831447967)]](),T)Y[O[t(d(-1027423+1060898),-538781+(31303484180257-(-956656)))]]=M return M~=nil end if j==O[t(d(15186+18374),834914+34745068790587)]then if not o or C[O[t(d((2266096739-(525704-(-418251+463393)))%14522966),813095+((10344604201340-136730)-902183))]]then return false end return f(function()return o:is_dead()end)~=true end if j==O[t(d(1675194529%15655711),538413+23433356448746)]then return a(W)<=M end if j==O[t(d(2753906608%(14095238-791503)),(413353+-203972)+20429650256109)]then if not o then return false end return a(W)<=(M+2807005760%12759117)end if j==O[t(d(762100+(-727894+-569)),22324857426454-972790)]then return S(W)<=x end if j==O[t(d(1567023685%9855284),(12141929742235-1932039171%12965230)-253492)]then return k(W,T[O[t(d((169351782596%822162642)%9623898),21899465079798-107113)]])end if j==O[t(d(1499607188%(2992341953%23112213)),30043+29846614905832)]then local Q=U and U[O[t(d(((898175919-(-101957))-(-358052))%(618551+10079096)),((-832765+201871)+3443419256818)-(-745033+2008582337%17018422))]]if type(Q)~=O[t(d(942905+-909371),((-82608+19683802063662)-(-905966))-846257)]then Q=-988517+988517 local Y=U and U[O[t(d(1162600296%7404884),9420125672712-709684)]]if type(Y)==O[t(d(341138-307517),(27640209732572-48466)-603756)]then for o=485883465%11042806,#Y,887653253%8213601+-584344 do local U=f(function()return W:distance_to(Y[o])end)if type(U)==O[t(d(216450684%928829),150513+9059887811813)]and U<=-542229-(-542237)then Q=Q+50232565%((808285+-1206293)-(-595774))end end end end return Q>=(-717194+-329220)-(-1046415)end return false end local function s(Q,Y,W)local o=Q[O[t(d((-746996+-270224)+1050854),63739271500728%31869643180323)]][O[t(d(-790442-(-824048)),171704+7490790144775)]]if o==O[t(d(-60369+93961),-617542+1748164747018)]then return W end return Y end local e=145055312.75%(3660337506.75%15119245.25)local u=(-1000582765-(-490322))-(-92443)local function n(Q,...)local Y,W=pcall(require,O[t(d(-895759+929326),17328840698551-(-600471))])if Y and(type(W)==O[t(d(-614249+647828),(-748111+6489222750055)-1003190)]and type(W[O[t(d(778926+-745321),-821097+3063397784670)]])==O[t(d(-627848+661366),5360244317839-856888)])then pcall(W[O[t(d(372513-(858502-519525)),20284618923526-109972)]],O[t(d(835960332%5463574),25014643592988-(-311436))],Q,...)end end function T.escape_tick(Y)if not Y then return false end local W=Q[O[t(d(1045515+-1011919),13442374237345-972307)]]()if W-u<e then return false end u=W local o=Z(Y)if not o then return false end for Q=-898984-(-898985),#o,793886-((-630197+423330)-((-932676+1161599926%15279181)-(1240117-1373946127%7671264)))do local W=o[Q]local U=W[O[t(d(-357121-(-390645)),676065+7173870386264)]]if U[O[t(d(265391866%1129184),16122031667399-(-350055))]]==O[t(d(((359031-(-503798))+-1383589)-(-286637+-267611)),(735100+-905293)+6724756196766)]and(y(U)and B(W[O[t(d(((926894+803598)-708697)-988202),23257986263316-(-421692))]]))then local Q=P(Y)if not Q then return false end if not X(W[O[t(d(400088-(-573718-(-940328))),262645+23119590456941)]])then n(O[t(d(-191616+225139),441661+24258706187837)],U[O[t(d(420461-386890),-1044043+(-485800+(6078759868680-(-1018118))))]],Q)return false end local o=l(W[O[t(d(-706311+739849),181911+23975254450599)]],Y,U[O[t(d(96010635%13711019),12101751628943-(-38119))]])n(O[t(d((-170184+(-459607+110892638))%1509990),884869+489322077656)],U[O[t(d(-464560+((91267042806371%702054224151)%2913073770)%11974025),33530684193928-(-1036416))]],Q,o and O[t(d(-46904+80357),34874576337521-662669)]or O[t(d(968154+((((-1170216-(-447804))-(((1018435+-2029176)-(-483068))+1514525))-(751512+-1018797))-(-507368))),12060240063235-118035)])return o end end return false end function T.tick(Y,W,o)if not Y then return false end V(Y)local U=Q[O[t(d(-939060+972655),5808391628756-815615)]]()if(U-q)<j then return false end local D=Z(Y)if not D or#D==-550283+402629532%3322969 then return false end for Q=659316-(335541328561%(412809357187%1975226495))%12972256,#D,905420566%(4297395-(-720359+775763957)%13595064)do if T[O[t(d(969206+-935650),-821876+30792372133819)]](D[Q],Y,W,o,U)then return true end end return false end function T.tick_one(Y,W,o,U)if not Y or type(U)~=O[t(d(376952+-343316),451209+32809316049343)]then return false end V(Y)local D=Q[O[t(d(-176894-(-210477)),12557729262263-563483)]]()if(D-q)<j then return false end local M=Z(Y)or{}for Q=388001161%16166715,#M,(153185+35186159)%2718411 do local j=M[Q]if j[O[t(d(617593144%3611460),33895788411779-729)]]and j[O[t(d((-346877+1160114)-779773),9087134010533-(-1024190+173255))]][O[t(d(670347-636849),-368413+27735959288698)]]==U then return T[O[t(d(613036-579554),20917411335337-(-1013380))]](j,Y,W,o,D)end end return false end function T.try_entry(Y,W,o,U,T)local j=Y[O[t(d(420708+-387088),-408234+11508327888792)]]if y(j)and(B(Y[O[t(d(-925647-(-959278)),(-735635+-169104)+(23368890398560-(40837+923356)))]])and X(Y[O[t(d(198887+(-316417+151087)),15771704132457-(-367309))]]))then if i(Y,W,o,U)then local U=s(Y,W,o)if j[O[t(d(722412-688933),136049+6723402357534)]]then if T>=((g[j[O[t(d(1841732027%9396421),-892785+4101950468972%45076478347)]]]or-839140+839140))then if E[j[O[t(d(502521+-468972),19572039525788-(-344486))]]]then g[j[O[t(d(-863050-(-896575)),818101+21453823133438)]]]=T+(323548+999676452)return false end if j[O[t(d(2887475554%11981087),16186440530813-(-829509))]]==O[t(d(188632-155182),28432516272664-(968012+(-355176+8562)))]then if l(Y[O[t(d(2335476073%14154197),-785738+22830825226067)]],W,j[O[t(d((350625+-1271319)-(-954200)),(20734886075209-498604)-(-193401))]],true)then g[j[O[t(d(-909152+942657),670313+22468836812458)]]]=T+m return true end elseif o and l(Y[O[t(d((811548+-539965)+-238001),488947+33053972735937)]],o,j[O[t(d(1077524467%16821676-903663),-15033+13391673212814)]],true)then g[j[O[t(d(689405+-655864),22063360804484-922283)]]]=T+m return true end if U and l(Y[O[t(d(904407+-870922),-202230+((24273+-712393)+23466977265391))]],U,j[O[t(d(((261564-(-702697))-315508)-615218),-828315+124054748280)]],true)then g[j[O[t(d((692617+-702288)-(-43265)),7.9125353451307e+14%34402327997458-(-386104))]]]=T+m return true end g[j[O[t(d(-393907-(-427531)),2905089026699-119119)]]]=T+z end elseif U and l(Y[O[t(d(1027579-994128),-126774+3343831595060)]],U,j[O[t(d((2083253493%15773346-409999)-728308),((-467230-436773)+789276)+18773275047863)]])then if j[O[t(d(2800460206%12964938),243597621039-(-856675))]]==O[t(d(285776-252305),(269995+-982716)+(14844762515358-756428))]then C[O[t(d(569899-536410),-215143+2.6438952826473e+14%1049164835445)]],C[O[t(d(-367481-(-401031)),316316+27140033199998)]],C[O[t(d((-724963-(-890506))-131974),321638+(-525284+31005731831840))]]=true,Q[O[t(d(948132-914658),(3571317445711-(1660047-888554))-(37777+758037))]](),false end if j[O[t(d(357286991%2261098),17760208026384-(-912001))]]==O[t(d(-1036902+1070369),21508433%1177627+12650442020030)]then n(O[t(d((((-387845+53545)+297562)+-766369)-(-836604)),(-846188+-162028)+6557549044982)],j[O[t(d(355866898%4744446),((3899336441%15980039+-569562)+((-33163+-179613)+23639053513574))-1040455)]],tostring(Y[O[t(d(42666145%14210845),19690561011177-478437)]]))end return true end end end return false end function T.ooc(Y)if not Y then return false end V(Y)local W=Q[O[t(d(1406685465%6008713-612988),(-1083948-(-593832-(-311620)))+32623009130479)]]()if(W-q)<j then return false end local o=Z(Y)if not o or#o==-652952-(-652952)then return false end for Q=-468310+2615322337%13478629,#o,-308908+308909 do local U=o[Q]local j=U[O[t(d(13462+((-876113+(-161512-(-415889)))+641795)),15093794733372-(490537+-568587))]]if j[O[t(d(1043971+-1010408),(32613738232264-(-808563))-(-756426))]]==O[t(d(2332308612%11432721),3.7884514859462e+14%12220811521378-357933)]and(j[O[t(d(888204+-854705),32045168%(948258+1668211)+(33111255234395-(-102113)))]]~=O[t(d(-196043-(-229580)),12874911693849-(-157419))]and(y(j)and(B(U[O[t(d(-838796-(2350013335%10827988+-1212299)),(28269095469477-(-518563))-((-1059856-(-823999))-(-578592-(-620400))))]])and X(U[O[t(d(-666901-(-700477)),(-882699+19943397316380)-(337563-267106))]]))))then if k(Y,j[O[t(d(-515505+((-151578+((-600757-(-380312))+1090626))+(519611+-689232))),(-434163+1730580622678)-964286764%5951734)]])then if l(U[O[t(d(-378107+411711),180021+26520045020355)]],Y,j[O[t(d(1165159999%7374218),2563059979558-162171)]])then return true end end end if j[O[t(d(87277501%504300),27701238912292-967690)]]==O[t(d(620500453%(14038149-549736)),915989+26225058875490)]and(y(j)and(B(U[O[t(d(301056-267428),7879954955995-209922)]])and X(U[O[t(d(38251967%5459787),-236891+15222858049361)]])))then if T[O[t(d(1240013267%5511021),27099150586516-550498)]](U,Y,nil,nil,W)then return true end end end return false end function T.reset()J,p=nil,nil end return T end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Racial abilities - one implementation, driven by every rotation
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- Racials are per RACE, not per class, so they cannot live in the nine class
+-- files without being written nine times for every race. The class rotations
+-- call racials.tick(player, target, ctx) from their combat tick and
+-- racials.ooc(player) out of combat; this file decides what is worth casting.
+--
+-- WHEN EACH KIND FIRES
+--   offensive  once the fight is properly under way, not on the pull. Firing
+--              Blood Fury at a mob that dies in two globals wastes a two
+--              minute cooldown, so it waits until the target has enough health
+--              left to be worth it.
+--   mana       when mana is low, in combat. Out of combat the bot drinks.
+--   heal       when health is low, in combat. Out of combat the bot eats.
+--   free_cc    when the matching control is actually on us. is_rooted,
+--              is_feared and is_stunned come from the SDK and report the real
+--              state, so this is never a guess.
+--   aoe_stun   only when more than one thing is in melee range - a single
+--              target does not justify the cooldown.
+--
+-- EVERY RACIAL IS OPTIONAL. Each one gets a checkbox on the Class tab, all on
+-- by default, and the whole file no-ops for a race that has none.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+local spellcheck = require("spellcheck")   -- 2.246.0: spell_helper gate on every cast
+
+local data = require("data/racials")
+local spellbook = require("spellbook")
+local state = require("state")
+
+local racials = {}
+
+local ACT_GAP = 1.0          -- seconds between racial casts
+local OFFENSIVE_MIN_HP = 25  -- target must still have this much health left (1.2.23: was 40)
+local MANA_PCT = 60            -- 1.2.23: was 30 (Arcane Torrent / mana racials on cooldown once a fight drains mana)
+local HEAL_PCT = 80            -- 1.2.23: was 50 (Gift of the Naaru heals over time - used early in a fight)
+
+local last_act = -1e9
+local resolved = nil         -- race_id -> { {def, spell}, ... }
+local resolved_race = nil
+local spell_by_ids = {}      -- audit 1.19.0: "id,id,..." -> izi spell (see for_player)
+-- 2.194.0: the Spells tab's "Other known spells" (smart.lua), used like an
+-- offensive racial when ticked.
+local extra_defs = {}
+
+--- The other known spells smart.lua listed; replaces the previous list.
+-- 2.225.0: pet care spells are never cast from here, even if a list from an
+-- older build ticked them (Feed Pet went off every second in hunter fights).
+local EXTRA_NEVER = { ["Feed Pet"] = true, ["Dismiss Pet"] = true, ["Tame Beast"] = true,
+    ["Beast Training"] = true, ["Call Pet"] = true, ["Revive Pet"] = true, ["Mend Pet"] = true }
+
+function racials.set_extra(list)
+    local out = {}
+    if type(list) == "table" then
+        for i = 1, #list do
+            local d = list[i]
+            if type(d) == "table" and not EXTRA_NEVER[d.label] then out[#out + 1] = d end
+        end
+    end
+    extra_defs = out
+    resolved, resolved_race = nil, nil
+end
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+local function health_pct(unit)
+    -- 2.306.0 (audit IZI-2): get_health / get_max_health first (game_object.lua,
+    -- exact); then get_health_percentage AS IS - izi_sdk.lua:72 says 1..100, so
+    -- the old "0..1.5 means a fraction, x100" rescale read a unit at 1% as 100%.
+    -- The undeclared health_pct() is no longer read.
+    local cur = safe(function() return unit:get_health() end)
+    local mx = safe(function() return unit:get_max_health() end)
+    if type(cur) == "number" and type(mx) == "number" and mx > 0 then
+        return (cur / mx) * 100
+    end
+    local p = safe(function() return unit:get_health_percentage() end)
+    if type(p) == "number" and p == p then
+        return p
+    end
+    return 100
+end
+
+local power = require("power")
+
+local function mana_pct(unit)
+    -- power.lua (2.202.0): izi mana_* first, native get_power / get_max_power (mana 0) when
+    -- they read nothing - on WoW Forever a Mage read as having no mana and never drank.
+    return power.mana_pct(unit)
+end
+
+-- ----------------------------------------------------------------------------
+-- RESOLUTION
+-- ----------------------------------------------------------------------------
+--- Build this race's spell objects once. Rebuilt if the race ever reads
+--- differently, which happens when the player object is not ready on the first
+--- tick and reports nil.
+local function for_player(player)
+    local race = safe(function() return player:get_race_id() end)
+    if type(race) ~= "number" then
+        return nil
+    end
+    if resolved and resolved_race == race then
+        return resolved
+    end
+    local out = {}
+    local defs = {}
+    local base = data.for_race(race)
+    for i = 1, #base do defs[#defs + 1] = base[i] end
+    for i = 1, #extra_defs do defs[#defs + 1] = extra_defs[i] end
+    for i = 1, #defs do
+        local def = defs[i]
+        -- audit 1.19.0: one izi spell per id list for the session - set_extra
+        -- clears `resolved` on every Spells-tab rebuild (each spell scan), and a
+        -- new izi spell (watched by spellbook) was made for every racial each time
+        local skey = type(def.ids) == "table" and table.concat(def.ids, ",") or nil
+        local spell = skey and spell_by_ids[skey] or nil
+        if not spell then
+            spell = safe(function() return izi.spell(def.ids) end)
+            if spell and skey then spell_by_ids[skey] = spell end
+        end
+        if spell then
+            if spellbook and type(spellbook.watch) == "function" then
+                spell = spellbook.watch(spell) or spell
+            end
+            out[#out + 1] = { def = def, spell = spell }
+        end
+    end
+    resolved, resolved_race = out, race
+    return resolved
+end
+
+--- Ticked in the Spells tab (2.64.0)? Racials are listed there by name with
+--- the rest of the character's spells; untouched means on.
+local function wanted(def)
+    local ok, picks = pcall(require, "picks")
+    if ok and type(picks) == "table" and type(picks.wants) == "function" then
+        return picks.wants(def.label, def.default ~= false)
+    end
+    return def.default ~= false
+end
+
+local function learned(spell)
+    if not spell then
+        return false
+    end
+    if spellbook and type(spellbook.ready) == "function" and spellbook.ready() ~= true then
+        return false
+    end
+    if spellbook and type(spellbook.spell_known) == "function" then
+        return spellbook.spell_known(spell) == true
+    end
+    return true
+end
+
+local function ready(spell)
+    local up = safe(function() return spell:cooldown_up() end)
+    return up ~= false
+end
+
+-- `safe_only` (2.240.0): no unguarded spell:cast fallback. izi's cast
+-- "queues the spell with no safety gates" and answers true, so a ticked
+-- "other" spell that cast_safe refused (Conjure Mana Agate with a gem held,
+-- a 3 s cast while moving) counted as cast every ACT_GAP - 106 times in one
+-- session, each one taking the rotation's cast tick ahead of Frostbolt.
+local extra_hold = {}          -- label -> time a refused "other" spell may be tried again
+local EXTRA_RETRY = 8.0
+local EXTRA_OK_HOLD = 120.0
+-- passives and profession spells that are listed as known but are not castable abilities
+local NEVER_CAST = { ["Big Game Hunter"] = true, ["Artisan's Precision"] = true, ["Gardening"] = true }
+
+local function cast(spell, unit, label, safe_only)
+    -- audit R2: one send per tick (spellcheck.cast is the same gate + core cast)
+    local ok = safe(function() return spellcheck.cast_safe(spell, unit, label) end)
+    if ok == true then
+        last_act = izi.now()
+        state.set_note("Racial", label)
+        return true
+    end
+    return false
+end
+
+-- ----------------------------------------------------------------------------
+-- WHETHER EACH KIND WANTS TO FIRE
+-- ----------------------------------------------------------------------------
+-- ONCE PER FIGHT (2.195.0). A "fight_start" racial goes out when a fight
+-- begins - at the pull, before the first damage spell - and not again until
+-- that fight is over: the player was in combat after the cast and has then
+-- been out of it FIGHT_GAP seconds. A pull that never became a fight frees it
+-- after FIGHT_STALE seconds out of combat.
+local FIGHT_GAP = 2.0
+local FIGHT_STALE = 30.0
+local fight = { used = false, used_at = -1e9, seen_combat = false, ooc_since = nil }
+
+local function note_fight(player)
+    local now = izi.now()
+    local in_combat = safe(function() return player:is_in_combat() end) == true
+    if in_combat then
+        fight.ooc_since = nil
+        if fight.used then fight.seen_combat = true end
+        return
+    end
+    fight.ooc_since = fight.ooc_since or now
+    if fight.used and (now - fight.ooc_since) >= FIGHT_GAP
+        and (fight.seen_combat or (now - fight.used_at) >= FIGHT_STALE) then
+        fight.used, fight.seen_combat = false, false
+    end
+end
+
+--- 2.255.0: rooted, stunned or sapped (izi's CC checks, any remaining time),
+--- and what it is, for the log.
+local function escape_cc(player)
+    if safe(function() return player:is_rooted(0) end) == true then return "rooted" end
+    if safe(function() return player:is_stunned(0) end) == true then return "stunned" end
+    if safe(function() return player:is_sapped(0) end) == true then return "sapped" end
+    return nil
+end
+
+local function cc_on_us(player, which)
+    if which == "escape" then
+        return escape_cc(player) ~= nil
+    end
+    if which == "root" then
+        return safe(function() return player:is_rooted() end) == true
+    end
+    if which == "fear" then
+        if safe(function() return player:is_feared() end) == true then
+            return true
+        end
+        return safe(function() return player:is_stunned() end) == true
+    end
+    if which == "bleed" then
+        -- No "am I bleeding" call exists, and guessing from debuff ids would
+        -- need a table of every bleed, poison and disease in the game. Health
+        -- falling while out of a fight is the honest proxy, and Stoneform's
+        -- armour is worth having in a bad fight regardless.
+        return health_pct(player) <= HEAL_PCT
+    end
+    return false
+end
+
+local function wants(entry, player, target, ctx)
+    local def = entry.def
+    local kind = def.kind
+
+    if kind == "offensive" then
+        if not target then
+            return false
+        end
+        return health_pct(target) >= OFFENSIVE_MIN_HP
+    end
+
+    if kind == "stoneform" then
+        -- 1.2.67: survival rules (stoneform.lua), in and out of combat; the reason goes to the racial trail with the cast
+        local okm, sf = pcall(require, "stoneform")
+        if not okm or type(sf) ~= "table" then return false end
+        local att = 0
+        local okt, tg = pcall(require, "targeting")
+        if okt and type(tg) == "table" and type(tg.attackers) == "function" then
+            att = safe(function() return tg.attackers(player) end) or 0
+        end
+        local why = sf.decide(player, izi.now(), att)
+        entry.reason = why
+        return why ~= nil
+    end
+
+    if kind == "fight_start" then
+        if not target or fight.used then
+            return false
+        end
+        return safe(function() return target:is_dead() end) ~= true
+    end
+
+    if kind == "mana" then
+        return mana_pct(player) <= MANA_PCT
+    end
+
+    if kind == "mana_tap" then
+        -- Mana Tap only charges Arcane Torrent; it is pointless without a
+        -- target and wasteful at full mana.
+        if not target then
+            return false
+        end
+        return mana_pct(player) <= (MANA_PCT + 20)
+    end
+
+    if kind == "heal" then
+        return health_pct(player) <= HEAL_PCT
+    end
+
+    if kind == "free_cc" then
+        return cc_on_us(player, def.cc)
+    end
+
+    if kind == "aoe_stun" then
+        local melee = ctx and ctx.melee_count
+        if type(melee) ~= "number" then
+            melee = 0
+            local list = ctx and ctx.enemies
+            if type(list) == "table" then
+                for i = 1, #list do
+                    local d = safe(function() return player:distance_to(list[i]) end)
+                    if type(d) == "number" and d <= 8 then
+                        melee = melee + 1
+                    end
+                end
+            end
+        end
+        return melee >= 1                      -- 1.2.23: was 2 - anything in melee range of us
+    end
+
+    return false
+end
+
+local function target_for(entry, player, target)
+    local kind = entry.def.kind
+    if kind == "mana_tap" then
+        return target
+    end
+    return player
+end
+
+-- ----------------------------------------------------------------------------
+-- PUBLIC
+-- ----------------------------------------------------------------------------
+--- Combat racials. Returns true when one was cast, so the rotation can hold
+--- the rest of its cascade for a tick.
+-- ESCAPE ARTIST EVERY TICK (2.255.0). The Gnome racial (20589) was only
+-- looked at inside the combat rotation and only for roots: a sap comes
+-- before any fight, and a stun never matched. Now checked every
+-- ESCAPE_GAP s from the main loop, in and out of combat, whatever the
+-- racial gap, and every attempt is logged (racial trail).
+local ESCAPE_GAP = 0.25
+local escape_t = -1e9
+
+local function rtrail(fmt, ...)
+    local ok, el = pcall(require, "errorlog")
+    if ok and type(el) == "table" and type(el.trail) == "function" then
+        pcall(el.trail, "racial", fmt, ...)
+    end
+end
+
+function racials.escape_tick(player)
+    if not player then return false end
+    local now = izi.now()
+    if now - escape_t < ESCAPE_GAP then return false end
+    escape_t = now
+    local list = for_player(player)
+    if not list then return false end
+    for i = 1, #list do
+        local entry = list[i]
+        local def = entry.def
+        if def.cc == "escape" and wanted(def) and learned(entry.spell) then
+            local what = escape_cc(player)
+            if not what then return false end
+            if not ready(entry.spell) then
+                rtrail("%s: %s, but it is on cooldown", def.label, what)
+                return false
+            end
+            local ok = cast(entry.spell, player, def.label)
+            rtrail("%s: %s - %s", def.label, what, ok and "cast" or "refused by the game")
+            return ok
+        end
+    end
+    return false
+end
+
+function racials.tick(player, target, ctx)
+    if not player then
+        return false
+    end
+    note_fight(player)
+    local now = izi.now()
+    if (now - last_act) < ACT_GAP then
+        return false
+    end
+    local list = for_player(player)
+    if not list or #list == 0 then
+        return false
+    end
+    for i = 1, #list do
+        if racials.try_entry(list[i], player, target, ctx, now) then return true end
+    end
+    return false
+end
+
+--- 1.9.2 (the rotation order, smart.lua priority_combat): one racial / other
+--- spell by its Spells-tab label, with the same checks as racials.tick.
+--- True when it cast.
+function racials.tick_one(player, target, ctx, label)
+    if not player or type(label) ~= "string" then return false end
+    note_fight(player)
+    local now = izi.now()
+    if (now - last_act) < ACT_GAP then return false end
+    local list = for_player(player) or {}
+    for i = 1, #list do
+        local entry = list[i]
+        if entry.def and entry.def.label == label then
+            return racials.try_entry(entry, player, target, ctx, now)
+        end
+    end
+    return false
+end
+
+--- One racial / other entry (the body of racials.tick): wanted, learned,
+--- ready, its own condition, cast.
+function racials.try_entry(entry, player, target, ctx, now)
+    local def = entry.def
+    if wanted(def) and learned(entry.spell) and ready(entry.spell) then
+        if wants(entry, player, target, ctx) then
+            local unit = target_for(entry, player, target)
+            -- An uncatalogued spell (2.194.0): whether it takes the enemy
+            -- or the player is not known - the enemy first, then self.
+            -- 2.240.0: guarded casts only, and a refused one rests
+            -- EXTRA_RETRY s instead of being tried every second.
+            if def.extra then
+                if now >= (extra_hold[def.label] or 0) then
+                    -- 1.2.11: a known passive / profession spell is never cast; one
+                    -- that "cast" is not tried again for EXTRA_OK_HOLD s (the log
+                    -- showed Big Game Hunter "cast" 59 times in 20 minutes)
+                    if NEVER_CAST[def.label] then
+                        extra_hold[def.label] = now + 1e9
+                        return false
+                    end
+                    -- 2.242.0: an uncatalogued HEALING spell goes on the player
+                    if def.kind == "heal" then
+                        if cast(entry.spell, player, def.label, true) then
+                            extra_hold[def.label] = now + EXTRA_OK_HOLD
+                            return true
+                        end
+                    elseif target and cast(entry.spell, target, def.label, true) then
+                        extra_hold[def.label] = now + EXTRA_OK_HOLD
+                        return true
+                    end
+                    if unit and cast(entry.spell, unit, def.label, true) then
+                        extra_hold[def.label] = now + EXTRA_OK_HOLD
+                        return true
+                    end
+                    extra_hold[def.label] = now + EXTRA_RETRY
+                end
+            elseif unit and cast(entry.spell, unit, def.label) then
+                if def.kind == "fight_start" then
+                    fight.used, fight.used_at, fight.seen_combat = true, izi.now(), false
+                end
+                if def.kind == "stoneform" then rtrail("%s: %s", def.label, tostring(entry.reason)) end
+                return true
+            end
+        end
+    end
+    return false
+end
+
+--- Out of combat, only the escapes are worth anything: a root or a snare stops
+--- the bot walking, and nothing else will clear it.
+function racials.ooc(player)
+    if not player then
+        return false
+    end
+    note_fight(player)
+    local now = izi.now()
+    if (now - last_act) < ACT_GAP then
+        return false
+    end
+    local list = for_player(player)
+    if not list or #list == 0 then
+        return false
+    end
+    for i = 1, #list do
+        local entry = list[i]
+        local def = entry.def
+        if def.kind == "free_cc" and def.cc ~= "bleed"
+            and wanted(def) and learned(entry.spell) and ready(entry.spell) then
+            if cc_on_us(player, def.cc) then
+                if cast(entry.spell, player, def.label) then
+                    return true
+                end
+            end
+        end
+        -- 1.2.67: Stoneform out of combat too (a bleed / poison / disease at 50 % health, a poison slowing the walk)
+        if def.kind == "stoneform" and wanted(def) and learned(entry.spell) and ready(entry.spell) then
+            if racials.try_entry(entry, player, nil, nil, now) then return true end
+        end
+    end
+    return false
+end
+
+--- Forget the resolved race, so a reload or a character swap re-reads it.
+function racials.reset()
+    resolved, resolved_race = nil, nil
+end
+
+return racials

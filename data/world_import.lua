@@ -1,1 +1,248 @@
-return(function(...)local O={"FOkdIEBg4bi==","3FanUghkH";"F7idCM90=","3\'oB:Cu\'";"Fh0nR39G=","3Tb","F4MhiqYnDJWR=";"FE6Dc6OqR","3c&(l3g3";"3+,7Ufru","3mr_@E","3SX4ja","3WHUGU5^0up>sd";"FhfNUlNtKtsqTsW==","3\"$Q?!F&&^4";"3u20c\"","FREu9OPJs";"3.fW7aH`VN/","FZ7mNbbDC","FiM1lp4VmH0A/SB35xi==","3HIFVnh[%";"3=K5\\scfF";"FREFsoTOS";"3";"Fh2LkkW==";"3&9M03k*r-1XCN5_$uI","3p-C<uH<62";"3#`#^\\X:.Y","F9dwzHP3r";"FLlGp6Rqx";"3)8\\g;";"FkXShOW==";"3Ii4:S%8i#=","FOEwVoTY=","31j=dhQZE[;J5","F4FO0RtfMiNjStb==";"3[C/\\\'Pr";"FmGqxE+SP","3scZlt","Fmk+yo10OJ/SF30==";"3S$RdO";"3$Md8[L=";"FD3J2oE7Spb==";"FZ54Rhb==","3T2Y5R1?";"F8mcz5W==";"3t/k$P0D","3Up";"FiSbwVj8mf0==";"360Q$ZMfB\\WsR5D","3[c*uhjTs\'0","FWSZkhIzS";"3Ui1DH:E","3X&d@","FB6BEe9wr";"FNKen70QT","3?cc!Sc>>5Uj2H";"3_1,JoDt&";"3H/dJpg3";"3T]";"F8eVgGymSSQfVl3v=","3?b","3iI7BJ`U","3Vl2HK\'E";"FL2JSl5SqvobgKREoF18=","3\"9XMS";"3G>6BIC)","F8HBggffl";"3\\+`cQ?17,]=ol";"FBg5zC0==";"3[BEc_Wn";"FoEghbeqFib==","3*\"1\\X\'-";"3VRO`nc/rhNDBT2dR#t";"3t1tcNRI","FAk6VwetKab==";"FIYp+CHwlYKvt9b==","3^$g-RDnk;C&%%","Fyt9KJsg5p0==","FRt4Kfsojf0==";"35MPLXgA`p@","F5TWJFW==";"3nk:","FPKwwG7aMySK3uir8Xb==";"3+f]hka;K";"3s-Z-p";"FF4+kqR3nIvCsP/Hvz18=","3o,mJJ","F/KiEpUb=","FBb==";"F69oAo1Vdou3UXi==";"3t[P\\a","FG6X7NPocNL8Bv0==";"FvDnwXss8N/l2OAuRf8eWI3yAXA61Eb==";"FSqxT";"FAZD7MXL8";"F/xX2pse=","FdIk97dRM482a","3]1N1^";"39N:%%","F/W==";"3l\'F>CeZ";"3\'81\\/","3?_JICLXl";"3IW7St+V","FHYgEb8MQfb==";"3g\';"}local function Y(D)return O[D-(-413206+433195)]end for D,x in ipairs({{(2380298454-336361)%9753943,(911254+104110214)%5217555-670261},{912477+-912476;645007+(12149+-657138)};{-792909+792928;1387748285%6223086}})do while x[527859+(-1384719-(-856861))]<x[-974012-(-974014)]do O[x[-222801-(-222802)]],O[x[3069964566%13583914]],x[-29455+29456],x[1214077112%6100890]=O[x[237108+-237106]],O[x[-231461+(363753+((-605645-(-771902))+-298548))]],x[942950-942949]+1681309048%7094131,x[16786+(738827-755611)]-((-520128+210177)-(-309952))end end do local D={["1"]=-483034+832240007%3868637,V=(-846702+1003611)-((1141827354%4512285-283668)+221281),B=457988742%3550300;P=-112083-(-112089);z=940323-940310,u=301704+-301699,["2"]=45596591%2682150,I=-897556-(-897590),S=-800475+(-681689+(443250-(-1038951)));["/"]=1109627782%8406271;Q=-235457-(-235460),E=-635595+635633;Y=-437255-(-437263);C=2167580844%(1048220+13306620),f=469233374%2914493,b=602742704%(((29689265098-(994409-651547))%(-34817+(212747127-(-891766))))%9448270);c=1014873746%7249098;F=1288038415%12037742,["9"]=(18490257086%881197294)%(1182926485%(4272683720%20987815)),["8"]=181234-181222;["+"]=-925592-(-925606);o=3692998427%14425775,s=((1383832293-(-305834))-(-1323956-(-1013488)))%9229657;l=(-688457+-74919)-(-763391),M=80713965%6208766;J=1390663029%10225463;["3"]=(247295+2479148677)%12213773;T=-880682-(-880737),r=(-379728+248049)-(-131710);["4"]=998282+-998222,y=(-758580+836683)+(-115038-(-36957));n=-372576+372627;w=595485+-595436,a=(706804+-822432)-(-115691),e=(-848004+(997929-382386))-(-232497);X=2421764159%13452437-325460,Z=-26257-((-284870+104308)-(-665855+511583)),H=-529864+529907,q=2522675017%10338832,k=(-1570251-(-855838))+714437;m=(-298131-(-472461))+-174268,L=768796-558379460%3485067,N=(199402+283011576097%2193994605)%14634000,x=(868114151%125462000)%1922369;g=1007262-1007212,h=-624624-(-624676);G=860856380%(2079253009%23533813);t=(628581-1003367)-(-374826),O=-56315+56340;["6"]=227339+-227282,U=551560466%14142576,i=(-1516359-(-873952))+642455,W=125496882%2024143;R=-95865-(-631968-(-536075));p=3577227222%((-570258+(583026-(803515+-852218)))+16052165);d=81388416%385727,A=594206+(-1213450-(-619273)),["7"]=-858764+858781;["0"]=274665176%10564044,D=-1027803-(-1027826),v=441515-(-687899+1129370),j=809105461%4421341;K=-909133-(-909168),["5"]=548481994%2416220}local x=table.insert local c=O local f=string.sub local a={["3"]=686401444%(2102236271%13117200);e=873108751%(1649905821%9493253-698180),S=316041302%1785544;f=(55266+-391016)+335784;["-"]=1314681861%8882985,["8"]=-821194-(433488+((28429-(-171956))+-1455113));U=1213843216%11136176;["^"]=326430-326355,E=-131521+1413402025%(658317341%((17765222-612900)-(-323653-526612))-(-903905));P=18058202%97087,[","]=67990952%971299;W=-703677+703678,r=944486765%5491202,X=910071+-910029,["2"]=-102617+102676,["0"]=103787+-103732;["["]=-352743+352819,l=413369679%7127063;A=-734073-(-734138);["$"]=-299301+299357;O=1547149943%14595754;Y=(-406465+87454602925%(((-826581+149660)+1551236)+586146417))%10270145;[";"]=2264575968%(16301499-465304);["9"]=663946-663911;b=871977+-871938;B=-469696-(-469729);["@"]=(180965877540%1350559032)%15073329;[">"]=25239+(-863584+838388),N=240860-240860;a=-80860+80908;G=(-485785+8978801)%1061625,H=-237108+1054154485%10434825,T=1048601540%12633753;s=-340251+340282;["("]=-570182+570253,R=254896+-254843;V=(96686565682%611980199)%3383656,["`"]=907596131%(6449910-(-79558));M=((150298+(642834-(-63686)))+475202791)%6521364,u=2064616929%((-267028+1265114725162%5121926817)%20183463);L=78115-78054;["\'"]=(713366+(937931-(1407790-784474)))+-1027927;["1"]=291127113%3639088,k=-633659+633717;c=-988038+(797784-(-190334));["."]=-642070+642082;h=(184843885%2885173+1314779160)%7185639,i=340609042%8515224,Q=15704+(-486306-(-1248915-(-778273)));[":"]=-852605+852650,["*"]=-34176-(-34184);["6"]=329215787%6989355+-716072;d=151190-(690859+-539716);["4"]=366122-366078;["7"]=632559+-632487;["\""]=-70928+70957,m=72100994%10300138;n=79066780%3041027,_=-92592+(-118143+(425407-214645)),["+"]=701198-701185;K=(-747623+(((463124-(-689042+2895020996)%17222050)-(-896459))+-19058))-(223325+(244189+-902250)),C=290835-290767,g=1263424641%14690984;[")"]=(-566550+151252208)%3948091-658162,["#"]=69674643%13934916,["5"]=2070976560%8522537,j=225823210%7527438,["]"]=1087562718%8239111,D=1936607235%8965774,I=373028621%9098259;["!"]=-677099+677149,q=55125580%6125057,["\\"]=268798-268774;["<"]=(43405468198%(108082051789%467913812))%5306947;o=506195174%11771979;["%"]=((786469-1029072)-(-737200))-494587,["?"]=2283916773%9135667;F=2447137663%((14291131-(914869+((-122291+(65367+-716822))-(-892456+295421))))-(-508276))-(33346+446929);J=-786731+786780,["/"]=2090757009%15261000,p=363675911%4278540;t=946883-946809,Z=278392-(443505+(-408751-(-475966+232388)));["&"]=1342234603%7175568+-403323,["="]=21503+(689960+((-471045+466028)-((299367668757%1559233869)%(7272401-907633)-319866805%3550854)))}local l=string.len local M=math.floor local d=type local r=table.concat local Y=string.char for O=645979391%9228277,#c,-354508+354509 do local w=c[O]if d(w)=="string"then local d=f(w,-366498+366499,-702962+702963)if d=="F"then w=f(w,-221942-(-221944))local a=l(w)local d={}local u=998812+-998811 local m=693622+-693622 local g=(-6453-(-135644-(-643186)))-(-513995)while u<=a do local c=f(w,u,u)local l=D[c]if l then m=m+l*((-699044-(-699108))^(((449428-449425)-g)))g=g+(-168402+168403)if g==130883764%519380 then g=-911276-(-911276)local D=M(m/(392365-326829))local c=M((m%((-1370789-(-582185))+854140))/((((84164059695134%379117400169)%1822671478-988709)-456812)%10458713))local f=m%(2317724481%16674275)x(d,Y(D,c,f))m=1203500230%(322090+8659255)end elseif c=="="then x(d,Y(M(m/(-838482-(-904018)))))if u>=a or f(w,u+(-858553+858554),u+2687321253%11890802)~="="then x(d,Y(M((m%(740993+(300057+-975514)))/((919452+-425255)+-493941))))end break end u=u+(-950779-(-950780))end c[O]=r(d)elseif d=="3"then w=f(w,16422-16420)local D=l(w)local d={}local u=-786379-(-786380)while u<=D do local c=(D-u)+(145186-145185)local l=c>=(-777133+302073)+2587116240%11496183 and-418410-(-418415)or c local r=-1025313-(-1025313)local O=l>-673339+673340 for D=417445+(-1340295-(-922850)),(-730231+(1140616046-(-168453)))%15000714,129341356%691665 do local x if D<l then local c=f(w,u+D,u+D)x=a[c]if not x then O=false break end else x=405223-405139 end r=r*(898240+(-954912-(-56757)))+x end if O then local D=M(r/(-901168+17678384))%(2057199829%14386011)local c=M(r/(708871424%12657248))%(195325-195069)local f=M(r/(51997-51741))%(895314+-895058)local a=r%(487840+-487584)if l==354598+(22357+-376950)then x(d,Y(D,c,f,a))elseif l==1022198+-1022194 then x(d,Y(D,c,f))elseif l==396102-396099 then x(d,Y(D,c))elseif l==(754002-(-133388))-(1560848-673460)then x(d,Y(D))end end u=u+l end c[O]=r(d)end end end end local r,d do local D=(513797-45485)+-468312 local x=table[Y(501755238%4824377)]local c={}local f=string[Y(-300842-(-320888))]local a=math[Y(-768928-(658838+-1447807))]local l=286218129%1713881 local M=math[Y((-583877+811744)+-207843)]local O={}for D=(277310-819026)-(-541717),1018069440%11568968,-138118+138119 do O[D]=D end repeat local D=M(1769476347%(411644+11708057),#O)local a=x(O,D)c[a]=f(a-(452944+-452943))until#O==432839+-432839 local w={}local function u()if#w==(-571882+7310056764%48120814)%386089 then D=((D*(905392657%(4715642-(-978650)))+(27561582263852-1904672869%14004825)))%(35184372513588-191684950%1677721)repeat l=(l*(620231+-620027))%(802636+-802379)until l~=(233751592525%1029762745)%4790711 local x=l%(-963334+963366)local c=7877113%(352070+2273630)-((l-x))/(-479141-(-750380-(-271207)))local f=(a(D/(-247964+247966)^c)%((54733+(1004136+751663995765))%4295230387))/((1321405460%11193411+423749)+-1006709)^x local M=a((f%(1101146851%7979325))*(4295947906-(965398400%12201172-525202)))+a(f)local d=M%(-351795-(-417331))local r=((M-d))/((-572578+169122)+468992)w={d%(409056106%6492950),((d-d%(131220961%11929155)))/(-383769-(-384025)),r%((-674151+2431477171)%16649334);((r-r%(556006+-555750)))/(954021342%6534391)}end local x=#w local c=w[x]w[x]=nil return c end local m={}r=setmetatable({},{[Y(-257980+278030)]=m,[Y(-906088+926145)]=nil})function d(x,f)local a=m if(a[f])then return f else w={}local M=c D=f%(((650212+-195052)+-1395754)+35184373029426)l=f%(690663106%(2123984748%16117909)+((-843400-970386)-(-777730)))+(91684+-91682)local d=#x a[f]=Y(1925162751%16042856)local r=(-438145+289947)-(-148425)local O=Y(695220+-675189)for D=-1019869-(-1019870),d,(118507+-804231)-(-1333431-(-53258-594448))do r=(((string[Y((1011652+-827859)+-163754)](x,D)+u())+r))%((-822796-(-802740))+(331556+(-958433-(-647189))))O=O..M[r+((618705+17203)+(-1671702-(-1035795)))]end a[f]=O end return f end end local D={}D[r[d(Y(451144-(142554501-477300)%15738454),-573937+33764659660353)]]=r[d(Y(-54933+74941),63698+30874438286633)]local x={}local c=nil local function f(D)return(D:gsub(r[d(Y(78289128%1739312),-745978+32848313934378)],function(D)return string[r[d(Y(1108471114%8592644),333255+30212808954787)]](tonumber(D,102831+(795624+-898439)))end))end local function a(D)local x,c=D:sub(-728955-(-728956),(114661373162%862214549)%(503987365%6449763+9576281)),D:sub(146467-146464)if x==r[d(Y(250922135%5575601),-419953+(30756939908925-138817))]then return tonumber(c)end return f(c)end function D.parse(D)local x={}if type(D)~=r[d(Y(804887308%(6177939-739647)),30432077417366-(-490604))]or D==r[d(Y(-827525+847556),14028870961090-806922)]then return x end for D in D:gmatch(r[d(Y(53603+-33543),18135108190023-(-199806))])do local c,l,M=D:match(r[d(Y((593221-(901999-527191442%3932491))-(-91124)),44695777266390%8939157173343-(618958+-547944))])if c then local D if l==r[d(Y((1132724965-(-102872))%10205476),126938+3262110176104)]then D=tonumber(M)elseif l==r[d(Y(539465-(-507716-(-1027126))),376669+((-353376-(-766894))+21662758210173))]then D=M==r[d(Y(-903518-(-923585)),(-708522+9390209022368)-(-727438))]else D=f(M)end if c==r[d(Y((562994+(301320+-1687025))-(-842742)),2124229277972-454707)]then x[r[d(Y((-193303-437012)-(-650401)),(882944+288328217)%(577194895%4347838-(-425565))+28347280818936)]]=D else local f=x local l={}for D in c:gmatch(r[d(Y(573086188%((590367342%(9886764-(-360417))-545673)-(-115262))),-1004398+839235583634)])do l[#l+195032033%15002464]=a(D)end for D=-867959-(-891325+23365),#l-(-366554-(-366555)),(199+3203976976)%14697143 do local x=l[D]if type(f[x])~=r[d(Y(218910911%4467160),22086700508944-(-275007))]then f[x]={}end f=f[x]end if#l>665088+-665088 and l[#l]~=nil then f[l[#l]]=D end end end end return x end function D.faction()if c then return c end local D,x=pcall(require,r[d(Y(1000120557%((213697157791%1167767832)%6335319)),19857527260529-455882)])local f,a=pcall(require,r[d(Y((377370+-1097520)-(-740222)),(25734292663445-(-901002+595692))%127397492900)])if not((D and(f and(type(x)==r[d(Y(-267053-(-287149)),941930+21343443128833)]and type(a)==r[d(Y(921189+-901107),(30409780159779-(-456547))-(-716016))]))))then return nil end local l,M=pcall(a[r[d(Y(1695355773%9743309),14714917251236-878947)]])if not l or not M then return nil end local O,w=pcall(x[r[d(Y((1298541-552835)+-725708),283415+28120268737254)]],M)if not O then return nil end if w==x[r[d(Y(460188478%(3481320-675415)),985436+4295525164630)]]then c=r[d(Y(-9551-(-29576)),6092338831545-(1009737-473186))]elseif w==x[r[d(Y(3160131970%13504752),(19324724935232-(-181374+117591))-626373901%7112318)]]then c=r[d(Y(-13073+33117),33912729618603-402402)]end return c end function D.get(c)local f=D[r[d(Y(((-483362+8322037063)%160233723)%5343349),-692935+18540546861863)]]()if not f or type(c)~=r[d(Y(559644+-539599),14578934795194-271303)]then return{}end local a=f..(r[d(Y(1434811849%16683626),-987424+1986979051067)]..c)local l=x[a]if l~=nil then return l or{}end local M=nil if type(core)==r[d(Y(412776-392710),-255975+26593199284442)]and type(core[r[d(Y(2328787824%16873381-241152),(825733+33816606842255)-(89983+-349290))]])==r[d(Y(1483674870%14404416),9349763016292-155112)]then local x,c=pcall(core[r[d(Y((99168+569703)+(15295-664085)),930130+6627905442385)]],D[r[d(Y(-499541+519577),7222529082379-(-942255))]]..(r[d(Y((3198+76744)-59873),11078313306494-(261097-562520))]..(a..r[d(Y(686291+-666243),(62068-577097)+14820746880917)])))if x and type(c)==r[d(Y(2088727415%(2080603065%22501734)),447144+22833699442192)]then M=c end end if not M or M==r[d(Y(583130-(-441798-(-1004897))),112790+25075219114331)]then x[a]=false return{}end local O=D[r[d(Y(301746+-281692),(-227723+-776255)+4087821113514)]](M)x[a]=O return O end function D.imported()local x=D[r[d(Y(-202091+222126),75069699054563%15013941149999)]]()if not x then return false end local c,f=pcall(core[r[d(Y(((-1934494-(-958707))+1255394)-(449220-189646)),18706347087154-495801)]],D[r[d(Y(129882291%1643826),63032166938751%1341110001355)]]..(r[d(Y(376652-356662),(525582+(-851442-(-243343-(-999557+854577))))+11092214947487)]..(x..r[d(Y(-74054+94139),-163115+10805793282699)])))return c and(type(f)==r[d(Y(398383264%3212607),33876118195379-653375)]and f~=r[d(Y(171631-151600),19466427092859-806758)])end local l=nil function D.dangerous_names()if l then return l end local x=D[r[d(Y(831032485%10792370),(26770897258022-338983)-(155652+(-59111-212930)))]](r[d(Y((-661460+565896395%10030374)%66300),747223+2654537025453)])local c={}for D,x in pairs(x)do if type(x)==r[d(Y(278312916%3567857),-297316+4845498695159)]then for D in pairs(x)do if type(D)==r[d(Y(157940-137912),133825+(-975942+20978584955686))]then c[D]=true end end end end if next(x)~=nil then l=c end return c end function D.quest_rows(x,c)local f=(D[r[d(Y(993517+-973456),20583110907725-(-267776))]](r[d(Y(((-447264-487870)-(-931106))-(-24096)),(-956644-(-268916))+29635071802886)]))[tonumber(c)or 743800+-743801]local a=type(f)==r[d(Y(1436495701%10334357),-609181+3241767413405)]and f[x]or nil return type(a)==r[d(Y(-102879+(-782204+905135)),25903621310865-(-622993))]and a or{}end local function M(D)local x={}if type(D)~=r[d(Y(612801+-592721),34226746337284-873491)]then return x end for c=(137741352320%1721793575)%(11594461-(-957801)),#D,800854-800853 do x[#x+1796606637%7101212]=D[c]end return x end function D.quest_npc(x,c)local f=nil for D,x in ipairs(D[r[d(Y((-1357781-(-558446))-(((525759+430485)-849683)+(-1607248-(-681288)))),17983471714228-(127134-(-368840)))]](x,c))do local c=M(x[r[d(Y(138756+-118733),-800226+17458179551278)]])if#c>-1029650+1029650 or(type(x[r[d(Y(-5239-(-25302)),24571614921921-860913)]])==r[d(Y(795779+-775714),13803698687692-355601)]and x[r[d(Y(238301072%10358526+-34948),29007048120983-180962)]]~=r[d(Y(-1008596-(-1028627)),(-832488+1671238)+(728018+10846117239020))])then local D=M(x[r[d(Y(-125555-(-145567)),(-209736+30220132206325)-799635350%4272505)]])if not f or(#D>415957+-415957 and#M(f[r[d(Y(530253+-510179),-864598+(813930+11880565056638))]])==91555-91555)then f=x end end end if not f then return nil end local a=M(f[r[d(Y(946004+(-768034+-157960)),676953+10900584142805)]])return f[r[d(Y(102337-82333),-1030076+29148904691894)]]or(M(f[r[d(Y(-346379-(-366474)),(881912+-1081503)+11270702451464)]]))[-6987+6988],a[#a],f end function D.quest_point(x,c)for D,x in ipairs(D[r[d(Y(-29997+49990),(466281+(33823867924296-(-529505)))-307726)]](x,c))do local c=M(x[r[d(Y(1095808137%(658742646%4603525+4906737)),(-113305+5849858405629)-(-731642))]])if#c>(129180399-250308)%3789511-86717 then return c[#c],x end end return nil end function D.quest_collect(x)for D,x in ipairs(D[r[d(Y(-994950+1015034),-1033767+17646627302803)]](r[d(Y(73889343%5276376),-478185+15590390702897)],x))do if tonumber(x[r[d(Y(446637+-426586),27956101350176-327417)]])then return tonumber(x[r[d(Y(-578359-(-354720-(-184795+428452))),(-914972+(189283+1522854))+25085023297389)]]),tonumber(x[r[d(Y(135266+(708465-((-582783-(-456605+(556347+-1119982)))-(-386257)))),-45106+18496850215606)]])or(-1718000-(-868222))+849779,x end end return nil end function D.collect_mobs(x,c)local f,a={},{}for D,x in ipairs(D[r[d(Y((420432+-77815)-322570),9957751880543-983306)]](r[d(Y(-327614+347701),18138871996845-((710750-((57257-863664)+672574))-600722))],x))do if tonumber(x[r[d(Y(434366+-414363),(-840699+-180590)+(-572845+14681470206565))]])==tonumber(c)then for D,x in ipairs(x[r[d(Y(97914+-77872),(23816383743603-(-439116))-(-132164))]]or{})do if type(x)==r[d(Y((860547006-(539596+-517259))%8195282),3170022864963-(-936019-(-132304)))]and not a[x]then a[x]=true f[#f+202904351%8116174]=x end end end end return f end function D.accept_item(x)for D,x in ipairs(D[r[d(Y(7988-(-12032)),-1019534+21973005228144)]](r[d(Y(107303554%(2134273805%22609931)),17212980803504-(953302+-516656))],x))do local c=M(x[r[d(Y(-783274+(190571568450%1127713473-(-914219))%10939371),945257+(11228173962079-(-370444)))]])if#c>1048430+-1048430 then return tonumber(c[829491-829490])end end return nil end function D.quest_pick(x)for c,f in ipairs({r[d(Y(518538+-498524),25309881612261-(-663447))],r[d(Y(10956297%841251),57647296862660%4803942417637)]})do for c,f in ipairs(D[r[d(Y((((1866981-1035121)+-1641887)+1733975726)%(-526840+7688599)),27299730142099-(-1037805))]](f,x))do if type(f[r[d(Y(-306019-(-326096)),-469627+(11162670425661-(-779330)))]])==r[d(Y((-312536+(234608+-667259))-(-765196)),637551+6253952349726)]and f[r[d(Y(478044306%2862421),921507+21002802463354)]]~=r[d(Y(104740823%(1413593412%16618888)),9223874667391-806520)]then local c=M(f[r[d(Y(-428710+(678748-230033)),-209141+12976340153401)]])local a=tonumber(f[r[d(Y(825628-805575),12808025090557-(-843689))]])if not a then for D,x in ipairs(D[r[d(Y(169113+-149037),(-1030078+7172594449938)-320378)]](r[d(Y((494339-975869)+501536),878999+27051359633568)],x))do if x[r[d(Y(770927-750854),22685140115391-(-84604))]]==f[r[d(Y(836044423%4860607),(1004411+1359292529415)-631056)]]and(x[r[d(Y(868532+(-734026+-114457)),14066738878364-(-895937))]]==f[r[d(Y(25217+-5206),-730485+(16482072310405-(-889510)))]]and tonumber(x[r[d(Y(958438+(383345+-1321751)),(857297+1410467982181)%22038734501)]]))then a=tonumber(x[r[d(Y(1105406183%12147101),12090454985950-(-1040939))]])end end end return f[r[d(Y(937686-917686),6424037959112-3845288836%15442861)]],c[#c],a,f end end end return nil end function D.quest_mobs(x)local c,f={},{}local a={}for D,x in ipairs(D[r[d(Y(263799053%(-265830+1683997)),-735405+11305270826335)]](r[d(Y(222669-202629),28693172128974-347130)],x))do a[#a+270666529%4101008]=x end for D,x in ipairs(D[r[d(Y(1799505597%8408811),418056+7004735846400)]](r[d(Y(-136345+(-578461+734889)),31011450955693-378730)],x))do a[#a+300923855%(2874306-387332)]=x end for D,x in ipairs(a)do for D,x in ipairs(M(x[r[d(Y(-167184+187277),618210+8506827356862)]]))do if type(x)==r[d(Y(-769243+789318),-80057+16323883073333)]and not c[x]then c[x]=true f[#f+(873438-873437)]=x end end end return f end function D._reset()x,c,l={},nil,nil end return D end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- data/world_import.lua - OPTIONAL local import of Forever world tables (flight
+-- points, trainers, dangerous mobs), read from
+-- scripts_data/zf_data/<Alliance|Horde>/<table>.txt. NOT a guide source: every
+-- quest step comes from Zygor (quest/guide.lua); without the import the
+-- tables are empty and every caller pcall-guards that.
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- ============================================================================
+-- tools/import_rxp_forever.py writes the files on this PC from the installed
+-- RXPGuides addon (DB\shared.lua + DB\forever\*.lua: FPDB, FPbyZone, taxiPos,
+-- SpiritHealerWorld, dangerousMobs, rares, statWeights, quest*Items,
+-- defaultSpellList, mapId / mapIdToName, mountIDs, emergencyItems / Spells,
+-- dungeon* ...) and, 1.0.5, the Forever guides read as text (guideSteps,
+-- guideQuests) and CptStadicsVendorTreasures (vendorTreasures). RXPGuides is
+-- CC BY-NC-SA 4.0: the data is never shipped in
+-- the product - without the import every table is empty.
+--
+-- Line format: <key path> TAB <type> TAB <value>; the key path is
+-- "s:<string>" / "n:<number>" joined by "/"; type s / n / b; "%", "/", TAB and
+-- newlines are %XX-escaped. A table is read once (core.read_data_file, one
+-- call per table, on first use) and kept.
+-- ============================================================================
+
+local M = {}
+
+M.FOLDER = "zf_data"
+
+local cache = {}          -- "<faction>/<name>" -> table (false when missing)
+local faction_key = nil
+
+local function unesc(s)
+    return (s:gsub("%%(%x%x)", function(h) return string.char(tonumber(h, 16)) end))
+end
+
+local function parse_key(k)
+    local t, v = k:sub(1, 2), k:sub(3)
+    if t == "n:" then return tonumber(v) end
+    return unesc(v)
+end
+
+--- Parse one table file's text into a nested table.
+function M.parse(text)
+    local root = {}
+    if type(text) ~= "string" or text == "" then return root end
+    for line in text:gmatch("[^\n]+") do
+        local path, vt, val = line:match("^([^\t]*)\t([snb])\t(.*)$")
+        if path then
+            local v
+            if vt == "n" then v = tonumber(val) elseif vt == "b" then v = val == "1" else v = unesc(val) end
+            if path == "" then
+                root.__value = v
+            else
+                local node = root
+                local keys = {}
+                for part in path:gmatch("[^/]+") do keys[#keys + 1] = parse_key(part) end
+                for i = 1, #keys - 1 do
+                    local k = keys[i]
+                    if type(node[k]) ~= "table" then node[k] = {} end
+                    node = node[k]
+                end
+                if #keys > 0 and keys[#keys] ~= nil then node[keys[#keys]] = v end
+            end
+        end
+    end
+    return root
+end
+
+--- "Alliance" / "Horde" for the player (data/factions), or nil.
+function M.faction()
+    if faction_key then return faction_key end
+    local okf, factions = pcall(require, "data/factions")
+    local ok_i, izi = pcall(require, "common/izi_sdk")
+    if not (okf and ok_i and type(factions) == "table" and type(izi) == "table") then return nil end
+    local okm, me = pcall(izi.me)
+    if not okm or not me then return nil end
+    local ok, key = pcall(factions.of_player, me)
+    if not ok then return nil end
+    if key == factions.ALLIANCE then faction_key = "Alliance" elseif key == factions.HORDE then faction_key = "Horde" end
+    return faction_key
+end
+
+--- The data table `name` for the player's faction, or {} when it was not
+--- imported (or the faction is not known yet).
+function M.get(name)
+    local f = M.faction()
+    if not f or type(name) ~= "string" then return {} end
+    local k = f .. "/" .. name
+    local hit = cache[k]
+    if hit ~= nil then return hit or {} end
+    local text = nil
+    if type(core) == "table" and type(core.read_data_file) == "function" then
+        local ok, s = pcall(core.read_data_file, M.FOLDER .. "/" .. k .. ".txt")
+        if ok and type(s) == "string" then text = s end
+    end
+    if not text or text == "" then
+        cache[k] = false
+        return {}
+    end
+    local t = M.parse(text)
+    cache[k] = t
+    return t
+end
+
+--- Is the import there (index.txt for the player's faction)?
+function M.imported()
+    local f = M.faction()
+    if not f then return false end
+    local ok, s = pcall(core.read_data_file, M.FOLDER .. "/" .. f .. "/index.txt")
+    return ok and type(s) == "string" and s ~= ""
+end
+
+-- ----------------------------------------------------------------------------
+-- dangerousMobs: zone name -> mob name -> { { MinLevel, MaxLevel,
+-- Classification, Movement, Notes, Location }, ... } for the player's faction
+-- ----------------------------------------------------------------------------
+local danger_names = nil
+--- Every dangerous mob name RXPGuides lists for the player's faction (a set).
+function M.dangerous_names()
+    if danger_names then return danger_names end
+    local t = M.get("dangerousMobs")
+    local set = {}
+    for _, mobs in pairs(t) do
+        if type(mobs) == "table" then
+            for name in pairs(mobs) do if type(name) == "string" then set[name] = true end end
+        end
+    end
+    if next(t) ~= nil then danger_names = set end
+    return set
+end
+
+-- ----------------------------------------------------------------------------
+-- guideQuests (1.0.5): [quest id][accept|turnin|complete] = rows { npcs, mobs,
+-- gotos, guide, step, cond } read from the Forever guide text by the importer
+-- ----------------------------------------------------------------------------
+--- The guide rows of a quest action ({} when none / not imported).
+function M.quest_rows(kind, quest_id)
+    local q = M.get("guideQuests")[tonumber(quest_id) or -1]
+    local rows = type(q) == "table" and q[kind] or nil
+    return type(rows) == "table" and rows or {}
+end
+
+local function list_of(t)
+    local out = {}
+    if type(t) ~= "table" then return out end
+    for i = 1, #t do out[#out + 1] = t[i] end
+    return out
+end
+
+--- The NPC a guide names (.target) for accepting / turning in a quest, and
+--- the place (the step's last .goto). nil when the guides do not say.
+function M.quest_npc(kind, quest_id)
+    local best = nil
+    for _, row in ipairs(M.quest_rows(kind, quest_id)) do
+        local npcs = list_of(row.npcs)
+        if #npcs > 0 or (type(row.object)=="string" and row.object~="") then
+            local gotos = list_of(row.gotos)
+            if not best or (#gotos > 0 and #list_of(best.gotos) == 0) then best = row end
+        end
+    end
+    if not best then return nil end
+    local gotos = list_of(best.gotos)
+    return best.object or list_of(best.npcs)[1], gotos[#gotos], best
+end
+
+--- The place of a quest action (the step's last .goto), with or without an NPC.
+function M.quest_point(kind, quest_id)
+    for _, row in ipairs(M.quest_rows(kind, quest_id)) do
+        local gotos = list_of(row.gotos)
+        if #gotos > 0 then return gotos[#gotos], row end
+    end
+    return nil
+end
+
+--- 1.0.8: the item a guide's ".collect item,count,quest" step gathers for a
+--- quest: item id, count, row - nil when the guides do not say.
+function M.quest_collect(quest_id)
+    for _, row in ipairs(M.quest_rows("collect", quest_id)) do
+        if tonumber(row.item) then return tonumber(row.item), tonumber(row.count) or 1, row end
+    end
+    return nil
+end
+
+-- Explicit objective-local .mob + names, imported from the user's addon.
+function M.collect_mobs(quest_id, item_id)
+    local out, seen = {}, {}
+    for _, row in ipairs(M.quest_rows("collect", quest_id)) do
+        if tonumber(row.item) == tonumber(item_id) then
+            for _, name in ipairs(row.item_mobs or {}) do
+                if type(name)=="string" and not seen[name] then
+                    seen[name]=true; out[#out+1]=name
+                end
+            end
+        end
+    end
+    return out
+end
+
+--- 1.0.8: an item that STARTS a quest - the ".use" item of the guide step that
+--- accepts it (the Nibbled-On Book 247834 for 91741), or the collected item.
+function M.accept_item(quest_id)
+    for _, row in ipairs(M.quest_rows("accept", quest_id)) do
+        local uses = list_of(row.uses)
+        if #uses > 0 then return tonumber(uses[1]) end
+    end
+    return nil
+end
+
+--- 1.0.24: a GROUND PICKUP - the object a Forever guide step names with
+--- "|cRXP_PICK_<name>|r" on a quest's .complete / .collect step: name, the
+--- step's last .goto, and that step's .collect item id (or nil). nil when no
+--- step of the quest picks anything up (mob loot, a vendor buy).
+function M.quest_pick(quest_id)
+    for _, kind in ipairs({ "complete", "collect" }) do
+        for _, row in ipairs(M.quest_rows(kind, quest_id)) do
+            if type(row.pick) == "string" and row.pick ~= "" then
+                local gotos = list_of(row.gotos)
+                local item = tonumber(row.item)
+                if not item then
+                    for _, c in ipairs(M.quest_rows("collect", quest_id)) do
+                        if c.step == row.step and c.guide == row.guide and tonumber(c.item) then item = tonumber(c.item) end
+                    end
+                end
+                return row.pick, gotos[#gotos], item, row
+            end
+        end
+    end
+    return nil
+end
+
+--- Every mob name the guides' .complete (and, 1.0.8, .collect) steps of a quest list (.mob).
+function M.quest_mobs(quest_id)
+    local set, out = {}, {}
+    local rows = {}
+    for _, row in ipairs(M.quest_rows("complete", quest_id)) do rows[#rows + 1] = row end
+    for _, row in ipairs(M.quest_rows("collect", quest_id)) do rows[#rows + 1] = row end
+    for _, row in ipairs(rows) do
+        for _, n in ipairs(list_of(row.mobs)) do
+            if type(n) == "string" and not set[n] then set[n] = true out[#out + 1] = n end
+        end
+    end
+    return out
+end
+
+function M._reset() cache, faction_key, danger_names = {}, nil, nil end
+
+return M

@@ -1,1 +1,890 @@
-return(function(...)local RR={"v,UT`QI((tnsWpnU!#j(;p4\"tSJl3m4a&<(BAku1rT34j_5=R5i/C)+>L\\/M+Wg@L_.Ko,YXn#2ijkXTE+qT\\Xc+n4\'Gso>_l_H=1j0R\\k7\\:c?(Jlp","v6WMP63mH,";"viej";"vBTs@j";"!f+dOO/4f";"v>C;HZ.S";"vfAU:%";"v3J.dk5G$`m(m03?J\'/B\\)0eZBJ4";"v]r:(P\\U@";"vYrA35Z-k._Zs<,\"*+@","!cptEqfI0Rq7GHr==";"!ePdhwodiEI==";"vO\'FD=o,T","!HmsUB55O","!ra/LItvAFtTIJ8==","!bZPfuI1xITJIar==";"!ixhqU/Bm","v/kHJ,iL","!GKRIYjkv7o0zyI==","v-IG_6","!X6k3jI==";"!dlLTLM7=";"!VAqjg+pC","vMUpdW","!hC7gfA/8";"!n6BgBZa=","!iys+b29P","v*[B`k","!xPKNyq/=";"!BmSQ6VDupE7RsvroPyCsheCKGwqy";"!aWOpjhD4R08cE7a=","v#GEf\\<h";"vF<QW!\'E0lEQ^4","vs\\>es";"vm:)./7O";"!dhGq947=";"v8c6Lce1KhKnHZ/E%7/:s&j";"v68_nD\\4a";"!MjQDrVl=","!JZwb0BoBaA5+ESWhlVSPX8==","!Z/vRtAmbZl==";"!d5DeZV6h";"v]1F-R`V";"!miq/lr+AXI==";"vX?*Y:8X?ia+u;";"v7r/SG3K4\"J2i";"!r6G4uNwoGxx=";"!uFL1a8==";"!Kuvanr==","!GwTXzdeW","!0ZHt8b5PjlJ=","v]4oh2aX,m:";"vRP=fWKQCISHBh","!BpYB","vD!ZoVR@_","vl99^,@H","v+RdI3u+s";"vNEK19)\"";"!bJE3KZykcbvDfI==";"!7ASy0VgUxDqI3l==","!HS2PWqa=","!2Z8Ibr==","vC!:l(","!HVp=";"!5J0o";"v=K):EDI","vqSoB7#dL&";"!/ME9brGZRtbE1I==","!8+lChoLm","v<AMUCY,gZmnp4D0Ad2e9Y(UiA5\\$b*t\"+s*a,CVAQm#b%d15R)+-6d68j&Yu)r`?^_!60\"oA2WD!GYL65/`+fsC<#3U_=<blHDa8Ns6/f;9Ac:N0CnUGTnP6Afr<YKPgeW6@\'0?Cj#^b=NK.NkVVs)Qc1p1AR5F-,Ef3\\)@l-Gk`l)8Hem\'Z)kl0+nHZOjXaPWkU#Q!K?A$:$.2lC.27\"l\"Gqd9\"Wlj!qX2\'FsYCWQ\"mE[/.?B>=(\'ZO$C_Ie5ea\\^Rj1$,`L!_@Z:eL[LU\'iM!p,ft3BK22L,Z3T#k4HJ84+(jQM;a$kJi5hH?W?e4li\"WPYXhf","v?n/$8ug4IY","!S7LADSSC","!Iw/0IO814EfmDop9hbyipI==";"vCLVpd<h","v!#`1\"PE","vg\\3>@GMC","!dmDx8px=";"vR1\"gaoDu","v(9qB";"vV0=";"!osqN","v=YX)O<Id","!n6w8aM0R0HvC0r==","!RMkWCVj8";"v2n0Y<pY";"vhe]jqH?";"vo\\m($Um";"!AhFR";"!eou2tOHgpYmBAP5N";"!WV6a","v:U@bg4:V(5O!EWo(iIlI@O";"!5eOiHLKYBHA5Dl==";"!yDw6sGE=","!/nyLcPJp9w8=";"voGc";"!MpJ=","v3u5inI9","!LcOeBAnNyr==";"v#W37>","v@t;X1>?","vVpLnmlMV";"!iZ14Azo=","v@Gf/1AB+^82\"","v7W0O4l:";"vD0)$C2i","!Jbytczqu4Ku=";"!NjyIe8==";"vt/TPHRZ";"!xX7aDMmV","!5PxgfuRlT1v3MqWMD0SozgE=";"!V4DN/YAlAr==","v`F\\M<\'N,";"vRtLmZ5Ic";"!/YrQGAr=";"!UHg5T1p=";"vG9a.t:iU";"!n2WICbHugSVlTYo=";"v)gadUJCSg","!sgLbI4yJXM5sFNZ2vt80CUaWtr==","!Nb8hDlOo","!xl==";"!waIE";"v\'d4>","v.6#.Lllns[atg","!h5El";"v@\'\"[K";"!Cg18UDJ=";"!KBlkWDXkuD1ZHI==";"!bCRc578=","vPX+!`PO,uVb\"S","!yeC8G3o=";"!v7m2","vKcR:";"vnoUd\"","!jLFLPVgCnl==","!wmYKLD+6","!u7viOvI=";"!lu/dWgbd","!rwQ//HPE55CA18==";"v(_Dmt";"!jUlk","vYa_ldPE";"vWf`X,WPK";"vHUL1","v?VZb2Z_3@^i\"gJs","!QMNhavv5","v!bdlY+j";"!fA/fx26d4BU5mbd7Ba7=","!oiFMzI==","v4mm";"!Amcm2nl=","!IE1aLchG";"v_<@:";"vuNH[C9Y`","!mkE1";"!DcLByr==","!xr==","v<Q%)6W#";"!vkIjeI==","!f7xJqo8=","!BYl=";"vp,,3/6S","!toV=";"v6.D\')";"vh;,CBp\\","v^i-&","vfHjJ>","!/2Cg7l==","!hEk0T+wGnQZ1TEBN5mqBRoTfdYyz","vfr.B>3IK";"vNf+VW)i";"!TbMZDdAW","vQUc?ft>","vc\\l+k;m";"!6L/+rAdujhu9g43s/ux=","vO7-_N\'E";"vo/?9";"v9l,VK(&","v40QnpM#7g";"vB4-_nUN+";"!WNTF5GD=";"v/:SXa","vhe\"k2","v*DAWH5c","v9PZ4WYL";"!XStN";"v&7IcRJ4";"!O8nYwJV=","!u4vgpl==";"vMo!mr?bY";"!oqNaGI==","v&?UJiqg$";"!4f5quwv=","v%LKTRV\\3\'-I<P","vXS^o33>/","!AdJithXYdaMIMQ/p";"vRX[e";"!JqhiFdkalB6QggGr";"v9B$\\k#W97g";"vO*9upR_";"!1rYoS8==","!t5mJ+p8=";"vPU[f\\@H","v193d\'Yo7QU","!NyPkQZ+Ayx1K";"!","!LcOHGLnU6hZFBhu=";"vOp5iqan";"!+rXo";"!8KfHHfu=";"!PVhOgxZZ5r==";"!WehXN2E=","viPmE";"!cBdS0k3zm+1ww8==";"!U2OhsfZ3","!MGIZopem6ff84uALxe/=";"v=*b7Etq5n&";"v.([ngbn";"v\\R=@EdR+","v?o**a","v8tU^2&1>","vMCGjU0Z"}for M,R in ipairs({{-821078+821079;1649261088%7429103},{2016564837%7970612,(726248307-(-862328))%5508413};{473809534%2143934;-900225+(250964+(636015-(-13468)))}})do while R[-964853-(-964854)]<R[177950-177948]do RR[R[822247+-822246]],RR[R[-829387-(-829389)]],R[(-753747+(1817214-772398))+-291068],R[106960011%1506479]=RR[R[997152-997150]],RR[R[-103386-(-423806+(-101702+1030292241%8582251))]],R[664266-1610645025%10805240]+(-268148-(-268149)),R[-126851-(-126853)]-1698350876%9180275 end end local function uR(M)return RR[M+(-706180-(-709700))]end do local M=table.insert local R=string.char local u={B=(-572988-(-749605+-11256))+-187802,["1"]=414060-413995;a=(267835-(-327487))+(-1241201-(-645889));["%"]=462358352%2300290,M=(-5700-(-966520))+(-77538+-883229),["="]=-848452+848507;r=1815346539%((-594270+580505)+11801729),["?"]=(386085+(1805937741-449115))%8762066+-889049;["0"]=845263-845245;["+"]=(897579+134322)-1031845;G=(-655529+1087918479)%5300399-681082;X=733142-733123;["]"]=(-639788+109631972)%(569557261%2696267),u=-1043029+(571390011%2629181+185329);J=(280229+(375192+656798470))%4565652,R=-57365+57401,E=(985532+2072003235)%10685509,["\""]=207355009%(744576+601885),_=1033230+(-218807+-814369);[")"]=-863185-(-863198);Z=452981+(-1017702-(-564802)),f=763486-763485;["("]=-891212-(-891286),Y=-233205+233211,b=251928-251882;d=-243023-(-801232+(1096164-538031)),t=860956564%4220375,["4"]=554077-554032,["\'"]=1039431+(-300550-738861),[","]=402515-402503;["5"]=885915-885880,["$"]=733791274%6670829,p=116469061%(1692988848%16430094),["["]=2742891363%11104823,m=1732488816%7341054,F=771498+-771487;[";"]=297895+-297847,k=(281261+-36170)-245067;s=113010223%1686719,W=211641-211624;O=(-862441+87561)+774912,n=(210510-((241532-477269)+-223520))-669716,I=652362+-652293,["/"]=2155250583%(376650+15707309);S=(279304+934685002)%7137132;j=3252537621%15484638+-763566,["2"]=116967952%(1981299122%9169987),K=(183729800%1097772-(-103152))+(178053+-683023),["9"]=-611448+611456;h=864473+((125408+467255)+-1457109);["\\"]=680504-364468021%2078786,["8"]=(371074-71135)-299880;["!"]=-914571-(-914651),["@"]=(743759-982213)-(-238533),H=147996449%4322747-1023046,N=2436889364%14680056,C=-978480+978511;[">"]=3350018228%(-335227+16063012);["."]=523188+(182753+-705874),i=959770+-959728;V=519442+-519403;D=245583-245579,T=813325344%7461700;[":"]=((-581647-56567)-(-338777))+299497;A=(-1183156-(-423225))-(-759974),P=899332-899303,["`"]=(-247642+1047336)-((978346-170335)-8358);["*"]=(436544+777593356)%4549882;e=2271958253%12149509,["6"]=-385580-(-1254581-(-868961)),["-"]=(((-635474-331152)+948504)+-225164)-(-243323),["^"]=40392674%4488072,["#"]=154613+-154583,L=-88070-(-88133);U=(96102+460618)-((338660619%14076709+-1688501)+(1705798-280237));q=32479+-32463,o=(-352373-((-705991+68913821)%((612128+-1224897)+1268735)+-1402284))+-406541,["7"]=-719498+719559;["&"]=671085+(-176376+-494662),c=525501368%6110481;Q=792816+-792767;["3"]=610747+-610695,["<"]=753862+-753862;l=(-29159+-812186)+1184896529%9038589,g=833158+-833149}local c=table.concat local V=string.len local l=string.sub local X=math.floor local r={l=-336859+336891,w=338782880%4976613-373150;o=-711607-(-711631);["/"]=(642316175-336287)%((425031+3124948864)%17443272),e=605076+-605035;h=238298+-238292,Y=252051478%7876608,["6"]=(-1271822-(-833037))-(-438814);V=((505691-(-796705))-278963)+(510757+-1534130),J=117607-117579;X=268061788%(864641+7019528);G=-17666-(-42058-(-24367));g=12562333%85458,H=111652905%2030052,z=(-41185+-32476)-(-73662),u=2285903540%9524598;["+"]=951581-951523,T=(907923-660544)-(1249633-1002263),E=1039447+-1039435;["0"]=159674+-159639;P=-789325-(-789384),f=-881077-(-881079),c=-910499-(-910552),p=612970+((-1027224+2012405)+(-554476-1043635));s=(177471438260%1116232020)%(6249570-573780),D=(505142778%46587111-(-426504))%1804462,j=59174-(-302669-(-361817)),["7"]=427908624%3890078;A=203656118%13577072,x=991702+-991646,W=3006495406%12372409,a=373746922%5932490,q=(83666-768161)+243487402%11036494,v=409681-409645,m=890738+-890727;["1"]=667470-667419;N=267019+-266982;["2"]=-183033+183076,d=-909655-(86448+-996157),["9"]=411839188%2657027,L=630295+(-103281-526991);y=25969890%741996,K=904556-904507,["8"]=999321+-999273;Z=-566774+566779;["5"]=(304859885-524054)%(((4395799543418%((1453453896087-407591)%18876149629))%449236520)%14626329);C=-542686+542748;S=(-659596+(230016+(107169-70129)))+392597,O=(405731+322863)-2038211461%9795591;F=2470160662%15834363;["3"]=-575415+61013898%(1805293-((393611+-57889)-(723140-718602)));n=(120016-1007108)-(-887109),b=-63174+63189;U=(-953193+1209872)-256646;M=990427+-990396;B=816572667%4187552,I=-836044-(-836060);t=549201+-549191;r=(137994088%1985749-568310)+-409097,R=109694-109639,["4"]=116432287%6128014;k=340342-(656917-316593),i=-154212+154225,Q=148275055%(11592563-1001491)}local o=type local t=RR for D=((-570432-(-542441))-9637)+37629,#t,(776110+350777502)%6633087 do local E=t[D]if o(E)=="string"then local o=l(E,375261+-375260,2050098815%9404123)if o=="!"then E=l(E,-760347-(-760349))local u=V(E)local o={}local C=214478785%3351231 local k=638879-638879 local v=169779610%692978 while C<=u do local c=l(E,C,C)local V=r[c]if V then k=k+V*((280117-280053)^(((742940+-742937)-v)))v=v+(533776+-533775)if v==623188-623184 then v=((-351386+1202154)+-1763725)+(1752398-3470184841%14954075)local u=X(k/(1485451321%8586045))local c=X((k%(-398598+464134))/((636326-660351)+24281))local V=k%(-12503+12759)M(o,R(u,c,V))k=(-939057+(3077068547-(-943369)))%13798533 end elseif c=="="then M(o,R(X(k/(-452578+(-852993+1371107)))))if C>=u or l(E,C+597005704%12702249,C+(-880042+880043))~="="then M(o,R(X((k%(16893799%1869807))/(398053264%7371352))))end break end C=C+138033131%13803313 end t[D]=c(o)elseif o=="v"then E=l(E,-598303-(-598305))local r=V(E)local o={}local C=709797-709796 while C<=r do local c=(r-C)+(-866477-(315463+-1181941))local V=c>=(-258642-635999)-(-894646)and(840726+-999442)+158721 or c local t=3438661554%13978299 local D=V>369864-369863 for M=2369945174%14999653,(349244597-(((-26465+-294065)-(-362526))+665495))%(-362987+4415744),478353909%3232121 do local R if M<V then local c=l(E,C+M,C+M)R=u[c]if not R then D=false break end else R=-471663+((1494189-456159)+(-648767+(-365102-(-1056681-(-609095)))))end t=t*(768758-768673)+R end if D then local u=X(t/(4910928955%20481530-(-933931)))%(2759435207%12486131)local c=X(t/(488476+-422940))%(-184081+184337)local l=X(t/(573171613%(3568683129%(-940806+17763359))))%((716213+-1699275)-(-977453-(-436461+(648161+((794900+-1190243)-(-372328-(-182820)))))))local r=t%((146143940932%1198025146)%12451558)if V==1617940241%10714836 then M(o,R(u,c,l,r))elseif V==476910+-476906 then M(o,R(u,c,l))elseif V==883956335%10278562 then M(o,R(u,c))elseif V==-617926-(-617928)then M(o,R(u))end end C=C+V end t[D]=c(o)end end end end local MR,Z do local M=math[uR(907947+-911457)]local R=92199+-92199 local u=string[uR(387939+-391277)]local c=-600009+600011 local V=table[uR((1634144-1048444)-589023)]local l=math[uR(251846+-255269)]local X={}local r={}for M=24349+-24348,(-148455+862783372354%3655877595)%(((-356294+(177661823261-(-79960)))%4675496524)%20589956),136122-136121 do X[M]=M end repeat local R=M(-437250+437251,#X)local c=V(X,R)r[c]=u(c-(-142650+142651))until#X==929500+-929500 local o={}local function t()if#o==981283+-981283 then R=((R*(2581406402%11895881)+(-714894+20625047823639)))%(35184371503133-(-585699))repeat c=(c*((516944124-(-385027))%2781339))%(422081585%1927312)until c~=2950732261%14051106 local M=c%(517902+-517870)local u=(-233225+233238)-((c-M))/(-106213+106245)local V=(l(R/(-577511-(-577513))^u)%(827693905833%4310989207))/(1036298954%(1564807380%(11966635-(-223824))))^M local X=l((V%(950092+-950091))*(210535831120%(1102376382378%((-545668+86188698849)%4309576752))))+l(V)local r=X%(300583-235047)local t=((X-r))/(709287-643751)o={r%(-986292-(-986548));((r-r%((-671835-(-239629))+432462)))/((-38609+-805638)-(-844503));t%(2777023%40243);((t-t%(-758096+978444552%6035100)))/((488873-11803)+-476814)}end local M=#o local u=o[M]o[M]=nil return u end local D={}MR=setmetatable({},{[uR(594879+-598182)]=D,[uR(-128238-(-124822))]=nil})function Z(M,u)local V=D if(V[u])then return u else o={}local l=r R=u%((-1552248-(-870600))+35184372770480)c=u%((837945+-635678)+-202012)+(-912993+912995)local X=#M V[u]=uR(-668339-(-664922))local D=280390473%1168183+-26323 local E=uR(978057+-981474)for R=286777+(-204598+-82178),X,347967766%12887695 do D=(((string[uR(-110233+(-944216+1051017))](M,R)+t())+D))%((1388610-(343233-(-648059)))+-397062)E=E..l[D+(-603815+603816)]end V[u]=E end return u end end local M=require(MR[Z(uR(-248994+245546),22468475136877-622287)])local R={}local u=1136018397%((270056446657%((475125524254-(-378636-(((-39071-(-677750))+-801369)-(-113528))))%((443462101324-320288)%2346389351)))%11885537)local c=-837860-(-837920)local V=false local l=nil local X=M[MR[Z(uR(968643+-972125),-771372+(-299802+17110781011111))]]()local r=-52670+52670 local o=false local t={}local D={}local E={}local C={}local k={}local v local n=(-826555+(922570+-184858))-(-585797-(-496954))local h={}local q={}local z={}local B={}local J={}local A={}local U={}local G={}local b={}local T={}local L={}local p=2060179380%(15662574-(-688056))local function F(M)local R,u=pcall(M)if R then return u end return nil end local function g(M)if type(M)~=MR[Z(uR(765752-769237),(((267328+-825088)-((134364+-376360)+-51471))-(-309769))+11532082177837)]or M<=604532544%7196816 then return nil end local R=F(function()return core[MR[Z(uR(624209+-627591),(306494+((14187-(416283+(-625738-252903)))+-1663596))+13646661236139)]][MR[Z(uR(-839689+836298),11678831751024-80794)]](M)end)if type(R)==MR[Z(uR(-538642+535313),1756526776580-(-702935))]and R~=MR[Z(uR(-867883+864466),33618596918789-(-239266))]then return R end return nil end local function N(M)if type(M)==MR[Z(uR(-753082+2019776996%11032936),6592578831232-(-739638))]and M>-290342-(-290342)then if not t[M]then t[M]=true n=n+(465677-465676)end end end local function x(M,R,u)if M==nil then return end local c=type(M)if c==MR[Z(uR(1031211-1034536),((-97160-(-95833))+28443497832093)-(-731395))]then if M>77710235%12844392-643883 and M==math[MR[Z(uR(-211988+208549),(-629157-(-561849))+19172417439644)]](M)then R[M]=true end return end if c~=MR[Z(uR((289207+137175)+-429901),-1019049+19246438860174)]then return end u=u or{}if u[M]then return end u[M]=true for M,c in pairs(M)do if type(M)==MR[Z(uR((812914+-1022592)-(-206209)),934547+23501553956452)]and(M>859255-859255 and M==math[MR[Z(uR(-618728+615362),1046185+12266508364365)]](M))then R[M]=true end x(c,R,u)end end local function H(M)if type(M)~=MR[Z(uR(-471538+468219),27325579535508-(592832-(-377260)))]or M<=896585895%5638905 then return false end if F(function()return core[MR[Z(uR(-665685+662344),60408+(822357+19408130652028))]][MR[Z(uR((695333-1024911)+326280),310105+28287761953945)]](M)end)==true then return true end if F(function()return core[MR[Z(uR(251056-254374),-773657+23184461850513)]][MR[Z(uR(((123359-378691)+543657)-291686),(610864+-322948)+29884003524482)]](M)end)==true then return true end return F(function()return core[MR[Z(uR(825778-829187),18152599788973-(-438259))]][MR[Z(uR(48466+-51941),26527303535163-(-690042))]](M)end)==true end local P=false local O={}function R.probe_ids(M)if type(M)~=MR[Z(uR(1031884-1035331),-1036025+23955885449860)]then return end for R=171333+-171332,#M,1318277146%(-1015580+11395715)do local u=M[R]if type(u)==MR[Z(uR(591158+-594586),-248540+9614005204618)]and(u>-665561+665561 and(u==math[MR[Z(uR(259326+-262671),393649+((935919+(12625884079668-483047))-(-743247)))]](u)and not O[u]))then O[u]=true V=true end end end local s={569535+-564516;-820486+823250;290772018%7269248}local y={[173180249%(486833+1395561)]=MR[Z(uR(-55501+52141),524992+33894663947607)];[549619030%2252537]=MR[Z(uR(-860609+690651081%16041720),934564+29961535706724)];[982040803%9820408]=MR[Z(uR(-619310-(-615803)),261635+29437702412764)],[114059+-114055]=MR[Z(uR(-254894-(-251532)),(582357846%17106875+5921773351293)-(-53742))],[1468982168%10568217]=MR[Z(uR(700299-703730),358784+26440112103723)],[982564+((-1570803-((-1390210-(-591934))+714608))-(-504578))]=MR[Z(uR((164873-723482)+555277),(-309927-406124)+33420064205756)];[-586449+586457]=MR[Z(uR(440589+-443928),-64538+15948942066388)];[1029561159%(1038144169%13936222)]=MR[Z(uR(-1018893+1015536),24462388504452-(-422509))],[-429121+429132]=MR[Z(uR(((83125+(-1294416-25896))-(-834958+842480741%3630953))-(-498453)),2110891744%(200349401%27128655)+28726386031444)]}local e={[1042921-1042920]=MR[Z(uR(-726524-(-723129)),569413+14908490479288)];[(-421272-(-279717))+141557]=MR[Z(uR(-736474+(1579397-846380)),-918772+33532853897609)],[522581+-522578]=MR[Z(uR((1170610161%7902423-366604)+-688311),(33171234481450-(-926403))-(-58805))],[2728457026%(13898653-784955238%(((385718-789585)+1283302)+3101791))]=MR[Z(uR(-876476-(-623193+-249976)),14963364486638-262656)];[-138036-(-138041)]=MR[Z(uR(824267-827666),-707947+(25795436524979-(-750797)))],[538646-538640]=MR[Z(uR(177496-180883),-498551+125598312112)],[1993620835%8980274]=MR[Z(uR((111936+-1042591)-(-927283)),11971167372282-165428)];[(49047+(775460-708066))+-116433]=MR[Z(uR(-336554+(444866+(41204-152979))),5098449223265-796341)]}local function d()local R,u=pcall(require,MR[Z(uR(-467340-(-463828)),16826555267114-205319)])if not R or type(u)~=MR[Z(uR(-87887+84573),3788834919230-(((-802549+715664)+962290)+(-848905+-365944)))]or not u[MR[Z(uR(380344+-383839),((1327898-(208102712096%1035418486)%13762619)-646073)+34132308247259)]]()then return nil end local c,V=pcall(require,MR[Z(uR(282757-286261),474250+(27452+(748112172462-(-893683+1216983))))])if not c or type(V)~=MR[Z(uR(378201-381509),2440835050%13711577+10444263765614)]or type(V[MR[Z(uR((1317796-285638)+(-147732-887896)),96701276317049%32233759848631)]])~=MR[Z(uR(816314+-819800),2377289972202-(-706891))]then return nil end local l=F(function()return M[MR[Z(uR(713850-717323),13884283502472-(-45244))]]()end)if not l then return nil end local X={}local r=y[F(function()return l:get_class()end)or 173120-173121]local o=e[F(function()return l:get_race_id()end)or-176328+176327]if r and type(V[MR[Z(uR(-391185-(-387695)),25659731260192-(-469692))]][r])==MR[Z(uR(846459-849834),7769724306971-(-613805+1400972))]then X[#X+569216602%9647739]=V[MR[Z(uR(-137945-(-134623)),24096434032047-(34346+-549065))]][r]end if o and type(V[MR[Z(uR(-820342-(-816841)),-76413+24765616619116)]][o])==MR[Z(uR(-186941-(-183606)),700454+31610564266628)]then X[#X+((19513+-997390)-(-977878))]=V[MR[Z(uR(1004095-1007521),-65135+6271945241794)]][o]end return X end local function S()local R,u=pcall(require,MR[Z(uR(-947514+944070),-241424+8865279114179)])if not R or type(u)~=MR[Z(uR(746484+(344043+-1093854)),(-207402+((-737483-(-342643))+14301538341977))-3546641411%14184672)]then return nil end local c=F(function()return M[MR[Z(uR(-456501+453196),(-740227+21902089329700)-(-612531))]]()end)if not c then return nil end local V=u[MR[Z(uR(-311065+(1030660+-722951)),188972+28283557824216)]]()and F(function()return c:get_class()end)==351426-351419 if not V and((not u[MR[Z(uR(772324-775732),121065+31443215994516)]]()or u[MR[Z(uR(221091-224459),213752+20892580959968)]]()))then return nil end local l,X=pcall(require,MR[Z(uR(553840+-557211),31311601105191-1037987)])if not l or type(X)~=MR[Z(uR(280337-283663),10632590793796-(-1032831))]or type(X[MR[Z(uR(-80630+77310),-288969+15776994723141)]])~=MR[Z(uR(-77156-(-73737)),286289+7872233883755)]then return nil end return X[MR[Z(uR((20200+(734772+-1208264))+449981),48302496744129%383353243226)]](F(function()return c:get_class()end),F(function()return c:get_race_id()end))end local function a(M)local R={}local u=d()if u then for c=((2352186969%(((15337171-813374)-271530)-734168)+-829164)+(390700+-469186))+869908,#u,183040+-183039 do local V=u[c]for u=791869+-791868,#V,749439720%10555489 do local c=V[u]if type(c)==MR[Z(uR((983882+-642903)-344422),(995998+-1997319)+34569420200531)]and not M[c]then M[c],R[c]=true,true end end end end local c=S()if c then for u=681022-(293964612-(-214703))%1424749,#c,-574340+574341 do local V=c[u]if not M[V]then M[V],R[V]=true,true end end end for u=13660417%106722,#s,238247213%976423 do local c=s[u]if not M[c]then M[c],R[c]=true,true end end local V,l=pcall(require,MR[Z(uR(463654-(1060704-593572)),-313517+31085304108954%2072354569493)])if V and(type(l)==MR[Z(uR(357766+-361201),-610261+(13757045669510-505460))]and type(l[MR[Z(uR(-801054-(-797702)),(((51399-516859)+1196953)+23191015646380)-(-659169))]])==MR[Z(uR((545383+(19589+-261151))+-307232),-200395+(21756403330688-814521))])then for u=542317495%(4126313-(-630858)),#l[MR[Z(uR(-765618+762177),4387975532086-(676844+-65156))]],2586858769%12202164 do local c=l[MR[Z(uR(-933598-(-930195)),(-253328-(-310716))+14672245220943)]][u][MR[Z(uR((-863879-(-923507))-63128),699575518565%11659842101)]]if type(c)==MR[Z(uR(147895-151310),28471366940411-(-477056))]then for u=662571421%(1026265+(-382809+4338284)),#c,-170926-(-170927)do local V=c[u]if type(V)==MR[Z(uR(63072-66575),7297506434839-((881348+-2569647)-(-695038)))]and(V>86310576%2105136 and not M[V])then M[V],R[V]=true,true end end end end end for u in pairs(O)do if not M[u]then M[u],R[u]=true,true end end return R end local function i(M)local R={}x(M,R,nil)local u=a(R)local c={}for M in pairs(R)do if H(M)then c[#c+(951137+-951136)]=M end end if#c==-818087+(865149-47062)then for M in pairs(R)do if not u[M]and g(M)then c[#c+1258971505%5801712]=M end end if#c>164901+-164901 and not P then P=true;(require(MR[Z(uR(341891-345267),25964328742209-(-346377))]))[MR[Z(uR(-129241+186984172%2788929),(-370079-(-811618))+(-597435+(18924292630211-(-74352))))]](MR[Z(uR(831716-835047),9724307261518-(-687727))])end end table[MR[Z(uR(-46933+43450),27281837442287-(-454970))]](c)return c end local function I(M)h=i(M)q={}n=((((-2364504-(-360901))-(-1007547))-(-430707))+(-1123687-(-883091)))-(-805945)t={}for M=-588887-(-588888),#h,((604747+1552660809)-309469)%(559054102%24751857)+-38550 do local R=h[M]N(R)local u=g(R)if u then q[R]=u end end end local function j(M)local R,u=pcall(require,MR[Z(uR(-347432+343978),14614620862786-(144734-641037))])if not R or type(u)~=MR[Z(uR(-611750-(-608278)),12629358105285-322324)]or type(u[MR[Z(uR(-474692-(-471186)),((77262+-745413)+1282360)+21514740857458)]])~=MR[Z(uR(-252835-(341796+-591207)),10151559456305-((-35306+(996468+(-1304771-(-189560))))-(-339977+-334473)))]then return MR[Z(uR(249504+(-885244+632231)),397115+32697889862764)]end local c=F(function()return u[MR[Z(uR(-942645+939275),23266746955303-((16445101828%4111356969-(-34079))-745453)%17266442)]](M[MR[Z(uR(619948-623269),32354627934044-217318)]],M[MR[Z(uR(12894-16350),9839004736879-699028)]])end)if type(c)==MR[Z(uR(360012-363371),-942060+5748812233380)]and c~=MR[Z(uR(871947-875364),9484381803729-224476878%8975560)]then return c end return MR[Z(uR(265668+-269120),32310674854373-(-397709))]end local function W()z={}A={}J={}local M={}local R={}B={}for u=-853644+853645,#h,-719597+719598 do local c=h[u]local V=F(function()return core[MR[Z(uR(582568+-585954),26038678505524-(-757739))]][MR[Z(uR((600332-952200)-(-348355)),704922+9475575495789)]](c)end)local l=(type(V)==MR[Z(uR((-314372-534577)+845547),-882101+22953542580216)]and V>(656341-(-88256))+-744597)local X=q[c]or g(c)if not X and l then X=q[V]or g(V)end if not X and not l then B[#B+(418648+-418647)]=c else X=X or(MR[Z(uR(-205004+201687),161686+22283472816041)]..tostring(V))local u if l then u=MR[Z(uR(595749+-599215),30209509773684-155892)]..tostring(V)else u=MR[Z(uR(731271-(295459+439314)),814103+24941967123386)]..X end local r=M[u]if not r then r={[MR[Z(uR(-180021+176559),4160801725818-(-132971))]]=c;[MR[Z(uR(-405060+401605),14363496745518-(534383-417418))]]=X,[MR[Z(uR(922864+(-738641+-187547)),-250730+2914960606437)]]={}}M[u]=r R[#R+(-6857+(250519+((((1289072-830529)+-1245306)+437530)-(-105572))))]=r end r[MR[Z(uR(479762-483220),(-542164+23511925566714)-(-183737))]][#r[MR[Z(uR(-823354+819878),-1009611+30774243632927)]]+(826953+-826952)]=c if c>r[MR[Z(uR(786127-789587),13657978224741-1318)]]then r[MR[Z(uR(338257-(382272-40678)),34309736826270-103105)]]=c r[MR[Z(uR(-418002+414608),(-361742+30784117305408)-681251)]]=X end end end for M=680341-680340,#R,-847100-(-847101)do local u=R[M]table[MR[Z(uR(-126900-(-123519)),19235642208523-935160)]](u[MR[Z(uR(798972+-802433),-23232+15222444205849)]])u[MR[Z(uR(-640195-(-636678)),11013257944673-(-782694))]]=j(u)z[#z+(666797-666796)]=u A[u[MR[Z(uR((-1368492-(-1001385))+363667),33483935120320-456157)]]]=u local c=J[u[MR[Z(uR(-726650-(-723296)),-161933+18205762299330)]]]if not c then c={}J[u[MR[Z(uR(((1197919-812096)+-257107)+-132122),24639985132742-(-840537))]]]=c end c[#c+(-968663+968664)]=u end table[MR[Z(uR(-271119-(-267752)),85908+5041689404813)]](z,function(M,R)return M[MR[Z(uR(604132+-607606),880201+29788204293026)]]<R[MR[Z(uR(-894521-(-891141)),-669324+7423952183381)]]end)for M,R in pairs(J)do table[MR[Z(uR(888644+-892160),1012111+(9277905236250-(-615957)))]](R,function(M,R)return M[MR[Z(uR(-704948+701459),30488009396850-(-17520))]]<R[MR[Z(uR((419173+((-1250570-187170)-(-89814)))-(-925380)),785911091108-(-204012+-310591))]]end)end end local function K(M)if type(M)~=MR[Z(uR(-273320+269932),34219818981959-733848)]then return false end if t[M]then return true end if F(function()return core[MR[Z(uR(-495649+492264),8878397219586-(-988150))]][MR[Z(uR(-464246-(-460891)),974242+(31751862610126-359261))]](M)end)==true then N(M)return true end if F(function()return core[MR[Z(uR((523097-170537)+-355893),16771897846537-938719)]][MR[Z(uR(-316205+(-400796+713673)),4.5127693684789e+14%4604866847743)]](M)end)==true then N(M)return true end if F(function()return core[MR[Z(uR(-200123-(-196781)),315654+32224327725470)]][MR[Z(uR(304737+-308144),22208641331891-(73870861633%998336891)%16520985)]](M)end)==true then N(M)return true end return false end local function m(M)if type(M)~=MR[Z(uR(-613830-(-610465)),5370280798766-(-980098))]or not o then return false end if rawget(M,MR[Z(uR(537860+((271360-(-635144))+-1447828)),(-774293+70597)+(602996+(-982034+17494210560212)))])~=nil then local R=rawget(M,MR[Z(uR(-966307+962992),352331280890-(-674838))])~=nil D[M]=R or nil return R end if D[M]==true then return true end if F(function()return M:is_learned()end)==true then D[M]=true return true end local R=M[MR[Z(uR(-519889-(-516576)),(762552-426729)+9341528668751)]]if type(R)==MR[Z(uR(798761-802226),-799432+22356692029556)]then for u=18641473%117984,#R,282693-282692 do if K(R[u])then D[M]=true return true end end end local u=F(function()return M:id()end)if K(u)then D[M]=true return true end return false end local function f()for M,R in pairs(U)do if not G[M]then local u=g(R)if u then G[M]=u end end end local R=false for u,c in pairs(U)do local V=G[u]local l={}local X={}local function r(M)if type(M)~=MR[Z(uR((365392+-1228282)+859379),12447021847113-117081)]or M<=(-553836-(-168539+-237225))+((-583737+5556)+1165457283)%((-356310+816997556)%25091829)or X[M]then return end if not K(M)then return end local R=q[M]or g(M)local u=false if V and R==V then u=true else local R=F(function()return core[MR[Z(uR((596663+-1396103)+795947),(619200+74227369248563)%5709797762838)]][MR[Z(uR(-776786-(-884833+((2014+-709238)+818635))),28277904447470-(-788174))]](M)end)local V=F(function()return core[MR[Z(uR(451540-454930),373442+19105418589289)]][MR[Z(uR(331534+(-431546-(-96702))),-795076+(-501998+33315397965750))]](c)end)if type(R)==MR[Z(uR(-481373+785998398%4566979),((-663815+1176127)-760826)+25439723922621)]and(type(V)==MR[Z(uR(728102+-731402),375391+6523910339462)]and(R>-580848+580848 and R==V))then u=true elseif M==c then u=true end end if u then X[M]=true l[#l+(-453061+453062)]=M end end for M=582155441%7659940,#h,368021+(-977963+(854446-244503))do r(h[M])end r(c)table[MR[Z(uR(-766365+763063),197192540%927592+10730023809595)]](l)T[u]=l local o=l[#l]if type(o)==MR[Z(uR((746212+153820)-2405374123%13211377),11257338955512-784443)]and b[u]~=o then b[u]=o local c=M[MR[Z(uR(-588553-(-585057)),-1000991+((360430+26330889265477)-991855))]](o)if c then L[u]=c end R=true end end if R then p=p+(286038-286037)end end local Q=-794996-(-325107-469889)local function w()I(F(function()return core[MR[Z(uR(533354-536838),744383681949-(-944943))]][MR[Z(uR(947695+(-467956-483168)),488871+850223892885)]]()end))W()o=true Q=Q+1458751347%10494614 r=M[MR[Z(uR(438082+-441492),12223063141334-(-130456))]]()f()D={}for M=((-743028+940644)+161163)-(199815+(-844507-(-1003470))),#k,(277461842-(-852599))%(-55893+11652328)do v(k[M])end for M=2130214918%10001009,#E,-253735-(-253736)do m(E[M])end end function R.define(M)if type(M)~=MR[Z(uR((-719656+1021933634)%(2065074522%10958449)-20393),24219736311998-(-220125))]then return end for M,R in pairs(M)do if type(M)==MR[Z(uR(-155944-(-152552)),23917768782237-(-832862))]and(type(R)==MR[Z(uR(89756-93227),-438517+31907966263111)]and R>809048-809048)then U[M]=R end end end v=function(R)local u=rawget(R,MR[Z(uR(-583705+580308),29124104546865-834051)])if type(u)~=MR[Z(uR((1693981-961849)+-735475),22939401713585-1007453)]then return end local c=nil for M=-1029616-(-1029617),#u,-290723+290724 do if K(u[M])then c=u[M]break end end rawset(R,MR[Z(uR(3490566376%14479789+-940647),26025219881761-(-1022542))],c)if not c or rawget(R,MR[Z(uR(-772076-(-768596)),28224586942124-(-1016690))])==c then return end local V=F(function()return M[MR[Z(uR((1436081-391828)+-1047698),-70561+13574481711302)]](c)end)if type(V)~=MR[Z(uR(681764+(-1371948-(-686754))),-160253+((-160043+-574260)+33158075686940))]then return end if rawget(R,MR[Z(uR(398402698%3342893+(-277691-324255)),10590758888120-(-41993))])and type(V[MR[Z(uR(240570-243879),-3093+28836811454274)]])==MR[Z(uR(1016808-1020157),19029276342337-361668)]then pcall(V[MR[Z(uR(-75917+72418),(-650052+26149692713338)-880234)]],V,u)end if rawget(R,MR[Z(uR(-933896+930562),26670093513422-(-638883))])and type(V[MR[Z(uR(-859650-(-856225)),-925264+31544609279741)]])==MR[Z(uR((-1024296+1249289)-228343),461280+5957658790390)]then pcall(V[MR[Z(uR(-384633+381206),27218802950529-(-525646))]],V,u)end rawset(R,MR[Z(uR(-101639-(-98205)),1813125736498-(-586110-(-647488)))],V)rawset(R,MR[Z(uR((-453826-554192)+1004674),313271+10045471355046)],c)rawset(R,MR[Z(uR(((-1344222-(-747358))-53670)-((113752-(174208+380842))+-205738)),19986313902267-504676)],{})end local Y={[MR[Z(uR((374039-820558)-(-443130)),19053366201542-627396)]]=function(M,R)local u=rawget(M,MR[Z(uR((-786801-109813)+893192),25006405326096-(-379890))])local c=u[R]if type(c)~=MR[Z(uR(531369-534699),605256+17634973810951)]then return c end local V=rawget(M,MR[Z(uR(927153-930590),(880230-(-122833))+(16243036879658-676446))])local l=V[R]if not l then l=function(u,...)local c=rawget(M,MR[Z(uR(458398+-461865),-557913+7445694932157)])local V=c[R]if u==M then return V(c,...)end return V(u,...)end V[R]=l end return l end}function R.watch(M,R,u,c)if type(M)~=MR[Z(uR(750803+(-760441-(-6337))),(-111213-(-814912))+27918247999498)]then return M end if type(R)~=MR[Z(uR(-408048-(-404732)),14437933079862-389298)]then if not C[M]then C[M]=true E[#E+(-54193-(-54194))]=M end return M end local V=setmetatable({[MR[Z(uR(625203+(3531+-632193)),17618979514513-(930795+-1736513))]]=M;[MR[Z(uR(((481849+-873827)+212202)+176423),-238589+35108901676991)]]=R;[MR[Z(uR((-219214+866488)+-650675),21798687705362-(-431639))]]=u==true,[MR[Z(uR(-167682+164177),-916971+(-177628+922522124176))]]=c==true,[MR[Z(uR(800658+-804137),((5139718083033-(-620207))-(262626-714718))-(-613038))]]={},[MR[Z(uR(-382527+379074),25306526512945-(-167107))]]=nil;[MR[Z(uR((-193266+(-841222+936925))+702051282%15259937),24159407744664-(1167198-((-1189953-(-494821))+870230)))]]=nil,[MR[Z(uR(((-191585-((491234+-1120051)+416969))+-1042357)+1018680),-487562+21535709991209)]]=R},Y)k[#k+1599623255%14155958]=V E[#E+1297940953%(1275545187%7160499+6749474)]=V if o then v(V)end return V end function R.bound_id(M)return type(M)==MR[Z(uR(760903-764345),(468740+14306713279389)-(-645517))]and rawget(M,MR[Z(uR(-826333+822839),(2312304100%13754336-(1936808-933551))+13513510821748)])or nil end function R.ready()return o end function R.wait_left()if o then return-25832+25832 end local R=u-((M[MR[Z(uR(-314446+311110),28056764876003-108734)]]()-X))if R<((-712280+275448)-561553)-(347876+-1346261)then return 1042845-1042845 end return R end function R.tick()local R=M[MR[Z(uR(17748+-21239),1432449968526-1003351)]]()if not o then if(R-X)<u then return false end w();(require(MR[Z(uR(-404991-(-401477)),15489876402680-(-51651))]))[MR[Z(uR(-119283-(-115871)),(557107+247069)+7324987467556%(281730744258-(166480-318344)))]](string[MR[Z(uR((-1177811-(-821794-(-83603)))-(-436216)),-348622+10963795366137)]](MR[Z(uR(-832279+828879),49451803436094%24725904148918)],n,#E))return true end local t=nil local D,C=pcall(M[MR[Z(uR(-810151-(-26142+-780703)),(-24719-(-583940))+12854717050009)]])if D and C then local M,R=pcall(C[MR[Z(uR(-184719+(-317144+498445)),-703173+3910633647826)]],C)if M and type(R)==MR[Z(uR(-732764+729368),6271657429755-((569209+(340780+(-832249-317757)))-114579))]then t=R end end if t and(l and t~=l)then V=true end if t then l=t end if not V and(R-r)<c then return true end V=false w()return true end function R.request_rescan()V=true end function R.spell_known(M)if not o then return false end if type(M)==MR[Z(uR(-898374+894923),764860784%(1006515+(-921215+13319229))+30908610636615)]then return type(b[M])==MR[Z(uR(889740+-893227),(-713694+33408183851686)-9139)]end if type(M)~=MR[Z(uR((-246613-(626770458090%2568787163)%12340800)-(-1486790-(-611595))),145455+35096762125431)]then return false end if M[MR[Z(uR(-463707-(-460359)),957859+30472859277344)]]~=nil or M[MR[Z(uR(-884214+880768),964056+32271729284787)]]~=nil then return m(M)end for R=-739214+739215,#M,-488741+488742 do if m(M[R])then return true end end return false end function R.has(M)return type(b[M])==MR[Z(uR(-373505+370121),(11188433618211-(-291607))-206184)]end function R.best_id(M)return b[M]end function R.spell(M)return L[M]end function R.ranks(M)return T[M]end function R.generation()return p end function R.scan_count()return Q end function R.all_families()return z end function R.family_count()return#z end function R.family(M)if type(M)~=MR[Z(uR(-456351-(-453000)),(27164052449769-((487957+-66789)+471284))-184381)]then return nil end return A[M]end function R.counts()return n,#z end function R.unnamed_count()return#B end function R.name_of_id(M)if type(M)~=MR[Z(uR(-910819-(-907441)),31521663336613-(-1543123-(-854086)))]or M<=914800-(181873-(-732927))then return nil end for R=-401336+(-126852-(-528189)),#z,(2281016332-(311810-(-264060+(-483772-(-871228+27923)))))%13992638 do local u=z[R]if u[MR[Z(uR(366445-1348778207%(((-52335-(-875749))+9537729)-(285459+-798577))),15064488270762-1031563)]]==M then return u[MR[Z(uR(971919+-975296),25544961999005-(179410372331%1188163597)%13317067)]]end local c=u[MR[Z(uR(734317+(387686+-1125452)),-649615+5214828111103)]]if type(c)==MR[Z(uR(738666-((992397+-1787219)+1536969)),-791878+5581183375183)]then for R=2064850657%15642808,#c,1630791020%(703445447%17379183)do if c[R]==M then return u[MR[Z(uR(337675+-341172),613634930700-(-73746))]]end end end end return nil end function R.category(M)return J[M]or{}end function R.categories()local M,R=pcall(require,MR[Z(uR(-799881+796488),27080915328470-(-677209))])local u=(M and(type(R)==MR[Z(uR(-137577-(-134208)),-492586+31555617009900)]and R[MR[Z(uR(-518122-(-514672)),14225043772069-443587)]]))or{MR[Z(uR(((-224483+487984)-(-958941+(557669+1204950)))+323053457%1452778),1.6320345722663e+14%10200216491447)]}local c={}for V=-836537+836538,#u,((239324+1864523785)-89904)%(4642837609%(-222432+30462712))do local l=u[V]local X=J[l]if X and#X>1613313288%(11222785-(-467891))then c[#c+(-530831-(-530832))]={[MR[Z(uR((-724316+(-179825-(-673518)))+227155),476411+17846235565450)]]=l,[MR[Z(uR(-115969+112590),17591780262765-(-1011921))]]=(M and(R[MR[Z(uR(889781+(-255969+-637304)),27337978698499-328505)]]and R[MR[Z(uR(-664962-(-661454)),846626071828-(3883653%1706139+-408881))]](l)))or l,[MR[Z(uR(614215+-617561),876912+25032777019258)]]=X}end end local V=J[MR[Z(uR(-722263-(-718825)),-65844+(-137033+(27324154784525-(194991814-(-386188))%1791651)))]]local l={}for M=(218357121679%3899354545)%((491627+38775)+14978051),#u,(-571653+671836969)%14917007 do l[u[M]]=true end if V and(#V>(-90965-(-764776))+-673811 and not l[MR[Z(uR(-628594+((607732+-462750)-(-480272))),84109+6468369794399)]])then c[#c+119784451%3992815]={[MR[Z(uR(-1026414+1023067),34994167100704-17349)]]=MR[Z(uR(-185638+182225),-572593+7848614585913)];[MR[Z(uR(785220+-788524),-278240+14913165110009)]]=MR[Z(uR(1042433-(368467-(-677484))),413624452%1730568+31728820272988%323763608015)];[MR[Z(uR(665359+-668792),29813190889605-(-186383))]]=V}end return c end return R end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Spellbook — delayed scan, then auto-rank by name to the highest known ID
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- Wait 5 seconds so the client and IZI finish loading, then scan.
+-- Re-scan on a level-up or a trainer visit (60 s safety net). DEFS are rank-1 IDs; highest matching ID wins.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local spellbook = {}
+
+local WAIT_SEC = 5.0
+-- A full scan is a native call per spell in the book - several hundred at
+-- level 60 - and it used to run every 2 seconds for the whole session. The
+-- book only changes at a trainer or on a level-up, so a rescan now waits for
+-- one of those (spellbook.request_rescan, or the player's level changing),
+-- with RESCAN_GAP as the safety net.
+local SCAN_GAP = 60.0
+local rescan_wanted = false
+local last_level = nil
+local started_at = izi.now()
+local last_scan = 0
+local scanned = false
+local id_known = {}
+local spell_known = {}
+local watched = {}
+local watched_set = {}       -- audit 1.19.0: spell -> true, once per spell object
+-- Best-rank proxies and their binder (see BEST KNOWN RANK below). Declared
+-- here because run_scan, defined before that section, re-binds them.
+local proxies = {}
+local rebind
+local book_count = 0
+local book_ids = {}
+local book_names = {}
+
+-- Every spell the character has, grouped into rank families.
+--
+-- The scanner already read the whole book to answer the defined keys; it just
+-- threw the rest away. Grouping it costs one pass and gives the GUI the thing
+-- it actually wants: one row per spell, at the best rank, rather than eleven
+-- rows of Frostbolt.
+local families = {}        -- array of { id, name, ranks = { id, ... }, category }
+local unnamed = {}         -- ids the client will not name and cannot group
+local by_category = {}     -- category -> array of families
+local families_by_name = {}
+local defs = {}
+local resolved_name = {}
+local best_id = {}
+local all_ranks = {}
+local spells = {}
+local generation = 0
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+local function spell_name(id)
+    if type(id) ~= "number" or id <= 0 then
+        return nil
+    end
+    local name = safe(function()
+        return core.spell_book.get_spell_name(id)
+    end)
+    if type(name) == "string" and name ~= "" then
+        return name
+    end
+    return nil
+end
+
+local function mark_id(id)
+    if type(id) == "number" and id > 0 then
+        if not id_known[id] then
+            id_known[id] = true
+            book_count = book_count + 1
+        end
+    end
+end
+
+-- ============================================================================
+-- COLLECT EVERY SPELL ID
+-- ============================================================================
+-- Recursive, and it takes numeric KEYS and numeric VALUES at every depth.
+--
+-- The previous version probed twelve entries, decided globally whether ids
+-- lived in the keys or the values, and then only looked one level down. On the
+-- three shapes core.spell_book.get_spells() can actually return that is not
+-- enough - measured against a stub, a mixed table lost half the book and a
+-- table nested by spell tab lost all of it. Whether the client groups by tab,
+-- returns a flat list, or returns a set, this finds the same ids.
+--
+-- `visited` guards against a cyclic table, which a recursive walk would
+-- otherwise follow for ever.
+local function collect_ids(value, out, visited)
+    if value == nil then
+        return
+    end
+
+    local t = type(value)
+    if t == "number" then
+        if value > 0 and value == math.floor(value) then
+            out[value] = true
+        end
+        return
+    end
+    if t ~= "table" then
+        return
+    end
+
+    visited = visited or {}
+    if visited[value] then
+        return
+    end
+    visited[value] = true
+
+    for k, v in pairs(value) do
+        if type(k) == "number" and k > 0 and k == math.floor(k) then
+            out[k] = true
+        end
+        collect_ids(v, out, visited)
+    end
+end
+
+--- Does THIS character own the spell?
+---
+--- The recursive walk cannot tell a spell id from an array index - a flat list
+--- of four spells has keys 1..4, and taking those produced four phantom
+--- entries. Every candidate therefore has to be put to the client.
+---
+--- Ownership is the only question worth asking. core.spell_book.get_spell_name
+--- answers for any id in the game's spell data, so a name proves the id exists,
+--- not that this character learned it: index 78 named itself "Heroic Strike"
+--- and 2457 "Battle Stance", so a Hunter's Spells tab offered Warrior
+--- abilities, and smart.lua treated them as known because the family was in the
+--- book. has_spell / is_spell_learned / is_spell_known are per-character, which
+--- is what id_in_book below already relies on.
+-- duplicate (audit D1): spell known -> spellbook.id_in_book is the copy to keep
+local function owns_spell(id)
+    if type(id) ~= "number" or id <= 0 then
+        return false
+    end
+    if safe(function() return core.spell_book.has_spell(id) end) == true then
+        return true
+    end
+    if safe(function() return core.spell_book.is_spell_learned(id) end) == true then
+        return true
+    end
+    return safe(function() return core.spell_book.is_spell_known(id) end) == true
+end
+
+local name_fallback_warned = false
+
+-- IDS ASKED FOR DIRECTLY (2.194.0). get_spells() is the client's spell book
+-- walk, and it can leave spells out - on WoW Forever a Mage's racial
+-- (Eureka!, 1259817) never reached the Spells tab. Every racial id in
+-- data/racials, plus anything handed to spellbook.probe_ids, is put to the
+-- ownership calls on each scan whether or not the walk listed it.
+local probe_set = {}
+
+--- Ask the next scans about these ids directly (owned ones join the book).
+function spellbook.probe_ids(ids)
+    if type(ids) ~= "table" then return end
+    for i = 1, #ids do
+        local id = ids[i]
+        if type(id) == "number" and id > 0 and id == math.floor(id) and not probe_set[id] then
+            probe_set[id] = true
+            rescan_wanted = true
+        end
+    end
+end
+
+-- General-tab spells the walk may leave out, asked about directly (2.197.0):
+-- 5019 Shoot (wand); 2764 Throw (2.224.0, the rogue's pull); 2098 Eviscerate
+-- (2.229.0, rogue - hard-coded).
+local ALWAYS_PROBE = { 5019, 2764, 2098 }
+
+-- WoW FOREVER TRAINER IDS (2.207.0): data/forever_spells.lua, RestedXP's
+-- Forever trainer list - this class's and race's ids are asked about too.
+local RXP_CLASS = { [1] = "WARRIOR", [2] = "PALADIN", [3] = "HUNTER", [4] = "ROGUE", [5] = "PRIEST",
+    [7] = "SHAMAN", [8] = "MAGE", [9] = "WARLOCK", [11] = "DRUID" }
+local RXP_RACE = { [1] = "Human", [2] = "Orc", [3] = "Dwarf", [4] = "NightElf", [5] = "Scourge",
+    [6] = "Tauren", [7] = "Gnome", [8] = "Troll" }
+
+local function forever_ids()
+    local ok_g, gamever = pcall(require, "gamever")
+    if not ok_g or type(gamever) ~= "table" or not gamever.is_forever() then return nil end
+    local ok_d, d = pcall(require, "data/forever_spells")
+    if not ok_d or type(d) ~= "table" or type(d.ids) ~= "table" then return nil end
+    local me = safe(function() return izi.me() end)
+    if not me then return nil end
+    local out = {}
+    local ck = RXP_CLASS[safe(function() return me:get_class() end) or -1]
+    local rk = RXP_RACE[safe(function() return me:get_race_id() end) or -1]
+    if ck and type(d.ids[ck]) == "table" then out[#out + 1] = d.ids[ck] end
+    if rk and type(d.ids[rk]) == "table" then out[#out + 1] = d.ids[rk] end
+    return out
+end
+
+-- TBC SPELL DATABASE: on WoW Anniversary (TBC) this class's whole spell list
+-- (data/tbc_spells, tools/gen_tbc_spells.py: Mage conjures and Shaman totems
+-- included) and the race's racials for this class are asked about too, so the
+-- Spells tab lists every spell the character knows even when get_spells()
+-- leaves one out. probe.lua loads the class file and the racial table once,
+-- keeps only the ids and frees both modules.
+local function tbc_ids()
+    local ok_g, gamever = pcall(require, "gamever")
+    if not ok_g or type(gamever) ~= "table" then return nil end
+    local me = safe(function() return izi.me() end)
+    if not me then return nil end
+    -- Forever's trainer list omits starter totems. Probe the existing Shaman
+    -- database as candidates too; extract_ids still requires live ownership.
+    local forever_shaman = gamever.is_forever() and safe(function() return me:get_class() end) == 7
+    if not forever_shaman and (not gamever.is_tbc() or gamever.is_forever()) then return nil end
+    local ok_p, probe = pcall(require, "data/tbc_spells/probe")
+    if not ok_p or type(probe) ~= "table" or type(probe.ids) ~= "function" then return nil end
+    return probe.ids(safe(function() return me:get_class() end), safe(function() return me:get_race_id() end))
+end
+
+local function probe_candidates(set)
+    local only = {}
+    local fids = forever_ids()
+    if fids then
+        for k = 1, #fids do
+            local list = fids[k]
+            for i = 1, #list do
+                local id = list[i]
+                if type(id) == "number" and not set[id] then set[id], only[id] = true, true end
+            end
+        end
+    end
+    local tids = tbc_ids()
+    if tids then
+        for i = 1, #tids do
+            local id = tids[i]
+            if not set[id] then set[id], only[id] = true, true end
+        end
+    end
+    for i = 1, #ALWAYS_PROBE do
+        local id = ALWAYS_PROBE[i]
+        if not set[id] then set[id], only[id] = true, true end
+    end
+    local ok_r, rdata = pcall(require, "data/racials")
+    if ok_r and type(rdata) == "table" and type(rdata.list) == "table" then
+        for i = 1, #rdata.list do
+            local ids = rdata.list[i].ids
+            if type(ids) == "table" then
+                for k = 1, #ids do
+                    local id = ids[k]
+                    if type(id) == "number" and id > 0 and not set[id] then
+                        set[id], only[id] = true, true
+                    end
+                end
+            end
+        end
+    end
+    for id in pairs(probe_set) do
+        if not set[id] then set[id], only[id] = true, true end
+    end
+    return only
+end
+
+--- Every id in the book this character owns, sorted.
+local function extract_ids(raw)
+    local set = {}
+    collect_ids(raw, set, nil)
+    local probe_only = probe_candidates(set)
+
+    local ids = {}
+    for id in pairs(set) do
+        if owns_spell(id) then
+            ids[#ids + 1] = id
+        end
+    end
+
+    -- A client that answers none of the three ownership calls would leave the
+    -- book empty and the rotation with nothing to cast, so fall back to "the
+    -- game can name it" - what every build before this one did - and say so
+    -- once, because that is when a wrong-class spell can still appear.
+    if #ids == 0 then
+        for id in pairs(set) do
+            -- Not the probed ids: the game names every race's racials.
+            if not probe_only[id] and spell_name(id) then
+                ids[#ids + 1] = id
+            end
+        end
+        if #ids > 0 and not name_fallback_warned then
+            name_fallback_warned = true
+            require("actlog").console_warn(
+                "[Master Farmer - Zygor Forever] Spellbook: this client confirms no spell ownership "
+                .. "(has_spell / is_spell_learned / is_spell_known all answer false), so the book "
+                .. "falls back to every id the game can name and the Spells tab may list abilities "
+                .. "your class cannot use.")
+        end
+    end
+
+    table.sort(ids)
+    return ids
+end
+
+local function ingest_book(raw)
+    book_ids = extract_ids(raw)
+    book_names = {}
+    book_count = 0
+    id_known = {}
+    for i = 1, #book_ids do
+        local id = book_ids[i]
+        mark_id(id)
+        local name = spell_name(id)
+        if name then
+            book_names[id] = name
+        end
+    end
+end
+
+-- ============================================================================
+-- Group The Whole Book Into Rank Families
+-- ============================================================================
+-- Ranks are grouped by base spell id, which is what the client itself uses to
+-- say "these are the same spell" - Frostbolt rank 1 and rank 11 share one base
+-- id. Name is the fallback for a build where get_base_spell_id is unhelpful,
+-- and is also what keeps the grouping right for spells the API returns a base
+-- id of 0 for.
+--
+-- The highest id in a family is taken as the best rank. That is the same
+-- assumption rank_families already makes for defined keys, and it holds
+-- because Blizzard issues ascending ids per rank within a spell.
+--- Which category a family belongs to, via the registered rules.
+--- Nothing is guessed from the fact that a spell exists: a family with no
+--- matching rule lands in "other" and is still shown.
+local function classify(fam)
+    local ok, rules = pcall(require, "data/spell_categories")
+    if not ok or type(rules) ~= "table" or type(rules.category_of) ~= "function" then
+        return "other"
+    end
+    local cat = safe(function()
+        return rules.category_of(fam.id, fam.name)
+    end)
+    if type(cat) == "string" and cat ~= "" then
+        return cat
+    end
+    return "other"
+end
+
+local function group_families()
+    families = {}
+    families_by_name = {}
+    by_category = {}
+
+    local by_key = {}
+    local order = {}
+
+    unnamed = {}
+
+    for i = 1, #book_ids do
+        local id = book_ids[i]
+        local base = safe(function()
+            return core.spell_book.get_base_spell_id(id)
+        end)
+        local has_base = (type(base) == "number" and base > 0)
+
+        -- The name, tried through the base spell too. A rank whose own id will
+        -- not resolve usually shares a base id with one that will, and taking
+        -- the base's name is what lets that rank join its family instead of
+        -- standing alone.
+        local name = book_names[id] or spell_name(id)
+        if not name and has_base then
+            name = book_names[base] or spell_name(base)
+        end
+
+        if not name and not has_base then
+            -- Nothing to group it by and nothing to call it. Previously this
+            -- was labelled "Spell <id>", which is unique per rank - so every
+            -- rank of it became its own family and the list showed eleven
+            -- Frostbolts instead of one. Count it and move on; the tab
+            -- reports the total rather than a screen of numbered rows.
+            unnamed[#unnamed + 1] = id
+        else
+            name = name or ("Spell " .. tostring(base))
+
+            -- Key on the base id when the client gives a usable one, on the
+            -- name otherwise. Two spells sharing a name but not a base id are
+            -- the same family; two sharing neither are not.
+            local key
+            if has_base then
+                key = "b" .. tostring(base)
+            else
+                key = "n" .. name
+            end
+
+            local fam = by_key[key]
+            if not fam then
+                fam = { id = id, name = name, ranks = {} }
+                by_key[key] = fam
+                order[#order + 1] = fam
+            end
+            fam.ranks[#fam.ranks + 1] = id
+            if id > fam.id then
+                fam.id = id
+                fam.name = name
+            end
+        end
+    end
+
+    for i = 1, #order do
+        local fam = order[i]
+        table.sort(fam.ranks)
+        fam.category = classify(fam)
+        families[#families + 1] = fam
+        families_by_name[fam.name] = fam
+        local bucket = by_category[fam.category]
+        if not bucket then
+            bucket = {}
+            by_category[fam.category] = bucket
+        end
+        bucket[#bucket + 1] = fam
+    end
+
+    table.sort(families, function(a, b)
+        return a.name < b.name
+    end)
+    for _, list in pairs(by_category) do
+        table.sort(list, function(a, b)
+            return a.name < b.name
+        end)
+    end
+end
+
+local function id_in_book(id)
+    if type(id) ~= "number" then
+        return false
+    end
+    if id_known[id] then
+        return true
+    end
+    if safe(function() return core.spell_book.has_spell(id) end) == true then
+        mark_id(id)
+        return true
+    end
+    if safe(function() return core.spell_book.is_spell_learned(id) end) == true then
+        mark_id(id)
+        return true
+    end
+    if safe(function() return core.spell_book.is_spell_known(id) end) == true then
+        mark_id(id)
+        return true
+    end
+    return false
+end
+
+local function evaluate_spell(spell)
+    if type(spell) ~= "table" or not scanned then
+        return false
+    end
+    -- A best-rank proxy is learned exactly when a rank of it is in the book.
+    if rawget(spell, "_ids") ~= nil then
+        local known = rawget(spell, "_best") ~= nil
+        spell_known[spell] = known or nil
+        return known
+    end
+    if spell_known[spell] == true then
+        return true
+    end
+    if safe(function() return spell:is_learned() end) == true then
+        spell_known[spell] = true
+        return true
+    end
+    local ids = spell.ids
+    if type(ids) == "table" then
+        for i = 1, #ids do
+            if id_in_book(ids[i]) then
+                spell_known[spell] = true
+                return true
+            end
+        end
+    end
+    local active = safe(function() return spell:id() end)
+    if id_in_book(active) then
+        spell_known[spell] = true
+        return true
+    end
+    return false
+end
+
+local function rank_families()
+    for key, seed in pairs(defs) do
+        if not resolved_name[key] then
+            local n = spell_name(seed)
+            if n then
+                resolved_name[key] = n
+            end
+        end
+    end
+    local changed = false
+    for key, seed in pairs(defs) do
+        local want = resolved_name[key]
+        local ranks = {}
+        local seen = {}
+        local function consider(id)
+            if type(id) ~= "number" or id <= 0 or seen[id] then
+                return
+            end
+            if not id_in_book(id) then
+                return
+            end
+            local name = book_names[id] or spell_name(id)
+            local match = false
+            if want and name == want then
+                match = true
+            else
+                local base = safe(function()
+                    return core.spell_book.get_base_spell_id(id)
+                end)
+                local seed_base = safe(function()
+                    return core.spell_book.get_base_spell_id(seed)
+                end)
+                if type(base) == "number" and type(seed_base) == "number" and base > 0 and base == seed_base then
+                    match = true
+                elseif id == seed then
+                    match = true
+                end
+            end
+            if match then
+                seen[id] = true
+                ranks[#ranks + 1] = id
+            end
+        end
+        for i = 1, #book_ids do
+            consider(book_ids[i])
+        end
+        consider(seed)
+        table.sort(ranks)
+        all_ranks[key] = ranks
+        local top = ranks[#ranks]
+        if type(top) == "number" and best_id[key] ~= top then
+            best_id[key] = top
+            local spell = izi.spell(top)
+            if spell then
+                spells[key] = spell
+            end
+            changed = true
+        end
+    end
+    if changed then
+        generation = generation + 1
+    end
+end
+
+local scan_count = 0
+
+local function run_scan()
+    ingest_book(safe(function()
+        return core.spell_book.get_spells()
+    end))
+    group_families()
+    scanned = true
+    scan_count = scan_count + 1
+    last_scan = izi.now()
+    rank_families()
+    spell_known = {}                  -- re-judged against the new ranks
+    for i = 1, #proxies do
+        rebind(proxies[i])
+    end
+    for i = 1, #watched do
+        evaluate_spell(watched[i])
+    end
+end
+
+function spellbook.define(map)
+    if type(map) ~= "table" then
+        return
+    end
+    for key, id in pairs(map) do
+        if type(key) == "string" and type(id) == "number" and id > 0 then
+            defs[key] = id
+        end
+    end
+end
+
+-- ----------------------------------------------------------------------------
+-- BEST KNOWN RANK (2.52.0)
+-- ----------------------------------------------------------------------------
+-- Every rotation builds a spell from a rank list, highest first, and the
+-- "is it learned" test answered yes when ANY rank was in the book - but the
+-- cast went out as the spell object's own id, which was not necessarily a
+-- rank the character had. At low level the rotation kept casting a rank it
+-- had not learned: "spell not learned", over and over.
+--
+-- watch() now returns a thin proxy. Rotation code calls it exactly as before
+-- (spell:cast_safe(...), spell:cooldown_up(), ...); the proxy forwards to an
+-- izi spell bound to ONE id. After every scan - start-up, a level-up, a
+-- trainer purchase - each proxy is re-bound to the highest rank of its list
+-- that is actually in the spellbook, with its buff / debuff tracking re-applied
+-- over the whole list, so an aura from any rank still counts. A spell with no
+-- known rank stays unbound and reads as not learned, so it is never cast.
+rebind = function(proxy)
+    local ids = rawget(proxy, "_ids")
+    if type(ids) ~= "table" then
+        return
+    end
+    local best = nil
+    for i = 1, #ids do               -- highest rank first
+        if id_in_book(ids[i]) then
+            best = ids[i]
+            break
+        end
+    end
+    rawset(proxy, "_best", best)
+    if not best or rawget(proxy, "_bound") == best then
+        return
+    end
+    local sp = safe(function() return izi.spell(best) end)
+    if type(sp) ~= "table" then
+        return
+    end
+    if rawget(proxy, "_buff") and type(sp.track_buff) == "function" then
+        pcall(sp.track_buff, sp, ids)
+    end
+    if rawget(proxy, "_debuff") and type(sp.track_debuff) == "function" then
+        pcall(sp.track_debuff, sp, ids)
+    end
+    rawset(proxy, "_cur", sp)
+    rawset(proxy, "_bound", best)
+    rawset(proxy, "_fn", {})
+end
+
+local proxy_mt = {
+    __index = function(t, k)
+        local cur = rawget(t, "_cur")
+        local v = cur[k]
+        if type(v) ~= "function" then
+            return v
+        end
+        -- A method: call it on whatever the proxy is bound to NOW.
+        local cache = rawget(t, "_fn")
+        local f = cache[k]
+        if not f then
+            f = function(self, ...)
+                local target = rawget(t, "_cur")
+                local m = target[k]
+                if self == t then
+                    return m(target, ...)
+                end
+                return m(self, ...)
+            end
+            cache[k] = f
+        end
+        return f
+    end,
+}
+
+--- Register a spell for the scan. `ids` is its rank list (highest first);
+--- `track_buff` / `track_debuff` say whether the rotation tracks an aura
+--- from it. Returns the proxy the rotation keeps.
+function spellbook.watch(spell, ids, track_buff, track_debuff)
+    if type(spell) ~= "table" then
+        return spell
+    end
+    if type(ids) ~= "table" then
+        -- audit 1.19.0: racials.lua re-watches its spells on every Spells-tab
+        -- rebuild (each scan); the list grew for the whole session
+        if not watched_set[spell] then
+            watched_set[spell] = true
+            watched[#watched + 1] = spell
+        end
+        return spell
+    end
+    local proxy = setmetatable({
+        _cur = spell, _ids = ids, _buff = track_buff == true, _debuff = track_debuff == true,
+        _fn = {}, _bound = nil, _best = nil,
+        ids = ids,
+    }, proxy_mt)
+    proxies[#proxies + 1] = proxy
+    watched[#watched + 1] = proxy
+    if scanned then
+        rebind(proxy)
+    end
+    return proxy
+end
+
+--- The rank id a watched spell is cast as, or nil when no rank is known.
+function spellbook.bound_id(proxy)
+    return type(proxy) == "table" and rawget(proxy, "_best") or nil
+end
+
+function spellbook.ready()
+    return scanned
+end
+
+function spellbook.wait_left()
+    if scanned then
+        return 0
+    end
+    local left = WAIT_SEC - (izi.now() - started_at)
+    if left < 0 then
+        return 0
+    end
+    return left
+end
+
+function spellbook.tick()
+    local now = izi.now()
+    if not scanned then
+        if (now - started_at) < WAIT_SEC then
+            return false
+        end
+        run_scan()
+        require("actlog").console(string.format(
+            "[Master Farmer - Zygor Forever] Spellbook scanned (%d entries, %d rotation spells watched).",
+            book_count,
+            #watched
+        ))
+        return true
+    end
+    local level = nil
+    local okp, me = pcall(izi.me)
+    if okp and me then
+        local okl, l = pcall(me.get_level, me)
+        if okl and type(l) == "number" then
+            level = l
+        end
+    end
+    if level and last_level and level ~= last_level then
+        rescan_wanted = true
+    end
+    if level then
+        last_level = level
+    end
+    if not rescan_wanted and (now - last_scan) < SCAN_GAP then
+        return true
+    end
+    rescan_wanted = false
+    run_scan()
+    return true
+end
+
+--- Ask for a rescan on the next tick - after a spell was bought, say.
+function spellbook.request_rescan()
+    rescan_wanted = true
+end
+
+function spellbook.spell_known(spec)
+    if not scanned then
+        return false
+    end
+    if type(spec) == "string" then
+        return type(best_id[spec]) == "number"
+    end
+    if type(spec) ~= "table" then
+        return false
+    end
+    if spec.is_learned ~= nil or spec.ids ~= nil then
+        return evaluate_spell(spec)
+    end
+    for i = 1, #spec do
+        if evaluate_spell(spec[i]) then
+            return true
+        end
+    end
+    return false
+end
+
+function spellbook.has(key)
+    return type(best_id[key]) == "number"
+end
+
+function spellbook.best_id(key)
+    return best_id[key]
+end
+
+function spellbook.spell(key)
+    return spells[key]
+end
+
+function spellbook.ranks(key)
+    return all_ranks[key]
+end
+
+function spellbook.generation()
+    return generation
+end
+
+--- How many scans have run. Moves on EVERY scan, so a cache built from the
+--- families (the Spells tab / smart rotation, 2.64.0) knows to rebuild after a
+--- trainer visit or a level-up even when no defined key changed rank.
+function spellbook.scan_count()
+    return scan_count
+end
+
+-- ============================================================================
+-- The Whole Spellbook
+-- ============================================================================
+--- Every spell the character knows, one entry per rank family, sorted by name.
+---
+--- Each entry is { id = <best rank id>, name = <string>, ranks = { id, ... } }.
+--- The table is rebuilt on every scan, so callers should read it rather than
+--- hold it across frames; `generation` tells you when the resolved set moved.
+function spellbook.all_families()
+    return families
+end
+
+--- How many distinct spells the character has, as opposed to how many rank
+--- rows the client reported.
+function spellbook.family_count()
+    return #families
+end
+
+--- One family by exact spell name, or nil.
+function spellbook.family(name)
+    if type(name) ~= "string" then
+        return nil
+    end
+    return families_by_name[name]
+end
+
+--- Raw scan totals, for a status line: how many ids the client listed and how
+--- many distinct spells that collapsed to.
+function spellbook.counts()
+    return book_count, #families
+end
+
+--- How many ids the scan found that the client would neither name nor give a
+--- base spell for. They are real spells the character has, so they are counted
+--- rather than dropped, but they cannot be shown as named rows.
+function spellbook.unnamed_count()
+    return #unnamed
+end
+
+--- The family NAME that owns this spell id, or nil.
+---
+--- Any rank answers with the family's name, so a checkbox registered against
+--- rank 1 resolves to the same row the Spells tab draws at the top rank. That
+--- is what lets a tick in the tab override a class checkbox.
+function spellbook.name_of_id(id)
+    if type(id) ~= "number" or id <= 0 then
+        return nil
+    end
+    for i = 1, #families do
+        local fam = families[i]
+        if fam.id == id then
+            return fam.name
+        end
+        local ranks = fam.ranks
+        if type(ranks) == "table" then
+            for r = 1, #ranks do
+                if ranks[r] == id then
+                    return fam.name
+                end
+            end
+        end
+    end
+    return nil
+end
+
+--- Families of one category, sorted by name.
+function spellbook.category(cat)
+    return by_category[cat] or {}
+end
+
+--- Every category that actually has spells in it, in the registry's order.
+function spellbook.categories()
+    local ok, rules = pcall(require, "data/spell_categories")
+    local order = (ok and type(rules) == "table" and rules.order) or { "other" }
+    local out = {}
+    for i = 1, #order do
+        local cat = order[i]
+        local list = by_category[cat]
+        if list and #list > 0 then
+            out[#out + 1] = { key = cat, label = (ok and rules.label and rules.label(cat)) or cat, spells = list }
+        end
+    end
+    local leftovers = by_category["other"]
+    local named = {}
+    for i = 1, #order do
+        named[order[i]] = true
+    end
+    if leftovers and #leftovers > 0 and not named["other"] then
+        out[#out + 1] = { key = "other", label = "Other", spells = leftovers }
+    end
+    return out
+end
+
+return spellbook

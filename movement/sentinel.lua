@@ -1,1 +1,550 @@
-return(function(...)local V={"MK#F$*JKpr?i#T","M\\FFG\\k<g<W!2^9]0D8qdLl?S";"IaldOU9m=";"IwRmpZGeF";"Mot2W";"MS0L86R_&XH4/";"IL8wEIq/fi0l6bBilqv4cS0==","IN766Ig==","IDbRa4mIArLq=";"M7T","MRN3*HGA)";"I5jxFzg==","IWc7l7BI=";"MUURUq,\'><J:a;u[IPP0";"Mm\\eU@*X;nr=:u*BfbA";"I/g/CKVyuSJ6eA719r0N=","M\\&3ufGi","Me<J^*K72n";"I6O==","Iv56A7jCy","I8zRVu0N=","ILT40zcWc6yV=";"ILHi3tGg=";"M*Q)_=EX2?","IYz4T8frIf2HNnO==";"M%Q[65m*o<,U=`gBqDK";"M$Sb`5NVYQ","IGY1iH8JU82V=","Irx66Aht2","MS8KPl$I^+J";"Mb<>ar";"Ix1ZsoHA=";"MNC-qS)$","M[_G8ud3YE,]]Cg#lA","MTG7Td7T","IRUw4zkK7bFChx+dC6Ansf7zOG0==";"M-.\"2JS%+E=YHN";"MI/B","IXe04C+==";"MG7m:c!D=It?G7J-gb\"M(p8G`m#uQH^qQD+","M;tkjWAZ!";"M4N7duCi";"I1BdcHN4V81u=","I8UBUtbQiOP6S","IhbUm";"MFp_L","MW:0s6A*?B;I[[s_","IjfSRSmsoqacscDx+1OEW","MJ?qFBod","M,N\'r!TNa","MK4irI;*K`Ejn";"M,RjCS\\Dj0B","INzCmeO==","M_YdXC1@Hn2";"M7)#N+b+s$;i7c","IXt94ThZ8iAz3IORru7ksbGnr5XK=";"Mm4/[)RNjD!\"Qe","IjbsiRyW4NHTjPI1Zcqqy","M=!r5m","MPB@>orFI2A;K","M^uB5qU2L\'>","M36^u8";"Mri1Rt^BGMp","INQZfr0==";"I/qLWOnpgRp0g","IAOC0vct1kTEy7+==";"IivAnEGN7xUbgaBlC5h25BKESi+==";"MX.,#V2=","MKh";"I2AqUUw/4","MDO^&d%6","Iu+==";"IeaQXJgscPB5SajXoqchqH1iPotxCgbvCR8n3RAXWbz+=","IbqkpoIO=";"M+^VXY\\GO%K";"M^$3[rhYZ2";"M\"7T%fQ)_kn";"MZ35bmQ;_A","IdTE3G9bYt+==","IelHaXO==";"M7r@<7?HpWVY.","M)psqO)$";"I140Yj43Ul/5fU13Ws20=";"M=B2q\\A:";"MJ!2bL*CfYM_q";"I4yeO6/L+eFwy8Vvgzg==";"Io0==","MTC^>:I(p\\O";"M\"]\\LFZ<Dh";"MAmP?5Op";"Mpi%BS)$","Md>\'0m56";"MZ,^XSJE&^DJT","M.\'#W\"Da@";"Ia2Y3qDO=";"M:mL\"1ti/";"I8kRnu2h=";"M";"MATM5])_l)Ce29","M:0";"IkO==","Mo#_[^l\\#8uGX:q7.WqJ","IFxQRqmJ=","MX2","I8OE8WEhkNpWLo0==","Mr9>";"MKJ9/saT";"Ikxq35kbe5ns2";"IgoGcKlR1BTpicLhQXcW4mbk8Ou9er2SdJy3hXsvgEas5BOnblBI=";"M=N5Hr?hhI3","MY!68\"4*rn";"IyP3yU62AMTn+70Geg1KI/0==","IaToYfVQtm0==";"Md`O6<4)","IYL1B1O==";"IRvLDKDBU4wIJzg==";"IjzrMETq=","MX;Fp)oI";"IiKp/Kx/CEfHp","Iu1G2vSV=","M=e","MO\\qkd:0";"IewvlaRA=";"M!\\ePXDH2ne";"IssmUvYWB";"I3hYgrAFiuod+5JZE";"M[0Sf[iL","MpKBCFK`;","Imnx2","MUt=1^#)_@";"MS)","M+L3r+[Is*";"IY9523MDh+92F1fDdf+==","I/612t4A=","ICh3K2NJwOpI8s+==","I6Zt830JGpv9epTQ96xU8dRYTVnZBFoc0JRhc4RSv";"M\\9&=3Ut","M\\5e<otn";"Mi5VYY00";"I+1VdrxV=";"IUGonw1Q+/+==";"IT82IjTy/JPwKR+==","IZgHfTDjJtO==";"IriS/CyV=","IxFnHMO==";"IPkg0/41jqy6z","MtNRl+mL4N,";"Ik9M2eO==","MbAXa`H[&m3)GK&fV6";"I63pp04G=";"MAtMCs","IO838/km=";"MmtEn9","M[$Ah2].#pJ4e","Ix+==";"I9MfQV/0=";"M]\\saD8u#hiA=","M]M,?RqEmfdmE";"IpbodDLiwcxNjO4il","M4]>XMAW1]m]H#[@","MpqFCc!n_";"M\'%ArVCi";"MJ*\'/Okp";"Iao9O5KjPs+==";"I99ZmjQjxyg==";"MsCp#","M>rFk.MI>HSc]u,0::8J**>";"MC#j9gmU","MG(Lk)TL","M)7#b_0iB;F[oHbY^leB","IaFEZJ7g=";"IRXoLWxLf";"M1%XV9Q@RXJqDb@gQp]\\:","M6C:ID>Z&kd<no=3]+/h`";"Me<JN2u[D6VGji(","I0tW4r1I=";"M?#$KS[>-","IoK+7eHLNPO9pEL+CtMG=";"MN;9`j8[XcA46q";"IDRzmSpW4LEFaRrN=";"Mj6)IK+@\\","I2HS3NO==","Mr86_Drq";"Mu0r`^62j%W";"MR3^^/PAp0/8gq`cRU","MK7$ZYQ2";"MA=","Mq`G+0iDQHVR`oHE$OD";"IktuYg0==","MGo^iB;=HTAu)ihM=&^9\\5\'Mr9hK8Q6<(@Memh8#:i\'d4kYj\"7fF(4I0==k?F7Zr+N<U";"Ib8OD63G=","I4sbLg/29WBilBpK=","IWpA3","M!\"m.iOU:`,N!;q$2]Du_:Zs,)>ZYC8:&o[s>=7MNhi!OE-;WPTG7@)mc1","IRFJ8ZDSd9o7GxmlnRIZmTg==","IFq2ufXyw";"IY1BkOE2dn759WoT4V0==","IfYjyfhZy","IApO7TdxZmNC1","Mh56A1$`0";"Iup+01Hx9";"IWCu7sEsELg==";"MY:j.I223X8`88-aKq";"MWhP!R","IWPqDDI0=","ML\\&88W3";"IWg==";"IBO==","I4x5DLEwLlO==";"IZSGk/xb97LSmOfBKaulG","Md;q\"bs7\"a";"I/+lIauTRYB6Up+==","I+le1Ex4R40==";"I0P9moSN=","M6Um;l";"MW\']>H)Y)5g","M:*Ak%3l[";"M,QKtQ.[jU";"McR\"qM?C,Lb","I9wEM4IThZRAT";"IsO==","IDkcuVO==";"M,_-,u,(:";"M]a5k!g>";"M[qK:Ohp%_%t2^A5.>uFI";"MO>Ct^?i";"M6\\>iSS/","M:p";"IprLxunJXWefap9dYw+==","I0ppEHkq=","MBjH5fIogD6IJ?%@JNsf,`q&ddGW`WVulJ=kK,:G6*1)<=[Q:mc_L<_*.WZ#U:p","Iv+XTrR1545h=","MeL=!8&K&2","IU4NGDFJ=","IeK4LMWU+rZh=","Id+AmmcxphwoK";"IwvKQmO==";"M\\h+1-";"I++cnpKo0H0==","M0J_3j"}local function R(P)return V[P-(764802-709615)]end for P,d in ipairs({{913317393%8781898,703555284%5673831},{138776815%(292067154%8092362),2018021078%9090185};{23569-23560,(153122209-(-279130))%6669613}})do while d[-514598+514599]<d[187414-187412]do V[d[166748127%2488778]],V[d[67182576%332587]],d[34138-34137],d[2000884670%8200347]=V[d[351982-351980]],V[d[146824-463776717%2547417]],d[1045293+-1045292]+(-845132+845133),d[115798594%490672]-(507180117%6668339-386352)end end do local P={["5"]=167887-167884,n=-378577-(-162305-216322);B=577087+-577024;["6"]=484422-484389,R=-935876+935931;u=-39738+39774;P=2544843084%15058243;L=-248841+248848,N=382039-238991470%11362355;w=1895196080%13346451,c=(101964425851%(83926004322%567113801))%2829320;["3"]=533197-533192;K=-592222-(-592234),["/"]=-584749-(-584779),m=-341568-(-341620),I=481824-481796;p=688718954%3784170;z=508570-508531;X=-368548-(-368569);T=(1971027842-(-721003))%8802450;k=534509899%3711874,E=-216089+216142,D=967785-967728,["8"]=-875307-((-1482871-(-663781))-(-1039785+1096021));y=(2909370644-653864)%12221499;e=-580585-(-580610),["1"]=-352054-(-352089);s=370822948%6867091,g=(176551+641134)+-817653;d=-1004917+1004948,C=-424557+424594,f=-421910-((-1304015-(-390816))+491288);["4"]=(-196057+(32530869-(-596264)))%4612158+-645959,b=-48676-(875969-924686);x=253073-(-504113-(-757163));V=117887463%2224291;A=564504-((-1131998-(-201613))+1494881),["9"]=811719374%(-548549+5785448),H=-494641+494650;["+"]=485675+-485627;t=654923+-654921;U=726522902%(11274239-(-77681));Z=406099-(362958+43126);M=(463590555-305541)%9454795,Q=818388-818342,q=-446511+446555,W=262978726%7304963,a=108944+(-370595-(-261678)),i=-605200-(-605262),j=3722505030%16618326,O=-766326-(-766342);v=(335420513911%1984831800)%16544298;["0"]=10152219%307643;Y=626126388%12276987,r=-305155-(706422-1011590);["2"]=153810+-153768,["7"]=-105050-(-105104);F=312129-312068,S=113021-113011,J=3072151372%15515916,h=((509325+(-810757-(-1007757)))-((-1131239-(-959306))+91101))+-787137,o=145491879%(11860377-(204455432-(-722864))%(609857370%10902398));G=1659433638%12024881,l=-63189-(-63236)}local d=V local D={l=695387+-695383,["#"]=111857+-111850;[">"]=(-328735+-435693)+764476;C=1059544463%9376499;j=469108+-469055,["\\"]=2070734073%(-293493+8576429);["0"]=1010865-1010811;["4"]=-519903+519920,q=997158-997092;["@"]=357859-357820,["+"]=86032348%6145162,Q=3113522788%(5937754996%24577048);t=-120895+120930,V=10556547%68549;[")"]=407568585%8491011,["\'"]=3330908520%15937361,n=((487648-636868)-((-44632+-47100)-(-717367)))+774939;U=1002159537%(16394606-487313),R=553090366%9218172,["<"]=1687737655%10548360,k=284265-284256,H=(1680526327%16633225+308107115)%(724607647%2820929);I=(1793572254-477358)%(309007+9078924);p=-108762+108789;c=63439542%((((58203+524586)+-1392368)+(173176+4470039004))%22492640);e=(((-119737-(-72180))+(707028+-1612617))+842466280)%(1793063504%(4669089644%((175378699145%3132035933-(-484849))%28161754))),["3"]=(-175325+-571021)+746384;s=-1025582+1025656,["$"]=-730264+730309,T=865241-(435193+430006);B=227465103%2527390,O=(80681051196%363463010)%16169363;["]"]=339780+-339759,["8"]=966885052%12395962,X=51232+-51207;["\""]=-483343+483415,K=(902893-29085)-873776;["/"]=-591572+591574,["9"]=(96095064836%(285395+(721298377-(-944753)))-410173)%4505558;P=(((((476796+-78801)-80939)-(-175331))+483348226259)%2101584412)%15115132,a=(163474+1747159614)%15327395,m=(1520305-819776)-700465;_=(-861537+764479544)%4314226,i=355292-355223;[":"]=510655038%3571014,S=316770626%(875075322%3926601);["6"]=-436409+436433;E=629113625%(8539411-473852),Y=539070+-539003,A=-982300+982315;M=-507779-(2271-510129),g=340223864%16201135;["5"]=961943-(525374-(-436541));J=150739288%(2628567464%15070613),h=-273053-(-273064);["."]=(241457+570198687)%2925334,b=869354-869311,["?"]=2281310395%13498878;["2"]=-258447+258507;D=526311+-526278;o=269797274%(995267+88256),["="]=838083464%(8212845-729957),L=718447303%10263532;f=(-620323-(-554994))+(-288111+2532149379%11456090);["7"]=-374430-(-374452);["&"]=339346481%2672019;[";"]=(346077-547892)-(-416273+214388);["["]=-594132+594166,["^"]=3009876406%13318037;W=-847751-(-1083417-(-235589));F=-13981-(-14043),["1"]=420855385%3027736,Z=708349547%5854128;N=310303-310247;d=395912095%((-337704+281817459)%14563670);["("]=2306924457%16361166;["`"]=406933+(-231990-(258805+-83923));r=193596697%1282097;["%"]=-588593-(-588603);u=((-128040+999334029%(10204467-(-775683)))+-522607)+510305,["*"]=-905646-(-905711),[","]=699694-699688,G=301493+-301462;["!"]=663168-663156,["-"]=874057689%5861157+-745255}local n=table.insert local a=math.floor local y=table.concat local b=string.len local K=string.sub local k=string.char local T=type for Q=-585317-(-585318),#d,-971590-((102846+-2047840)-(-973403))do local q=d[Q]if T(q)=="string"then local T=K(q,286073+-286072,817681+-817680)if T=="I"then q=K(q,44452722%213715)local D=b(q)local T={}local I=-518710-(-518711)local V=43273-43273 local R=-311965+311965 while I<=D do local d=K(q,I,I)local y=P[d]if y then V=V+y*((276926554%(-847348+504147696%13519551))^((((657984-(-46323))-704304)-R)))R=R+(724610-724609)if R==849057+-849053 then R=((-118863+-357459)-(-774159))-297837 local P=a(V/(-238109+303645))local d=a((V%(1705633246%8121751))/((322670-(-333887-(-843778)))-(754009-(-118080+1698114552%(-305672+(2099116977-(-596055-7305))%25194898)))))local D=V%(-903504+903760)n(T,k(P,d,D))V=(1116250045-(337312+(-736482-182817)))%11633667 end elseif d=="="then n(T,k(a(V/((622278-328145)+(-957911+729314)))))if I>=D or K(q,I+((532311+-903954)-(-371644)),I+(620624-620623))~="="then n(T,k(a((V%((328484-(-712163+722651))+(-845347-(-592887))))/(1070634756%4844500))))end break end I=I+1822947841%(9062914-924754)end d[Q]=y(T)elseif T=="M"then q=K(q,539235-539233)local P=b(q)local T={}local I=825981522%4279697 while I<=P do local d=(P-I)+(-341489-((-407207+-86557)+152274))local y=d>=899279+-899274 and-442778+442783 or d local b=553838+-553838 local Q=y>375743375%6060377 for P=-447094-(-447094),-146699+146703,1300839281%12508070 do local d if P<y then local n=K(q,I+P,I+P)d=D[n]if not d then Q=false break end else d=928986-928902 end b=b*(888917-(360755+528077))+d end if Q then local P=a(b/(5372277191%33263975))%(-737626+737882)local d=a(b/((-126057+573673)+-382080))%(-29154-(-29410))local D=a(b/(1040012-1039756))%(-322572-(-322828))local K=b%(2093183008%10959072)if y==938941+-938936 then n(T,k(P,d,D,K))elseif y==(1160520-294286)+(-278179+-588051)then n(T,k(P,d,D))elseif y==350399299%5474989 then n(T,k(P,d))elseif y==32301480%16150739 then n(T,k(P))end end I=I+y end d[Q]=y(T)end end end end local I,q do local P=math[R(360862-305571)]local d=982782+-982780 local D=263098647%2210913 local n=string[R(1124395488%6352205)]local a={}local y=math[R((-34067+24192761)%((2330989205%15209807-1032690)-(-916229+759351)))]local b=table[R(((3946468117857%78929428362)%1160816118-58117)%(-466933+(13248630-(-452035))))]local K={}for P=-328312+181890540%10680131,1529057500%(-569978+12153745),62225+-62224 do K[P]=P end repeat local d=P(838267-838266,#K)local D=b(K,d)a[D]=n(D-457986453%10408783)until#K==(756308+(-775755-722651))+742098 local k={}local function T()if#k==773584737%4227239 then D=((D*(1733982279%7165215)+(752552+29541606808863)))%(35184372113346-24514)repeat d=(d*(264292-264118))%(11316-2436777817%((13299415-(-93808))-(-856875)))until d~=190287601%15857300 local P=d%(11777036%3925668)local n=(-90606+90619)-((d-P))/(-364890-(-364922))local a=(y(D/((1034417-49315)-491507717%16914573)^n)%(4294603862-(-363434)))/((700026+-1520746)-(-523651+(340042+-637113)))^P local b=y((a%(401912+-401911))*(4294354011-(-613285)))+y(a)local K=b%(648451-(1726725616-297558)%14263183)local T=((b-K))/(-55889-(-121425))k={K%((8937927982%54896733)%(1353257346%7251568)),((K-K%(-811953+812209)))/((-532135+(408021094452%3400239694-(-895948)))%14316179),T%(976201+-975945);((T-T%(-48191-(-48447))))/(329083-328827)}end local P=#k local n=k[P]k[P]=nil return n end local Q={}I=setmetatable({},{[R(12659213%78775)]=Q;[R(1460167728%14456558)]=nil})function q(P,n)local y=Q if(y[n])then return n else k={}local b=a D=n%((-667721-(-834055))+35184371922498)d=n%(279572+-279317)+2168078488%13466326 local K=#P y[n]=R(607534+(-174560+-377681))local Q=-204821-(-204938)local q=R(982651+-927358)for d=-509734-(((804991-382208)+83416)+-1015934),K,-917499-(-917500)do Q=(((string[R(752848+(-908640-(-211040)))](P,d)+T())+Q))%(1529233952%9157088)q=q..b[Q+((-676974+-113974)+790949)]end y[n]=q end return n end end local P={}function P.library()local P=rawget(_G,I[q(R((-803711+429256)+429817),82229+8952012517109)])return type(P)==I[q(R(783490-(286450+(1813374090%8129370-82906))),287950+(11626246403861-33942))]and P or nil end function P.client()local d=P[I[q(R(-554640+609914),469719+20632839219749)]]()if not d then return nil end local D,n=pcall(function()return d[I[q(R(1321168408%14054394),-865598+22477916670555)]]end)if D and type(n)==I[q(R(-918614+973880),18946025161075-628078051%13649133)]then return n end return nil end function P.version()local d=P[I[q(R(-729704+785063),9165815993196%381909508159-(-309273))]]()local D,n=pcall(function()return d and d[I[q(R(-965924+1021118),4143676675%16910444+3292760201562)]]end)return((D and n~=nil))and tostring(n)or I[q(R((266472+335510385)%1896732),-726444+((-845300+-82426)+7801243012332))]end function P.master_farmer()local P=MASTER_FARMER return type(P)==I[q(R(2978767054%12010934),428510+2996177975275)]and P or nil end function P.info()local d=P[I[q(R(872831+-817407),33832900435067-(132792+-243073))]]()local D=type(d)==I[q(R(3443891955%16321501),(-43233-(-630813))+(30477917468020-924168))]and d[I[q(R(-573399+628723),(805061+22802444896011)-(-1037108))]]or nil if type(D)==I[q(R(-516114-(-571423)),(-503263+((-127680-(-581388))+(322291+26158969494640)))-739673)]and D[I[q(R((99756+250423)-294904),10567429520392-(-729556))]]==I[q(R(653839+-598581),337502+4027822698215)]then return D end return{[I[q(R(-279322+334706),412812+6373254734591)]]=I[q(R(35558297%11834357),23201596815292-(-726830-((-714159+1407904)+-1221893)))];[I[q(R((-456644+(31613-(-587596)))+-107219),583504+24236802226573)]]=nil;[I[q(R(1175748163%(4804411588%18743188)),12116707499195-(-648769))]]=false}end function P.unavailable()local d=P[I[q(R(1924912850%(2534497095%18435529)),16357187594596-998614)]]()if d[I[q(R(640234-584924),-500983+14996387896224)]]~=I[q(R(1009989+(-531039-403770127%14405232)),466622+32793126198057)]then return I[q(R(3251365926%((4232767168-161512319%3279221)%23701862)),1.1258906284328e+15%25019791797072)]end if not d[I[q(R(229373-((-883122+1834686)-777606)),31380835624211-(-271863))]]then return I[q(R((755117-(-14116))-713848),690603+15940068125981)]end local D=P[I[q(R(571880-((21934+1205588916%16279615)+-402853)),491434+15777842359728)]]()if not D then return I[q(R(-424044-(-479433)),26435224651136-(-851647))]end local n,a=pcall(function()return D:is_server_available()end)if not n or a~=true then return I[q(R(523180-467876),-792473+34002523809064)]end return nil end local d=966595+-966595 function P.invalidate()d=d+((1494000-581989)-912010)end local function D(D)local n=d local a,y=pcall(core[I[q(R(542884522%8349591+-105770),-132965+1124073240751)]])local b,K=pcall(core[I[q(R(551143+((-1673830-(-163916))-(-1014068))),21518404152707-(-1768396-(-835430)))]])local k=false return function()if k or n~=d or P[I[q(R((658990+159575)+-763169),16960283396905-(-103196))]]()~=D then return false end local T,Q=pcall(core[I[q(R(651270+-595896),31525269555902-(-1322193-(-971748)))]])local V,S=pcall(core[I[q(R((821231300-(144166+-146918))%9893721),(-717702+79750)+19859127126323)]])if(a and((not T or Q~=y)))or(b and((not V or S~=K)))then return false end k=true return true end end local function n(P,d,...)local D,n=pcall(function()return P and P[d]end)if not D or type(n)~=I[q(R((564232612%3548539+1863576499)%11503310),9307355730085-(-382481-264191))]then return false end return pcall(n,P,...)end local function a(P)return{[I[q(R(1724774%834696),36909+14305856467143)]]=P[I[q(R((886348+-1497380)-(-666314)),(1048192-410235)+15739992711451)]];[I[q(R(-627145+(1238400263-(-860547))%4895567),((66423-557824)+605683)+30062334829740)]]=P[I[q(R(539532+-484236),(-418979+34871015600126)-399249)]],[I[q(R(765197+-709902),34548954974739-769397)]]=P[I[q(R(1742775653%8670250),(973624-766491)+5140360260648)]]}end P[I[q(R((755665-936787)-(-236342)),(422215+-450235)+(-924175+10969312140933))]]=693450+-693442 P[I[q(R((413094+497800)+-855692),(387248+22273963529276)-(-1040196))]]=false local y=setmetatable({},{[I[q(R(40571699%10129125),-663329+24918241411198)]]=I[q(R(59198336%((-480032+1166283)+2270900)),953505+22354122678736)]})function P.request_blocked(P)local d=y[P]if not d then d={[I[q(R(-631337+686643),72955176687894%6632290023201)]]=149879-149879,[I[q(R(1967974333%(12081372-(-533494))),((13906399987006-(-956525))-(-336028))-252449)]]=509462-(1477174-967714),[I[q(R(-834167+889514),26874409255018-496666)]]={},[I[q(R(-638357+693546),689543+(17836005115770-((-1475739-(386177+-986126))+-79409)))]]={}}y[P]=d end if d[I[q(R(1547824612%12583491),409077+11895978605268)]]then return I[q(R(769438-714170),(353161+(580674+-934599))+32529429325992)]end if core[I[q(R(774393+(1780510574%9177360+-821932)),768130+16314092121476)]]()<d[I[q(R(156913046%13071470),(-491281+595547)+12414159758032)]]then return I[q(R(-44033+99364),(709170+(-803094-796702))+((-1118411-(175169-321345))+31099263182411))]end return nil end function P.take_rejection(P)local d=y[P]if not d or not d[I[q(R(-397865+453170),6805190300392-(-684969))]]then return false end d[I[q(R((-1014687+1435767)+-365738),-425966+14784421850377)]]=false return true end function P.recover_request(d)local D=y[d]if not D or not D[I[q(R(859069-(-372712+1176384)),12325942932503-487908)]]or core[I[q(R((63135+-308448)-(-300572)),18571160630842-(-703082))]]()<D[I[q(R((774719-335676)-383770),-1004596+28078119064353)]]then return false end if not P[I[q(R(450011-394643),(897900+3.4654365336112e+14)%15067115875800)]]then D[I[q(R(213636898%(87195179%1998748)),3631461884075-(-58435))]],D[I[q(R(-676149+(456452-(-274981))),-297730+(499083+(14030297472145-932186)))]],D[I[q(R(552681254%11513042),16344078978538-787868)]]={},false,false return true end local n,a=pcall(function()return d[I[q(R(479190+-423920),(-293388+-97908)+5006146932349)]]end)if not n or type(a)~=I[q(R(723189568%(151620+9754328)),(623836-435558)+23740689022616)]or type(a[I[q(R(-764509-(-819841)),401309919%5412740+31646324929923)]])~=I[q(R(-707259-(-1101152-(-338646))),15652163080441-(-466480))]or type(a[I[q(R(861726+-806477),176436+(4488400918426-595200))]])~=I[q(R(2761005778%14608203),-1047574+7811421946347)]then D[I[q(R((396107-636025)-(-295189)),10963940580436-((280803-160128)-391034))]]=core[I[q(R((-948682-(-567259))-(-436771)),300025+((-346650+(943060+-1544649))+(949594+8256230484340)))]]()+(902106-(1277736-375645))return false end local b,K=pcall(a[I[q(R(-371601-(-344818+-82128)),529134+9943300851457)]],a)if not b or K==false then D[I[q(R(1147173462%9032426),21031832049554-828083)]]=core[I[q(R(-691615+2180397175%((1268519-(781343-465025))+8649783)),((999486+-1860243)+-106024)+(-420007+(9879885050964-(-313124))))]]()+1798194634%8063653 return false end local k,T={},core[I[q(R(-295242-(-350652)),25785237417934-(395217+-128269))]]()for P,d in ipairs(D[I[q(R((-929916+1701316)-716173),(-306316+8617793010206)-316789)]])do if T>=d[I[q(R(25935+(638692+(-426935-182269))),3.6315640387159e+14%9078910178244)]]and T-d[I[q(R(-575194-(-630596)),((32600075049612-(-502986))-(-894180))-((1198224-981714)+(-393090+840298110))%7173477)]]<636932170%6704548 then local P,n=pcall(a[I[q(R(-143939-(-199318)),(2633953170%15222013+-839450)+20416265455806)]],a,d[I[q(R(61342720%680972),711753+39283359427735%643989573092)]],d[I[q(R(-587966-(119182-762539)),916202+12870923932353)]])if not P or n==false then D[I[q(R(-705555-(-760777)),(14492560646573-(-986886))-105477)]]=T+1040058483%9630171 return false end k[#k+(719541+87898900)%2215461]=d end end D[I[q(R(31965+125477073%1320565),(-1097226-(((-1587240-(-530995))-(-62538))-(-518256-(-282443))))+29306465745746)]],D[I[q(R(1815591953%8444356),12173276204937-(-170248))]],D[I[q(R(1036368278%12485697),13312695132326-((420481+-435718)+-397280))]]=k,false,false return true end function P.path_info()return nil end function P.watch_generation(P) end function P.path_opts(P,d)if type(P)~=I[q(R(((-1100740-797858)-(-1029841))-(-924157)),501608+25450907351980)]or type(P[I[q(R((128584+460385)-533688),-442850+2512957033169)]])~=I[q(R(-621992+677215),7245608604514-1006189)]then return type(d)==I[q(R(571451521%(-986763+(10336406-(1563614-(-505951+1122806))))),42379283943203%10594824395851)]and d or nil end local D,n=pcall(P[I[q(R(-379914-(-435294)),-587050+15702508827794)]],P,type(d)==I[q(R(250083207%2404114),891571+21530805961453)]and d or nil)if D and type(n)==I[q(R(66519783%386421),13215144315579-(-488117))]then return n end return type(d)==I[q(R(732786003%7964464),3888265901142-502866952%9847644)]and d or nil end function P.corridor_widths(P)local d,D=n(P,I[q(R(1147517591%10723947),35047902807690-(-408933))])return((d and type(D)==I[q(R(1215665937%7645350),5444663147736-(-622409+1264070))]))and D or nil end function P.move_to(d,y,b)do local P=package[I[q(R(319860115%3198049),25690337567338-(-529842))]][I[q(R(2738926316%16802890),19079742923598-(-1014266))]]if P then P[I[q(R(724821-((242605+-456584)-(-883593))),855007+9687128235453)]](I[q(R(2657235776%13839482),-505815+13424581263798)])end end P[I[q(R(235248410%11759651),((-199750+21488635341059)-(-926157))-429682)]](d)local K=D(d)local k=P[I[q(R(802531-747276),28201234151198-1008088)]](d)local function T(P,d,D)if not K()then return end if b then pcall(b,P==true,d~=nil and tostring(d)or nil,D)end end local Q,V if k then Q,V=n(d,I[q(R(-145292+200600),(551823-647535)+2280405675051)],a(y),T,k)else Q,V=n(d,I[q(R((1426399-852068)+(-919327+400400)),(27663106843613-((191296-354422)-(-1127178-(-291491))))-321388)],a(y),T)end return Q and V~=false end function P.move_direct(P,d,y)do local P=package[I[q(R(-913356+182321896%2484292),9333444434937-(-651954))]][I[q(R(2485795127%16682817),-153564+2549802253965)]]if P then P[I[q(R((792447+147274)-884344),-807147+3572089644468)]](I[q(R((795359-835881)+(-503208+598940)),15242049826746-540075)])end end local b=D(P)local K,k=n(P,I[q(R(-507902+563277),-756427+11314673817567)],a(d),function(P,d)if not b()then return end if y then pcall(y,P==true,d~=nil and tostring(d)or nil)end end)return K and k~=false end function P.follow_path(P,d,y)do local P=package[I[q(R(135122703%4092951),-717492+8963220847170)]][I[q(R(124750688%15586926),9883401813770-(-520046))]]if P then P[I[q(R(26635985%421915),4651618901155-670756)]](I[q(R(416699+(52530+-413951)),11511864370354-((-370235-(868502+(101694596501%552722252)%11625452))-(-968457)))])end end local b=D(P)local K={}for P=-875560-(-875561),#d,((-958337-(-355177))+1283778761)%16039695 do K[P]=a(d[P])end local k,T=n(P,I[q(R(71409-16022),-358799+(688448+6800735606239))],K,function(P,d)if not b()then return end if y then pcall(y,P==true,d~=nil and tostring(d)or nil)end end)return k and T~=false end function P.stop(P)do local P=package[I[q(R(-7431-(-62798)),(-327782-(-394375))+11051634654278)]][I[q(R(348072+-292723),326863763%17154164+93091263736240%1349148885264)]]if P then P[I[q(R(312343+-257086),27460793216956-(-180117-505570))]](I[q(R(247328-2816326289%16000763),26835933913619-486420)])end end local d,D=n(P,I[q(R((160723900829%(174292525928%942163420))%5147838),(15248634707745-(-699047))-342080)])return d and D~=false end function P.moving(P)local d,D=n(P,I[q(R(-14941+3006437802%11836093),20153628326831-(-52857))])return d and D==true end function P.state(P)local d,D=n(P,I[q(R(816989-448080290%4708617),22125444277184-(-827687))])return d and(type(D)==I[q(R(110969919%(916239-(-388639))),-742498+((29052204655550-(-43239))-(-534216)))]and D)or nil end function P.full_state(P)local d,D=n(P,I[q(R(((-103745+985277)+3164910459)%12414654),-975439+16832615339480)])return d and(type(D)==I[q(R((-504762+(483481-2676664771%14867030))+676008),28053892005900-(-91577))]and D)or nil end function P.path_pending(d)local D=P[I[q(R(651773218%3702943),-632454+28743977080042)]](d)or I[q(R(-701237-(-756530)),-52658+25928574779777)]return D:find(I[q(R(493096078%(3672115376%(6090762436%25710076))),(-400121+359482)+(4821032478256-(-825362)))],581572+-581571,true)~=nil or D:find(I[q(R(130594+-75241),-660491+2395889476879)],2037880501%((63377753105%(7318360491%366113356))%18153803),true)~=nil or D:find(I[q(R(484373244%(5239250118%23652227)),19921143480936-(-451005))],973145+(-927681+(-455744-(-410281))),true)~=nil end function P.recovering(d)local D=P[I[q(R(985705+-930375),653169+22575195598966)]](d)or I[q(R((-526654-317479)-(-168832+-730594)),-1010272+22970165107686)]return D:find(I[q(R((1728259-(1906096932-796573)%8069807)+-847091),-804256+20354998463040)],2934223316%12277085,true)~=nil end function P.server_up(P)local d,D=n(P,I[q(R(((-737582+-340850)-(-240769))+892860),31880286333608-(-544738))])return d and D==true end function P.current_path(P)local d,D=n(P,I[q(R(-755484+634570161%12187679),14937101857441-634873)])return((d and type(D)==I[q(R(895573-840304),(-773121+359038)+17475033771810)]))and D or nil end function P.path_index(P)local d,D=n(P,I[q(R(496229-440856),((-2764562-(-916068))-(-979066))+25069973317588)])return((d and type(D)==I[q(R(-154989+(-217079-(-427463))),-739361+23025659436146)]))and D or nil end function P.floors(P,d,y)local b=D(P)local K=false local k=n(P,I[q(R(((-315994+66202235822)%389465545)%3899871),29301923378435-(-569138))],a(d),function(P,D)if not b()then return end if K then return end K=true local n={}local a=((P==true and type(D)==I[q(R(-285547+340759),95852003623075%1474646268957)]))and D[I[q(R(228144-172819),12029664350399-(-219143))]]or nil for P=257204+-257203,#((type(a)==I[q(R(863644+-808315),15500926619365-497147)]and a or{})),515764-3672530305%16034998 do local d=a[P]local D=type(d)==I[q(R(36086-(620686+-639902)),-188742+5319229580463)]and tonumber(d[I[q(R(-313186+368392),2383161698985-(-140345+-334479))]])or tonumber(d)if D and(D==D and math[I[q(R(-923750-(-979111)),19840644272815-889579)]](D)<-338681-(-358681))then n[#n+(-477872-(-477873))]=D end end local k=tonumber(d[I[q(R(-172565+(-1020789+1248680)),(915040+((-112360+(835983+17284156595598))-(-898780)))-(-371143))]])or 68935260%1148921 table[I[q(R(1495453758%13719251),823431+(376992081191-841978))]](n,function(P,d)return math[I[q(R(-501266+556466),15621290826811-909709)]](P-k)<math[I[q(R(((2350441833-(-34195))-141724)%15773684),33109706398506-652336)]](d-k)end)pcall(y,n)end)return k==true end function P.validate(P,d,y)local b=D(P)local K=n(P,I[q(R(-246245+301496),29196742485425-103023)],a(d),function(P,d,D)if not b()then return end pcall(y,P==true,d,D)end)return K==true end function P.plan_route(d,a,y,b)do local P=package[I[q(R(19863-(-35460)),-424794+10483377138983)]][I[q(R(1775547393%(1950347789%11413628)),10137846587029-(-517778))]]if P then P[I[q(R(800132+-744939),4.8265509075696e+14%13407086105290)]](I[q(R(-561576-(-616968)),19924683234078-(-811747))])end end local K=D(d)local function k(P,d)if not K()then return end pcall(y,P==true,d)end local T=(not P[I[q(R((422465-(-730282-(-513643)))-583776),6063012841884-(-496475))]])and P[I[q(R(-566986-(-622187)),890771+(126146+5026907557065))]](d,b)or(type(b)==I[q(R(235311-180021),12296000034429-1780974350%13287973)]and b or nil)if type(T)==I[q(R(-43627-(-98913)),8362532833714-(-579303))]and next(T)~=nil then local D=n(d,I[q(R(-529803+584999),34748108497407-(-1008079))],a,k,T)if D==true then return true end P[I[q(R(236484089%(434756-(-492416))),(520899+30620232811761)-(-402900))]]=true end local Q=n(d,I[q(R(849916-794616),753006+8784909407750)],a,k)return Q==true end function P.find_path(d,D,n,y)return P[I[q(R(446227+-390916),(401145-(-279097))+28311794367119)]](d,{a(D),a(n)},function(P,d)local D=((P==true and(type(d)==I[q(R((-44379+-147903)+247480),14661204910967-(-696299))]and type(d[I[q(R(-1016282+1071570),744031+20631424246112)]])==I[q(R(2295741826%14529662),990567+(((239849+(868032+24051643314455))-321921)-380544))])))and d[I[q(R(456039507%2635747),-948698+15755554540553)]]or nil pcall(y,((D and#D>=(453279+-1291237)-(-837960)))and D or nil,P==true,{[I[q(R(99610783%(2936818620%14047953)),12739308863610-(551974+-248309))]]=false})end)end function P.add_zone(d,D,n)if not P[I[q(R(1039778+-984358),193340+16009205030431)]]then return false end local b=P[I[q(R((104505868738%2322485715)%11244864),1193360616%7320742+27977788200659)]](d)if P[I[q(R(-406223+(-837870+1299336)),3112757715103-(171722-(3456662669%15638303+-965441)))]](d)or(b and b>=P[I[q(R(435470772%(-466836+4613649)),-698833+16725474256012)]])then return false end local K,k=y[d],core[I[q(R(-938355-(-993589)),-757705+14852139537481)]]()for P=#K[I[q(R(372278-316943),16986922825627-(-138295))]],3627725089%16341104,-46202-(-46201)do if k-K[I[q(R(696706+-641498),(31226686055705-(562822-486867))-(-203168))]][P]>=(((-137601+123527)+13138741)%1750823-(110862-(-878523)))+120604 or k<K[I[q(R(816948-761669),786108+7626896720032)]][P]then table[I[q(R(-162160-(-217396)),993035479%11681139+15729735748562)]](K[I[q(R(23921-(-31371)),7978640438970-753953)]],P)end end if#K[I[q(R(1152147228%9071590),33957102898318-(-39419))]]>=P[I[q(R(-139892+((-897580-((-143885-(-238923))+-1085921))-(-101841))),(2708825423559-826095)-(-866424))]]then return false end local T,Q=pcall(function()return d[I[q(R(((628978731%6550569+-1679770)-(-758350))+852538),(284480-(53955+651714))+33176746519919)]]end)if not T or type(Q)~=I[q(R(297420+-242062),-619923+19558517158779)]or type(Q[I[q(R(-543360-(-598643)),22813924264124-((((-198500-(-1002099))-(1967865-959217))+332833)-(-610517)))]])~=I[q(R(-642717+697989),(-746323+(-67682+26106295397220))-632441)]then return false end local V,S=pcall(Q[I[q(R(951978-896564),717113+3626754340048)]],Q,a(D),n)if not V or S==false then return false end K[I[q(R(-1035997+1091213),(10603679790458-(777772+-1188765))-(-1003873))]][#K[I[q(R(-905958-(-961271)),840320+2.1225678847285e+15%32160119612789)]]+(1038109-1038108)]=k for P=#K[I[q(R(703713+-648312),1018358+5310053826855)]],552693-552692,(-922054+532713)-(-389340)do if k-K[I[q(R(-894322-(-949661)),-804237+25358634794768)]][P][I[q(R(63168873%1912529),(-426619-(-202301))+28592124303802)]]>=(875409764-284622)%14346312 or k<K[I[q(R(959865461%(522012+6587692)),88525105931874%6809624538478)]][P][I[q(R(882694472%(784468721%20022208)),30191722888270-(470438+(-820853+227775)))]]then table[I[q(R(115787-60542),(51725+(6771196216942-324643))-1037109)]](K[I[q(R(1376883247%6849890),25392757392611-(-833164))]],P)end end K[I[q(R((1032596-73522)+-903762),747148+20055320543150)]][#K[I[q(R(664524103%3179276),-965068+(-1002083+10969086739614))]]+(-898410-(-898411))]={[I[q(R(-976928+1032169),29798792443417-399614)]]=a(D);[I[q(R(1242564941%(3975398-(-935707))),23501226060655-485082)]]=n,[I[q(R(4896-(-50368)),11938921798795-(-876221))]]=k}return true end function P.soft_replan(P,d)local D,n=pcall(function()return P:replan(d)end)return D and n~=false end function P.raycast(P,d,D,n)return false end function P.kite(P,d,D,n,a)return false end function P.flee(P,d,D,n,a)return false end local function b(P)P=tonumber(P)if P and P==P then return P end return nil end function P.progress(P)local d,D=n(P,I[q(R(-413063-(-468384)),-997827+7149469665135)])if not d or type(D)~=I[q(R(750410+(-1314787-(-619711))),-212152+23324480164144)]then return nil end local a=b(D[I[q(R(23168970%1284099),13157155809188-(-1203530-(-649061)))]])if a and a<=212603+-212602 then a=a*((382944-(-125755))+-508599)end return{[I[q(R(-437944+493266),741249+4125173969954)]]=b(D[I[q(R(497555-(87305575366%646774367)%4652321),-482870+(-883665+28241888734413))]]);[I[q(R(699629-644291),-625215+25028719133381)]]=a,[I[q(R(995355+-939977),306906+12890878053219)]]=b(D[I[q(R(-71467+(246605+-119733)),-242155+7478200922471)]]);[I[q(R(142541571%1344209),((581295-(328185+-339548))+97724)+12476028032056)]]=b(D[I[q(R(299482-244251),44386+33903667650825)]])}end function P.route_progress(P)return nil end function P.destination(P)local d,D=n(P,I[q(R(2149920569%14526117),((-1601840-(-742897))-(-220515))+(960713+10509288024670))])if d and(type(D)==I[q(R(6032097%153249),-743253+(175142+(318169+31684174832717)))]and type(D[I[q(R(-769760+396898774%12377302),-310887+27744722723552)]])==I[q(R((967414+-1332889)+(-26130+234685858%2755751)),-810791+16330694127001)])then return D end return nil end function P.zone_count(d)if not P[I[q(R(((-761148+(-378375-(-316054)))-(-136141))+742635),-639797+22326359904164)]]then return nil end local D,n=pcall(function()return d[I[q(R(176802386%(-187778+(((-1507971-(815478+((592484-(2157672460-(-519907))%11660481)-((1003114+-744275)+760834))))+4696800)-810634))),14953428333717-(-143853+-609882))]]end)if not D or type(n)~=I[q(R(1799777365%11248263),28085521122623-(-188718))]or type(n[I[q(R(-746530+801913),-781042+((661626-354035)+(462096+20769240498507)))]])~=I[q(R(3263415707%16735182),19063694368587-(-564777))]then return nil end local a,y=pcall(n[I[q(R(-840428-(-895639)),(-754107+-126562)+28572067392912)]],n)return a and b(y)or nil end function P.failures(P)return nil end P[I[q(R(1973113299%(3788508552%17330080)),55865+(619639+5.8471748001239e+14%32484305365270))]]=2391188483%((616712+-721936)+10685704)P[I[q(R(386350122%8219040),-997205+12165340212096)]]=110679227%(1089898821%(1181213059%13045047))local K=setmetatable({},{[I[q(R(((43143-(-306615))+-972251)-(-677758)),463361+20116219978051)]]=I[q(R(399650881%5876407),((299813+4438644130521)-(-795672))-(-635761))]})local k,T=false,289328-289328 local function Q(P,d)local D=(type(d)==I[q(R(-788067+(1021747+-178452)),(809087102366-477168)-(-992376))]and d)or(type(P)==I[q(R((39891132069%387389391)%1655083),15313272234975-545734)]and P)or nil if type(D)==I[q(R(((((983801+-640762)-457313)-643095)+(412671226-(-635508)))%3033044),(31434787481154-260066)-105768)]then if D[I[q(R(-1013484+1068801),10199490983058-(1037657+-1478983))]]==false or D[I[q(R(1151258109%15769901),24089024644033-(-255531))]]==true or D[I[q(R(915219-859878),32122358376419-(-41439))]]==false then return false,I[q(R(-352295+407513),956351+32588973473806)]end if D[I[q(R(847578+-792153),-863822+29653959974146)]]==true or D[I[q(R(406890772%4901633),(325950+21625717281053)-925430)]]==true or D[I[q(R(351270-296079),1113445162502-842250)]]==true then return true,I[q(R((-867484+2370694935)%(2393696778%15961803)),(673001+34009540341638)-(-282201))]end return nil,I[q(R(-148018-(-203253)),(1066562-872177)+22133538486198)]end if P==true and d==nil then return true,I[q(R(326352+-271000),18434635700818-(-448451))]end return nil,I[q(R(301684-246330),((21528880277216-(-454253))-753256)-(826657+(-2053386-(10419-536280))))]..(type(P)..(I[q(R(130336+-75035),35615+15623581209420)]..(type(d)..I[q(R(637693871%4222772),15522973300297-131526)])))end function P.check_path(P,d,D,n)k=true return false end function P.check_path_off()return k end return P end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- movement/sentinel.lua - the Sentinel Navigation adapter (1.10.0)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- ============================================================================
+-- The ONE module that talks to Sentinel Navigation (_G.SentinelNavClient, a
+-- Sylvanas library; the player installs and enables it, the Master Farmer
+-- launcher points its shared client at the Master Farmer SentinelNavServer and
+-- this client's map set). A library update is fixed here and nowhere else.
+-- Ported from restedXP_questing 4.7.0 movement/sentinel.lua (the reference
+-- port, docs/SENTINEL_PORT_GUIDE.md); its Settings-tab self-test is not
+-- carried over.
+--
+--   * the client is looked up lazily at run time, never in header.lua:
+--     rawget(_G, "SentinelNavClient"), then its `client` (a live getter, may
+--     be nil);
+--   * the game / server come from the launcher (MASTER_FARMER.nav: kind
+--     "sentinel", game "tbc" | "forever" | nil, base_url, supported) - this
+--     product never writes the server address, never calls update_config /
+--     update();
+--   * on a client without maps there navigation is unavailable:
+--     S.unavailable() says why, and nothing moves.
+--
+-- Calls and answers: restedXP_questing_sentinel/docs/SENTINEL_API.md (the
+-- official v0.0.8 page) and docs/SENTINEL_V024.md (recorded in game on v0.24).
+-- Every call is pcall-guarded; callbacks are wrapped so the bot sees one
+-- fixed shape.
+-- ============================================================================
+
+local S = {}
+
+-- ----------------------------------------------------------------------------
+-- the library and the launcher's word on it
+-- ----------------------------------------------------------------------------
+---_G.SentinelNavClient (or nil).
+function S.library()
+    local g = rawget(_G, "SentinelNavClient")
+    return type(g) == "table" and g or nil
+end
+
+---The shared client (or nil): looked up every time - the library may reload.
+function S.client()
+    local g = S.library()
+    if not g then return nil end
+    local ok, c = pcall(function() return g.client end)
+    if ok and type(c) == "table" then return c end
+    return nil
+end
+
+---The library's VERSION string ("" when unknown).
+function S.version()
+    local g = S.library()
+    local ok, v = pcall(function() return g and g.VERSION end)
+    return (ok and v ~= nil) and tostring(v) or ""
+end
+
+---The launcher's MASTER_FARMER table, or nil. It lives in this product's
+---environment (the launcher's loader env.MASTER_FARMER), NOT in the real _G:
+---read as a plain global, never rawget(_G, ...).
+function S.master_farmer()
+    local mf = MASTER_FARMER
+    return type(mf) == "table" and mf or nil
+end
+
+---MASTER_FARMER.nav from the launcher, or a table saying it is missing.
+function S.info()
+    local mf = S.master_farmer()
+    local n = type(mf) == "table" and mf.nav or nil
+    if type(n) == "table" and n.kind == "sentinel" then return n end
+    return { kind = "none", game = nil, supported = false }
+end
+
+---Why Sentinel navigation cannot be used now, or nil when it can.
+function S.unavailable()
+    local n = S.info()
+    if n.kind ~= "sentinel" then return "not loaded through Master Farmer's Sentinel entry" end
+    if not n.supported then return "Sentinel navigation has no maps for this game version" end
+    local c = S.client()
+    if not c then return "the Sentinel Navigation library is not loaded" end
+    local ok, up = pcall(function() return c:is_server_available() end)
+    if not ok or up ~= true then return "the navigation server is not answering" end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- runtime calls - the only Sentinel calls the bot makes
+-- ----------------------------------------------------------------------------
+-- Replies from a replaced library or another world cannot affect this walk.
+local reply_generation = 0
+-- 1.2.89: replies the guard dropped (a reply that never reaches the bot looks like "no reply"), and when the last plan reply came.
+S.drops = { generation = 0, client = 0, world = 0 }
+S.last_reply_t = nil
+S.plan_sent = 0
+S.plan_replied = 0
+function S.invalidate() reply_generation = reply_generation + 1 end
+local function reply_guard(c)
+    local issued_generation = reply_generation
+    local map_ok, map = pcall(core.get_map_id)
+    local instance_ok, instance = pcall(core.get_instance_id)
+    local answered = false
+    return function()
+        if answered then return false end
+        if issued_generation ~= reply_generation then S.drops.generation = S.drops.generation + 1 return false end
+        if S.client() ~= c then S.drops.client = S.drops.client + 1 return false end
+        local km, current_map = pcall(core.get_map_id)
+        local ki, current_instance = pcall(core.get_instance_id)
+        if (map_ok and (not km or current_map ~= map))
+            or (instance_ok and (not ki or current_instance ~= instance)) then
+            S.drops.world = S.drops.world + 1
+            return false
+        end
+        answered = true
+        return true
+    end
+end
+
+local function m(c, name, ...)
+    local got, f = pcall(function() return c and c[name] end)
+    if not got or type(f) ~= "function" then return false end
+    return pcall(f, c, ...)
+end
+
+local function pt(p)
+    return { x = p.x, y = p.y, z = p.z }
+end
+
+-- Request budget. The 414 signal came from a bus event ("nav.server_error") that the live stub does not
+-- declare, so nothing subscribes to it: request_blocked answers nil and a refused walk is handled by its own
+-- callback reason. The state table stays for the zone bookkeeping below.
+S.ZONE_LIMIT = 8
+-- Avoidance zones need obstacle:add_zone, which the live stub (.api/third_party/sentinel_nav.lua) does NOT
+-- declare. They are OFF. Setting S.UNDECLARED_ZONES = true (a deliberate choice, tests do it) re-enables the
+-- guarded calls below; nothing in the product sets it.
+S.UNDECLARED_ZONES = false
+local requests = setmetatable({}, { __mode = "k" })
+function S.request_blocked(c)
+    local s = requests[c]
+    if not s then s = { until_t = 0, delay = 2, added = {}, zones = {} } requests[c] = s end
+    if s.rebuild then return "Sentinel request rebuild pending" end
+    if core.time() < s.until_t then return "Sentinel request retry backoff" end
+    return nil
+end
+
+-- A 414 response means this request has finished, even if Sentinel still
+-- reports awaiting_path while scheduling another retry.
+function S.take_rejection(c)
+    local s = requests[c]
+    if not s or not s.rejected then return false end
+    s.rejected = false
+    return true
+end
+
+-- Called only from the navigation update after retiring the failed walk.
+-- Clear the oversized transient cache and restore every unexpired zone this
+-- product admitted. Persistent stuck memory and threat detection remain active.
+-- Zygor Forever 1.0.0: the obstacle list (c.obstacle) is a library internal that the live stub does
+-- not declare, so there is nothing to clear or restore. After the 414 back-off the walk is simply
+-- asked again; no avoidance zone is ever added (S.add_zone is a no-op).
+-- Gated by S.UNDECLARED_ZONES (default false): obstacle:* is not declared on the live stub.
+function S.recover_request(c)
+    local s = requests[c]
+    if not s or not s.rebuild or core.time() < s.until_t then return false end
+    if not S.UNDECLARED_ZONES then s.zones, s.rebuild, s.rejected = {}, false, false return true end
+    local ok, ob = pcall(function() return c.obstacle end)
+    if not ok or type(ob) ~= "table" or type(ob.clear) ~= "function"
+        or type(ob.add_zone) ~= "function" then
+        s.until_t = core.time() + 15
+        return false
+    end
+    local cleared, result = pcall(ob.clear, ob)
+    if not cleared or result == false then s.until_t = core.time() + 15 return false end
+    local kept, t = {}, core.time()
+    for _, zone in ipairs(s.zones) do
+        if t >= zone.t and t - zone.t < 110 then
+            local restored, res = pcall(ob.add_zone, ob, zone.pos, zone.radius)
+            if not restored or res == false then
+                s.until_t = t + 15
+                return false
+            end
+            kept[#kept + 1] = zone
+        end
+    end
+    s.zones, s.rebuild, s.rejected = kept, false, false
+    return true
+end
+
+-- The path-received bus event ("nav.path_received") is not declared on the live stub: nothing subscribes
+-- and S.path_info() is always nil (callers treat that as "no information").
+function S.path_info()
+    return nil
+end
+function S.watch_generation(c) end
+
+---Path options from the client's own config (stub: get_path_opts(extra?)).
+---No invented keys: extra is passed through only when it is a table.
+function S.path_opts(c, extra)
+    if type(c) ~= "table" or type(c.get_path_opts) ~= "function" then
+        return type(extra) == "table" and extra or nil
+    end
+    local ok, opts = pcall(c.get_path_opts, c, type(extra) == "table" and extra or nil)
+    if ok and type(opts) == "table" then return opts end
+    return type(extra) == "table" and extra or nil
+end
+
+---Corridor widths per waypoint (stub / recorded present: get_corridor_widths).
+function S.corridor_widths(c)
+    local ok, v = m(c, "get_corridor_widths")
+    return (ok and type(v) == "table") and v or nil
+end
+
+---move_to: cb(success, reason, extra?) - reason "unreachable" | "server_timeout" |
+---"max_stuck_exceeded" | "max_repath_exceeded" (doc). Arrival on v0.24 is
+---cb(true, nil, { code = "arrived", destination }). A walk replaced by a
+---newer move_to, or stopped, gets NO callback (recorded on v0.24). A second
+---move_to while walking re-plans without stopping (0.12 s, recorded).
+---HTTP 414 does not refuse travel: that backoff is for oversized zone /
+---find_path / check_path payloads only.
+function S.move_to(c, p, cb)
+    do local fr = package.loaded["flightrec"] if fr then fr.note("sn_move_to") end end 
+    S.watch_generation(c)
+    local accept = reply_guard(c)
+    local opts = S.path_opts(c)
+    local function on_done(success, reason, extra)
+        if not accept() then return end
+        if cb then pcall(cb, success == true, reason ~= nil and tostring(reason) or nil, extra) end
+    end
+    local ok, result
+    if opts then
+        ok, result = m(c, "move_to", pt(p), on_done, opts)
+    else
+        ok, result = m(c, "move_to", pt(p), on_done)
+    end
+    return ok and result ~= false
+end
+
+---move_direct: a single waypoint, no pathfinding (doc v0.0.8; not run on
+---v0.24). Used only for the last yards into a portal (off the navmesh, where
+---move_to would snap the target back onto the mesh). cb(success, reason).
+---False when the client has no move_direct.
+function S.move_direct(c, p, cb)
+    do local fr = package.loaded["flightrec"] if fr then fr.note("sn_move_direct") end end 
+    local accept = reply_guard(c)
+    local ok, result = m(c, "move_direct", pt(p), function(success, reason)
+        if not accept() then return end
+        if cb then pcall(cb, success == true, reason ~= nil and tostring(reason) or nil) end
+    end)
+    return ok and result ~= false
+end
+
+---follow_path: precomputed waypoints in order; cb(success, reason) (doc).
+function S.follow_path(c, points, cb)
+    do local fr = package.loaded["flightrec"] if fr then fr.note("sn_follow_path") end end 
+    local accept = reply_guard(c)
+    local list = {}
+    for i = 1, #points do list[i] = pt(points[i]) end
+    local ok, result = m(c, "follow_path", list, function(success, reason)
+        if not accept() then return end
+        if cb then pcall(cb, success == true, reason ~= nil and tostring(reason) or nil) end
+    end)
+    return ok and result ~= false
+end
+
+---stop(): stops all movement (doc); no callback for the stopped walk (v0.24).
+function S.stop(c)
+    do local fr = package.loaded["flightrec"] if fr then fr.note("sn_stop") end end 
+    local ok, result = m(c, "stop")
+    return ok and result ~= false
+end
+
+---is_moving(): true only while the top-level state is navigating (doc).
+function S.moving(c)
+    local ok, v = m(c, "is_moving")
+    return ok and v == true
+end
+
+---get_state(): "idle" | "navigating" | "arrived" | "failed" (doc), or nil.
+function S.state(c)
+    local ok, v = m(c, "get_state")
+    return ok and type(v) == "string" and v or nil
+end
+
+---get_full_state(): dotted ("navigating.awaiting_path", ...) or nil.
+function S.full_state(c)
+    local ok, v = m(c, "get_full_state")
+    return ok and type(v) == "string" and v or nil
+end
+
+---The walk is still waiting for (or re-requesting) its path.
+function S.path_pending(c)
+    local f = S.full_state(c) or ""
+    return f:find("awaiting_path", 1, true) ~= nil or f:find("repathing", 1, true) ~= nil
+        or f:find("deferred", 1, true) ~= nil
+end
+
+---Sentinel's own stuck recovery runs (navigating.recovering.*, doc).
+function S.recovering(c)
+    local f = S.full_state(c) or ""
+    return f:find("recovering", 1, true) ~= nil
+end
+
+function S.server_up(c)
+    local ok, v = m(c, "is_server_available")
+    return ok and v == true
+end
+
+---get_current_path() -> vec3[] | nil, get_path_index() -> number (doc).
+function S.current_path(c)
+    local ok, v = m(c, "get_current_path")
+    return (ok and type(v) == "table") and v or nil
+end
+function S.path_index(c)
+    local ok, v = m(c, "get_path_index")
+    return (ok and type(v) == "number") and v or nil
+end
+
+---Every navmesh floor at (x, y): cb(list of heights, nearest `p.z` first).
+---v0.24 answers (true, { count, heights = { { height, flags }, ... } }, nil).
+---False when the query could not be sent (cb is not called then).
+function S.floors(c, p, cb)
+    local accept = reply_guard(c)
+    local done = false
+    local ok = m(c, "get_all_heights", pt(p), function(okh, data)
+        if not accept() then return end
+        if done then return end
+        done = true
+        local out = {}
+        local hs = (okh == true and type(data) == "table") and data.heights or nil
+        for i = 1, #(type(hs) == "table" and hs or {}) do
+            local h = hs[i]
+            local v = type(h) == "table" and tonumber(h.height) or tonumber(h)
+            if v and v == v and math.abs(v) < 20000 then out[#out + 1] = v end
+        end
+        local z = tonumber(p.z) or 0
+        table.sort(out, function(a, b) return math.abs(a - z) < math.abs(b - z) end)
+        pcall(cb, out)
+    end)
+    return ok == true
+end
+
+---validate_destination: cb(reachable, reason, distance) (doc, recorded).
+function S.validate(c, p, cb)
+    local accept = reply_guard(c)
+    local ok = m(c, "validate_destination", pt(p), function(reachable, reason, distance)
+        if not accept() then return end
+        pcall(cb, reachable == true, reason, distance)
+    end)
+    return ok == true
+end
+
+---plan_route: cb(success, data) - data.visit_order on success (doc).
+--- plan_route(nodes, cb, opts?) - planning only. 1.2.77 (user: "best use of the in-game Sentinel settings"): the client's OWN path
+--- options (get_path_opts: the Pathfinding / Movement tabs - string pulling, partial paths, off-mesh snapping, wall clearance,
+--- terrain costs ...) are passed with every plan, exactly as move_to has always done. Without them a precomputed plan (every long
+--- walk, the long anchored plans, the hedges, the prefetches) was made with the server's defaults and ignored the settings the
+--- player chose. A client that rejects the options is asked without them, and never with them again.
+function S.plan_route(c, nodes, cb, extra)
+    do local fr = package.loaded["flightrec"] if fr then fr.note("sn_plan_route") end end 
+    local accept = reply_guard(c)
+    S.plan_sent = S.plan_sent + 1
+    local function on_done(success, data)
+        do local R = package.loaded["movement/core"] if R and R.now then S.last_reply_t = R.now() end end
+        S.plan_replied = S.plan_replied + 1
+        if not accept() then return end
+        pcall(cb, success == true, data)
+    end
+    local opts = (not S.plan_opts_bad) and S.path_opts(c, extra) or (type(extra) == "table" and extra or nil)
+    if type(opts) == "table" and next(opts) ~= nil then
+        local ok = m(c, "plan_route", nodes, on_done, opts)
+        if ok == true then return true end
+        S.plan_opts_bad = true
+    end
+    local ok = m(c, "plan_route", nodes, on_done)
+    return ok == true
+end
+
+---1.2.89 (log 18:40-18:45: 8 plan_route calls toward one goal, no callback, the server saw 0 failed requests): one line per
+---unanswered plan so the next log says WHY - the server flag, the Sentinel state, how long since ANY reply, requests sent vs
+---answered, and how many replies this adapter's own guard dropped (generation / client / world change).
+function S.log_unanswered(c, tag, x, y, sent_t)
+    local R = package.loaded["movement/core"]
+    if not R or not R.trail then return end
+    local up = S.server_up(c)
+    local now = R.now()
+    local ok, state = pcall(function() return S.full_state(c) end)
+    R.trail("nav", "plan not answered [%s] goal (%.0f, %.0f): asked %s ago, server_up=%s, state=%s, last reply of any plan %s ago, plans sent %d / replied %d, replies dropped by guard gen %d client %d world %d",
+        tostring(tag), x or 0, y or 0, sent_t and string.format("%.1f s", now - sent_t) or "?", tostring(up),
+        tostring(ok and state or "?"), S.last_reply_t and string.format("%.0f s", now - S.last_reply_t) or "never",
+        S.plan_sent, S.plan_replied, S.drops.generation, S.drops.client, S.drops.world)
+end
+
+---One path query, no movement (advanced: client.nav_client:find_path).
+---v0.24 answers (true, { waypoints, distance, partial, computation_time_ms }, nil).
+---cb(points or nil, ok, info) where info.partial says the path stops short.
+-- Zygor Forever 1.0.0: nav_client:find_path is a library internal the live stub does not declare, so it is never called.
+-- One path query, no movement, answered by the declared plan_route: cb(points|nil, ok, info).
+function S.find_path(c, a, b, cb)
+    return S.plan_route(c, { pt(a), pt(b) }, function(ok, data)
+        local pts = (ok == true and type(data) == "table" and type(data.waypoints) == "table") and data.waypoints or nil
+        pcall(cb, (pts and #pts >= 2) and pts or nil, ok == true, { partial = false })
+    end)
+end
+
+-- AVOIDANCE ZONE + SOFT RE-PATH (verified on v0.24 by the MF API Dump,
+-- 2026-10-24: obstacle:add_zone(pos, radius) 3 args, replan(reason, opts) 3).
+-- Every path request after add_zone avoids the zone (Sentinel's path-avoid,
+-- cost 100, the zone ages out after its TTL - 120 s in the Sentinel UI);
+-- replan with soft = true blends the new path in without stopping.
+-- Zygor Forever 1.0.0: obstacle:add_zone is a library internal the live stub does not declare, so it is never called.
+-- Gated by S.UNDECLARED_ZONES (default false): obstacle:* is not declared on the live stub.
+function S.add_zone(c, p, radius)
+    if not S.UNDECLARED_ZONES then return false end
+    local count = S.zone_count(c)
+    if S.request_blocked(c) or (count and count >= S.ZONE_LIMIT) then return false end
+    local s, t = requests[c], core.time()
+    for i = #s.added, 1, -1 do
+        if t - s.added[i] >= 125 or t < s.added[i] then table.remove(s.added, i) end
+    end
+    if #s.added >= S.ZONE_LIMIT then return false end
+    local oko, ob = pcall(function() return c.obstacle end)
+    if not oko or type(ob) ~= "table" or type(ob.add_zone) ~= "function" then return false end
+    local ok, result = pcall(ob.add_zone, ob, pt(p), radius)
+    if not ok or result == false then return false end
+    s.added[#s.added + 1] = t
+    for i = #s.zones, 1, -1 do
+        if t - s.zones[i].t >= 110 or t < s.zones[i].t then table.remove(s.zones, i) end
+    end
+    s.zones[#s.zones + 1] = {pos=pt(p), radius=radius, t=t}
+    return true
+end
+
+function S.soft_replan(c, reason)
+    local ok, r = pcall(function() return c:replan(reason) end)
+    return ok and r ~= false
+end
+
+---nav_client:raycast (recorded v0.24, 5 args including self):
+---cb(ok, { hit, t }, nil) - t is FLT_MAX when nothing is hit.
+---Product callback: cb(ok, hit, t). False when the client has no raycast.
+-- Zygor Forever 1.0.0: nav_client:raycast is a library internal the live stub does not declare, so it is never called.
+function S.raycast(c, a, b, cb)
+    return false
+end
+
+-- KITE (nav_client:kite, present on v0.24 with 5 args - MF API Dump
+-- 2026-10-24; its answer read from the readable v0.0.6 source, the same
+-- (true, { waypoints, ... }, nil) shape as find_path, which v0.24 confirmed):
+--   kite(player_pos, target_pos, cb(ok, { waypoints, waypoint_count }, err), { kite_radius })
+-- cb(points | nil, ok, info): info.shape_bad = an answer of another shape
+-- (the caller switches kiting off), info.error = the library's error text.
+-- Zygor Forever 1.0.0: nav_client:kite is a library internal the live stub does not declare, so it is never called.
+function S.kite(c, from, target, radius, cb)
+    return false
+end
+
+
+-- 1.16.0 FLEE (nav_client:flee, present on v0.24 - MF API Dump 2026-10-24;
+-- argument order from the official page: flee(player_pos, threats, cb, opts)):
+--   flee(player_pos, { threat_pos, ... }, cb(ok, { waypoints, ... }, err), { flee_distance })
+-- The answer is expected in find_path's shape and checked live like kite's:
+-- cb(points | nil, ok, info) - info.shape_bad = another shape (the caller
+-- switches fleeing off), info.error = the library's error text.
+-- Zygor Forever 1.0.0: nav_client:flee is a library internal the live stub does not declare, so it is never called.
+function S.flee(c, from, threats, distance, cb)
+    return false
+end
+
+-- 1.16.0 LIVE STATUS for the GUI and the route progress (improvements 5 and
+-- 11 of the API-dump review). Shapes recorded on v0.24 by the MF Start Dump:
+--   get_progress()        { current_index, percent, total_waypoints, waypoints_remaining }
+--   get_route_progress()  nothing while no recorded route runs (its shape when
+--                         one runs is not recorded: a number or a table with
+--                         percent / index / total is read, anything else ignored)
+--   get_destination()     vec3 | nothing
+--   obstacle:get_zone_count()             number
+--   nav_client:get_consecutive_failures() number
+-- Read on the update tick only (never on the render path).
+local function num(v) v = tonumber(v) if v and v == v then return v end return nil end
+function S.progress(c)
+    local ok, v = m(c, "get_progress")
+    if not ok or type(v) ~= "table" then return nil end
+    -- audit 1.19.0: percent is 0..1 (doc / stub) - shown as 0..100 like route_progress
+    local pc = num(v.percent)
+    if pc and pc <= 1 then pc = pc * 100 end
+    return { index = num(v.current_index), percent = pc,
+        total = num(v.total_waypoints), left = num(v.waypoints_remaining) }
+end
+-- Zygor Forever 1.0.0: get_route_progress is a library internal the live stub does not declare, so it is never called.
+function S.route_progress(c)
+    return nil
+end
+function S.destination(c)
+    local ok, v = m(c, "get_destination")
+    if ok and type(v) == "table" and type(v.x) == "number" then return v end
+    return nil
+end
+-- Zygor Forever 1.0.0: obstacle:get_zone_count is a library internal the live stub does not declare, so it is never called.
+-- Gated by S.UNDECLARED_ZONES (default false): obstacle:* is not declared on the live stub.
+function S.zone_count(c)
+    if not S.UNDECLARED_ZONES then return nil end
+    local oko, ob = pcall(function() return c.obstacle end)
+    if not oko or type(ob) ~= "table" or type(ob.get_zone_count) ~= "function" then return nil end
+    local ok, v = pcall(ob.get_zone_count, ob)
+    return ok and num(v) or nil
+end
+-- Zygor Forever 1.0.0: nav_client:get_consecutive_failures is a library internal the live stub does not declare, so it is never called.
+function S.failures(c)
+    return nil
+end
+
+
+-- 2026-10-27 CHECK_PATH (advanced; user: "check_path (running-path validation)").
+-- PRESENT on v0.24 - docs/SENTINEL_V024.md enumerates nav_client:check_path - but its
+-- CALLBACK SHAPE IS NOT RECORDED there (only find_path's is), so this is deliberately
+-- careful. The shape of every answer is handed back for the caller to log once, and
+-- ONLY an unambiguous "this path is bad" (valid == false / blocked == true /
+-- reachable == false) asks for a re-plan. A bare `false` is NOT treated as bad: on
+-- this client that is also what a server error looks like, and a spurious re-plan is
+-- worse than a late one. Anything else is "no opinion" and the walk is left alone.
+-- CHECK_ERRORS failed calls, or a library without check_path, switch it off for the
+-- session and it is never asked again.
+S.CHECK_ERRORS = 3
+S.CHECK_POINTS = 8
+local check_pending = setmetatable({}, {__mode="k"})
+local check_off, check_errs = false, 0
+
+local function check_verdict(a, b)
+    local d = (type(b) == "table" and b) or (type(a) == "table" and a) or nil
+    if type(d) == "table" then
+        if d.valid == false or d.blocked == true or d.reachable == false then return false, "table" end
+        if d.valid == true or d.ok == true or d.reachable == true then return true, "table" end
+        return nil, "table with no verdict field"
+    end
+    if a == true and b == nil then return true, "bare true" end
+    return nil, "unreadable (" .. type(a) .. ", " .. type(b) .. ")"
+end
+
+---check_path: is the path the player is walking still good? cb(verdict, shape):
+---verdict true (good) / false (re-plan) / nil (no opinion); shape = a short text
+---for the log. Returns false when it could not be asked.
+-- Zygor Forever 1.0.0: nav_client:check_path is a library internal the live stub does not declare, so it is never called.
+function S.check_path(c, pos, waypoints, cb)
+    check_off = true
+    return false
+end
+---True once check_path has been switched off for this session.
+function S.check_path_off() return check_off end
+
+return S

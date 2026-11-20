@@ -1,1 +1,182 @@
-return(function(...)local B={"+nD6wwb==";"rQ*L/$,)5kA","+qpg3Bx5GVp8=","rX5";"+Zg/9";"rQ1/uV#+-r#e5h!","rOF";"rdE","r<W","r7-<1:eCp";"ru23\\.ELe\'KR!qL-";"+994w2O==";"+WxDtV1vb";"+DOvuIZ/ySO==";"r;Jri74:!","+GsGwy+bj";"r/m","r_3%Rp%[";"r4JY1","rj[","rAgD_D\\qPq.7p3$g;pc-Trdk>W]`Tgi9oqjPBXLUD","+x4zu4uu+5O==";"+SY+rib==";"+yTmpqdyxsX+=","+fbTCtM3GVU==";"r][t/","rfV;!Z?[","r[\'n/p","rpb3)Lj[";"r/sq^F*Ir9MX>7>","+fsvvqb==","reU+LBbj8","+/FozaRJAJqW=","+7HpB";"+U7n4MWEE";"rrj\\`e";"r\\[K)dmuP","+BQtwprsrIdzZfx3=";"+","+RKYaZdoC","+YFvffc5=","+blE0kU3=";"rBr";"r1:R/I","rPTI4)";"+fMG5IO==";"rf0Adf9bE`YIq","r0\"*89e!","rTcLVb3uYSnI)mq5TtbY5","+iU==";"rSk%d<t$c";"rCe7\"F\\XXsj1gM-";"rZQ:aq4OA";"r-R.)SO*";"rb/*pD1G*";"+PNBtCn1GoU==";"rn`fT?-HlV";"+sRKrXr+RlC38+zvqvYR=";"+502YXANtLj/=","+304XqXruXK+p1FJbcR86";"r*oBh!9fBW","+ENv/e7U=","rG?Wr;R@S","r@,5W";"r)(%N","+wKR6+DHs0R==","rXJ=ckZ@QuZ:,#n%(k2Bi","r)c,6.";"+BOpn9coglUSwy1R+uw88dVAhT6zo6rlkVX4TE8senQez9Xkl7iwXXMZk8ibzHlf/YJIhaU==","+zR==";"+qngEILBH";"+eB4J","r=S<_8`DN9HX,B";"r9c&htbqI>o!tl;0B(X";"rqV","+FDFAtOq=";"+7Hk3kq3=","rdU_";"+OtWKnWRi";"+PpBrmtefvO==";"+G2mGOI2qIJ+=";"+9kzZ2CXuSVjvjO==","+5vByOO==";"rPn;`s","+Dl4dAuq1THO=","ru@th]AnZiJ*f([\'","rW_","+YU==","+9lEptvq=","rjrbZF<.[gCL+J[4i/2","r*[=6h";"+PNBHIP1vdLgTCL/=","r>_","+xb==","+jG26/AQxjYMZ","rcC9=_hAO#lK*?q","+xzMBDb==","+D+IS","+QDfxzSwt";"+bcEr2ek=";"+2slBX7Vwes41o0NuOb==";"rj2HZc/O";"rQO1n";"+FR=="}for J,g in ipairs({{507436+-507435;2354290214%14532655};{-932405+(595754+(792091+-455439));124812998%11346632};{(143061+217744901)%10375615,-535329-(-449220+-86213)}})do while g[506452-506451]<g[343422056%2304846]do B[g[761056-761055]],B[g[1152706706%9605858-((-949223+1285590)+-332623)]],g[2314393402%9765373],g[(50801-561703)+510904]=B[g[388033634%(-329310+2125762)]],B[g[(451221-463623)-(-12403)]],g[394922+-394921]+1095012920%14220947,g[-626980+626982]-(537133584103%2238063117)%(13188948-(-702351))end end local function y(J)return B[J-(295521-268267)]end do local J=string.sub local g=math.floor local o=table.insert local i={["7"]=-81440-(((-400478+209009)+1179840)+-1069832);s=(2667449650-344080)%12178564;p=(37011224-374627)%9159146;W=-439431-(-439443);D=157157-157138,Z=442162-442159,V=-914783-(-914845);b=1802144944%15535732,l=2236614055%(651559+(1346494341%5277607+7963110)),J=-887191-(-887234);T=285160-285126;q=209467+(-187834+(786634+-808239));Y=3766104907%17193836-654819,x=(537777+322168114)%8274510;S=(340279-(-530142))+-870386;A=-658653+658660;i=(27345088261%226038997-(-665397))%5024409,c=-512027-(-512077),B=955542-(765222-(-190259));H=(-563801+-164147)+727993,f=624951-624927;e=753000165%4563637;h=-877599+877625,g=522071+-522066;N=587282+-587229,u=-224322+(-947915+1172288),w=434962958%4103424;F=-222941-(-222972),n=(22164+49228834)%(-875963+(13489698-300995)),K=625997+(553266+-1179205),L=460882-460876,["8"]=881722+-881678;m=100532-100492;C=1407803899%7651108,["0"]=308324-308315;M=511673019%3935946,["/"]=-910539+(1718080734%14313238-(-418385));r=-249831+(-982678+(497857-(-734654))),z=(-712850+(501174+303195))-91456,["2"]=-872065+872112;Q=1498885575%(8059025-(-268117)),["1"]=-633901+633918;G=((988974+-886851)-((-137282+1131961)+-1592340))-(-548072+9100655%3926418),j=674320-674263;U=2897641032%(((2399524869-((-737776+-953802)-(-965921)))-278540)%20587038);v=-764987-(-765020),["4"]=-358463-(-358512);["9"]=30945-((-203343+((-615456-966721)-(748130+-1752283)))+812270),a=((-799733+698561)+((-1000942+1348093)+650430))+(-866900+-29499);y=(363737+1517571675)%6402229+-607080;E=-979614-(-979660);["+"]=-345529+345585,I=1293510985%7699470,X=-847329+847340,O=(-674922-(-665708))-(-9230),["5"]=(430167+-1238436)+808321,t=998003-997962;d=(901126+128644637076%1072118788)%15411629,k=1219324086%9032030;["3"]=-189916+189924,o=455711430%2109775;["6"]=3189570249%12809519;P=(((62966-902292)+304860)-341081)-(-525632-349938),R=(-967936+-61396)+1029380}local L=type local w=B local n={["3"]=199307-199268;["\""]=((-44745-(-207849))+-754676)+591650,["6"]=90182+-90176;J=437806252%3019353;["$"]=126028932%7001605,a=1163699371%14366658;k=(24047846843%168192198)%((-355217+5347593)-(-315840));["2"]=((352974-870847)+-101915)-(-619843),["]"]=-964119-(-964130);H=139944-((213337+(509653+(979499+-2321647)))+759041),["9"]=879860-879853;C=((52151121461-(-554991))%(392573395-422890))%6155710,["`"]=405605+(344630-750190),Z=(1769420-905158)-864182;b=740030-739992,g=-1015968-(-1016039),i=1025174-1025115,r=(25829815365%1614886654)%7875076,["*"]=1877463176%8651904,L=1864374705%(3356221298%(787721+16912377)),j=932641626%(1077476138%12296188),["&"]=267555+-267474,M=1212221720%(15136220-170520),["!"]=858432304%13206650;["+"]=561620889%5506087,["^"]=136611+(119704-256272);s=731177+-731100;D=-299632-(-299660),["%"]=(-953627-(-648982))+304658;K=2146277661%8619589,_=(335294887600%1949405065)%9881327;q=4045812593%16379808,[":"]=(21815226489%173202681)%6870473;[")"]=((657596-881194)+16654)+206962;["["]=466153-(-295979-(-762063));E=-922562+922634,A=(((-743558+-242551)+239103)+(184825+7523286851%86523343))%653737;F=-964252+964287;["#"]=795481-795402;N=-892198-(-602726-289494);["."]=((666893+-813351)+(626709-900868))+(1378150-957457);["0"]=60238232%(944145051%7546735),f=-804557+804583,I=(231823+1133908364)%9001112;P=1813646657%9206328,["\\"]=248572-248571,Y=-100411-(-100493),["1"]=1054281774%4181608-516525,["7"]=-475767+475817;["("]=702489431%12544453;["/"]=658216-(380434-((221106+-560789)+61953));[";"]=1407423867%8796399,["5"]=-882178-(-882192);n=451948912%5317046;["\'"]=-104628+(-412766-(-517458)),e=(1476807-(753981+16412))+-706378,["8"]=98607-751674713%(4530916-(-837485));m=-446496+446501;p=78620576%3418285,["?"]=2347259528%(((15551377120834%92567778769)%1017304495)%17371632),d=1585782601%8908891,["4"]=95631370%1366162,["="]=(5988644275%857639972)%5016693;o=596049+((137344+-203801)+((336581+-1235795)+369705));S=-738147-(-738176),W=3840012171%16768612;["-"]=(114175+757783399)%3968050;O=(-1044983-((-967522+-253035)-(-232890)))-(-57376),B=621518325%5136515;R=2103246431%9184482,G=-82355+82371,V=2716560290%15176314;u=1499770748%9675940;T=4382012966%17665597+-944853;h=931895-931846;t=1282004677%12209568,["<"]=2946190904%13767247;[">"]=510776-510708,Q=709177+(-396938+-312169),U=1025941+-1025876;[","]=544956+-544900,X=-151644+151702;["@"]=(-27836+(629782+246033))-847954,l=1497093344%16634370;c=62380418%4798488}local u=string.len local R=string.char local r=table.concat for H=(50382876813%1292236446)%8752684,#w,-150023-(669330-(84284-(-735070)))do local F=w[H]if L(F)=="string"then local L=J(F,1177177105%((-525450-274294)+5766736),225507+-225506)if L=="+"then F=J(F,-188860-(-188862))local L=u(F)local n={}local S=-63133-(-63134)local d=969090075%3988025 local p=-575645-(-575645)while S<=L do local w=J(F,S,S)local u=i[w]if u then d=d+u*((555026+-554962)^(((157258175%8262356-273408)-p)))p=p+(-545444+254368101%1321993)if p==917534+(-1047542+130012)then p=3729483744%(17190879-541398)local J=g(d/(373467-307931))local i=g((d%(((30113+835993)-749306)+-51264))/(243566-243310))local L=d%((39630924988%2086295950)%12079056)o(n,R(J,i,L))d=3384062596%13869109 end elseif w=="="then o(n,R(g(d/(952630+-887094))))if S>=L or J(F,S+(589815-589814),S+(-194952+194953))~="="then o(n,R(g((d%(356912992%11151483))/(1008068705%7695179))))end break end S=S+(-444618+444619)end w[H]=r(n)elseif L=="r"then F=J(F,240555+((1343121-799701)-783973))local i=u(F)local L={}local S=709531993%9096564 while S<=i do local w=(i-S)+(-327240+327241)local u=w>=((476787618510%2889719098)%16143658+1823002304)%10072473 and 9076-9071 or w local r=904045-275661469%(17887137-(776970+(-676919+614747)))local H=u>978729871%3960756-423138 for g=-342760-((386760-472533)-256987),22859892%(11275285-(-154659)),1779890845%10722234 do local o if g<u then local i=J(F,S+g,S+g)o=n[i]if not o then H=false break end else o=(542222-(4740852156%(3338160486%49319809))%(788639018%8033771))-(-367418)end r=r*(793181+-793096)+o end if H then local J=g(r/(3077587156%((33340190-209649)-911489)))%(-828543+(-161858+990657))local i=g(r/(-76833+142369))%(888186-887930)local w=g(r/(-41144+126171666%977754))%(321315799%(((-732836+((-855438-(-885519))-(-929849)))+1078007)-(-247148)))local n=r%(-953727-(-243702+-710281))if u==738476-738471 then o(L,R(J,i,w,n))elseif u==12122306%(733238+-537717)then o(L,R(J,i,w))elseif u==92936+((-666100+473558)-(-99609))then o(L,R(J,i))elseif u==374972068%(3374176-575877)then o(L,R(J))end end S=S+u end w[H]=r(L)end end end end local b,k do local J={}local g=307070480%(7358730-(-318032))local o=59616-((561748-1166712210%12280274)-415954)local i=math[y(310117092%12403593)]local L={}local w=string[y(602453+-575122)]local n=table[y(-615973-(-643305))]local u=math[y(-390645-(-417993))]for J=644197-(412111+232085),2281620996%16297291,984248-984247 do L[J]=J end repeat local g=i(-206619-(-206620),#L)local o=n(L,g)J[o]=w(o-(162035-162034))until#L==-277186+277186 local R={}local function r()if#R==-716448+(-447179+1163627)then g=((g*(1082311105%5578922)+(23182387591352-1016959)))%(35184371777590-(-311242))repeat o=(o*((-637710+1441752)+-804015))%(438855-438598)until o~=273096+-273095 local J=o%(-457612+3378598124%15355184)local i=(117521+(((((465727-754280)+-416216)+1593141)+-395708)-610172))-((o-J))/(-219934+219966)local L=(u(g/(1941311010%8666567)^i)%(-527081+4295494377))/(-12828+12830)^J local w=u((L%(2430903360%11520869))*(719356033108%4307596782))+u(L)local n=w%(2033317056%12707822)local r=((w-n))/(1125670284%(14946602-(-906986)))R={n%(97203-96947);((n-n%(2225356447%(11669091-918578))))/(531706-531450),r%(51053-50797),((r-r%(385039776%(((-1503927-(-430640))-(-902802))+(4543616-(-439863))))))/(936772-936516)}end local J=#R local i=R[J]R[J]=nil return i end local H={}b=setmetatable({},{[y(438351-410995)]=H;[y(-805439+832727)]=nil})function k(i,L)local w=H if(w[L])then return L else R={}local n=J g=L%(35184371896631-(-192201))o=L%(803479-(829790+-26566))+((13980+953837)-967815)local u=#i w[L]=y((-1278958-(-775921+118113))-(-648489))local H=444532-444499 local F=y(747855+-720516)for J=-448280-(-448281),u,1201072439%12910641-382825 do H=(((string[y(1404395454%5755607)](i,J)+r())+H))%(-190006-(-190262))F=F..n[H+(931076+-931075)]end w[L]=F end return L end end local J=require(b[k(y(79279659%((((-249664+1303427314)%6419312+116577)+-219612)+11367487)),222242+6817775885339)])local g=require(b[k(y(2944465511%12167100),32276791720857-(-723698))])local o={}local i=.35 local L=1909446190%7857803.25 local w=1132580296%11676085.5 local n=-443597-(-443599)local u=178154+-178154 o[b[k(y(510618-483337),896648+(-1004995+31771337420434))]]=true local R,r,H,F=.3,937994+-937934,((-191653-(-892228))+1611585995)%16621511,-472722+472786 local S={[b[k(y(1809944213%16604742),-122993+22125262504139)]]=(409175022009%3653413220)%15784219,[b[k(y(505915864%7772324+-687543),832369+4971311060241)]]=false,[b[k(y(576217-(-372986+921876)),3172208440650-875699)]]={};[b[k(y(427370-400053),10669420011188-621340)]]=519990705%(-773051+12328400);[b[k(y(-472215-(-499527)),18784854590144-(-291611))]]=false}o[b[k(y(-90503-(-117832)),(3104421270628-812006)-447420)]]=S local d={[b[k(y(1105372729%12560743),-1010710+24296478835467)]]=nil;[b[k(y(339404+-312121),32827767483248-95213)]]=-315728-(-315727),[b[k(y(283112-255846),-755271+24650091718973)]]=true}local p,M=nil,nil function o.face(o)if J[b[k(y((381246+205505)+-559393),(25066776982681-186085)-(-311984))]]()then return false end if not J[b[k(y((869648+40984213)%1901208),4663973309859-1012701)]](o)then return false end if J[b[k(y(-905117+932374),518833+(17224706224106-702095))]]or J[b[k(y(43048-15792),71770+9877059422928)]]then return false end if g[b[k(y(378693+-351413),((32868843814908-214992)-111509)%365209477419)]]()then return false end local L,w=pcall(require,b[k(y(183924+-156654),17500311070521-346157)])if L and(type(w)==b[k(y(3308468125%14574629),17647278758393-90086)]and w[b[k(y(((-882475+255553975%4706453)+(-964912+-30331))-(-499496)),514936+31072271742249)]]())then local g=J[b[k(y(-911228-(-938502)),70108346003761%35054175930556)]]()return g~=nil and w[b[k(y(-331988-(-359289)),(553893+416105)+26076424072937)]](g,o)==true end local n=J[b[k(y(781852416%4319476),-519596+18814635706069)]]()if(n-u)<i then return false end u=n local R,r=pcall(o[b[k(y(1895025932%12225334-71880),(-496037-465150)+3221139287555)]],o)if R and r then pcall(core[b[k(y(-595140-(-622436)),4413552996887-(-349611))]][b[k(y(-1042731+(-807643+1877696)),-123049+(30319715732312-(-959457+568827)))]],r)return true end return false end local function V(g,i,L)if not o[b[k(y(3222989829%(4004901944%19468920)),24164054790647-977290)]]or S[b[k(y(-316004-(-343323)),8105455725207-704005)]]then return nil end if type(L)~=b[k(y(-220014-(-247369)),259034+10022426237642)]or L>r then return nil end local w=J[b[k(y((1409846399-(-974379))%8447865),33295030237050-495544)]](i)local n=J[b[k(y((-953695+649197587)%7366098),320664+27358974673622)]]()local u=w~=nil and S[b[k(y((-543682+750576)+-179596),13890593603840-(-77569))]][w]or nil if u and(n-u[b[k(y((163528-502006)+365762),10555306057430-576968)]])<R then return u[b[k(y(351595069%3285680),(556141+6159451671337)-167749)]]end local d,p=nil,false if type(g[b[k(y((1409581826-(164698-416703))%13958480),558349+2920169138087)]])==b[k(y(231500102%1928940),17090203422945-(-746120+180520934%16262504))]then local J,o=pcall(g[b[k(y(((-71452-581103)-(-585939))+93931),764029+31425100073175)]],g,i)if J and type(o)==b[k(y(122323+-95061),(((612829+-919415)-238515)+(6991250359532-((-132070-216169)-(285022-938662))))-(-118211+(-17704+(364565+-535067))))]then d=o elseif not J then p=true end end if d==nil then local J=core and core[b[k(y(1632995563%9891043-946213),21685514529042-(-802098))]]if J and type(J[b[k(y(104890+(189927-267468)),28946193399188-277362)]])==b[k(y(-1013068-(-1040392)),15348610690342-317525)]then local o,L=pcall(J[b[k(y((((-351278-600446)+295097)+145521214)%8046518),21443783266564-325600)]],g,i)if o and type(L)==b[k(y(499433-472157),(4820208051784-743170)-662524)]then d=L p=false elseif not o then p=true end end end if p and d==nil then S[b[k(y(353090+-325795),13588655922588-((-628350-(-559110))-843459))]]=S[b[k(y(2109537301%13787647),(3429417390543-(-1024556))-(-141105-(-383472)))]]+(-874945-(-874946))if S[b[k(y((2742464622-(-838971))%(12883467-636698)),7807195992417-350285)]]>=H then S[b[k(y(-463294+490620),603051+29067048218132)]]=true if not S[b[k(y(1477677088%9984120),32895017378030-(-22820))]]then S[b[k(y((-40609+597152)-529264),696304+34070421571544)]]=true J[b[k(y(-124306-(-151600)),-900684+8730459042244)]](b[k(y((260775728-((974549+-2758847)-(-1009296)))%(-1005543+2629912)),((-841413+(-192532+438308))-(-76148))+27580327344470)]..(S[b[k(y(71496336%((3449909-(-423746))-(-533809+2656788797%12242329))),6169480910439-(-83768))]]..b[k(y(523696-496431),299697+21136399074897)]))end end return nil end if w~=nil and d~=nil then if not S[b[k(y(-858192-(-885510)),(-851419+-183009)+11237613648213)]][w]then S[b[k(y(782194918%7449215),27144143380800-376911)]]=S[b[k(y(699151-671880),14978679554601-(-458721))]]+(-621529+621530)if S[b[k(y(-617244+644533),25465207770144-(-622136))]]>F then S[b[k(y(-950543-(-539270-438627)),(16473376517284-(-468090))-(29314-(-364541)))]],S[b[k(y(962516-935196),34077977614624-1005360)]]={},485149-485148 end end S[b[k(y(205348-178090),19291353198797-708192)]][w]={[b[k(y(109656+-82349),4690839568706-(-89570))]]=n,[b[k(y(336865018%(-241031+10148023)),-464876+20953033131821)]]=d}end return d end o[b[k(y(551818-(174464-(-350077))),-801505+(29014251726776-(-45705)))]]=V local function x(g,o,i)if type(i)==b[k(y(168993773%1017870),31209192023783-723339)]and i<=85964757%(248007402%2203228)then return true end if M==nil then local J,g=pcall(require,b[k(y(921027-893741),(((945526+-1651962)+-716379)-(-142805-842316))+(9210440454471-((253642+742827)+-1501822)))])M=((J and type(g)==b[k(y(904978-877706),6312188790798-634058)]))and g or false end local L=V(g,o,i)if L==false then return false end if M then local J,i=pcall(M[b[k(y((-201945+586193)+-356891),-310212+(-778637+9703193785305))]],g,o)if J and((i==b[k(y(29749+-2457),-991644+6583665222547)]or i==b[k(y((485672105801%2743961518)%12047803),8836466330396-704566)]))then return false end if J and(i==b[k(y((-10407-(-647071))-(1622169-1340263230%10223286)),(-957100+121450)+16923988617983)]and L~=true)then return false end end if p==nil then local J,g=pcall(require,b[k(y(946848-(-559772+((-781336-225177)+2485793))),-71005+(29260027005683-692491))])p=((J and(type(g)==b[k(y(965035121%8772798),16393064315571-(-861745))]and type(g[b[k(y((591795-923223)-(-358697)),34887258264076-(-728575+332567))]])==b[k(y(-493756-(-521059)),29899897759573-(1275565-325584))])))and g or false end if not p then return true end local n,u,R=pcall(p[b[k(y(-308853-(874974+-1211105)),25409589020286-276782420%(52761583%8038155))]])if not n or u==nil or type(R)~=b[k(y((744688+-1463135)+745722),139658+9545051056084)]then return true end if(J[b[k(y(-646112+673446),958762875543-(-64830+591110965%3261973))]]()-R)>w then return true end return J[b[k(y(933129-905842),20282522654674-670838)]](o)~=u end function o.has_los(g,o)if not g or not o then return false end local i=J[b[k(y(212592-185256),28956464346350-343227)]](o)local w=J[b[k(y(311038-283739),(379433-(984208+-411869))+(33922092480799-(-1255017-(-378370))))]]()if i~=nil and(i==d[b[k(y(1979123592%12216644),8571348725345-(-436481))]]and(w-d[b[k(y(3047431892%16743981),845138+28434295378322)]])<L)then return d[b[k(y(-166445+193745),575186+35105857118993)]]end local n,u=pcall(g[b[k(y(((-197400-(11945+-831218))+770549451)%(3466997-(-1042617))),116560+10017717180471)]],g,o)local R=x(g,o,n and u or nil)d[b[k(y((-1002116-(-438209))+591251),786328+9232628090762)]],d[b[k(y(300772-273468),(3735-303849)+25623473308367)]],d[b[k(y(-967178-(-994486)),75627+27623279681313)]]=i,w,R return R end function o.in_fight_range(J,g,i)i=tonumber(i)or 244901040%4709635 if not J or not g then return false,-471407-(-471506),false end local L,w=pcall(J[b[k(y(57428-941639483%9707313),28395919335-(-293673))]],J,g)if not L or type(w)~=b[k(y(1287390724%7441407),996655+28733045851745)]then return false,(-708713+1461656)-752844,false end local n=o[b[k(y(187218668%8913874),(6967562665385-632646)-536650)]](J,g)local u local R,r=pcall(g[b[k(y((-347113+148629)-(-225822)),((-1523432-(-431322))-(-574764))+23924237131215)]],g,i)if R and type(r)==b[k(y((-288566+2983220347)%12533212),16536215313855-464489)]then u=r else u=w<=i end return u and n,w,n end function o.arrived(g,o)local i,L,w=J[b[k(y(-614690-((-842519+(2022830-716589))+-1105705)),7699185280074-83017)]]()local u,R,r=J[b[k(y(665689530%4294595),2605502082857-(527683+499238))]](g)if not i or not u then return false end return J[b[k(y(-761832+789105),24231693515291-473582)]](i,L,w,u,R,r)<=((tonumber(o)or n))end function o.line_blocked()return false end function o.can_reach(J,o)return g[b[k(y(1826641922%8824225),(8.5301684925637e+14%9074647420650-(-680425))-710617)]](o)~=false end return o end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- movement/range.lua - facing, line of sight, arrival, fight range
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- ============================================================================
+-- FACING: a POSITION, never the unit object (2.72.0: the movement handler
+-- keeps whatever it is given across frames, and a freed mob read later is a
+-- native crash). Throttled, and never while a Sentinel walk runs - it steers
+-- the facing itself.
+--
+-- LINE OF SIGHT, no ray (2.311.0 / 2.313.0): a unit is in sight unless
+--   * the game refused a cast at it with "Target not in line of sight"
+--     within LOS_HOLD s (events.lua), or
+--   * the navmesh says the walk to it bends round something, or it is
+--     underground / unreachable (movement/sight.lua).
+-- 3 yd and closer: always in sight. Cached per unit for LOS_TTL.
+--
+-- 1.16.0 LINE OF SIGHT BY THE GAME (improvement 12 of the API-dump review,
+-- the user's OK 2026-10-24 to lift the no-game-ray rule for this): the game's
+-- own answer - izi player:los_to(unit), else core.graphics.is_line_of_sight
+-- (player, unit) - decides first. false = out of sight; true = in sight even
+-- when the navmesh walk bends round something (a fence, a low rock: you can
+-- see over it). The navmesh still rules out underground / unreachable enemies
+-- and the game's "not in line of sight" refusal still applies. Each unit is
+-- asked at most every GAME_TTL s, only within GAME_MAX yd; GAME_ERRORS call
+-- errors switch the game check off for the session (logged) and the navmesh
+-- verdict takes over again. Rg.GAME_LOS = false turns it off.
+-- ============================================================================
+
+local R = require("movement/core")
+local N = require("movement/nav")
+
+local Rg = {}
+
+local FACE_GAP = 0.35
+local LOS_TTL = 0.25
+local LOS_HOLD = 2.5
+local ARRIVE = 2.0
+
+local last_face = 0
+Rg.GAME_LOS = true
+local GAME_TTL, GAME_MAX, GAME_ERRORS, GAME_CACHE_MAX = 0.3, 60, 3, 64
+local game = { errors = 0, off = false, cache = {}, n = 0, said = false }
+Rg._game = game
+local los_cache = { guid = nil, t = -1, v = true }
+local ev_mod, sight_mod = nil, nil
+
+--- Face `target` (a unit). Fire-and-forget; false when nothing was sent.
+function Rg.face(target)
+    if R.shaman_casting() then return false end
+    if not R.alive(target) then return false end
+    if R.resting or R.backpedal_until then return false end
+    if N.busy() then return false end
+    -- 1.2.34 (user): facing is Simple Movement's (movement/front), for every class
+    local okf, F = pcall(require, "movement/front")
+    if okf and type(F) == "table" and F.available() then
+        local me = R.me()
+        return me ~= nil and F.face(me, target) == true
+    end
+    local t = R.now()
+    if (t - last_face) < FACE_GAP then return false end
+    last_face = t
+    local ok, pos = pcall(target.get_position, target)
+    if ok and pos then
+        pcall(core.input.look_at, pos)  -- audit 2026-10-17: movement_handler is not pumped here
+        return true
+    end
+    return false
+end
+
+--- The game's line of sight from `player` to `unit`: true / false, or nil
+--- (off, too far, no call, or the call failed).
+local function game_los(player, unit, range)
+    if not Rg.GAME_LOS or game.off then return nil end
+    if type(range) ~= "number" or range > GAME_MAX then return nil end
+    local g = R.guid(unit)
+    local t = R.now()
+    local e = g ~= nil and game.cache[g] or nil
+    if e and (t - e.t) < GAME_TTL then return e.v end
+    local v, failed = nil, false
+    if type(player.los_to) == "function" then
+        local ok, r = pcall(player.los_to, player, unit)
+        if ok and type(r) == "boolean" then v = r elseif not ok then failed = true end
+    end
+    if v == nil then
+        local gr = core and core.graphics
+        if gr and type(gr.is_line_of_sight) == "function" then
+            local ok, r = pcall(gr.is_line_of_sight, player, unit)
+            if ok and type(r) == "boolean" then v = r failed = false elseif not ok then failed = true end
+        end
+    end
+    if failed and v == nil then
+        game.errors = game.errors + 1
+        if game.errors >= GAME_ERRORS then
+            game.off = true
+            if not game.said then
+                game.said = true
+                R.log("game line-of-sight check failed " .. game.errors .. " times - navmesh line of sight only for this session")
+            end
+        end
+        return nil
+    end
+    if g ~= nil and v ~= nil then
+        if not game.cache[g] then
+            game.n = game.n + 1
+            if game.n > GAME_CACHE_MAX then game.cache, game.n = {}, 1 end
+        end
+        game.cache[g] = { t = t, v = v }
+    end
+    return v
+end
+Rg.game_los = game_los
+
+local function raw_los(player, unit, range)
+    if type(range) == "number" and range <= 3 then return true end
+    if sight_mod == nil then
+        local ok, m = pcall(require, "movement/sight")
+        sight_mod = (ok and type(m) == "table") and m or false
+    end
+    local seen = game_los(player, unit, range)       -- 1.16.0: the game's answer first
+    if seen == false then return false end
+    if sight_mod then
+        local okv, v = pcall(sight_mod.verdict, player, unit)
+        if okv and (v == "underground" or v == "unreachable") then return false end
+        if okv and v == "around" and seen ~= true then return false end
+    end
+    if ev_mod == nil then
+        local ok, m = pcall(require, "events")
+        ev_mod = (ok and type(m) == "table" and type(m.los_failed) == "function") and m or false
+    end
+    if not ev_mod then return true end
+    local okf, guid, at = pcall(ev_mod.los_failed)
+    if not okf or guid == nil or type(at) ~= "number" then return true end
+    if (R.now() - at) > LOS_HOLD then return true end
+    return R.guid(unit) ~= guid
+end
+
+--- Can the player see `unit`? Cached briefly per unit.
+function Rg.has_los(player, unit)
+    if not player or not unit then return false end
+    local g = R.guid(unit)
+    local t = R.now()
+    if g ~= nil and g == los_cache.guid and (t - los_cache.t) < LOS_TTL then return los_cache.v end
+    local okd, range = pcall(player.distance_to, player, unit)
+    local v = raw_los(player, unit, okd and range or nil)
+    los_cache.guid, los_cache.t, los_cache.v = g, t, v
+    return v
+end
+
+--- in_range (hitbox, the client's own test), centre distance, has_los.
+function Rg.in_fight_range(player, unit, yards)
+    yards = tonumber(yards) or 20
+    if not player or not unit then return false, 99, false end
+    local ok, range = pcall(player.distance_to, player, unit)
+    if not ok or type(range) ~= "number" then return false, 99, false end
+    local los = Rg.has_los(player, unit)
+    local in_range
+    local okr, hit = pcall(unit.is_in_range, unit, yards)
+    if okr and type(hit) == "boolean" then in_range = hit else in_range = range <= yards end
+    return in_range and los, range, los
+end
+
+--- Within `yards` (3D) of `dest`?
+function Rg.arrived(dest, yards)
+    local hx, hy, hz = R.here()
+    local x, y, z = R.xyz(dest)
+    if not hx or not x then return false end
+    return R.dist3(hx, hy, hz, x, y, z) <= (tonumber(yards) or ARRIVE)
+end
+
+--- Sentinel steers round walls and objects itself; a straight line is never
+--- "blocked" for the caller (path_runner skips a waypoint only on a failure).
+function Rg.line_blocked() return false end
+
+--- Target selection: false only when the navmesh says it cannot be reached.
+function Rg.can_reach(_, dest)
+    return N.reachable(dest) ~= false
+end
+
+return Rg

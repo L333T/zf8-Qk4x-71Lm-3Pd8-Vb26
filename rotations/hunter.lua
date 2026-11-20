@@ -1,1 +1,219 @@
-return(function(...)local j={"&cn;<`JU/","WN7STyCmVHzzXOR==";"&;C";"&F*VAMcQi^*L/4\"`","Ww4==";"&qslPQ\\]PsV@bj","WmU75wCGN8/sX4R==","&sJ)Ee","&#c%QLnAF%i((M?-er>";"&]PRo\"M)1[b%SkXE;MLo>B^@d";"&+Al^u]_";"&UB?rXg9q";"WKzEQZZ2Q";"WPO9Z+HS4";"&IY!/\\f6Q";"WIFa3VPoZ","Wc244";"&=V","&j%mbCo!m","WyEX5";"&C#a\\mP.1.+MIkb";"&O$(h","Wip2/IixU/0k=";"WcTMcWpPTfiQzKZJBz+j=","&a)O13B-d;>;m=","W9WO4GPho","WgtdQd8C1t9lkvH+=","WEfRldaFrBV8I","&S8.I#YfY_JUW";"&][tUgmm","W21lY","&cOnIL>Q[GE]6F";"WuzFtHStsbk==";"WIpUSKj2v/xJjWR==";"&olUl/";"&8b&3iX*u";"&=q\"NEMXKb(<&<Zp";"&/jue_=I$]>0h0Jr","&[0bF","&EV8cGscJI?,O","&_oO=2>hUE";"W5zvIR8jhP4==","&p]\":Q","&US8^\'GCN";"Wi4YF","&";"WAhlfE9s9bhhj","&gBre?UW";"WW0+NNR==","&p<A/T";"&!]tZIg;A&";"&hB0@";"WwgQ3owTcHSplVSr=";"&>nE,H<!GD>";"Wja2ZivNuExpq","&m+Pl\\l4_K>O#s[Fi_4<(\\2J3","&[]b6","&OA>08MA;*\'!1","&h(UD6<97,Ldi","&e6\")";"Wgd2oDw/alJtX","WctaOvQS3"}for c,u in ipairs({{((99747-(-113098))+119926)+-332770;1905377922%(-532519+(8411772-(-194382)))};{(211744686176%(141049781902%((2098943103%(((-326945-(351994+(-554080+-441993)))+542486)+9790457)-(-26406))+939450215)))%9302146,1277274239%13734131},{-387891+387948,-510482+510544}})do while u[917078881%5731743]<u[(825238157%3312662+-958851)-(-573534)]do j[u[(-117248-(-689771))+-572522]],j[u[812474-812472]],u[2612700099%14843148-(40714+265336)],u[693586640%(4235775-(-45624))]=j[u[-493211+493213]],j[u[1159701852%5712817]],u[1040548-1040547]+1097604746%12912997,u[(157083191-1924612690%7635638)%(-335760+7146685)]-(115786+(490119-605904))end end local function k(c)return j[c-264849430%5092529]end do local c=string.char local u=table.concat local B=math.floor local R=string.len local m=j local G={R=22622-22590,w=796995+-796972;P=-176850+176905;s=20052+(507316-527366),e=29695+-29684,u=24955-24909;p=-224608-(-224613);["/"]=856110+-856047;["1"]=695677+-695635,O=1752361751%11021143;["9"]=-312881+312882;D=444027+-443976,["0"]=-318960-(-319022),X=3486235904%13725338;d=227739-227685;Q=-746567+746628;H=-392697-(-392726);z=67626858%1352537;J=584333-584307,U=(-1084828-(-698655))+386213;y=2109582487%11918545,K=605632+(-497235-108390);["6"]=-193826-(-193862),V=278739+-278712;W=51091971%(5000580-(-676299)),C=-59914-(-59963),I=-1011035-(-1011063),S=3094662606%(4432432394%18486346);t=-709591-(-709610),T=581181572%12365565,j=4116214779%16530983,i=(135753490045%1103801572)%7164147+-747893;["4"]=-205451-(-205499);x=(11835+-1055231)+1043427,h=-1019941-(-161142-858817);L=529164153%2972832,q=844430+-844421,b=(798474911921%3326997941)%(((123525+(207383+-1362440))+13808450)-(-952024));o=((-428265+(680049-(1047444-626035)))+-487457)-(-657107),r=103555860%5177792,F=-409707-(-409745);B=-99208+99211,["5"]=-483709+483724;["8"]=219549+-219505;M=2536343229%13784474;["3"]=76336+-76291;E=-533245-(-533292);["+"]=165883-165827;a=(-723799+663830)+59990;Y=-317273+317314;k=-78594+78610,["2"]=-269441+269491;m=(772769+-1425714)+652975;n=-663201+(154626+508634);["7"]=(501736-(896536-339509))+((-740082+(-203177+1065639))+-67085);Z=226216533%1285321;l=86174-(((-68493+-768264)+(637046-530150))-(-1296341-(-480340))),A=(3713940382-(-927976))%15942349+-301002,G=588284051%5656577,v=706615+-706605,c=(537176+1216683733)%5714652,N=237552+-237552;g=(1412717-751316)-661348,f=592329+-592294}local p=table.insert local o=string.sub local a=type local O={O=933337+-933323,m=178953207%(431844-((-395316-(690752+282661))-(99627+-621963)));["8"]=-649517-(-649580),["\""]=-559050-(-559068),d=423807553%5576415;C=(84362431886%659173071)%6474518;K=281670802%14083538,["^"]=99057+-98985;F=-1000727-(-1000780),["?"]=1023275+(23157+-1046425),["5"]=466235+-466165,Y=275422+-275354,I=67561505%274640;G=-953475-(-953510);["@"]=745945+-745941,e=708248-708214;M=1992731853%11387039;[">"]=626038-626017,c=357493749%7944305;R=(-1017261-(-827033))+190244,P=(531735+(391298+-811435))+-111548;["1"]=324731+-324686;["2"]=-684510+1663264438%8843510;l=(-587670-397016)+984687;["!"]=1553232480%9413530,["7"]=1189177347%12250122+-915510,u=-315039+315090;g=582426305%11420123;t=274451+(-598236-(-789007-(-96256+-368926))),h=(874845-(-132322))-1007109,s=(233216013510%1586524183)%8204574;["+"]=1537999472%7284219+(-625860+-403347);H=(101536+776147)+-877604,N=(446318+-722840)+(-345520-(-622044));["0"]=384078616%9367771,["*"]=444505+(884897+-1329393),b=-424743-(-424792);D=-54013+54056,B=867881-867803,p=(1142106-816088386%(627784+(-536177+3224720)))-870131;[";"]=-61324-(-61346),["<"]=588987760%14724692;W=1848107782%15148424,a=-5225+5262;["("]=867047-866980;k=180900602%1214098;j=(-520119+642023377)%11879689;Z=318376486%13842454;J=-598474-(-229064+-369485);[":"]=-390571+(856171-465594);["&"]=-391575+391659,["9"]=(21564494-681874)%151323,["%"]=-60309+60328;["-"]=220323227%(373538+1921495),["#"]=(51955809304%(1180519078-(-441590)))%5701459;[")"]=612057250%10552711,["3"]=((-711142-(-398316))+673401456)%9754907,T=407674-407600,["]"]=-93959+94014,r=(-868175-(-669892))+198291,["6"]=606932751%3334795,U=916259-(1062073-145850),f=47749907%3673065;q=-27282+27339;["`"]=882310+(-57683-30455748%7407801);E=(393518+(-125273-478579))-(-210372);["$"]=(444397+1946352711)%14005734,["["]=601414117%8844325;[","]=1956174079%16438437;["4"]=(-1011464+236442)+775042,S=(28762921128%(130308231-(-316586+467921)))%661876;i=1482093347%11060398;n=2311944303%11795634,["\\"]=1174002446%15653365;V=1835407746%11471298,["="]=-239914+239991,A=530513+-530453,X=-288903+473839130%3913638;_=(1044922-563171)+-481728,L=-369893-(-369926);["/"]=-505588-(-505613);["\'"]=701934-701853,["."]=-88738+88779,Q=73467-(-253339-(-326795));o=32144+-32071}for n=-859919-(-859920),#m,902823-902822 do local P=m[n]if a(P)=="string"then local a=o(P,48326-48325,-527882+527883)if a=="W"then P=o(P,627873096%13359002)local a=R(P)local O={}local J=2195360641%12196448 local d=-860702-(-860702)local W=15266181%(57750+5030977)while J<=a do local u=o(P,J,J)local R=G[u]if R then d=d+R*(((35938364-629782)%720582)^((724368420%10498093-W)))W=W+(802116+-802115)if W==209008586%(((-85891-383601)+2945856900%14865212)-320901)+(-692005+472612)then W=-211743+211743 local u=B(d/(-1041910+1107446))local R=B((d%(656881+-591345))/(105359+-105103))local m=d%(3376110656%14552200)p(O,c(u,R,m))d=1037076192%4470156 end elseif u=="="then p(O,c(B(d/(327902836%1561130))))if J>=a or o(P,J+(398769-398768),J+(67830+-67829))~="="then p(O,c(B((d%(-835966+(1051039-149537)))/((204687212%110702566)%6265626))))end break end J=J+2414671%2414670 end m[n]=u(O)elseif a=="&"then P=o(P,1309990958%6968037)local G=R(P)local a={}local J=475475304%((-608670+813728321)%20455942)while J<=G do local u=(G-J)+(322476+(-172733-149742))local R=u>=-71555+71560 and 39618+-39613 or u local m=-943253-(-943253)local n=R>-314864+314865 for c=752857+-752857,-298755+298759,670851910%5637411 do local u if c<R then local B=o(P,J+c,J+c)u=O[B]if not u then n=false break end else u=498003161%3482539 end m=m*(-924328-(-924413))+u end if n then local u=B(m/(-901244+17678460))%(831146087%8069377)local G=B(m/(416890-(-156503+507857)))%(855741+-855485)local o=B(m/(2404168371%(15546155-(-1031464))-(76706+336654)))%((1351730-975877)-375597)local O=m%(3389179409%(755360970%8581389+5024327498%27371878)-688075)if R==-7560+(-884769+892334)then p(a,c(u,G,o,O))elseif R==1016009876%(((760204+-758021)+156525)+3938106)then p(a,c(u,G,o))elseif R==-683990-(-683993)then p(a,c(u,G))elseif R==(86162973958%(11384746503%2279246314))%15998637 then p(a,c(u))end end J=J+R end m[n]=u(a)end end end end local Q,F do local c=math[k(142613-104649)]local u=string[k(514615-476649)]local B=-557428+557428 local R={}local m=-450119-(-450121)local G=table[k(70720089%480831)]local p=math[k((866003+-1806518)-(440315+(-1741748-(-322958))))]local o={}for c=1028219-1028218,279297-279041,893223-893222 do o[c]=c end repeat local c=p(-807639-(-807640),#o)local B=G(o,c)R[B]=u(B-(-220023+220024))until#o==(844562+2867258919)%12309457 local a={}local function O()if#a==1043254840%12722620 then B=((B*((-736775-185125)-(-921965))+(7733349727065-950346)))%(-597134+35184372685966)repeat m=(m*((-318730+1090088098%8065899)+-872779))%(236244+-235987)until m~=529939131%(1499556725%(5142853934%26702141))local u=m%(-76162-(-76194))local R=1495614763%10174250-((m-u))/(-109843+109875)local G=(c(B/((236451-887652)-(-651203))^R)%(285018+4294682278))/(66332630%1842573)^u local p=c((G%(-73038+73039))*((35655542076240%848941518420)%4309412519))+c(G)local o=p%(2936166046%13981431)local O=((p-o))/(-743999-(-809535))a={o%((926336+-1204475)-(-278395)),((o-o%(58270956%(1685753423%(6258278376%33915086)))))/(559071+-558815);O%(2009730656%10048652),((O-O%(-185211+185467)))/(748174-747918)}end local u=#a local R=a[u]a[u]=nil return R end local n={}F=setmetatable({},{[k(587632-549665)]=n;[k(936396+-898427)]=nil})function Q(c,u)local G=n if(G[u])then return u else a={}local p=R B=u%((35184370405917-(-829044))-((692926+-1455824)+-90973))m=u%(109252954%2020456-148075)+(65653+(31596+-97247))local o=#c G[u]=k(203455872%2260199)local n=914240+(-257059+-657001)local P=k(1078898010%7339184)for u=-199899+199900,o,((-4330+10947677012%3654536318)-283813)%16689524 do n=(((string[k((453412+341540)-(229929+527064))](c,u)+O())+n))%(-1037460+(481091027%2244567-(-284027)))P=P..p[n+(-950853+950854)]end G[u]=P end return u end end local c=require(F[Q(k(907850132%(-555849+2513416549%12055082)),(11542138709719-(-995441))-460385)])local u=require(F[Q(k(1267340949%(1417333265%20728800)),2.6352937087556e+14%2160076884046)])local B=require(F[Q(k(-593516+631489),30686464541118-(-1279138-(-980934)))])local R=require(F[Q(k(938525549%5213820),35090983728176-919226)])local m=require(F[Q(k(32068+5890),(-658599+(19913820555220-(-754886)))-532413)])local G=require(F[Q(k(970863+(-1885085-(-952187))),-107276+9615024212339)])local p=require(F[Q(k(771031488%(1447474705%13322332)),807988+10883771424857)])local o=require(F[Q(k(-199955+1735734642%8634312),1716379536674-280319)])local a=require(F[Q(k(1528916066%6618520),8514325299700-49232)])local O={}local function n(c)local u,B=pcall(c)if u then return B end return nil end function O.class_id()return u[F[Q(k(-403536+441475),-822439+33672529042870)]][F[Q(k(1272692191%(9789301-(((510988949310%2675383348)%12061331-(-95713))-1045616))+(((-1310064-(-765819-(-510002)))-24676)-(-945286))),-1028144+14369403883117)]]end function O.label()return F[Q(k(-798530-(-836460)),-634873+16318132688767)]end local P=1445366151%9765987 local J=771726908%3674890 local d=1606567870%(4063641424%20968019-251202)local W=276184+-276173 local t=-641969+641972 local z=-268944+268984 local Z={-47839+50813;207904285%(-108208+14957495),720555-706287,184369885%5760958;(453033034-(-613083+210621))%2337270,480213877%(519891+4939299375%19350195);(-817065+1034852310)%(11366733-127428),592658+-573155;954642-((1525657-612505)+38135);-284206+1619393585%(1723018711%21370472),-234971-(-407772-(-158492))}local Y={[F[Q(k(95020-57039),373393+30111578550119)]]=-916148-(-916147);[F[Q(k(572580756%3948571),(378107+11653900273500)-858987)]]=nil;[F[Q(k((33078599410%525195303)%4452178),-241472+10494174253361)]]=nil}local function q()local u=c[F[Q(k((124545-(-822639))-909251),26868199830476-451095)]]()if(u-Y[F[Q(k(336856863%1754265),26679256888107-(-143050+-490085))]])<787655-(1365086659%(178656177%16429713)-189549)and Y[F[Q(k(685602+-647666),(-608755+(21485107734675-(847067+-550209)))-(-1433390-(-902764)))]]then return Y[F[Q(k(290553+-252585),(997734+(8384773287232-878390))-(-675352))]],Y[F[Q(k(89089991%1203406),165663+(23509679465559-(-614868)))]]end local B=n(function()return core[F[Q(k(1234085591%(-937014+10357225)),874329+2646633721501)]][F[Q(k((8242411865%105700425)%(1399175636%11171628)),3952070060917-369570)]](P)end)local R=n(function()return core[F[Q(k((73823-(-588617))-624492),299907+(24680341598377-935127))]][F[Q(k(3323480614%14325184),2350814328252-493225)]](P)end)if type(B)~=F[Q(k(1261994597%5392977),428272+((-659692+471803)+33723225891019))]or B<=(-631321-279018)+910339 or B>-874029-(-874044)then B=J end if type(R)~=F[Q(k(505689+-467737),-979618+34874788310321)]or R<(784310+-1495970)-(-711680)or R>3286935450%16434677 then R=d end Y[F[Q(k(281499+-243565),211185+3204521959915)]],Y[F[Q(k(-515915+553870),-387600+5396791994295)]],Y[F[Q(k(1147027886%4643684),2712867393492-(-1957046-(-335301-614571)))]]=u,B,R return B,R end function O.dead_zone()local c=q()if c>W then return c end return W end O[F[Q(k(-687058+725042),861244+16014483025965)]]=W O[F[Q(k(206262-168325),101692+15498703665632)]]=t O[F[Q(k(-737148+775128),32301726370631-261253)]]=z function O.gun_range()local c,u=q()return u end local function b(c,u)if type(B[F[Q(k(802303-(-587023+1351398)),20714692938662-162917)]])==F[Q(k((92721432455%433280690)%(2150558286%9213137)),-655713+2742839395743)]then local R=B[F[Q(k((-87402+419741688)%7493149),5614688394486-671478)]](c,u)if type(R)==F[Q(k(440250058%2096248),790304+32247178261314)]then return R end end return u end function O.can_kite(c,u)if not c or not u then return false end local B=n(function()return u:get_target()end)local R=B and n(function()return B:get_guid()end)or nil local m=n(function()return c:get_guid()end)if R==nil or m==nil or R~=m then return true end return a[F[Q(k(476041869%(887122735%3798314)),34690584567668-(-190438))]](u,Z)==true end function O.melee_mode(c,u)if not c or not u then return false end local B=n(function()return c:distance_to(u)end)return type(B)==F[Q(k(759269237%9373226),32524821358873-292957113%((2385854046-(-365146))%26388654))]and B<=O[F[Q(k(1309140362%(79565085%(3210794671%39844535)-451469)),28664577596892-(-831361))]]()end function O.engage_range(c,u)if O[F[Q(k(683942+-646001),23233806738352-(-784475-(-200401)))]](c,u)then local c=b(F[Q(k(969978-932035),(-114040+26023406834214)-420380)],t)if c<829360+-829359 then c=2103686832%(9706265-977274)elseif c>t then c=t end return c,true end local B=b(F[Q(k(-295802-(-333784)),-532884+13198944780054)],465747230%8468131)local R=O[F[Q(k((503877+(-950428-(-634489)))-(-603615-(-753582))),-992532+11885944351260)]]()-(-713381-(-713382))if R>z then R=z end if B>R then B=R end local m=O[F[Q(k(353068686%5431242),31838248013681-972572)]]()+(936820-936818)if B<m then B=m end return B,false end function O.combat_range(c)local u=O[F[Q(k((837718-(-596498-(-692559)))+-703683),(-832639-(-437401))+23074783178136)]]()-1619747194%9048867 if u>z then u=z end return u end function O.is_melee(c)return false end function O.scan_range(c)return(153070+947077734)%11276556 end function O.combat_profile()local c=O[F[Q(k(82625162%461381),452369+5710471213219)]]()return{[F[Q(k(283358+-245434),7.6402443519564e+14%(109606+3410823301285))]]=F[Q(k(-1041057+1078992),272703+17724906807894)];[F[Q(k(1057477-(430137-(-589387))),121868+(-553268+9164495010276))]]=c;[F[Q(k(-122762-(-160685)),-656626+34371798945413)]]=c+(355814-355808);[F[Q(k(-330713-(-368638)),16983412002233-(-485868))]]=function(c)return false end}end function O.rest(c)return R[F[Q(k(316923+-278972),-377226+621980525066)]](c,{[F[Q(k(245840-207883),33407378086435-(121527+-189710))]]=13346493%580281,[F[Q(k(977277+-939300),((2128836850388-(-984090))-253619)-204203)]]=652657-652627})end return O end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Hunter grind filler + OOC buffs (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- Pet handling lives in pets.lua, shared with the Warlock.
+--
+-- THE DEAD ZONE
+--   A Hunter cannot shoot inside roughly 8 yards and its melee is weak, so the
+--   combat profile keeps the target OUT, not in. This is the only class here
+--   whose melee_danger means "too close to shoot" rather than "about to die",
+--   which is why it is the only one that retreats unconditionally when closed
+--   on - see combat_profile.
+--
+-- SPELL IDS
+--   Highest rank first. A wrong id fails CLOSED but silently; mfz_hunter_debug
+--   prints what the scanner actually resolved. Run it once before trusting the
+--   rotation.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local pets = require("pets")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local hunter = {}
+
+local function safe(fn)
+    local ok, r = pcall(fn)
+    if ok then return r end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function hunter.class_id() return enums.class_id.HUNTER end
+function hunter.label() return "Hunter" end
+
+-- ----------------------------------------------------------------------------
+-- RANGES AND THE MELEE / RANGED SWITCH (2.120.0)
+-- ----------------------------------------------------------------------------
+-- The gun range and the dead zone come from Auto Shot itself (the spellbook's
+-- min / max range), not from constants: the dead zone was a hard-coded 8 yd
+-- and the combat range a hard-coded 34, and the Ranged attack distance slider
+-- defaulted to 25 - well short of a gun's reach.
+--
+-- A Hunter is ranged AND melee:
+--   * outside the dead zone it shoots, standing at the Shooting distance
+--     (GUI, default 35 = max gun range, capped 1 yd inside the real range);
+--   * inside the dead zone it steps back out and shoots again ONLY when that
+--     can work - the pet holds the mob, or the mob is slowed or rooted (Wing
+--     Clip, Concussive Shot, Frost Trap, Entrapment);
+--   * otherwise it stays and fights in melee at the Melee distance (GUI,
+--     default 5): Wing Clip, Raptor Strike, Mongoose Bite and melee swings.
+--     Wing Clip landing makes the mob kitable, so the next tick backs off.
+-- The old profile backed off from anything inside 8 yd, always: a mob on the
+-- hunter just followed, and the bot stepped back, got hit, stepped back.
+--
+-- MELEE BAND AND 40-YARD RANGE (2.222.0)
+--   Replaces the kite-out rule above. At or inside MELEE_BAND (11 yd) the
+--   Hunter always fights in melee: it closes to MELEE_CLOSE (3 yd), swings
+--   and uses the ticked melee spells; no shot is cast there (the shots carry
+--   min = 11 in data/class_spells). Beyond it, Auto Shot and the ticked
+--   shots, from the Shooting distance - at most RANGED_MAX (40 yd), and never
+--   past the weapon's real reach, where no shot can land.
+local AUTO_SHOT_ID = 75
+local DEAD_ZONE_FALLBACK = 8
+local GUN_RANGE_FALLBACK = 35
+local MELEE_BAND = 11
+local MELEE_CLOSE = 3
+local RANGED_MAX = 40
+local SNARE_IDS = {
+    2974, 14267, 14268,          -- Wing Clip
+    19229,                       -- Improved Wing Clip (root)
+    5116,                        -- Concussive Shot
+    13810,                       -- Frost Trap Aura
+    19185,                       -- Entrapment (root)
+    19503,                       -- Scatter Shot
+    3355, 14308, 14309,          -- Freezing Trap
+}
+local range_cache = { t = -1, min = nil, max = nil }
+
+local function spell_ranges()
+    local now = izi.now()
+    if (now - range_cache.t) < 10 and range_cache.min then
+        return range_cache.min, range_cache.max
+    end
+    local mn = safe(function() return core.spell_book.get_spell_min_range(AUTO_SHOT_ID) end)
+    local mx = safe(function() return core.spell_book.get_spell_max_range(AUTO_SHOT_ID) end)
+    if type(mn) ~= "number" or mn <= 0 or mn > 15 then mn = DEAD_ZONE_FALLBACK end
+    if type(mx) ~= "number" or mx < 20 or mx > 50 then mx = GUN_RANGE_FALLBACK end
+    range_cache.t, range_cache.min, range_cache.max = now, mn, mx
+    return mn, mx
+end
+
+--- At or inside this many yards the Hunter fights in melee (2.222.0): the
+--- 11-yard band, or the game's own dead zone if that is ever wider.
+function hunter.dead_zone()
+    local mn = spell_ranges()
+    if mn > MELEE_BAND then return mn end
+    return MELEE_BAND
+end
+
+hunter.MELEE_BAND = MELEE_BAND
+hunter.MELEE_CLOSE = MELEE_CLOSE
+hunter.RANGED_MAX = RANGED_MAX
+
+--- The gun's (bow's, crossbow's) real reach.
+function hunter.gun_range()
+    local _, mx = spell_ranges()
+    return mx
+end
+
+local function slider(key, fallback)
+    if type(gui.slider) == "function" then
+        local v = gui.slider(key, fallback)
+        if type(v) == "number" then return v end
+    end
+    return fallback
+end
+
+--- Can the hunter open the gap on `target`? The pet (or anyone else) holds
+--- it, or it is slowed / rooted - then stepping back out of the dead zone
+--- works. A mob that is on the hunter and moving freely just follows.
+function hunter.can_kite(player, target)
+    if not player or not target then return false end
+    local tt = safe(function() return target:get_target() end)
+    local tg = tt and safe(function() return tt:get_guid() end) or nil
+    local me = safe(function() return player:get_guid() end)
+    if tg == nil or me == nil or tg ~= me then
+        return true
+    end
+    return auras.debuff_up(target, SNARE_IDS) == true
+end
+
+--- Fight this target in melee right now? At or inside the melee band,
+--- always (2.222.0) - no stepping back out to shoot.
+function hunter.melee_mode(player, target)
+    if not player or not target then return false end
+    local d = safe(function() return player:distance_to(target) end)
+    return type(d) == "number" and d <= hunter.dead_zone()
+end
+
+--- The engage distance rotation.combat_range uses for a Hunter: the Melee
+--- distance while fighting in melee, the Shooting distance otherwise.
+function hunter.engage_range(player, target)
+    if hunter.melee_mode(player, target) then
+        local m = slider("melee_yards", MELEE_CLOSE)
+        if m < 1 then m = 1 elseif m > MELEE_CLOSE then m = MELEE_CLOSE end
+        return m, true
+    end
+    local want = slider("ranged_yards", 25)
+    local reach = hunter.gun_range() - 1
+    if reach > RANGED_MAX then reach = RANGED_MAX end
+    if want > reach then want = reach end
+    local floor = hunter.dead_zone() + 2
+    if want < floor then want = floor end
+    return want, false
+end
+
+function hunter.combat_range(player)
+    local r = hunter.gun_range() - 1
+    if r > RANGED_MAX then r = RANGED_MAX end
+    return r
+end
+function hunter.is_melee(player) return false end
+
+-- The dead zone: a Hunter cannot shoot inside ~8 yards. Unlike every other
+-- caster here, being closed on is a DPS problem rather than a survival one, and
+-- the pet is holding threat anyway - so this retreats whenever something is in
+-- melee, with no profile condition to satisfy.
+--- How far out to look for something to fight.
+---
+--- A hunter pulls at range and has a pet to hold what it pulls,
+--- so it wants the same warning a caster does.
+function hunter.scan_range(player)
+    return 100
+end
+
+function hunter.combat_profile()
+    local dz = hunter.dead_zone()
+    return {
+        name         = "hunter",
+        melee_danger = dz,
+        melee_safe   = dz + 6,
+        -- No backing out (2.222.0): inside the melee band the Hunter closes
+        -- to 3 yd and fights in melee.
+        should_retreat = function(ctx)
+            return false
+        end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- COMBAT
+-- ----------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat or drink. The thresholds are this class's to choose; the
+--- machinery lives in resting.lua so a fix lands once rather than nine times.
+function hunter.rest(player)
+    return resting.tick(player, { eat_pct = 30, drink_pct = 30 })
+end
+
+return hunter

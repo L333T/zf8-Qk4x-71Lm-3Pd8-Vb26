@@ -1,1 +1,168 @@
-return(function(...)local O={"e11==";"UG]pOX";"Uk6L,7\'G?0[.Hk$Z>j][F";"e5emuKW0WaynZhJkG27Z=";"ePgAjOJD=","evPwu0GzfGbLBiT==","e93uS/T==","eoeRP","eWVITsuu=";"U\"G\'\'-`9A6g9^\\V8%0I#AUN";"eBrHMJlJEsMU3saEQI3vKvp1=","UYDmpOgH:";"e+WYcOgevX1==";"UI`dH5","UVWZ,:S(NO.\\%AuV","ec5g0ILZlvMbb4Lr6zwZ=";"UeVUb0";"Uud0/%GV","eEu==","UET$3Ot,CH>[`A";"U";"eOgWw9MuIbd4Nx1==";"eKW69Y96vQB1h";"eA2QjKkxDviDPb1==","U;[UV<NHHRF","ej1==","U1HFGn*\'&SK60tA=c.iDjFD","el0e1/Squ3Z==","ejeBa7u==";"e0qq3";"epso5Bpavgu==","U4I;\'=QAT8UO_6q";"eFglrOJPv";"e9n/S0sizVZ==";"eEJeC7InEXOvTU6CM","eOi8jou==";"e4fv8PT==","e3Mwx","UNJf,CA06kf";"U9B.SWH/";"U96","UeF&TKmN\"";"U2JEu(167","ews+uUBmdb93MmBJDwoZOIZ==","U4\\HD^IsC%qu=\\@,^KFfndYk9s";"U@d)hq#^e8";"UC2q:@B!0uOUN";"UjpuE@+k#mX";"UOg=Sr","Us@qYg";"eEJ4LdN8O3DZ0Zu==","UFcKo?EhpNq!EPm","U\\8em*9G\\Nf)pj]","eIsSVXLr7/shUvu==";"el8a+XM1bdV1=","UdC2mcANIC,-$\"A<8>Vl-!c,(U","UKuX%","ehgEMeQfaJFj7NX+/kcI=";"Uic*Ail:_","U5nCg2qmjCK";"e1oXs/v0bc9D="}local function u(p)return O[p+((32649404-586268)-(-363918))%16192018]end for p,G in ipairs({{(67806872897%421253482)%5975232;794620+-794559};{933862117%14149426,-384995+385025},{-53158+53189;416206+-416145}})do while G[-833838+(835313-1474)]<G[808815-(232679+(1007165-(955703-(((103162500-(-114455))-(-699078))%14768310-73191))))]do O[G[2480688301%16537922]],O[G[-538665+538667]],G[703177+-703176],G[522790+-522788]=O[G[-494902-(-494904)]],O[G[-581250-(-581251)]],G[2305938331%11472330]+(-858550+858551),G[465983-465981]-(564102+-564101)end end do local p=O local G=table.insert local k=table.concat local Y=type local T=string.sub local H=string.char local B={G=1540996751%(779188+7781905),["8"]=((153847342634-316552)%729208530)%3657614;["3"]=(961620531-949078)%7564342,V=241681+-241624,["6"]=((3687324459-(-359218))-(991672-675115))%(1699462548%15312837);q=874733-874689;T=-601457-(-601473),h=(-247906-(-996328-40955))-789373;["2"]=650532-(967179+-316662),s=-280846-(-280879),t=-838679+838713,e=1034779157%5446206,["0"]=344585-344572,I=1402485770%5609943;["5"]=-474834+474865,m=-288348+1765206786%12882616,j=473874173%14359822,b=317358592%7380431,R=((644730+20695)-(-118023))-783445;a=110006-110001;z=((144284+-730665)+52386213004%242535379)%9250774,y=(-148807+-207675)-(-356517);g=-814841+814879,k=-54746+54786;d=799687468%15088442;u=296873-(314672434453%3055086794)%13630735,x=262732765%1602029,o=-239181-(145853+-385094),["1"]=-484314+(-131153-(-615467)),C=-872819+(725234+147591);N=660305879%2797906,O=369982+-369955;["9"]=145477+(1019330+((543664-323005101%2577147)-846683));M=201553807%1361850,["/"]=167229362%15202666;r=(-222888-(-582330))-359397,B=-163502-(-163560),f=(-604331+35104)+(299474+269792);D=861070071%6474211,H=322605+-322604;p=174259-174237;Z=598521-598489;K=(37560840052%766753629)%(-529366+((1412684418-9374)%(505318309%6168116)-347032));W=338523-338470,S=(-364167+773701)-409478,["+"]=-523438-(-523461),F=(400373+-433146)+(-30248-(-63049));["4"]=(1511610-514347)-997239,Q=600182+-600153,Y=-934244+934305,E=(-73804+((305177+-1016166)-(-155413)))+629434;c=(2113657009%9109971+-426423)+268372748%5704043,v=13087405%63224,X=(961588+3182233250)%14737013;["7"]=-245928-(-81980-(-951385+1115384)),U=1738258008%9395989,w=164167+(525913-(((2487533-350239)-((444590+-868138)-(-955910)))-(((-795055-(-642460))-((655112-(-417200-(-942968)))+(458817+(-349653+634549))))+1940516)));P=-218733+218758,l=(-1018156+(188689+1019481))-189993;A=93345+-93296,J=605103-605048;n=-986400+986402,i=46394102%11598519,L=(1641995-979709)-(-73-(-662341))}local R={["9"]=368806440%1739653,N=321329940%1879122,Y=2816109839%(12706419-78124),u=940255+-940183;n=1010519+-1010498,["*"]=671572-671496;["3"]=704061-704000,["="]=-388909+388969,h=87261-87222,Z=(-481784+70047894)%1288261,["-"]=-544710-(-544777);["\""]=(596412704-(1985+843107))%12947121,G=(768046+1276044601)%5046690;s=(942206+636932055)%11812486,["4"]=(847918673-509843)%11298784,X=(442630+-1218980)+776429;W=537124386%16276494,U=2419642648%(572573+13577384),S=-1006283+1006308,["+"]=3086877646%14159989;["?"]=182294210%1402263,["2"]=3629598377%16877152+-1010661,["/"]=172828+-172796,H=(463791320017%2273539149)%(509959+13204421);f=243892+(708032-951882);j=1994036649%8823171;["!"]=2674274356%16406591,["0"]=355798-29536605%405290;q=674286502%(5508620027%28605073);["$"]=-84375+84383,["&"]=-135402-(-135451);[";"]=-822813+822853;O=-141480-(-141511);i=(-229015-(-374568))+-145495,p=2312477621%16400550,["^"]=968038-968020;M=2600415930%14132695,["@"]=1493472917%9697876;["#"]=669727-669705,g=545469650%2560890,a=804110+(-1169584-(-365483));K=56432-(-262282-(-318707));l=-497660-(-497712);m=442922+-442895,k=-1030560+1030625,P=-773021+773047,d=-64049+64106;J=1001540+((-962481-(-358498))-397493),["1"]=-895109+895144;o=(-712378+1629171)-(1858753-941960),B=-69457+69516;["6"]=-856771+856840,["<"]=582783-(305187+277514);C=-569887-(-569930),["("]=-756975+757056;["`"]=111984225%(-114865+1550560),c=632043122%13447725,["5"]=-910242+910254,["%"]=(-1006702-(-1095))-(-1005673),[">"]=1747817453%15467411,[")"]=525466509%2809981;_=(-499812+332432793)%(2160823682%16086845);L=-278663+278746,[","]=565884+-565855;F=-490380-(-395036-95392),[":"]=518342-518301,D=-404856+404901;A=911895+-911861,I=996573815%7118384;["8"]=1739138418%(16825762-(1206756-((201532-(1004333+(-878356+14291127))%6989817)+862525)))-859943,e=124753764%3282992,["["]=300242921%2780027;Q=449296981%6607308,["."]=(-903544-(-223434))+680138,b=156737+-156723;["]"]=1153875095%((1904062942-(-102273))%25948192);["\'"]=1933127540%9384114,t=832750-((581539+-1214011)+1465203),["7"]=-489369-(-489371),V=-427308+427346;R=314649+-314643;T=-766162-(-766195),r=-85316+85390;E=527572-19025953%(1035966-439242),["\\"]=-551833+551908}local L=math.floor local P=string.len for t=509421-509420,#p,(832501+-680229)-152271 do local O=p[t]if Y(O)=="string"then local Y=T(O,201966731%5770478,1381304434%(433691963%19126718)+(197599-135815804%4657229))if Y=="e"then O=T(O,36285479%12095159)local Y=P(O)local R={}local u=485964-485963 local r=339054-339054 local o=(-765532+116702)-(-648830)while u<=Y do local p=T(O,u,u)local k=B[p]if k then r=r+k*((22765632%3252224)^(((-348596-(-348599))-o)))o=o+(486641+-486640)if o==-924918-(-924922)then o=(-490890+902448)+(1037316+-1448874)local p=L(r/(-355171-(500274+-920981)))local k=L((r%(-12416-(-77952)))/(762688456%6355735))local Y=r%(-68538+68794)G(R,H(p,k,Y))r=-28497-(-28497)end elseif p=="="then G(R,H(L(r/(-891674+(776128-(-181082))))))if u>=Y or T(O,u+(-593927+593928),u+81395346%16279069)~="="then G(R,H(L((r%(709701636%(3276525426%26740432)))/(3863+-3607))))end break end u=u+(930980+-930979)end p[t]=k(R)elseif Y=="U"then O=T(O,1021296+(-473256+-548038))local Y=P(O)local B={}local u=(132889+-777945)-(-645057)while u<=Y do local p=(Y-u)+(-539146+539147)local k=p>=181859741%15154978 and 381467813%15894492 or p local P=-426382-(-426382)local t=k>(231340+-1057817)-(-826478)for p=(33554935333%2582224809)%16569275,(-777002+6080)-(-770926),-127973-(-127974)do local G if p<k then local k=T(O,u+p,u+p)G=R[k]if not G then t=false break end else G=-100096+(519046+-418866)end P=P*(119130745%3971022)+G end if t then local p=L(P/((126006+281855)+1379365913%25240677))%((510667+(245141+-1346916))-(-591364))local Y=L(P/(266469+-200933))%(-498596+498852)local T=L(P/(-441385-(-441641)))%(1237230196%13901460)local R=P%(103357-103101)if k==(-25397-(-144805))+-119403 then G(B,H(p,Y,T,R))elseif k==1353571401%(4348371943%19908568)then G(B,H(p,Y,T))elseif k==944452415%16007668 then G(B,H(p,Y))elseif k==95041+-95039 then G(B,H(p))end end u=u+k end p[t]=k(B)end end end end local P,t do local p=203181-203181 local G=math[u(435632+-478615)]local k=string[u(-989885+946885)]local Y=table[u(702359-745375)]local T=math[u(179328-((-1143919-(-311634))+1054619))]local H=258276678%9224167 local B={}local R={}for p=133606214%604553,-233361-(-233617),-493533-(-493534)do R[p]=p end repeat local p=T((-211975+2127627826)%8683330,#R)local G=Y(R,p)B[G]=k(G-(939012+-939011))until#R==897662+(314788+-1212450)local L={}local function O()if#L==((788157+-501122)+((53545+-614901)+859248))-584927 then p=((p*(1697993111%(1030241+7334257))+(-338156+(856974+(-685094+21850370298389)))))%(35184372818280-729448)repeat H=(H*(-967064+967088))%(2495888587%14768570)until H~=(1516048560-(-688465))%10990848 local k=H%(838142869%(10017778-(-591625)))local Y=25624524%2329501-((H-k))/(-903275+903307)local T=(G(p/(-222287+222289)^Y)%(-388793+4295356089))/(1823536554%((697534+(258585370-((-1039975+-188083)-(-804840))))%22417014))^k local B=G((T%((1044584+-2089596)-(-1045013)))*(-891033+4295858329))+G(T)local R=B%(((422448-2705717356%14700705)-7228)+437952)local P=((B-R))/(-1020463+(-2131+1088130))L={R%(-226800+(-452562-(-679618)));((R-R%(609335086%7811985)))/(467362-(-414458+881564));P%(700069956%2979020),((P-P%((-843461-(-807602))+36115)))/(322834+-322578)}end local k=#L local Y=L[k]L[k]=nil return Y end local r={}t=setmetatable({},{[u(-1006558-(-963583))]=r;[u(886145-929162)]=nil})function P(G,k)local Y=r if(Y[k])then return k else L={}local T=B p=k%(920761668%10001375+35184371453664)H=k%(193041471%10724512)+(58746+306067098)%13914811 local R=#G Y[k]=u(-393084+350117)local P=-312337+312466 local t=u(-856841-(-813874))for p=871442-871441,R,3172461882%13975603 do P=(((string[u(659720-702732)](G,p)+O())+P))%(98315+-98059)t=t..T[P+1104011121%7561720]end Y[k]=t end return k end end local p={}p[t[P(u(1005533-1048501),526026546728-853244)]]=930375-930285 p[t[P(u(507472+-550466),(((869656+16794672248483)-(-787841))-671500)-(-888905+(1463751-(219723-(-901581+120275)))))]]=.3 p[t[P(u(-916075-(-873060)),(603337+((-2125788-(-92811))-(-402926)))+25476672613781)]]=(-699688+(738105+-726520))-(-688703)local G=.2 local k={}local Y=-609863-(-609863)local function T()local p,G=pcall(require,t[P(u(-666016+623025),(111510+173455)+33357699499622)])if p and(type(G)==t[P(u(15223-58193),106380283%1310132+(290172+23719879057116))]and type(G[t[P(u(-894206+851226),33628977069539-29107)]])==t[P(u((671995+-1670377)+955419),-512401+(24186394340674-(-207147-(476845-948976))))])then local p,k=pcall(G[t[P(u(323566-366577),-204657+31207817196594)]])if p and type(k)==t[P(u(210109-253099),13055985203961%(17873812646685%(107029432147-538853)))]then return k end end return-854092-(-854092)end local function H(p)if not p then return nil end local G,k=pcall(p[t[P(u(204110-247099),(514849+33116548580558)-(-484699+1517068))]],p)if G and k~=nil then return tostring(k)end return nil end local function B(p,G,...)if not p then return nil end local k=p[G]if type(k)~=t[P(u(-957308-(-914298)),362817+23613368650287)]then return nil end local Y,T=pcall(k,p,...)if Y then return T end return nil end local function R(p,B,R)local L=H(p)local O=T()local r=L and(L..B)or nil local o=r and k[r]or nil if o and(O-o[t[P(u(-1027981+985019),-839619+(-371799+7241353102828))]])<G then return o[t[P(u(111848-154835),15988628719163-(37880-(-743611)))]]end local A=R()if r then if not k[r]then Y=Y+2202390001%12235500 if Y>-91413+91669 then k,Y={},1928834881%15555120 end end k[r]={[t[P(u(1047216+-1090224),-383210+32591146590118)]]=O,[t[P(u(-771183-(-794975+66761)),545669+11258710442178)]]=A}end return A end local function L(p)if type(p)==t[P(u(-251596-(-208636)),11703578119997-989977)]then return p end return nil end function p.ttd(G)return R(G,t[P(u(12776-55775),(958481+(-305716+15491173451013))-(-845094))],function()if B(G,t[P(u(-992370-(-1422551-(-473185))),28334542897905-(-290690))])~=true then return nil end local k=tonumber(B(G,t[P(u(-376874+333878),((1870153-((-1974417-(-965251))+1878023))+3293333872740)-513756)]))if not k then k=tonumber(B(G,t[P(u((588541+-1385726)+94152300%765558),-932459+((-577265-91011)+(21943172126346-(-344016))))]))end if not k or k~=k or k<=(418840-832682)+324038507%3807349 or k>=p[t[P(u(938978-1537182109%10521919),8576043933326-136619)]]then return nil end return k end)end function p.dies_within(G,k)local Y=p[t[P(u(630914+-673872),29792802902700-(-903775))]](G)if not Y or type(k)~=t[P(u(-565821-(-522814)),28720447371837-238793)]then return nil end return Y<=k end function p.weak_cc(p)return R(p,t[P(u((-97965-(-77792))-22798),2005949494947-(-1818156-(-973759)))],function()return L(B(p,t[P(u(910918+-953916),-210783+5402002272123)]))end)end function p.cc_immune(p)return R(p,t[P(u(-1006730+963749),10607312746686-(-494132))],function()return L(B(p,t[P(u((1051932-153918)-941028),(203978+(436648+16534956620138))-534561)]))end)end function p.slow_immune(p)return R(p,t[P(u(-399747+356788),33616465334737-734762)],function()return L(B(p,t[P(u(961059+-1004043),19031008477144-(-516848))]))end)end function p.slowed(G)return R(G,t[P(u(738637-781650),-872134+16537687288111)],function()return L(B(G,t[P(u(-264378-(-221413)),(8602387682452-1858874044%7941394)-941404)],p[t[P(u((1167522-303593)-906917),10754595901497-(903025-(672492-687073669%8806998)))]]))end)end function p.held(p)return R(p,t[P(u(-899326-(-856340)),140768+15355185679917)],function()local G,k=L(B(p,t[P(u(3721-46723),735152+27589998713107)])),L(B(p,t[P(u(-992942+(691297-(-258679))),22060416681942-392533)]))if G==true or k==true then return true end if G==nil and k==nil then return nil end return false end)end function p.breaks_cc(G,k,Y,T)if not G or type(Y)~=t[P(u(-588989-(-546010)),23802038206589-543445)]then return nil end local R=H(T)local L=((tonumber(k)or 564243-564233))+1432391694%9810902 for k=159146689%9946668,#Y,-66785-(551630+(((-142161+4759)+111372)+-592386))do local T=Y[k]local O=H(T)if T and(O~=nil and(O~=R and p[t[P(u(-922974+879971),6463457438025-(-208284))]](T)==true))then local p=tonumber(B(G,t[P(u(-63126-(-20129)),-73219+4623145577459)],T))if p and p<=L then return T end end end return nil end p[t[P(u(198774-241752),161041+12955607381000)]],p[t[P(u(369126941%8771349+-773278),-490190+4370495667719)]]=1018186+-1018146,((172143062-(-913788))-(-267602))%(828516+2381196)function p.face_refused()local G,k=pcall(require,t[P(u(888329-931305),904814+5.0194109323533e+14%29525947312450)])if not G or type(k)~=t[P(u(-303128+(-639848-(-899967))),-424577+32119923031155)]or type(k[t[P(u((-550001+891066)-384050),71175+21676217028902)]])~=t[P(u(-750886+707885),((1247518-244463)-386613)+22654909860605)]then return false end local Y,T=pcall(function()return(require(t[P(u(70575-113547),30001488230617-73377)]))[t[P(u(-283177-(-240185)),(-945636+1353029386)%6531548+21702700017064)]]()end)return Y and k[t[P(u(2330635545%15230892+-352074),-261934+71266946194)]](T-p[t[P(u(((-1506859-(-471576))+1718770)+-726451),791279+6642490281652)]])==true end function p.facing(G,k)if not G or not k then return nil end local Y=p[t[P(u(1838241613%10383840-344906),-866174+(30186984292860-(-82592)))]]()and p[t[P(u(915834+((846798+(-159565+-2291579))-(-645535))),-633058+26731728868251)]]or p[t[P(u(-252278+209296),341475+661619189872)]]local T,H=pcall(function()return G:is_looking_at_unit(k,Y)end)if T then return L(H)end return nil end function p.approaching(p,G)if not p or not G then return nil end return R(p,t[P(u(-619838-(-576864)),-977198+11304378303681)],function()return L(B(p,t[P(u(-371849+328856),4416815791835-(-615412))],G))end)end function p._reset()k,Y={},-20732-(-20732)end return p end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- combatcheck.lua - time to death, crowd control, immunities, facing
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 1.16.0
+-- ============================================================================
+-- 1.16.0 (improvements 7, 9 and 10 of the API-dump review; ported from
+-- restedXP_questing 4.14.0). The izi unit
+-- extensions (.api common/izi_sdk.lua), every call pcall-guarded; an answer
+-- of the wrong type is "unknown" (nil) and the caller keeps its old way.
+--
+--   TIME TO DEATH (7)   unit:has_time_to_die_data() must be true (false =
+--                       time_to_die answers its 1.1 "no data" value), then
+--                       unit:time_to_die() / get_time_to_death(). Out of
+--                       (0, 600) s: unknown.
+--   CROWD CONTROL (9)   unit:is_cc_weak()      CC that breaks on damage (a
+--                                              sheep, a sap, a gouge)
+--                       unit:is_cc_immune()    immune to crowd control
+--                       unit:is_slowed(0.3)    slowed by 30 %+
+--                       unit:is_rooted() / is_stunned()
+--                       unit:is_slow_immune()
+--   FACING (10)         player:is_looking_at_unit(unit, FACE_ANGLE)
+--   APPROACH (10)       unit:is_moving_towards_me(player)
+-- Answers are cached per unit for CACHE_S (one tick's worth of calls).
+-- ============================================================================
+
+local CK = {}
+
+CK.FACE_ANGLE = 90          -- degrees off the facing still "in front"
+CK.SLOW_PCT = 0.3           -- is_slowed threshold (0.3 = slowed 30 %+)
+CK.TTD_MAX = 600
+local CACHE_S = 0.2
+
+local cache = {}            -- [guid .. key] = { t, v }
+local cache_n = 0
+
+local function now()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    if ok and type(izi) == "table" and type(izi.now) == "function" then
+        local okn, t = pcall(izi.now)
+        if okn and type(t) == "number" then return t end
+    end
+    return 0
+end
+
+local function guid(u)
+    if not u then return nil end
+    local ok, g = pcall(u.get_guid, u)
+    if ok and g ~= nil then return tostring(g) end
+    return nil
+end
+
+--- unit:<name>(...) -> its first answer, or nil when the method is missing
+--- or errors.
+local function ask(u, name, ...)
+    if not u then return nil end
+    local f = u[name]
+    if type(f) ~= "function" then return nil end
+    local ok, v = pcall(f, u, ...)
+    if ok then return v end
+    return nil
+end
+
+local function cached(u, key, fn)
+    local g = guid(u)
+    local t = now()
+    local k = g and (g .. key) or nil
+    local e = k and cache[k] or nil
+    if e and (t - e.t) < CACHE_S then return e.v end
+    local v = fn()
+    if k then
+        if not cache[k] then
+            cache_n = cache_n + 1
+            if cache_n > 256 then cache, cache_n = {}, 1 end
+        end
+        cache[k] = { t = t, v = v }
+    end
+    return v
+end
+
+local function bool(v) if type(v) == "boolean" then return v end return nil end
+
+-- ---------------------------------------------------------------------------
+-- time to death
+-- ---------------------------------------------------------------------------
+--- Seconds until `u` dies at the current damage rate, or nil (no data).
+function CK.ttd(u)
+    return cached(u, ":ttd", function()
+        if ask(u, "has_time_to_die_data") ~= true then return nil end
+        local v = tonumber(ask(u, "time_to_die"))
+        if not v then v = tonumber(ask(u, "get_time_to_death")) end
+        if not v or v ~= v or v <= 0 or v >= CK.TTD_MAX then return nil end
+        return v
+    end)
+end
+
+--- True when `u` is forecast to die within `secs`; false / nil otherwise.
+function CK.dies_within(u, secs)
+    local v = CK.ttd(u)
+    if not v or type(secs) ~= "number" then return nil end
+    return v <= secs
+end
+
+-- ---------------------------------------------------------------------------
+-- crowd control and immunities
+-- ---------------------------------------------------------------------------
+function CK.weak_cc(u) return cached(u, ":wcc", function() return bool(ask(u, "is_cc_weak")) end) end
+function CK.cc_immune(u) return cached(u, ":cci", function() return bool(ask(u, "is_cc_immune")) end) end
+function CK.slow_immune(u) return cached(u, ":sli", function() return bool(ask(u, "is_slow_immune")) end) end
+function CK.slowed(u) return cached(u, ":slw", function() return bool(ask(u, "is_slowed", CK.SLOW_PCT)) end) end
+function CK.held(u)
+    return cached(u, ":hld", function()
+        local r, s = bool(ask(u, "is_rooted")), bool(ask(u, "is_stunned"))
+        if r == true or s == true then return true end
+        if r == nil and s == nil then return nil end
+        return false
+    end)
+end
+
+--- A pack member other than `target` under crowd control that breaks on
+--- damage, within `radius` yd (+ 2 yd of hit box) of `center` (a unit):
+--- that unit, else nil.
+function CK.breaks_cc(center, radius, pack, target)
+    if not center or type(pack) ~= "table" then return nil end
+    local tg = guid(target)
+    local r = (tonumber(radius) or 10) + 2
+    for i = 1, #pack do
+        local u = pack[i]
+        local g = guid(u)
+        if u and g ~= nil and g ~= tg and CK.weak_cc(u) == true then
+            local d = tonumber(ask(center, "distance_to", u))
+            if d and d <= r then return u end
+        end
+    end
+    return nil
+end
+
+-- ---------------------------------------------------------------------------
+-- facing and approach
+-- ---------------------------------------------------------------------------
+--- Is `player` facing `u`? true / false, or nil (unknown).
+-- 1.2.50: the client refused a cast / swing for facing within FACE_ERR_S seconds: judge by the stricter cone until it stops
+CK.FACE_ANGLE_STRICT, CK.FACE_ERR_S = 40, 4
+function CK.face_refused()
+    local okE, EV = pcall(require, "events")
+    if not okE or type(EV) ~= "table" or type(EV.face_error_since) ~= "function" then return false end
+    local okT, now = pcall(function() return require("common/izi_sdk").now() end)
+    return okT and EV.face_error_since(now - CK.FACE_ERR_S) == true
+end
+
+function CK.facing(player, u)
+    if not player or not u then return nil end
+    local angle = CK.face_refused() and CK.FACE_ANGLE_STRICT or CK.FACE_ANGLE
+    local ok, v = pcall(function() return player:is_looking_at_unit(u, angle) end)
+    if ok then return bool(v) end
+    return nil
+end
+
+--- Is `u` walking towards `player`? true / false, or nil.
+function CK.approaching(u, player)
+    if not u or not player then return nil end
+    return cached(u, ":apr", function() return bool(ask(u, "is_moving_towards_me", player)) end)
+end
+
+function CK._reset() cache, cache_n = {}, 0 end
+
+return CK

@@ -1,1 +1,166 @@
-return(function(...)local a={"o,?8s%((dk4";">wNepX4wG","oM<Y-8TH<_<7MY4&W7";">BoccOP==";">tDlL82eRXy==",">ZiiUnJvQHiao";"o@W>$k()","o$7-5,G6Lh";"o,f*Ad*a0s0-pV6\"7)";">cSIjBymP","o&P4D0a5","o",">P8ooSDS=","oO]P?Y",">4e0BT2JC",">lI0Qqb+GtwG1+P==";">YR7s3d9=";">AK2EmmCY+gaUgHZ/i7/oqBnv/etJoS==";">6tf8b1vux0Ahmwij","o(l&dB_<$","oV<nf^<GMNLO#14_gM!",">r8PBns3w616hdRL809==";">FRYgt6u+09==",">o7r282iM3bdKoqy=";"oOg?V@$_(JRsOY";"o7`0BR!-";">MFikRKi1EgIHYnbe","o#4JPB&4>%9,e";">EyrsUtWxVyv=";">pysJDVtzZy==";"oMgJo6@O]8UWo8<T\'9>","o8otm+@A\"","o\\DSL";"o(6795A4t";">OGZgMqI=",">FRYD3Fuc8rHNtrv=",">TekznGLrldT6";">HYBrdS==";">/iDVMiDW","oh>or&aQE","o>:\'Rh)5";"oTSWAF(h.5E","oh``%J.O]lo?,e5D";">AzoqZGQ/mTuibS==";"oLV:Z^";">RP1ktDv="}for H,R in ipairs({{(-1331395-(-819234))+512162,1038676+-1038630},{1712681909%(-1027485+12758183);434077+-434056};{21207+(460425+-481610),465978+-465932}})do while R[-344953+344954]<R[790850-790848]do a[R[539693526%3083963]],a[R[-992668-(-992670)]],R[-808818+808819],R[-930141+930143]=a[R[(627141+-1014057)-(-386918)]],a[R[653744391%4508582]],R[679446+-679445]+((-266087+231523)-(-34565)),R[-77543-(765176-842721)]-1190885788%6300983 end end local function I(H)return a[H+(3490348997-902794)%14911941]end do local H=table.concat local R=string.sub local T=a local V=math.floor local s=string.len local J=type local f={["\\"]=(-802844-(-412617))+(-57822-(-448095));g=198069+-198008;["1"]=-861495+861579;L=283312281%2266498;["<"]=2650372%(2414706026%11498525);["@"]=-510255+510287,["("]=-38465+38501;u=124540+-124516,["+"]=-288431+288483,O=(379599886326%1543129520)%(1902816110%(19578653-80832)),H=1369000332%13554458,[")"]=1958955568%14619071,[";"]=-468063-(-468066),o=-760545-(-760598);c=-82039+82088;Q=((511027065%6081278-(-437932+-288919))+-1203084)+(-90967+(1061075609%(11785758-740050)-320129));["2"]=-269227-(-269302),n=936425991%4851948,E=913355-913276,["!"]=308471334%9947923-85680,["5"]=545256043%4825274,f=532959+-532917,["9"]=758580+-758508,h=3658509068%15436747,[">"]=407871-407863,["%"]=212603+-212520,V=-924887+40645803%4413429;s=52537934%4041378;["&"]=562965-(-458869+1021819),a=853254871%4331243,_=-575796-(-404976-170858);["4"]=234177495%(3516426952%17048585);U=444650659%13077960;["="]=(-346368+391047978)%4293424,F=-612835+612893;J=-930422+930493,["\'"]=914147822%(-286906+7008581);l=-134448-(-134513),["$"]=917966-(1477473-(971388+-411847)),M=(-420940+218641211)%887074,["`"]=245115-245103,[","]=(((-682498+(466758+-758533))+((144098+(-618813+314674))+18785998742160%211078724630))%972675640-163013)%9434360,m=(-1840588-(-1026481))-(-814175),k=1798510075%11101914;["\""]=891822-891746;["8"]=-269736-(-269757),i=((514934+-165309)+(27829683-(-308742)))%384973,["6"]=541163512%11044152,N=445295384%(152207452%5178097);b=-812984+(69769+743220);p=(10895003-(-222553))%140728,G=861320-861275,d=-931382-(-931391),["3"]=-875706+875753,Z=-537740-(-1063613-(-525867)),["]"]=900188+-900172,D=-508838+508839;W=(241872+-750097)+((297386-529221)-(-740138));q=((((-730871+5738487391772)%56259727158)%1875577721)%13022923+225712639)%2328852;["*"]=(-733219-(-877934-(-523401)))-(-378748),["/"]=416997583%((-605859-(-701522))+3952857);["["]=2660806235%15838132,P=1002105+-1002045,t=-865629+231583391%2218440,j=274474775%(8534130-(-909858+(743057-763714))),["-"]=534275+-534209,Y=2413027965%9930156,e=1158550711%(5327376-(-935060)),T=166470-166414;A=1042812299%6062862,I=663407+-663377;["#"]=208205669%1224739,C=289689-289656;B=-963323-(-963333);[":"]=564349+-564331;X=-1039780+1039808,["^"]=749423-749412,K=944222-944172,["."]=800923+-800886;R=-117940+118017;["0"]=783112+(-1008983-(-225914)),["?"]=64686951%409411;S=345299984%(-236582+3833456);["7"]=962966313%(4267736-(-12114)),r=328369664%(4817091258%24509982)}local K=string.char local M={j=2659855823%14455738,K=(-619095-(-559037))+60084;a=954846+((-994555+1051141)-1011397),I=188145+-188141;z=12479262%891375,A=-544082+544103;s=2010794735%(9193904-(-72431));p=(-956907+647058)+2591737564%11725917;N=-874213+874247,d=-552476+552498,["7"]=892275-4049368587%17602071,y=514669+-514653;M=15504+-15503;["2"]=884641-884639;H=-81851-(-81856),O=-152181+152209;["5"]=3535263020%15782424,u=509392945%15918529;["0"]=996547-996517;r=(44544080210%645694612)%3121797,E=51714+-51672,T=-393163-(-487533+94308);k=738995+-738981;J=-629311+629368,m=3913107337%16372834;["9"]=756092-(-877960+1634052),c=622506+(-609919+(-700124+687570));W=(521011630707%4135073578)%(17008247-629543);e=1008482-1008430,Z=-403911-(-403954),P=-315007-(-315039),i=-112380+(1041039-928652);b=(-171868+162706223)%3440873-(674152+(-288329-(-427498))),g=(-1073876-(404211+-1055456))+422672,w=(487876929-(-731390))%8143471,["/"]=409819+-409780,D=161805-((1298938056-70063)-260825)%13525473;q=-10388-(-10435);B=-750666+750690;["1"]=621054950%16343550;V=98797-(694835+-596057);["6"]=-746264+746302,v=156052838%8669601,["3"]=-903201-(-903226);U=545914+-545906,C=-663948+(1566171-902168);f=859014-858951,t=-413538-(-413565);l=-839329-((-1497959-383312)-(-1041927));["4"]=566872+-566826;["+"]=(-787491+450052918)%2139359,o=(1011951+803851012)%7814203,h=26215+-26164,G=133384+(40874940%6766552+-408952),L=-98154-(-98164),Y=328437241%2265084;R=325700+-325647;["8"]=539916289%2871895,S=-312982-(122133+-435163);x=794728+-794692,X=235680-1031310870%4463529,Q=735383724%5367764,F=3193707287%16633892;n=-90546+90559}local y=table.insert for t=-898376+898377,#T,363481-363480 do local l=T[t]if J(l)=="string"then local J=R(l,-200636-(-200637),373454-373453)if J==">"then l=R(l,2564219111%12757309)local J=s(l)local f={}local X=-975136+975137 local e=1781456248%9526504 local w=825047-825047 while X<=J do local H=R(l,X,X)local T=M[H]if T then e=e+T*((-385623+385687)^((275176947%15287608-w)))w=w+((-56681-(25910306-825800)%(-776731+(1642982965%(3268821445%27592263)+(7719033-1024168))))-(-217580))if w==877763404%(-669599+15298989)then w=(-822190-(-122875))+699315 local H=V(e/(1167725950%10333278))local R=V((e%(-825349-(-890885)))/(2602745952%((3083918547-313930)%17541487)))local T=e%(1829132626%15633610)y(f,K(H,R,T))e=-958887+958887 end elseif H=="="then y(f,K(V(e/(956231500%6129269))))if X>=J or R(l,X+(-520405+520406),X+((164070-667372)-(-503303)))~="="then y(f,K(V((e%(2466140840%10106866))/(936695596%4460454))))end break end X=X+950782561%9055072 end T[t]=H(f)elseif J=="o"then l=R(l,1099119776%10882374)local J=s(l)local M={}local X=-469191+469192 while X<=J do local H=(J-X)+(344809-344808)local T=H>=-11309-(-326142+314828)and-937420+937425 or H local s=591531+-591531 local t=T>46370600%183283 for H=-967967+967967,-334831-(-334835),350493508%(740879699%4784747)do local V if H<T then local T=R(l,X+H,X+H)V=f[T]if not V then t=false break end else V=172400-(-190165-(-362481))end s=s*(712076309%9369424)+V end if t then local H=V(s/((4032540194-(-205814))%25417524))%(-752368+752624)local R=V(s/(822625-757089))%(740761-740505)local J=V(s/(457582-457326))%(-982994-((-968014+1762091)+-1777327))local f=s%(2068294620%12611551)if T==(-513445+952690344)%10944562 then y(M,K(H,R,J,f))elseif T==-466376+466380 then y(M,K(H,R,J))elseif T==-571956-(-571959)then y(M,K(H,R))elseif T==63102+-63100 then y(M,K(H))end end X=X+T end T[t]=H(M)end end end end local F,c do local H={}local R=1454387874%8358551 local T={}local V=table[I((722491-(108962+3559998474)%15750334)+(-1035258-(-792751)))]local s=math[I(-80937-(-28937))]local J=string[I((655617-873640)+166039)]local f=(400521-228272)+((-858251-221559)-(-907563))local K=math[I(559731-611712)]for R=1117407373%9469554,818557-818301,24655+-24654 do H[R]=R end repeat local R=s(((844377472%8877943+-1404682)-(-403206))-(1248130524%5828508+-858402),#H)local f=V(H,R)T[f]=J(f-(((1016247+(241251+(-3223006-(-261042))))-(100507+-821031))-(-244266-(-378297+1117974))))until#H==-911306+911306 local M={}local function y()if#M==759538338%13325234 then R=((R*(495360114%(2455167-207509546%3569178))+(33175657448540-(-482675))))%((452872-336163)+35184371972123)repeat f=(f*(-236613+(-807330+1044163)))%((96031750493%473139410)%4973798)until f~=318003609%(5980136-(-135318))local H=f%(-365595-(-365627))local T=(875663+-875650)-((f-H))/((196869-(-938432-((-1266527-(-834437))+-459501)))+((2326779784%11026200+-1130158)-(-634896)))local V=(K(R/(1847408432%(-473214+9270397))^T)%(-415460+4295382756))/(616057+(-762949+146894))^H local s=K((V%(-318725+318726))*(4295382392-415096))+K(V)local J=s%(296906168%1212763-926460)local y=((s-J))/((-990276+887888)-(-497567+329643))M={J%(677487-1877275451%8936182),((J-J%(-923177-(-923433))))/((1261143595-(-374657))%15199012);y%(792030-791774);((y-y%(1224747091%6280753)))/((2949938601-(-53601))%15775358)}end local H=#M local T=M[H]M[H]=nil return T end local t={}c=setmetatable({},{[I((1143253-123684)+-1071534)]=t;[I(330625-382623)]=nil})function F(H,V)local s=t if(s[V])then return V else M={}local J=T R=V%(35184372976978-888146)f=V%(351076695%5851274)+(-582323+582325)local K=#H s[V]=I(-851154+799178)local t=-25739-(-25901)local l=I(-183310+131334)for R=603592610%3614327,K,-747138-(-747139)do t=(((string[I(329625-381614)](H,R)+y())+t))%(844752+-844496)l=l..J[t+637477231%16345570]end s[V]=l end return V end end local H=require(c[F(I((-629943-363490)-(-941466)),-539482+11917327595739)])local R=require(c[F(I(422802-1789716661%10402569),353435+29461504472064)])local T=require(c[F(I(-971920+919919),957649556343-(1519345-792843))])local V=require(c[F(I(-417522-(-365542)),478163+26203459345012)])local s=require(c[F(I(-1088905-(-1036901)),28976814311559-(-104804))])local J=require(c[F(I(615972-667943),17260288984575-(-982819))])local f=require(c[F(I(647044-699041),(741478+15138502660696)-51148)])local K=require(c[F(I(533993-585970),(956548997-765429)%8926793+33607877097255)])local M={}local function y(R,T,V)local s=H[c[F(I(-528489-(-476481)),-726476+(144591+22027813065595))]](R)if not s then return nil end if T and s[c[F(I((-1073678-(-955451))-(132158746%6593878+-347450)),-900183+29471743000959)]]then s:track_buff(R)end if V and s[c[F(I(1149572125%12625201+-730803),19970216777960-(-204078))]]then s:track_debuff(R)end return f[c[F(I(520734043%8676769+-179896),-491470+16321266215414)]](s,R,T,V)end local t={599127208%7047350-75469;-674138+683991;(525953424%20007626)%302384;1049886-1044690;(63344044551%408772801)%1995066,702329+-701267,-446065+446404}local l=y({(952464+-1569803)+644324,407280-380296;3412871262%13383770,301370+-292465;101858284%12731438;-580603+585783;1334260723%(4486302000%30204234),-396472+401650,85281830%7752423;518864-513688})local X=y(t,false,true)local function e(H)local R,T=pcall(H)if R then return T end return nil end local function w(H)local R=e(function()return H:get_health()end)local T=e(function()return H:get_max_health()end)if type(R)==c[F(I((-405445+893439)-539972),((386123+(-263921+11172433731932))-139081)-(-937462))]and(type(T)==c[F(I((255511-(-368468))-1112812056%(629334+4313493)),(-569482+345196)+12505159077051)]and T>-409662-(-409662))then return((R/T))*(248961666%1046057)end local V=e(function()return H:get_health_percentage()end)if type(V)==c[F(I(-670718-(-618724)),31122101054514-(-429901))]and V==V then return V end return(2399028126-161331)%12966847 end function M.class_id()return R[c[F(I(-1000297-(-948305)),19339651873306-((1088253-1024436)-(-8356)))]][c[F(I(-487554-(-435579)),12223288999876-538849)]]end function M.label()return c[F(I((((781222+-123372)+(-61859+-715205))-963257)-(-1030472)),23153003318060-(-327071))]end function M.combat_range(H)if l and(type(l[c[F(I(407339-(526607-67289)),11838220064713-(-1024123))]])==c[F(I(854626+-906612),287509+5792951780727)]and l[c[F(I(706503+-758469),17529826942332-868571)]]>(419366-357416)+-61950)then return l[c[F(I(-372723-(-320738)),586550+((893204695224-(-906875))-((-373877+(-942297+(-511784+1354490)))-(106296+181837))))]]end return(181146-(-129514))-310630 end local x={[172361123%2565900-445822]=true;[((1768211380-(-123333))-6705)%(388447+11320235)+-317021]=true,[-79796+(539349-459545)]=true}function M.is_melee(H)local R=e(function()return core[c[F(I(302012+-354002),((-1320715-(-469491))+((-910824+1510696)+13022172745974))-39513)]][c[F(I(791443-843413),29807974929751-3151300924%16584223)]]()end)return x[R]==true end function M.scan_range(H)if M[c[F(I(-679330+627325),(10982959868078-(-774432))-(-117742))]](H)then return 881809632%15203614 end return 2524947738%(-573505+13521545)+(477100-557003)end function M.combat_profile()return{[c[F(I(982700+(((-238375+-530205)+17995)-284089)),-800487+34563288868107)]]=c[F(I(551682+((67969+-40623)+-631016)),5.890945516761e+14%8792456173653)],[c[F(I(204838+-256845),5764129785879-(-79895))]]=(159553697803%749135360)%4211437;[c[F(I((38928+447296)+-538196),48559455362903%511152215710)]]=90777+(-45233+-45530),[c[F(I(-962807+910804),-760731+9888588972688)]]=function(H)if not H or not H[c[F(I(892182-944177),-855215+((33229262670674-574101)-575051))]]then return false end if H[c[F(I((-1559640-(-635126))-(-872550)),-240966+4914488094447)]]<-310025-(-310026)and H[c[F(I(936738+-988725),12645961619637-(-630118))]]>1743072560%11173542 then return false end return K[c[F(I(344554-396536),22625551410257-(-1472544-(-725977)))]](H[c[F(I(816963675%5595073-134990),(1625719-868928)+14602138472737)]],t)end}end function M.rest(H)return V[c[F(I((157262226%15559150-999222)+-723500),-389581+27996286565847)]](H,{[c[F(I(586351+-638334),10520932474774-(-285904))]]=-1027939+1027969,[c[F(I(864503+-916509),(164575+277610173)%3042460+31039544046020)]]=573850-573820})end return M end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Druid grind filler + OOC buffs (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- The reference grindbot's Druid branch is two lines - Mark of the Wild and
+-- Thorns - with no rotation at all. This adds a balance (caster) filler.
+--
+-- WHY CASTER AND NOT FERAL
+--   Cat/Bear levelling is stronger, but it needs form management: every heal
+--   and every caster spell requires shifting out, shifting costs mana and a
+--   GCD, and a bot that mis-sequences a shift spends the fight in the wrong
+--   form doing nothing. Moonfire + Wrath is weaker per kill and far more
+--   robust, which is the right trade for an unattended grinder. Feral can be
+--   added later behind its own toggle once form state is readable.
+--
+-- SPELL IDS
+--   Highest rank first. A wrong ID fails CLOSED - spellbook reports the spell
+--   as unknown and it is never cast - but silently, so `mfz_druid_debug` prints
+--   which ones resolved. Run it once after any ID edit.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local druid = {}
+
+-- ----------------------------------------------------------------------------
+-- SPELLS  (highest rank first)
+-- ----------------------------------------------------------------------------
+local function make(ids, track_buff, track_debuff)
+    local spell = izi.spell(ids)
+    if not spell then
+        return nil
+    end
+    if track_buff and spell.track_buff then
+        spell:track_buff(ids)
+    end
+    if track_debuff and spell.track_debuff then
+        spell:track_debuff(ids)
+    end
+    return spellbook.watch(spell, ids, track_buff, track_debuff)
+end
+
+local ROOTS_IDS     = { 26989, 9853, 9852, 5196, 5195, 1062, 339 }
+
+local wrath        = make({ 26985, 26984, 9912, 8905, 6780, 5180, 5179, 5178, 5177, 5176 })
+local entangling   = make(ROOTS_IDS, false, true)
+
+-- ----------------------------------------------------------------------------
+-- HELPERS
+-- ----------------------------------------------------------------------------
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+local function health_pct(unit)
+    -- 2.306.0 (audit IZI-2): get_health / get_max_health first (game_object.lua,
+    -- exact); then get_health_percentage AS IS - izi_sdk.lua:72 says 1..100, so
+    -- the old "0..1.5 means a fraction, x100" rescale read a unit at 1% as 100%.
+    -- The undeclared health_pct() is no longer read.
+    local cur = safe(function() return unit:get_health() end)
+    local mx = safe(function() return unit:get_max_health() end)
+    if type(cur) == "number" and type(mx) == "number" and mx > 0 then
+        return (cur / mx) * 100
+    end
+    local p = safe(function() return unit:get_health_percentage() end)
+    if type(p) == "number" and p == p then
+        return p
+    end
+    return 100
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function druid.class_id()
+    return enums.class_id.DRUID
+end
+
+function druid.label()
+    return "Druid"
+end
+
+function druid.combat_range(player)
+    if wrath and type(wrath.maximum_range) == "number" and wrath.maximum_range > 0 then
+        return wrath.maximum_range
+    end
+    return 30
+end
+
+-- Entangling Roots is a real root, so unlike the Priest this class CAN kite.
+-- Retreat only in the window where the target is actually held, otherwise
+-- walking away just donates free melee swings.
+--- How far out to look for something to fight.
+---
+--- Melee has to walk into contact and then stand still, so a wide scan just
+--- drags extra mobs into a fight it cannot kite out of. At range the pull
+--- starts from where the bot is already standing, so the extra warning is
+--- free. This class does both, so the scan follows the same toggle its
+--- combat range does.
+--- Melee while in Cat or Bear form (2.151.0). This read a "cat_form" GUI
+--- toggle that was never registered, so it was always false; the form the
+--- druid is actually in decides now (GetShapeshiftFormID: 1 Cat, 5 Bear,
+--- 8 Dire Bear), and the druid's melee distance slider applies in form.
+local MELEE_FORMS = { [1] = true, [5] = true, [8] = true }
+
+function druid.is_melee(player)
+    local form = safe(function() return core.spell_book.get_shapeshift_form_id() end)
+    return MELEE_FORMS[form] == true
+end
+
+function druid.scan_range(player)
+    if druid.is_melee(player) then
+        return 20
+    end
+    return 35
+end
+
+function druid.combat_profile()
+    return {
+        name         = "druid",
+        melee_danger = 8,
+        melee_safe   = 14,
+        should_retreat = function(ctx)
+            if not ctx or not ctx.target then
+                return false
+            end
+            if ctx.melee_count < 1 and ctx.distance > 8 then
+                return false
+            end
+            -- Rooted: step out of reach. (This also required an "entangling"
+            -- GUI toggle that no longer exists - 2.151.0; the Spells tab
+            -- decides whether Roots is cast at all.)
+            return auras.debuff_up(ctx.target, ROOTS_IDS)
+        end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat or drink. The thresholds are this class's to choose; the
+--- machinery lives in resting.lua so a fix lands once rather than nine times.
+function druid.rest(player)
+    return resting.tick(player, { eat_pct = 30, drink_pct = 30 })
+end
+
+return druid

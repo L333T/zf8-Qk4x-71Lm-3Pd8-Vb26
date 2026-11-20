@@ -1,1 +1,523 @@
-return(function(...)local n={"kYPAYd7B8ra==","k4CwSmNhXuZe80XTtUZsToImh";"kr3ouLKh=";"aub?E)";"ahM+G\'-bWEt";"kTPIZ1KAiW0Q+QNQ=";"a-O!rbk=&=&746p";"aEWnY^#.\\6#","ky5e+v8Ud88f4Qd==","a57=F1";"k0vbM4E==","aEVAc!","a#gDY6;X5Ql","kYRffnGk1Dca=";"aJIN:SsQ9Z";"a=,TO";"aF[r;-tDE0k","a+29r_0h`GQr3@YRuugRe","kjd3amW7NwjP=","kBrdB25gUUmva5KTZrTj5bfIXIPSwuGGU";"aaW.\\Rb\\jpWYCG6YLZ&Q","amPNr\"_bl\'p@<fG=";"aeL<?X!c";"amrCmB/XP&179WE[J6Uk6n>";"kfX5VZd==";"aLfi+]","kfL29XUgnCPM=","keMQsKcCxaWU1wa==";"kD9IexBR8adcuQEMEVHJ=","kssYrka==";"aKoiiE6]";"kIwdjqa==";"kxr/NP+J1Oj7=";"kyICetN+UgrJ=";"k","arh.UIl@W";"aN\\:+;W821D=`0";"ai:XnHlAb#W";"kEjxQfyCTQ47XuUIJ5u0L","aF&EXu";"kVNjpVkiq6fI=";"a^)$Ge\'@ooZ.<aL\"","kP5zbT+3gEE==";"k0IekHHdxmj8c7oP=","a7N,mLR,8Wl","kUHwG5BcqKa==","a=!\")gnYZqbMb]_4","a4j1sm8Z+*A1/#p";"k6bdzKNd=","kQ0iNld==","kbP6j/Nxh5Q==","kaZ7i7T0b1l2Tpa==","kuGSwTP45bE==";"kgt2s3hNVuxeNnE==";"a]7+*Y";"k5to7JsN9Bno=";"au^@AW$W,","kE9dTuWExyd==";"atLYfG8G","kKYPdh2Incs9dod==","au7`dq","a<SEZ+45o=L";"kQTZWYd==","kJzocr5Q=","kpiujgZhqN1C8Zhuyl9J=","anT`r7","a9lO%ZRem5pr1:A";"a1n$djqB";"kDhLfQrUdOhEvKxh=";"aS;i7PjTRCg","kE9E8Ubi=","aAE$\\>5ai","a8?r$KC0","a&.bU3YD<nd";"auP9Qs47Q","ktUaNwRkU";"aTYgBJ\'sS>Xhp4\'6Jk\"5=s(<";"kRS4+4a==";"aOp-M^;pZ-H";"kMA1/WAp9","khB3b91wO";"k+gP3PK4=","ka5W+3a==","a8RXaP";"kB1vG7WiXbUK+";"auDYdg`Np,Bp>l`";"kJV/HfAJ=";"aC^[tm-s","aRHT/0CM`RJ(tL";"a075mTo72";"kkZshkwY=";"aWkNd";"khmTMaq4=","a6<V0m\'i(jR","kDdi47fZiya==","kgoFzluP=","aD8ff\"@>","k68o1xRa=";"aG/RWBDNGW";"aYhiNcj)";"a)1_qn./7B`XF","a!(cB#h$FH`","kTyDIBfx4O9aL","a.6q3WBRWjd","k5W1IuuTjCsIjWd==","aNr9FRJA";"k9Bze5LJ=","kvASDhm4=","kuNXFaZRe8KYrqa==";"ao)DidO23R[Vi7F,";"k7NPrw9gi";"ke7RNFRy1nOPj","ao`U7KeIC*MT+om4%,^fe";"kT2DdEh3aheaYOQ==","kzfvVlaSmoE==","kj1zkR3DtGo1Y+Vl4zn9K";"k8lB8PrXY";"ky1NxUWbk","a`5o@ArD$]Zjp%=","k49CLd77=","kElfmR5dAMeNe7a==","kPNTs";"krJXXUZnc042=","kEGCcla==";"kUHwO9UcfA13r517=";"kD/pouPW/M0H/ja==";"auh1<jus";"a>Um9W<`"}local function U(P)return n[P+(-585018+(400927037046%(7564271216-(-420776)))%445433948)%2903129]end for P,a in ipairs({{-906429-(-906430);-390727+390855},{493926811%12664790;687391-(807407+-120105)},{-779146+779236;(732277+708986803)%4354104}})do while a[-887395+(-488049+(641589+(1298649-564793)))]<a[-928455-(-928457)]do n[a[-745785+745786]],n[a[1417911792%9147818]],a[384434-384433],a[978738-978736]=n[a[(764421+102138)+-866557]],n[a[1005441689%12261484]],a[(137920+-240293)-(-102374)]+(((644312+2331406940)-931470)%10004563-56602),a[-440698-(-440700)]-(861860+-861859)end end do local P=table.insert local a=string.len local e={g=256273894%11142341;["2"]=781200912%7812009;K=-302327-(-302357);["4"]=-917161+917165;H=1732086098%11945421;S=321922742%2705233,U=758991-758968,["3"]=-719457-(-719462);n=37074+(619092+-656135),W=768839474%4155889;u=555329+((50857+-640131)-(-34003)),C=1153674191%12818602;V=-852098+852140;q=-638762-(-352469+((-106112+(-208896+-535829))-(-564507))),B=(256350976681%1767991482)%7184503,["9"]=2163704429%9168239;m=735905+-735846;T=1393385930%7372412;z=535864+-535815,L=-309170-(722464-1031689),A=-230147-(-230176);l=-674389-(-674452),h=(154112+-821648)-(-667564);f=898349-898316;I=99692-(-966076+1065744),O=-405304-(-405349);t=-334193-((1264670-1039262)+-559640),r=117180-117146;["7"]=(97415028127%3247283843)%(13182852-50072);x=(9836064604%111820060)%11968818,s=(-864520+(47951+1543840))+((-497923+524603)+-753908),b=317415+-317369;c=703664232%6455635,d=262240623%10489623,N=-211594-(-211597);["5"]=275458-275431,F=835578+-835559;R=1673352818%12971727,J=765123+((-318716+-257095)-189304),Q=(-857313+2107324961)%(10309100-372932),M=-183517-(-183577),["1"]=368520+-368514,["/"]=-132599+132649;["6"]=-6917-(-440966-(-434042));v=(62337+141319324)%7069082;o=942669+-942629,["8"]=230757179%3161057,["0"]=(-625905+-48141)-(-674056),w=(121914+(21816+-565403))+421734;E=638058-638042,e=858430+-858383,Y=505103351%5805785,["+"]=-600663-(-22810+(858311+(969941+-2406118)));a=487130-487130;X=(((1063251-145087)-245296)-149221)-523645;y=(-628653+936729003)%7145804,P=-177960-(-178012),k=317244+-317243,Z=237679-237665,p=-941382-(-941436);j=-351557+351614,D=(-34689-732885)+767610,G=-581371-(-581412),i=868049+-868005}local q=table.concat local y=string.sub local S={K=-289692-(-289738),s=317010633%3138719;["6"]=(55018480352%662977685)%8497534;R=1148490367%15111715,["@"]=703620-703616,n=-225061+225119;E=899385900%9084706,["7"]=51944120%865734,h=922483-922418;D=-1043341+1043364;["?"]=230423-230405,["="]=3461443782%14186245;[")"]=140236911%2804738,["#"]=524795556%4904631,i=232068093%1282144;_=1420686638%(16734033-404302);r=688030437%(4533333019%19350425),Y=713123760%6147618,X=-518080-(-518128),["0"]=904612180%(8038881-(-591195+-326480)),o=753368+-753335;b=936728097%8837057;d=(233847417-(-1701064-(-556328+-274760)))%(974998+5928454),P=1024565+-1024515;["2"]=((334832+(980318+22038383431))%(208431681-421876))%2879261,["4"]=(134181-(-246034))-380161,V=-525018+(2581006462%16864747-(976762+-801680)),["["]=304649844%(490479678%8184126);["*"]=570844603%(8209921-(-997250));j=-785584+785643,M=((-716150+-215752)+436963)+494995,["%"]=473527+-473457;["+"]=586796+-586728;W=550540-(1413475-862969),G=245671-245641,g=((1636304373%(2650332790%15271624)-608290)+3110556043)%13127645;T=332624-(580492-247871),["5"]=-779394+779463;["\'"]=(((202349-(-285687))+-1240234)+((-874923-116495)+956813))-(-786838);l=455349618%(-116479+16378964);["-"]=((-1025805+3851400887)-985471)%((-25394+15908126)-(-497649));Z=1376677323%7564161;k=-339494-(-339543),u=77013211%713085,["\""]=565785-565733;["$"]=841942+-841923,p=((-408448+337353)+(-441181+821281924))%7137127,U=548913-548904,A=1390212777%11882160;c=1058714649%15569333,["."]=-295197+295212;["`"]=882261-882201,L=-275071+155960685%1468732;[","]=-229942-(431075-661049),B=-986172-(-986192);["&"]=759785693%7035052,C=-805187+805215;["^"]=133765+-133687;q=(1819294-(1332187-322427))+-809460,m=44624+-44563;["\\"]=-198688+198700;O=557176+-557109,[":"]=361892054%12924714;I=-534195+534205;[">"]=(1599273939%7107416+1558794031)%15907136;["!"]=694814911%3187224;J=806440+(29716+-836130);N=(171671-883307)+711652,H=390187+-390142,["1"]=91679+-91626;["("]=((-820625+376915)+-294983)-((760091+-1430938)-67854),a=82448483%6342191;["]"]=55781226%350825;["8"]=-569562+569606,[";"]=297869-297788,["3"]=174558599%815694,f=-368009-(-368082);["/"]=505215+-505149,F=-827569-(-827586),e=-967128-(-967210);t=2944028872%(-887244+13743265);Q=309541-309466;S=-434362-(-434399);["<"]=12665-(-210777-(-223435));["9"]=-831682+831722}local m=type local F=n local v=math.floor local T=string.char for s=-185361-(-185362),#F,804812-804811 do local j=F[s]if m(j)=="string"then local m=y(j,354132793%(864364294%7066346),2597810797%11393907)if m=="k"then j=y(j,905912+-905910)local S=a(j)local m={}local g=1262186301%12621863 local k=1146478993%9475033 local Z=(-115585-(-1032171))-916586 while g<=S do local a=y(j,g,g)local q=e[a]if q then k=k+q*((2511129047%9925411)^(((104907170430%494914777)%15004765-Z)))Z=Z+(-639286-(-639287))if Z==(-227204-(-733922+1310725))-(-804011)then Z=((-2063446-(-154108-843388))-(-699124))+366826 local a=v(k/(489505-423969))local e=v((k%((-494475+(559969+696826803%6962562))-570561))/(187507-187251))local q=k%(806984320%6304563)P(m,T(a,e,q))k=(907428894-(-1799309-(-780595)))%10198523+(-216935+(-453404+-108722))end elseif a=="="then P(m,T(v(k/(644344732%4569356))))if g>=S or y(j,g+(-53034-(-53035)),g+2910580303%16727473)~="="then P(m,T(v((k%(10395+55141))/(-286507-(-286763)))))end break end g=g+(552676+-552675)end F[s]=q(m)elseif m=="a"then j=y(j,247799288%13766627)local e=a(j)local m={}local g=65424+-65423 while g<=e do local a=(e-g)+(695304-695303)local q=a>=((-297004+163818)+(1211468636-470629))%10811293 and-554375-(-554380)or a local F=(817746269%((390314844983%(2519084409-919242))%12610451)+502082839)%3144306 local s=q>(122594402283%564999550)%3672182 for P=-303524+3282960590%14028449,22361+-22357,((-420821-(-81500))+635686)-296364 do local a if P<q then local e=y(j,g+P,g+P)a=S[e]if not a then s=false break end else a=((348421+726195)-149880)-924652 end F=F*(-502225+502310)+a end if s then local a=v(F/(4409506286%(7435709418%31420670)))%(((-834000-(-3220))+816792)-(-14244))local e=v(F/(-412485-(-478021)))%(88736601%5219785)local y=v(F/(-837237-(-837493)))%(-506982+507238)local S=F%(954892208%8525821)if q==(-828925+1005406)+-176476 then P(m,T(a,e,y,S))elseif q==499674-499670 then P(m,T(a,e,y))elseif q==(-776883+1306151)+-529265 then P(m,T(a,e))elseif q==705934-705932 then P(m,T(a))end end g=g+q end F[s]=q(m)end end end end local b,H do local P=table[U(914759+-970560)]local a=string[U(539205+-595109)]local e=math[U(214474983%2458315+-657462)]local q={}local y=-737705-(-441505-296202)local S=598565-598565 local m=math[U(18280-780892571%13698569)]local F={}for P=-905065-(-905066),1664651400%16006261,1038413+-1038412 do q[P]=P end repeat local y=e(548608+-548607,#q)local S=P(q,y)F[S]=a(S-689097882%((3588+9812569)-376460))until#q==146421-146421 local v={}local function T()if#v==191112+-191112 then S=((S*(-96806-(-96879))+(2733523270847-(-647366))))%(35184371560912-(-527920))repeat y=(y*(1265333044%8910796))%(-972354-(-1528976-(-556365)))until y~=-29269-(-362601-(-333331))local P=y%(233043+(7508+(-579312+338793)))local a=(421781-421768)-((y-P))/((((3667406999618-357575)%45842679000)%318369468)%(1008968-(-935925))+-873993)local e=(m(S/(440401378%1775812)^a)%(4294744551-(2482517321%17116467-((68908704607%1969202521)%13123957-(-503051)))))/(1770438754%11962424)^P local q=m((e%(147866503%((905609731-943987)%6189971)))*(787220603152%4301789208))+m(e)local F=q%((((-1734029-(-824304))-(-143979))-((796124+(321431-684520))+-241017))-(-1023300))local T=((q-F))/(-161983-(-227519))v={F%(-978466-(-978722));((F-F%(892128-891872)))/((667515663-(-833521))%3094208),T%(-859696+859952),((T-T%(653576+((489178+(903560+-614192))+-1431866))))/(1565334832%15051294)}end local P=#v local a=v[P]v[P]=nil return a end local s={}H=setmetatable({},{[U(305867-361786)]=s,[U(-974553-(-918713))]=nil})function b(P,a)local e=s if(e[a])then return a else v={}local q=F S=a%(35184371267779-(-897102+76049))y=a%((-92187+563589)-471147)+(-1004736+1004738)local m=#P e[a]=U(3850+-59652)local s=(72795329978%377195154)%2148623 local j=U(825778-881580)for a=114290+((903479+-1605594)-(-587826)),m,478552-478551 do s=(((string[U(-760303-(-704470))](P,a)+T())+s))%(244932-145330922%1667658)j=j..q[s+(298204+-298203)]end e[a]=j end return a end end local P=require(H[b(U((326513+-799471)+417150),((689583-(-127407))+-1227809)+8311719065810)])local a=require(H[b(U((949833+-1831285)+825534),32342833173508-306065)])local e=require(H[b(U(-121869-((-1246952-(-804250))-(-376690))),982817+(31179670456216-(6710+-34181)))])local q={}local y=H[b(U(950174+-1005999),552879+24433587632938)]local S=(17610990292%652675247)%3175415 local m=(-955053+831961412)%3448159 local F=86796+-86795 local v=183005425%4066787 local T={[a[H[b(U(-996108-((215145+-2045012)-(-889622))),3001165799122-(-582661))]][H[b(U(310803+-366725),30576133261117-(-44469))]]]=true;[a[H[b(U(-129371+73568),11932389699674-(-184149))]][H[b(U(-456187-(-400304)),31267071739878-512519)]]]=true;[a[H[b(U((1336741137-(-449193))%10129973+-89736),263252+26801655646263)]][H[b(U(615191-671025),(1806010800668-915333)-(-220738))]]]=true,[a[H[b(U((-689667+-331324)-(-965171)),3303832235%14302059+11570514374878)]][H[b(U((601423+192213)+(-374659+-474813)),155287+20459155361610)]]]=true}local s={}local j=nil local g=231078511%3448933 local k=261998+-261998 local Z=nil local function x(P)local a,e=pcall(P)if a then return e end return nil end local function o(P)local a=type(P)return a==H[b(U(-1016311+960452),1106833184972-(-784453))]or a==H[b(U(757493+-813322),7151937746057-(-11303))]end local function L(P,a,e)local q,y=pcall(P,a,e)if q then return y end return nil end local function X()if Z then return Z end local P,a=pcall(require,H[b(U(-232449+500176505%12195120),24913924053331-629405)])if P and type(a)==H[b(U((25288-600060)+518900),26382013669427-631144)]then Z=a end return Z end local function Q(P)if not o(P)then return nil end return L(P[H[b(U(304826-360697),7537086545844-(-141866))]],P)end local function A(P)if not o(P)then return false end if L(P[H[b(U((((245277849%(948567+1545003)+(-792059+(-658068+1496173)))-113829)-1047782)+(277434+-125662)),-915501+1069141697920)]],P)~=true then return false end return L(P[H[b(U(-971761-(-915909)),25497004995768-(-8225))]],P)~=true end local function V()local P=x(function()return core[H[b(U(-221433+165533),32096700423413-170475)]][H[b(U((-1588075-(-650755+-164616))-(-716885)),114551+26860860574701)]]()end)return type(P)==H[b(U(627657+-683494),47400+(14541768943722-153793))]and#P>(-923773-67878)-(-991651)end local function I(P)local a=x(function()return P:get_class()end)if a and T[a]then return v end return F end function q.in_instance()local P=x(function()return core[H[b(U((469353-22281)-502885),17708636918554-(-641754))]]()end)if type(P)~=H[b(U(-237854+181979),1021038+29504176162300)]or P==H[b(U(-706511-(-650709)),(12093511094637-(1325820-882246))-390691)]then return false end return string[H[b(U(-173747-(-117841)),9211667303723-(-874666))]](P)~=y end function q.set_kill_first(P)s={}if type(P)~=H[b(U(-878939-(-823071)),34492615253178-463670)]then return end for a=253500+(83716+-337215),#P,14439-14438 do if type(P[a])==H[b(U(-618846-(-562999)),876317+23830245711128)]and P[a]>900219+(68518-968737)then s[#s+(-464909+464910)]=P[a]end end end function q.kill_first()return s end function q.scan(a,e)local y={}k=(399633+155903)-555536 if not a then return y,1171125579%6542601 end local m=tonumber(e)or S if m<(-256585-144056)-(204460977%9728062-572326)then m=359235-(112405-(-246820))end local F=nil local v=X()if v and type(v[H[b(U(-451045+395169),(-879126+31563975189848)-((-1510071-(-657282))-51255))]])==H[b(U(974166+-1030090),-751556+9072794277567)]then F=x(function()return v[H[b(U(-1059397-(-1003546)),28703413913998-587602)]](a,m)end)end if type(F)~=H[b(U(((-1002251-(-783789))+-5711)+168279),-552348+1940942640671)]then F=x(function()return P[H[b(U((163557-1009575)-(-790152)),-818720+10127825069532)]](m)end)or{}end local T=Q(a)local s=x(function()return a:get_pet()end)local j=s and Q(s)or nil local g=q[H[b(U(((685532+-2007773)-(-490020))-(-776342)),-531422+5350935562478)]]()local Z={}for P=1012646944%(2315035467%15985307),#F,947850+-947849 do local e=F[P]if A(e)and L(e[H[b(U(86330+-142145),30068346837010-1010019)]],e)==true then if L(a[H[b(U(506013-561857),3068231107230-678319)]],a,e)~=false then local P=L(e[H[b(U(-493212+437356),844011+9086149830162)]],e)local q=P and Q(P)or nil local y=T~=nil and(q~=nil and q==T)local S=j~=nil and(q~=nil and q==j)if g or y or S then local P=L(a[H[b(U((-1388271-(-492332))+840093),(-754009+1572789)+18408952478085)]],a,e)Z[#Z+(-457596+457597)]={[H[b(U(950949-(-204452+1211213)),225557+8059982996988)]]=e;[H[b(U(208511284%4628974-263278),15328342583564-45090)]]=type(P)==H[b(U(-1094599-(-1038714)),17028009461661-1047822)]and P or 1259803531%7324381,[H[b(U(1886047292%7695561-690721),(-1410878-(-827567))+(-662505+19854033721533))]]=y}end end end end table[H[b(U(-793506-(-737607)),-1034856+29694655844099)]](Z,function(P,a)return P[H[b(U(-23218+-32673),3958267749375-(-635303-128110))]]<a[H[b(U(-610055+554245),8048246576874-(-24975))]]end)for P=876586-(1032155+(234729+-390299)),#Z,1013500+-1013499 do y[P]=Z[P][H[b(U((-17544+-1007513)-(-969170)),(32126555736027-(-989844))-(-46092))]]if Z[P][H[b(U(-326847-(((-980797+1457864)+-194991)-(657007+(558865-662763)))),19678133329951-(-312949))]]then k=k+510090577%7501332 end end return y,k end function q.on_me()return k end function q.pick(P,a)if type(a)~=H[b(U(74867-130736),(-805321+(25888184948481-779557))-93673)]or#a==(10713067713%315497063)%(983235532%15070103)then return nil end for P=3259370829%16629443,#s,720231+-720230 do for e=-664478+664479,#a,1570397419%12365334 do local q=a[e]local y=o(q)and L(q[H[b(U(-540228+484368),29726291746621-1008171)]],q)if y==s[P]then return q end end end if V()then local e=Q(P)for P=-267909+267910,#a,(662094+1896568454)%12084271 do local q=a[P]local y=o(q)and L(q[H[b(U(651338-707243),21446283100403-(-129139))]],q)if y and Q(y)~=e then if o(y)and L(y[H[b(U(-830108-(-774228)),(294743-(886508+-352300))+11086831422432)]],y)==true then return q end end end end for P=-559209-(-559210),#a,-701741-(-701742)do local e=a[P]if o(e)and(L(e[H[b(U(-67328+11442),9227441947692-(-854669))]],e)==true and L(e[H[b(U(-388529-(-332659)),(8896847523842-(-579189))-(-116712-264625))]],e)~=true)then return e end end return a[(-899063-(-523792))-(-375272)]end function q.hold(a)j=a g=P[H[b(U(-453224-(-58902-338479)),18218955565728-(-17069))]]()end function q.release()j=nil g=226458-2949285791%11656361 end if type(e[H[b(U(394942-450758),(-1315582-(-714895))+12536714412231)]])==H[b(U(875296+-931174),847918+9368960909039)]then e[H[b(U(-552673+496875),-729555+25449025539519)]][#e[H[b(U(265519-321368),-81010+1727641205166)]]+(388134-388133)]=function()q[H[b(U(-255290+199383),-193824+31332424109645)]]()end end function q.fixed_target()if A(j)then return j end return nil end local N=-104754+104757 local function w(P)local a=o(P)and L(P[H[b(U(-907287-(-600144+-251315)),542630+19902089680871)]],P)if type(a)~=H[b(U(687466-743320),850714+27254561822974)]then return false end for P=892734049%6199542,#s,379231-379230 do if s[P]==a then return true end end return false end local function R(P,a)if not P or not a then return false end local e,q=Q(P),Q(a)return e~=nil and e==q end local function i(P,a,e,q)if type(e)~=H[b(U((788532+-1216265)-(-371856)),(15829530947647-776148)-400165)]then return nil end if not w(a)then for P=93396151%10377350,#s,-510042+510043 do for q=(-1251139-(-1026376-(-374087)))+598851,#e,869353+-869352 do local y=e[q]if A(y)and not R(y,a)then local a=o(y)and L(y[H[b(U((349324-(((675514-733081)+-185749)+765033))-(((12751+(-527618+790845))-(142731+(151458-334662)))-433044)),204354+(34377+((-200760+(-426055-(-158742)))+4849540017967)))]],y)if a==s[P]then return y end end end end end local y=L(P[H[b(U(-669967+614136),5357975205317-540803)]],P,a)if type(y)~=H[b(U(193397+-249286),5981+24157810884535)]then return nil end local S=tonumber(q)or(201233+-613790)+(26669-(-65235-320683))local m,F=nil,y for q=175747+((-1564339-(-875698))-(-512895)),#e,-53787+53788 do local y=e[q]if A(y)and not R(y,a)then local a=L(P[H[b(U(653420+-709316),31863404004072-(-950230))]],P,y)if type(a)==H[b(U(458519-514427),17133885790666-164940)]and(a<=S and a<=F-N)then m,F=y,a end end end return m end local function J(P,a)q[H[b(U(569007-624888),1241092099%5169500+((-268518+33006912860043)-378301))]](P)local e=X()if e and type(e[H[b(U(-1036817+980919),10110412002268-643186)]])==H[b(U(385807-(-879774+1321484)),-302037+8734709163511)]then pcall(function()e[H[b(U(-947821-(-891904)),-132418+3347109718817)]](P,a or H[b(U(-699757-(-1632653-(-988811))),8713490031335-181629)])end)end end local function Y(P)local a=X()if a and type(a[H[b(U((-598341+574992872%2307379)-(-86990)),1959184766683-((-3261+60323028297)%563793897-457278)%(1252308872%7175861))]])==H[b(U(-870422+814527),-152868+31127237851845)]then return a[H[b(U(-440954-(-385042)),12477852881092-(1028154-593872))]](P)==true end return A(P)and L(P[H[b(U(800512-856367),342280+32154896781031)]],P)==true end function q.acquire(a,e,y,S)local m=X()if m and type(m[H[b(U(-152429-(-96594)),(-204220+320374)+16188985845304)]])==H[b(U((-525870+1278102)-(595163-(-212887))),-437049+12832046328408)]then local P=A(y)and L(y[H[b(U(429363-485224),(1880701338%15933106+29106155370564)-562364)]],y)or nil local F=m[H[b(U(-51045-4843),23015544110682-(-509160))]](a,P,e)if F then J(F,H[b(U(-124179-(-68374)),542442+(9348508913734-(-1046162)))])return F,type(S)==H[b(U(-862107-(483235+-1289504)),-813697+2010729539963)]and S or q[H[b(U(-872538+816697),(350263+28861393935156)-100722)]](a,e)end if a and(L(a[H[b(U(-554465+498542),(716934-(218729-(-857896+494018)))+3156864243801)]],a)==true and A(y))then q[H[b(U(112496-((-238683+(((-492187+723652)-(922756-656899))+(-1048143+542958)))-(-946563))),-88950+23823883625588)]](y)return y,type(S)==H[b(U(610581+(65571+-732017)),27439395526581-(-24058))]and S or q[H[b(U(657159+-713041),(31026748112614-((505318-488844)+-129279))-(404542+(-1376180-(673632+-1325278))))]](a,e)end end if type(S)~=H[b(U(-656808+1473095088%(174752125%18551239)),(22930719901000-320263)-905600)]then S=q[H[b(U(-65288-(-9462)),2493288533322-(-149712))]](a,e)end if A(y)then if not Y(y)then local P=i(a,y,S,e)if P then J(P,H[b(U(244326-(1158604-858376)),856706+(18416028731234-848541))])return P,S end end q[H[b(U((587258-1030926289%7466451)-87018),497369+((972531+(((6244847084665-276694)-(-479906+-324764))-(-194158+(599580+(-1689369-(-919940))))))-(-484382)))]](y)return y,S end if A(j)and(P[H[b(U(357131-412952),14329367080802-496845)]]()-g)<I(a)then return j,S end local F=q[H[b(U(-413924+(-264871-(-622870))),-55668+31414322764574)]](a,S)if F then q[H[b(U((-258544-736270)-(-938987)),35100853884835-(-687433+253475))]](F)local P=X()if P and type(P[H[b(U(-691057-(((710743+-1513730)+468209)-300449)),80354673566943%8035467977761)]])==H[b(U((-19752-(258372-(758079625%((663842+2848598)-(-694629))+45226)))+-630216),19271592586399-(-1000531))]then pcall(function()P[H[b(U(628878-684799),513478+10115340555611)]](F,H[b(U(212121-268031),-978974+19888188938607)])end)end else q[H[b(U(75981-131803),3252070438306-(913436+-1498770))]]()end return F,S end local B=-561682+561683 local C=626414+(-765910+-999860504)function q.dismount(a,e)if not a or x(function()return a:is_mounted()end)~=true then return false end if e then local P=x(function()return a:distance_to(e)end)if type(P)==H[b(U(-9030-46818),15617522485405-504706)]and P>m then return false end end local q=P[H[b(U(542549-(546261-(-52161))),(-533474+29087244925284)-(-593148+1212213))]]()if(q-C)>=B then C=q pcall(core[H[b(U(((-1587677-(-994187))+(1037444-643622))+143776),260312+8165727478805)]][H[b(U(679943-3389845334%15986366),18880793873250-(-898594))]])end return true end local function E(P)if not o(P)then return false end return L(P[H[b(U(-564625+508808),(4567050240217-(-959500))-1795750261%9496876)]],P)==true end function q.assist(P,a,e,q)if type(q)~=H[b(U(-653782-(-597866)),815194974283-412258)]or type(e)~=H[b(U(-2071-53774),20056210305763-(-348042+402709))]then return false end if type(q[H[b(U(951981784%(14300914-(-807335))-217959),16492160318177-(-930051-(-112443)))]])==H[b(U(317857-373680),(-628104-236954)+1000296898154)]then for a=485727+-485726,#e,(350696+-683888)-(-333193)do local y=e[a]if E(y)and L(q[H[b(U(-478549-(-422696)),9461011720040-603050)]],P,y)==true then return true end end end if type(q[H[b(U(-759600-(-703699)),27905036521719-(98842+435399))]])==H[b(U(848267-904099),21820935797665-(-668438))]then local a=Q(P)for y=201400+(-840098-((-258224-558351)-(-177876))),#e,-207985-(-207986)do local S=e[y]local m=o(S)and L(S[H[b(U(265378-321217),((292522+-324143)+30098211135461)-(-103733))]],S)if not m or Q(m)~=a then if L(q[H[b(U(-993219-(-937352)),1.9782521782321e+14%(-211355+32970872628600))]],P,S)==true then return true end end end end if#e>=665915-665913 and type(q[H[b(U(844516-(-88617-(-988942))),883902+17296192754944)]])==H[b(U(676738-732658),459951+15233713067340)]then if L(q[H[b(U(-31044+-24867),(3271205535445-(279514+423722))-178922)]],P,e)==true then return true end end return false end function q.reset()q[H[b(U((122531-(-187455))+(-837960-(-472060))),14658288576245-(872504-(-75168+802648)))]]()k=796924800%8301300 if e and type(e[H[b(U(-77280+21387),485857+34634195765125)]])==H[b(U((-72219-(-355707))+-339385),11647325313029-242551)]then e[H[b(U(-63066+7176),259926165%4058937+13781752929431)]][H[b(U(-590891-(-534978)),-824183+9202881769833)]]=-706762+706762 end end return q end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Combat engine - pack scan, target latch, kill-first priority, class hooks
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- Shared by every class rotation. Class modules opt in by exposing interrupt,
+-- taunt or aggro_dump; the engine never casts on their behalf.
+--
+-- WHAT THIS ADDS OVER targeting.combat_scan
+--   That scan counts only mobs whose target is the PLAYER. Four things were
+--   missing from it, and each one costs something real:
+--
+--   pet-held mobs   A hunter, warlock or a mage with a Water Elemental sees
+--                   nothing the pet is holding, so the pack reads as empty
+--                   and every AoE and every "2+ enemies" gate stays shut
+--                   through the whole fight.
+--   nearest first   The list came back in object-manager order, so "the
+--                   closest one" was whatever the client happened to list.
+--   can_attack      Nothing asked the client whether the unit is attackable,
+--                   so a friendly or immune mob could enter the pack.
+--   on_me           No way to tell how many are actually hitting the player,
+--                   which is the number an aggro dump wants.
+--
+-- INTERRUPTS ACROSS THE PACK
+--   The rotations interrupt their CURRENT target and nothing else. Fighting
+--   mob A while mob B casts a heal means B finishes the cast. combat.assist
+--   runs the class's interrupt against every caster in the pack, which is
+--   what the hook was always for.
+--
+-- THE LATCH
+--   A caller's own live target always wins; the latch only fills in when that
+--   target is gone, so grind and quest routes stay in charge of what to fight.
+--   Melee specs hold far longer than casters because retargeting mid-swing
+--   throws away a swing timer, where a caster loses at most a global.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local state = require("state")
+
+local combat = {}
+
+-- core.get_instance_type() answers the client's instance type string, where
+-- "none" or an empty string is the open world. Anything else widens the scan
+-- to every hostile in combat instead of only the ones on the player or pet.
+local OPEN_WORLD = "none"
+
+local DEFAULT_RANGE = 40.0
+local DISMOUNT_RANGE = 40.0
+local DEFAULT_HOLD = 1.0
+local MELEE_HOLD = 10.0
+
+local MELEE_HOLD_CLASSES = {
+    [enums.class_id.WARRIOR] = true,
+    [enums.class_id.ROGUE] = true,
+    [enums.class_id.DRUID] = true,
+    [enums.class_id.PALADIN] = true,
+}
+
+local kill_first = {}
+local fixed_unit = nil
+local fixed_at = 0
+local on_me_count = 0
+local targeting_mod = nil
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+--- safe(), without the closure: the same "first result, or nil on error", but
+--- using pcall's own argument passing.
+---
+---     safe(function() return u:is_valid() end)   ->   call(u.is_valid, u)
+---
+--- Identical behaviour, no allocation. Used for the calls inside loops over
+--- the visible object list, where the closure form allocated one per object
+--- per predicate.
+---
+--- THE RECEIVER MUST BE NON-NIL: the index u.is_valid happens OUTSIDE the
+--- pcall, so a nil receiver throws here where the closure form swallowed it.
+--- Every call site keeps its `if u and ...` guard for that reason. A receiver
+--- that exists but lacks the method is still fine - pcall catches calling a
+--- nil value.
+--- Is this value something call() may index?
+---
+--- call() does the index OUTSIDE the pcall, so a receiver that is not a table
+--- or userdata throws before pcall can catch it. The closure form tolerated
+--- any junk in a list - a boolean, a number, a leftover - and this keeps that
+--- tolerance rather than narrowing it to "not nil".
+local function indexable(v)
+    local t = type(v)
+    return t == "table" or t == "userdata"
+end
+
+local function call(fn, a, b)
+    local ok, result = pcall(fn, a, b)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+
+-- targeting requires nothing from here, but resolving it lazily keeps the two
+-- modules free of a load-order dependency either way round.
+local function targeting_ref()
+    if targeting_mod then
+        return targeting_mod
+    end
+    local ok, mod = pcall(require, "targeting")
+    if ok and type(mod) == "table" then
+        targeting_mod = mod
+    end
+    return targeting_mod
+end
+
+local function guid_of(unit)
+    if not indexable(unit) then
+        return nil
+    end
+    return call(unit.get_guid, unit)
+end
+
+local function alive(unit)
+    if not indexable(unit) then
+        return false
+    end
+    if call(unit.is_valid, unit) ~= true then
+        return false
+    end
+    return call(unit.is_dead_or_ghost, unit) ~= true
+end
+
+local function grouped()
+    local list = safe(function() return core.object_manager.get_party_frames() end)
+    return type(list) == "table" and #list > 0
+end
+
+local function hold_time(player)
+    local class_id = safe(function() return player:get_class() end)
+    if class_id and MELEE_HOLD_CLASSES[class_id] then
+        return MELEE_HOLD
+    end
+    return DEFAULT_HOLD
+end
+
+--- Is the character inside an instance rather than the open world?
+function combat.in_instance()
+    local kind = safe(function() return core.get_instance_type() end)
+    if type(kind) ~= "string" or kind == "" then
+        return false
+    end
+    return string.lower(kind) ~= OPEN_WORLD
+end
+
+--- Npc ids to kill before anything else in the pack.
+function combat.set_kill_first(ids)
+    kill_first = {}
+    if type(ids) ~= "table" then
+        return
+    end
+    for i = 1, #ids do
+        if type(ids[i]) == "number" and ids[i] > 0 then
+            kill_first[#kill_first + 1] = ids[i]
+        end
+    end
+end
+
+function combat.kill_first()
+    return kill_first
+end
+
+--- Hostile combatants around the player, nearest first.
+---
+--- In the open world a mob counts when it is fighting the player OR the pet.
+--- Inside an instance every hostile in combat counts, which is how packs are
+--- pulled there.
+---@return game_object[] pack, integer on_me
+function combat.scan(player, range)
+    local found = {}
+    on_me_count = 0
+    if not player then
+        return found, 0
+    end
+
+    local yards = tonumber(range) or DEFAULT_RANGE
+    if yards < 10 then yards = 10 end        -- 2.90.0: melee engage distance is 1-5 yd
+    local list = nil
+    local targeting = targeting_ref()
+    if targeting and type(targeting.enemy_list) == "function" then
+        list = safe(function() return targeting.enemy_list(player, yards) end)
+    end
+    if type(list) ~= "table" then
+        list = safe(function() return izi.enemies(yards) end) or {}
+    end
+
+    local me_guid = guid_of(player)
+    local pet = safe(function() return player:get_pet() end)
+    local pet_guid = pet and guid_of(pet) or nil
+    local dungeon = combat.in_instance()
+
+    local rows = {}
+    for i = 1, #list do
+        local u = list[i]
+        if alive(u) and call(u.is_in_combat, u) == true then
+            if call(player.can_attack, player, u) ~= false then
+                local tar = call(u.get_target, u)
+                local tguid = tar and guid_of(tar) or nil
+                local mine = me_guid ~= nil and tguid ~= nil and tguid == me_guid
+                local on_pet = pet_guid ~= nil and tguid ~= nil and tguid == pet_guid
+                if dungeon or mine or on_pet then
+                    local d = call(player.distance_to, player, u)
+                    rows[#rows + 1] = {
+                        unit = u,
+                        distance = type(d) == "number" and d or 9999,
+                        on_me = mine,
+                    }
+                end
+            end
+        end
+    end
+
+    table.sort(rows, function(a, b)
+        return a.distance < b.distance
+    end)
+    for i = 1, #rows do
+        found[i] = rows[i].unit
+        if rows[i].on_me then
+            on_me_count = on_me_count + 1
+        end
+    end
+    return found, on_me_count
+end
+
+--- How many from the last scan are actually hitting the player, as opposed to
+--- the pet. This is the number an aggro dump cares about.
+function combat.on_me()
+    return on_me_count
+end
+
+--- Which one of the pack to fight.
+function combat.pick(player, pack)
+    if type(pack) ~= "table" or #pack == 0 then
+        return nil
+    end
+
+    for k = 1, #kill_first do
+        for i = 1, #pack do
+            local u = pack[i]
+            local id = indexable(u) and call(u.get_npc_id, u)
+            if id == kill_first[k] then
+                return u
+            end
+        end
+    end
+
+    -- Grouped play: help with something an ally already holds rather than
+    -- pulling a fresh mob. There is no group-leader call, so ally aggro is
+    -- the only cue available.
+    if grouped() then
+        local me_guid = guid_of(player)
+        for i = 1, #pack do
+            local u = pack[i]
+            local tar = indexable(u) and call(u.get_target, u)
+            if tar and guid_of(tar) ~= me_guid then
+                if indexable(tar) and call(tar.is_player, tar) == true then
+                    return u
+                end
+            end
+        end
+    end
+
+    -- audit R5: the NEAREST living enemy (the pack is sorted nearest first) -
+    -- out of sight or out of range, the combat movement walks into line of
+    -- sight and cast range (no navigation call here). This changes who is
+    -- attacked first: a nearer enemy out of sight is no longer skipped for a
+    -- farther visible one.
+    for i = 1, #pack do
+        local u = pack[i]
+        if indexable(u) and call(u.is_valid, u) == true and call(u.is_dead, u) ~= true then
+            return u
+        end
+    end
+    return pack[1]
+end
+
+function combat.hold(unit)
+    fixed_unit = unit
+    fixed_at = izi.now()
+end
+
+function combat.release()
+    fixed_unit = nil
+    fixed_at = 0
+end
+
+-- The latch follows state.target (2.143.0): a cleared target clears it too.
+if type(state.on_target_reset) == "table" then
+    state.on_target_reset[#state.on_target_reset + 1] = function() combat.release() end
+end
+
+function combat.fixed_target()
+    if alive(fixed_unit) then
+        return fixed_unit
+    end
+    return nil
+end
+
+local CLOSER_BY = 3
+
+local function is_kill_first(unit)
+    local id = indexable(unit) and call(unit.get_npc_id, unit)
+    if type(id) ~= "number" then return false end
+    for k = 1, #kill_first do
+        if kill_first[k] == id then return true end
+    end
+    return false
+end
+
+local function same_unit(a, b)
+    if not a or not b then return false end
+    local ga, gb = guid_of(a), guid_of(b)
+    return ga ~= nil and ga == gb
+end
+
+--- A living pack member that should replace `candidate`: a kill-first npc
+--- the current target is not, or an enemy at least CLOSER_BY yards nearer
+--- and already inside the class engage distance.
+local function closer_target(player, candidate, pack, engage)
+    if type(pack) ~= "table" then return nil end
+    if not is_kill_first(candidate) then
+        for k = 1, #kill_first do
+            for i = 1, #pack do
+                local u = pack[i]
+                if alive(u) and not same_unit(u, candidate) then
+                    local id = indexable(u) and call(u.get_npc_id, u)
+                    if id == kill_first[k] then return u end
+                end
+            end
+        end
+    end
+    local cd = call(player.distance_to, player, candidate)
+    if type(cd) ~= "number" then return nil end
+    local limit = tonumber(engage) or 30
+    local best, best_d = nil, cd
+    for i = 1, #pack do
+        local u = pack[i]
+        if alive(u) and not same_unit(u, candidate) then
+            local d = call(player.distance_to, player, u)
+            if type(d) == "number" and d <= limit and d <= best_d - CLOSER_BY then
+                best, best_d = u, d
+            end
+        end
+    end
+    return best
+end
+
+local function adopt(unit, kind)
+    combat.hold(unit)
+    local targeting = targeting_ref()
+    if targeting and type(targeting.set_current) == "function" then
+        pcall(function()
+            targeting.set_current(unit, kind or "kill")
+        end)
+    end
+end
+
+--- Resolve who to fight.
+---
+--- A caller's live target is kept unless a kill-first npc, or an enemy
+--- already inside the class range and at least 3 yards closer, should take
+--- over. The latch only fills in when that target is gone.
+---@return game_object|nil target, game_object[] pack
+--- Is the candidate being fought (alive; in combat or wounded)? 2.226.0.
+local function engaged(unit)
+    local targeting = targeting_ref()
+    if targeting and type(targeting.engaged) == "function" then
+        return targeting.engaged(unit) == true
+    end
+    return alive(unit) and call(unit.is_in_combat, unit) == true
+end
+
+function combat.acquire(player, range, candidate, pack)
+    local targeting = targeting_ref()
+    if targeting and type(targeting.attacker_to_switch) == "function" then
+        local guid = alive(candidate) and call(candidate.get_guid, candidate) or nil
+        local lower = targeting.attacker_to_switch(player, guid, range)
+        if lower then
+            adopt(lower, "kill")
+            return lower, type(pack) == "table" and pack or combat.scan(player, range)
+        end
+        if player and call(player.is_in_combat, player) == true and alive(candidate) then
+            combat.hold(candidate)
+            return candidate, type(pack) == "table" and pack or combat.scan(player, range)
+        end
+    end
+    if type(pack) ~= "table" then
+        pack = combat.scan(player, range)
+    end
+    if alive(candidate) then
+        -- ONE TARGET UNTIL IT DIES (2.226.0): a target being fought is kept,
+        -- whatever else joins - no closer mob, no kill-first npc takes over.
+        -- Those swaps apply only before the fight with it has begun.
+        if not engaged(candidate) then
+            local nearer = closer_target(player, candidate, pack, range)
+            if nearer then
+                adopt(nearer, "kill")
+                return nearer, pack
+            end
+        end
+        combat.hold(candidate)
+        return candidate, pack
+    end
+    if alive(fixed_unit) and (izi.now() - fixed_at) < hold_time(player) then
+        return fixed_unit, pack
+    end
+
+    local picked = combat.pick(player, pack)
+    if picked then
+        combat.hold(picked)
+        local targeting = targeting_ref()
+        if targeting and type(targeting.set_current) == "function" then
+            pcall(function()
+                targeting.set_current(picked, "kill")
+            end)
+        end
+    else
+        combat.release()
+    end
+    return picked, pack
+end
+
+-- One dismount per DISMOUNT_GAP (2.217.0): it was sent every tick, 10 a second,
+-- for as long as the mount lasted. The tick is still claimed while mounted.
+local DISMOUNT_GAP = 1.0
+local dismount_t = -1e9
+
+function combat.dismount(player, target)
+    if not player or safe(function() return player:is_mounted() end) ~= true then
+        return false
+    end
+    if target then
+        local d = safe(function() return player:distance_to(target) end)
+        if type(d) == "number" and d > DISMOUNT_RANGE then
+            return false
+        end
+    end
+    local now = izi.now()
+    if (now - dismount_t) >= DISMOUNT_GAP then
+        dismount_t = now
+        pcall(core.input.dismount)
+    end
+    return true
+end
+
+local function casting(unit)
+    if not indexable(unit) then
+        return false
+    end
+    return call(unit.is_channeling_or_casting, unit) == true
+end
+
+--- Give the class module its interrupt, taunt and aggro-dump windows before
+--- the damage rotation runs. Every hook is optional.
+---
+--- The interrupt pass is the point of this function: it runs against every
+--- caster in the pack, not just the current target, so a mob healing itself
+--- behind the one being hit still gets kicked.
+function combat.assist(player, target, pack, module)
+    if type(module) ~= "table" or type(pack) ~= "table" then
+        return false
+    end
+
+    if type(module.interrupt) == "function" then
+        for i = 1, #pack do
+            local u = pack[i]
+            if casting(u) and call(module.interrupt, player, u) == true then
+                return true
+            end
+        end
+    end
+
+    if type(module.taunt) == "function" then
+        local me_guid = guid_of(player)
+        for i = 1, #pack do
+            local u = pack[i]
+            local tar = indexable(u) and call(u.get_target, u)
+            if not tar or guid_of(tar) ~= me_guid then
+                if call(module.taunt, player, u) == true then
+                    return true
+                end
+            end
+        end
+    end
+
+    if #pack >= 2 and type(module.aggro_dump) == "function" then
+        if call(module.aggro_dump, player, pack) == true then
+            return true
+        end
+    end
+
+    return false
+end
+
+function combat.reset()
+    combat.release()
+    on_me_count = 0
+    if state and type(state.combat) == "table" then
+        state.combat.kite_until = 0
+    end
+end
+
+return combat

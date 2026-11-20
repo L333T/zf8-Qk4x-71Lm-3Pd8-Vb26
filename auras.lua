@@ -1,1 +1,289 @@
-return(function(...)local z={";ijR6SJYb";";FBOgvPCd78vQ5YVI/IB=","dj\\2l9$=\"10RZ";";HOYmp1RpvPA=","dMfU#*";"d*[<e\\","dO8p\\Cr(sa_jR%2";"d";";gmiHCn4Xcke=",";INHtUyW4",";e/8eeg5HXlmm";";T5TzGdSbgli0","d3sqkGj$9";";k4O7gQT9/kM=","d&TBk:prV/a,b","d;297eePh",";P7rb2TXAY8q6",";g9Y2gdhVK4f1",";PZ1nuBAI",";S2y60i==";"d][EU#5qb";"da1?2jj&,_\'Ps";";dOnzfFr4Ls==";"dCGe&?\'U,D%QC","d=,\'.M%GOj47U",";h9gAE7oNZhXP","d&t:k!h%(";"dM7P//l)W5.lo";";2o5uq0VEMnIo";";p8WaXa3P","dlu?]*f1(";"d=XGaq$BWjg","dtro\\(?_Y","d.C;O\\O*OebTi",";J1Wo6Zmb","dbs=(3";"d22RmZos=?";"d,0hMeWOoX^al","d8mtNrKC";";qeB+yhJZ";"dX7ZA&";";dDR9T9z4iVwR",";6hR/l/vFwBLU",";jZOoxiB=",";U1K0jgaq14xg1rWzBX2fwARDW1VStp75PaZx";"d0rGeJ:X6";"d-\"+(&lo";";fkIOpsv3";";2YBK7259wNpS","dqP_<q/kLb;^f";"dj8H#d",";Vhbjiki=",";CPpes16kOB2=",";3Igj9CAetahQ";";6FpXuvn7";"d2-TL5TT!OsCF";"doO;g:o11s5)Z";";AoZZ6i==",";lTERj+i/",";/FHLlPjA";";9x5EM36vxO+D"}local function s(g)return z[g+2184144682%11617765]end for g,G in ipairs({{-911329-(-911330),1188113533%5211024};{-581567-(872470+((-530976-(-213292+-171885))+-1308239));-461483+461521};{70683-362153145%2567961,600200+(695859+-1295998)}})do while G[((-675308-(-100678))+-208911)-(-783542)]<G[971250601%5425981]do z[G[(567998-(-62420-184727))+-815144]],z[G[460556930%14392404]],G[1015618-1015617],G[979399+-979397]=z[G[-491702+491704]],z[G[239006593%1867239]],G[-581167-(-581168)]+(815920-(843150+-27231)),G[283907-283905]-(956316+-956315)end end do local g=z local G=table.concat local P={["+"]=67826795%413578;X=-507930-(-507976),x=699300+-699278,U=-236147+236190;p=656788+-656783,["5"]=2363074079%((11818388-327924)-129531),b=105866332%1447349-209835;["6"]=-387326-(-387354),y=1486021475%12081475,K=771489+-771460,B=156562+-156546;u=(-855511-(-511594))+343942;e=469680-469640;W=176067+(267086-443144),Y=(516394827-(-335168))%6225662,C=1480655140%(-435187+9806422),["1"]=3243194872%(1846437580%((944087+16423823)-857669)),["8"]=3576799942%15028571;["2"]=435917+(-254657+-181212),j=-988450+988501;G=293372-(1108689580-149780)%(7572857-422880),N=2195380019%10976900;v=819323-819317;Z=607609+-607576;r=-153191+153208,P=430123-430065;c=-670943+670947;T=-501977-(-502024);["7"]=((877953+-2079045)-(-739702))+461435;d=-383535+383558,i=3094674404%13113027,D=-948566-(-948601),V=693823932%7227332,m=(-5515+(-170676-316748))-(-493002);g=(34773691310%1054105398)%4342994,["3"]=752605547%4533768,s=-668504-(-668504);M=806507-806471;R=-53706+53748;t=509881+-509868;E=-723379+723435,S=(154377479726%1342439656)%7359115,Q=875775+-875757,F=(1001061+-1727327)+726304,a=315373632%3122511,["0"]=937724-937722,L=(1798086-(1398047-((473120+-1462516)+(228309949291%1522082818)%10690542)))-963058;o=-889389+(((377762+633303)+-1162040)-(474191+-1514609)),["9"]=113246187%905969,["4"]=-81227+81264;H=-25465+333109463%3581548;I=8481887%(-27172+2854465),z=1420845416%9535875,n=-565493+565554;l=(3097993149-(46286-(-307284)))%16303366,f=-657183+1726854202%13485914;J=618692+-618681;w=-574988+575014;A=-840695+840719;q=-202656-(421196+-623904),O=126090+-126037,h=(66409477795%(178861+(7326295729712%71826562631)%446082416))%5059946,["/"]=-727897-(-727898);k=129125-129070}local i=string.len local K=math.floor local o=string.sub local r=table.insert local p=type local M={c=901879973%(11593286-727263),s=854822+-854789,["9"]=288902318%13131923;P=689363749%4657863;V=(1132589318-693305)%11914694;["7"]=521980+-521904;J=(-33756+861270362)%13670422;["+"]=35050+-35042,i=-716092+149916043%2712726;[";"]=(-897230-(-986013))+-88735;Z=(210385386787%1006660621)%5847822,o=2711036196%(1794608879%(-205639+(-585094+24227416))),D=(-881452-(43064+-52205))+872314;B=371782778%(3203291-180667);H=525170279%6820393;r=(-490104+506622)-16481;q=-762724+762803;["<"]=-196909+196986,I=((-346870+855120)+-1149809)+641586;["*"]=806664+-806654;["["]=199114580%3374822;Y=-890721+890801,O=-367785+367815;["$"]=612620844%4314231;l=(-902838+((-127927+(-739334-(-113017)))+(104560+2414056)))+-861498;h=-63699-(-63758),["2"]=-138047+138098;C=539091616%15855634,["("]=151216+-151182,["4"]=767775+-767691;["-"]=-977962+977994,["!"]=91165640%2681341;d=1533938878%6698423,["`"]=378023868%2032386;E=716246-716227;[":"]=(6962677323%387164145)%5771013;_=(689039+-1176870)-(-487832),["%"]=751500372%(31698+4694719),e=((818693+113349927)-428201)%((763851+1662960)-676959);["?"]=285652261%12984193;U=83496+((-516533-((827915+-69474)-880015))-(-311504)),g=691102+-691080,K=990709-(1551923-561275);["0"]=-38000-((430276-687023)-(-218676));["\""]=100621-100543,j=1099331495%(595760+(7564571-(-925053))),["3"]=503575-503532,["#"]=(-479605-(-14466))+465145;p=77129092%7011732,["@"]=109975+(-1142295-(-1032333));N=342354-342307,k=704199+(403494+-1107649);a=(1439426-697432)+-741970,["="]=(-342842+-302939)-(-645786);["&"]=(521272+-22524)-(248520+(-856288+1106509));X=1589591541%(9481197-(-392042)),["/"]=-924916-(-924944);b=276328+(-191956+-84358),f=-359+397;n=794667859%11192504;F=(-329846-221229)-(-551138);M=(460832229-93120)%(2023810253%12202054),["5"]=-205727-(-205785);R=406222+-406169,m=2233849098%12620616,T=-113849+113878;Q=167214+(163868-(((-126971-264576)+389911)-(-332666)));["\'"]=((12779+-279905)-87021)-(-354163),["6"]=-333823-(-333868),L=702618+-702537,["."]=408869-(-608543-(-1017342));["^"]=1003222436%13933644;["1"]=143810-143806,[">"]=586601+-586528,["\\"]=((-89132+123596)-770410)+736002,[")"]=-831324+831359;["]"]=2105559191%(4548719050%(22655311-(-992243)));G=((821497+-2240524)-(-701355-248358))+469364,S=-848641+848643,[","]=-107723+107790;t=361903729%5654745;u=1179568760%5150955,W=-1037002+1037025,["8"]=1039987+-1039932,A=654453-654379}local A=string.char for v=-468569-(-468570),#g,961874+(-952583-9290)do local j=g[v]if p(j)=="string"then local p=o(j,225579+(922291+-1147869),(-259217-(-629959))+-370741)if p==";"then j=o(j,(108465296582%((-87209-801847)+3191146498))%14419914)local p=i(j)local M={}local t=-336909+336910 local z=-442592-(-442592)local s=(786346+43787091)%1087157 while t<=p do local g=o(j,t,t)local G=P[g]if G then z=z+G*((304266-304202)^((2363853957%15349701-s)))s=s+133526017%521586 if s==62291079%2491643 then s=(1317695269-960403)%6361038 local g=K(z/(1898116161%14052951+-902240))local G=K((z%(((172155636437-(-446684))%1366440757)%8715632))/(633355+-633099))local P=z%(982079-981823)r(M,A(g,G,P))z=-9351+9351 end elseif g=="="then r(M,A(K(z/(773644-693189599%(-413758+((-1697254-(-928953))+2166281696%10492775))))))if t>=p or o(j,t+(-517123+(193505+(689391+-365772))),t+469101256%1914699)~="="then r(M,A(K((z%(546780+-481244))/(338524216%1901820))))end break end t=t+(11824969430%98575256)%1853215 end g[v]=G(M)elseif p=="d"then j=o(j,653756372%2781942)local P=i(j)local p={}local t=601963+-601962 while t<=P do local g=(P-t)+(2844505836-(-405845))%13677460 local G=g>=32499211%1911718 and 77880+-77875 or g local i=1008147+-1008147 local v=G>-120549+(831591+(170550+-881591))for g=-267913-(1318524969%12204120-747922),-101666+1487722941%(534696972%7886867),337009+-337008 do local P if g<G then local G=o(j,t+g,t+g)P=M[G]if not P then v=false break end else P=-97999+98083 end i=i*(-1025619+(962524-(-63180)))+P end if v then local g=K(i/(1039349+(299246082-254719)%23604458))%(35482847%331613)local P=K(i/((54150212-6344)%7725476))%(375472+-375216)local o=K(i/(394816-394560))%(-773728+773984)local M=i%(-273750-(-886242+612236))if G==802173838%11298223 then r(p,A(g,P,o,M))elseif G==465883448%8959297 then r(p,A(g,P,o))elseif G==1015096377%6465582 then r(p,A(g,P))elseif G==77173658%517944 then r(p,A(g))end end t=t+G end g[v]=G(p)end end end end local j,t do local g=30603840%(407746758%2440452)local G={}local P=1071888386%5582752 local i=string[s(((-668724+-607695)-(-313720))-(-957872))]local K=math[s(-246135-(-241305))]local o={}local r=math[s(23458-28296)]local p=table[s(149517-154371)]for g=1167830431%8983311,512769442%6177942,198595945%3424068 do o[g]=g end repeat local g=K(-797823+797824,#o)local P=p(o,g)G[P]=i(P-(-318782+(1365196-1046413)))until#o==(334605535932%1480599388)%13249312 local M={}local function A()if#M==(-638655+1026863)-388208 then g=((g*(-268266+268331)+(10491985533660-1042941)))%(35184372446756-357924)repeat P=(P*(-436050+436101))%(688785893%10436146)until P~=3112989917%(16745389-186932)local G=P%(((358474+(-30811+-1273012))+91903)+853478)local i=(588483+-588470)-((P-G))/(-373160+(-115502+488694))local K=(r(g/(-114682-(-114684))^i)%(4295320326-353030))/(379397-((1028210-(-204198))-853013))^G local o=r((K%(493402831%2596857))*((-303858-97892)+4295369046))+r(K)local p=o%(-721673+787209)local A=((o-p))/(-19790+85326)M={p%(1712579488%16467108),((p-p%(-855584+855840)))/(422742-((86586088461-215084)%(572546+2792538140)-((1452505-720189)+((126650+436299829)-(-829674)))%2104849)%15340387),A%(1060364019%(15100386-574855));((A-A%(1028205+-1027949)))/(2063455054%14952571)}end local G=#M local i=M[G]M[G]=nil return i end local v={}t=setmetatable({},{[s(-547962-(-543161))]=v,[s(947548-952365)]=nil})function j(i,K)local o=v if(o[K])then return K else M={}local r=G g=K%(8.0924089729594e+14%35184387509414)P=K%((750861+-445710)+-304896)+(-177209-(-177211))local p=#i o[K]=s(85980-90796)local v=765933581%8325363 local j=s((637436+-547975)+-94277)for g=(-1103553-(-240962))-(-862592),p,(-121000-(-163110))+-42109 do v=(((string[s(-447097-(-442263))](i,g)+A())+v))%(516607+(-610641-(-94290)))j=j..r[v+2164244913%8726794]end o[K]=j end return K end end local g=require(t[j(s(336015+-340837),950326+26789295247842)])local G={}local P=-273602-(-273802)local i={[t[j(s(-949552+944728),869924+4663210525909)]]=false;[t[j(s(-797930-(-793078)),83987+27492281272998)]]=false,[t[j(s(((880261697%13136754+-847598)-(-534926))-(-208664)),-739582+22306587070210)]]=-623184-(-623184);[t[j(s(711962+-716801),3805777564359-879771)]]=-133891-(-663384+529493),[t[j(s(515519-520334),5811630193490-(569910-955800))]]=229142200%((-120055-149003)+4851902)}local function K(g)local G,P=pcall(g)if G then return P end return nil end local o=nil local r=false local function p()if r then return o end r=true local g,G=pcall(require,t[j(s(-1033716-(-1028876)),-930102+7881257968033)])if g and type(G)==t[j(s(25190-(-316473+346504)),27132337841286-212581)]then o=G else o=nil end return o end local function M(g)if type(g)~=t[j(s(3506592128%16775189+-582473),651481890114-768277)]then return nil end local G=g[t[j(s(-373216+(137619-(-230776))),20936+23787689003087)]]if type(G)~=t[j(s(-402389-(-397541)),12148600230755-748921)]then return nil end return{[t[j(s(-673990+669143),-740557+33989983506183)]]=G,[t[j(s(-312012-(-307175)),838422+17580689513429)]]=G;[t[j(s((410901+-802541)-((-1515870-(-946502))+182530)),648855+31242554763009)]]=((tonumber(g[t[j(s(728029-59986454%3485507),-655738+((-998432+19589471926609)-(-491969)))]])or 418527-1256720145%16106431))/(-777830+778830),[t[j(s(157166+-162011),491730+10547176061551)]]=tonumber(g[t[j(s(-817785-(-812959)),7926455240280-316376717%10176946)]])or-372734-(-372734);[t[j(s(916917+(261331+-1183101)),-607489+24590753445951)]]=tonumber(g[t[j(s(-614832-(-610022)),17686314962189-476)]])or 394144960%(9490928-(-362696))}end local function A(g)if g then return{[t[j(s(1443210134%15188735+-285152),(32885874639176-740994)-(-261458))]]=true;[t[j(s(-775171+770360),602160+32097087074823)]]=true;[t[j(s(371991-376847),139561+20208038305871)]]=math[t[j(s(-252614+247770),-72479+5669069355080)]];[t[j(s(-601961+597153),108811+4316740944567)]]=(317358-820013)+502656;[t[j(s((312990-(-543390))+(-1761797-(-512986-387611))),695803+33364925552079)]]=-554774+554774}end return{[t[j(s(-684243-(-679408)),25705508222981-(-581124-447345))]]=false;[t[j(s(677189-682044),(638201+-1132227)+19532303601637)]]=false,[t[j(s(-495329-(-490520)),799137+33648015483852)]]=628050+-628050;[t[j(s(107708-(-602785+715298)),28687501812332-653264)]]=-2634+2634,[t[j(s(-471620-(-466788)),950938938294-995879)]]=2552628%2552628}end local function v(g)if type(g)==t[j(s(204318+(697831+-906982)),156085+5983420602921)]then return g end if type(g)==t[j(s(1038924+-1043782),-645208+19425700460813)]then return{g}end return nil end function G.buff(g,G,o)if not g or G==nil then return i end local r=p()if r then local i=M(K(function()return r:get_buff_data(g,G,o or P)end))if i and i[t[j(s(251122-(-760101-(-1016082))),-472349+24011457357023)]]then return i end local p=v(G)if i and not((p and K(function()return g:has_buff(p)end)==true))then return i end end local z=v(G)if not z then return i end return A(K(function()return g:has_buff(z)end)==true)end function G.debuff(g,G,o)if not g or G==nil then return i end local r=p()if r then local i=M(K(function()return r:get_debuff_data(g,G,o or P)end))if i and i[t[j(s(-862582+857769),(550184+17841219362704)-(-946656))]]then return i end local p=v(G)if i and not((p and K(function()return g:has_debuff(p)end)==true))then return i end end local z=v(G)if not z then return i end return A(K(function()return g:has_debuff(z)end)==true)end function G.aura(g,G,o)if not g or G==nil then return i end local r=p()if r then local i=M(K(function()return r:get_aura_data(g,G,o or P)end))if i and i[t[j(s(749518+(-701672+-52674)),(2443712827329-(-695846+230549))-(1135252-3161037868%(-1041673+13838943)))]]then return i end local p=v(G)if i and not((p and((K(function()return g:has_buff(p)end)==true or K(function()return g:has_aura(p)end)==true))))then return i end end local z=v(G)if not z then return i end if K(function()return g:has_buff(z)end)==true then return A(true)end return A(K(function()return g:has_aura(z)end)==true)end function G.buff_up(g,P,i)return(G[t[j(s(-318040-(226926230%(2520001-(-51922))-910228)),-930757+18056497485999)]](g,P,i))[t[j(s(-366308-(-361501)),312513+(624497819%(-273148+13269514)+16130075236316))]]end function G.debuff_up(g,P,i)return(G[t[j(s(-1000809+996006),29672436499447-(-55000))]](g,P,i))[t[j(s(968291-973142),(21236982463074-117787)-(-250798))]]end function G.aura_up(g,P,i)return(G[t[j(s(854116-858920),(1261648-410488)+5474351366063)]](g,P,i))[t[j(s(-516651+511790),11272181008001-(-282193))]]end function G.buff_expiring(g,P,i,K)local o=G[t[j(s(107350-112199),994880+14116301104799)]](g,P,K)if not o[t[j(s(881497+(-381388-504969)),14870047344548-311776)]]then return true end if type(i)~=t[j(s(((84436-358571)+74306)+828427046%8718232),305469+(28415485996806-(-394053)))]or i<=23145+(590277-613422)then return false end return o[t[j(s(401025-405837),289713+(23639044875766-(-553854)))]]<i end function G.debuff_expiring(g,P,i,K)local o=G[t[j(s(825728-830542),364019210%5270090+(-296538+((3097083720%((1355788085%7876737-1022877)+16862213)-883471975%9705930)+33425636239176)))]](g,P,K)if not o[t[j(s(10613-15470),(294437+(-819495-340938))+16478339387853)]]then return true end if type(i)~=t[j(s(-234038+(-112216+2764563293)%15271944),5826010525524-335476)]or i<=-228969-(-228969)then return false end return o[t[j(s(1008313+-1013144),(28196137780543-(-318293))-(-952547))]]<i end function G.aura_expiring(g,P,i,K)local o=G[t[j(s(133631+-138450),(2813043534611-(-1105215-(-447379)))-(-330928))]](g,P,K)if not o[t[j(s((849022+-833802)-20062),26605762663141-273053)]]then return true end if type(i)~=t[j(s(320018-324868),1.5545857349203e+15%33076292480166)]or i<=18386+-18386 then return false end return o[t[j(s(-501952-(-497116)),26154962422890-362888)]]<i end function G.has_timings()return p()~=nil end return G end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Aura queries - one implementation, used by every rotation
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- Everything in this project asked about auras the same way:
+--
+--     if unit:has_debuff(CORRUPTION_IDS) ~= true then recast() end
+--
+-- which answers yes or no and nothing else. Two things follow from that, and
+-- both cost uptime on every single mob.
+--
+-- 1. A DoT is only ever refreshed AFTER it has fallen off. The bot notices on
+--    the tick after expiry, casts, and the mob spends that whole window with
+--    no DoT on it. The same is true of every self buff: Mana Shield came back
+--    a beat after it dropped, not before.
+--
+-- 2. Nothing could act on how long is left. "Refresh at three seconds" is not
+--    expressible when the only answer is a boolean.
+--
+-- common/modules/buff_manager answers with remaining, stacks and duration,
+-- and caches so that asking once per frame per unit is not a pile of game API
+-- calls. This wraps it so callers get a uniform table, and falls back to the
+-- old boolean calls when the module is not there.
+--
+-- WHY NOT A TIMER OF OUR OWN
+--   buffs.lua used to reason that a self-kept timer drifts, is wrong after a
+--   dispel it never hears about, and needs a duration table per rank. All of
+--   that is still true. `remaining` here is the GAME's number, read fresh, so
+--   it has none of those problems - it is the direct question, just with more
+--   than one bit of answer.
+--
+-- CACHING AND STALENESS
+--   A cached answer can be up to its cache duration old, which matters right
+--   after casting: read "not active" from a stale entry and the bot recasts
+--   something it just cast. Callers that act on the result are gated by their
+--   own cooldowns (buffs.lua holds 1.2s between casts), which is longer than
+--   the cache window used here. DEFAULT_MS is deliberately short for that
+--   reason rather than tuned for the fewest API calls.
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local auras = {}
+
+-- Short enough that a buff cast this second is not still reported missing on
+-- the next attempt, long enough that a rotation asking about six auras in one
+-- frame does not make six trips into the game.
+local DEFAULT_MS = 200
+
+local NONE = { is_active = false, active = false, remaining = 0, stacks = 0, duration = 0 }
+
+local function safe(fn)
+    local ok, res = pcall(fn)
+    if ok then
+        return res
+    end
+    return nil
+end
+
+-- The module is resolved once and remembered, including the failure. Retrying
+-- a require that has already failed, once per aura check per frame, is its own
+-- performance problem.
+local bm = nil
+local bm_tried = false
+
+local function manager()
+    if bm_tried then
+        return bm
+    end
+    bm_tried = true
+    local ok, mod = pcall(require, "common/modules/buff_manager")
+    if ok and type(mod) == "table" then
+        bm = mod
+    else
+        bm = nil
+    end
+    return bm
+end
+
+--- Normalise to the shape callers read, whatever the source gave us.
+local function shape(data)
+    if type(data) ~= "table" then
+        return nil
+    end
+    local active = data.is_active
+    if type(active) ~= "boolean" then
+        return nil
+    end
+    return {
+        is_active = active,
+        active = active,          -- both spellings, so call sites read naturally
+        -- audit 1.19.0: buff_manager answers remaining in MS (.api buff_manager.lua);
+        -- every *_expiring caller compares it with seconds
+        remaining = (tonumber(data.remaining) or 0) / 1000,
+        stacks = tonumber(data.stacks) or 0,
+        duration = tonumber(data.duration) or 0,
+    }
+end
+
+--- A result built from the old boolean calls, for a build with no buff_manager.
+---
+--- `remaining` is reported as a large number rather than 0 when the aura IS
+--- up. Zero would read as "about to expire" to every caller that compares
+--- against a threshold, and would turn a missing module into a permanent
+--- refresh loop. Unknown time left must not look like no time left.
+local function from_boolean(up)
+    if up then
+        return { is_active = true, active = true, remaining = math.huge, stacks = 1, duration = 0 }
+    end
+    return { is_active = false, active = false, remaining = 0, stacks = 0, duration = 0 }
+end
+
+local function ids_of(spec)
+    if type(spec) == "table" then
+        return spec
+    end
+    if type(spec) == "number" then
+        return { spec }
+    end
+    return nil
+end
+
+-- ============================================================================
+-- QUERIES
+-- ============================================================================
+
+--- Buff data for `unit`: { is_active, remaining, stacks, duration }.
+---
+--- `spec` is an array of spell ids (every rank of the same buff is fine - the
+--- first one present answers) or a buff_db enum key.
+function auras.buff(unit, spec, cache_ms)
+    if not unit or spec == nil then
+        return NONE
+    end
+
+    local m = manager()
+    if m then
+        local got = shape(safe(function()
+            return m:get_buff_data(unit, spec, cache_ms or DEFAULT_MS)
+        end))
+        if got and got.is_active then
+            return got
+        end
+        -- "Not active" is confirmed below before it is believed (2.40.0):
+        -- buff_manager answering false for ids it does not track made a buff
+        -- that WAS up read as missing, and it was re-cast every global.
+        local ids_c = ids_of(spec)
+        if got and not (ids_c and safe(function() return unit:has_buff(ids_c) end) == true) then
+            return got
+        end
+    end
+
+    local ids = ids_of(spec)
+    if not ids then
+        return NONE
+    end
+    return from_boolean(safe(function() return unit:has_buff(ids) end) == true)
+end
+
+--- Debuff data for `unit`. Same shape as auras.buff.
+function auras.debuff(unit, spec, cache_ms)
+    if not unit or spec == nil then
+        return NONE
+    end
+
+    local m = manager()
+    if m then
+        local got = shape(safe(function()
+            return m:get_debuff_data(unit, spec, cache_ms or DEFAULT_MS)
+        end))
+        if got and got.is_active then
+            return got
+        end
+        local ids_c = ids_of(spec)
+        if got and not (ids_c and safe(function() return unit:has_debuff(ids_c) end) == true) then
+            return got
+        end
+    end
+
+    local ids = ids_of(spec)
+    if not ids then
+        return NONE
+    end
+    return from_boolean(safe(function() return unit:has_debuff(ids) end) == true)
+end
+
+--- Either kind, for callers that do not care which it is.
+function auras.aura(unit, spec, cache_ms)
+    if not unit or spec == nil then
+        return NONE
+    end
+
+    local m = manager()
+    if m then
+        local got = shape(safe(function()
+            return m:get_aura_data(unit, spec, cache_ms or DEFAULT_MS)
+        end))
+        if got and got.is_active then
+            return got
+        end
+        local ids_c = ids_of(spec)
+        if got and not (ids_c and (safe(function() return unit:has_buff(ids_c) end) == true
+            or safe(function() return unit:has_aura(ids_c) end) == true)) then
+            return got
+        end
+    end
+
+    local ids = ids_of(spec)
+    if not ids then
+        return NONE
+    end
+    -- has_buff first, then has_aura: a build that has only one of them still
+    -- answers, and the project's own call sites already pair them this way.
+    if safe(function() return unit:has_buff(ids) end) == true then
+        return from_boolean(true)
+    end
+    return from_boolean(safe(function() return unit:has_aura(ids) end) == true)
+end
+
+-- ============================================================================
+-- CONVENIENCE
+-- ============================================================================
+
+--- Is this buff up at all? The straight replacement for has_buff.
+function auras.buff_up(unit, spec, cache_ms)
+    return auras.buff(unit, spec, cache_ms).is_active
+end
+
+--- Is this debuff up at all? The straight replacement for has_debuff.
+function auras.debuff_up(unit, spec, cache_ms)
+    return auras.debuff(unit, spec, cache_ms).is_active
+end
+
+--- Is this aura up at all, buff or debuff?
+function auras.aura_up(unit, spec, cache_ms)
+    return auras.aura(unit, spec, cache_ms).is_active
+end
+
+--- Should this buff be (re)cast - missing, or with less than `secs` left?
+---
+--- This is the whole point of the module. `secs` of 0 or nil means "only when
+--- it is actually gone", which is exactly the old behaviour, so a caller that
+--- does not want early refresh is not forced into it.
+function auras.buff_expiring(unit, spec, secs, cache_ms)
+    local d = auras.buff(unit, spec, cache_ms)
+    if not d.is_active then
+        return true
+    end
+    if type(secs) ~= "number" or secs <= 0 then
+        return false
+    end
+    return d.remaining < secs
+end
+
+--- Should this debuff be (re)applied - missing, or with less than `secs` left?
+function auras.debuff_expiring(unit, spec, secs, cache_ms)
+    local d = auras.debuff(unit, spec, cache_ms)
+    if not d.is_active then
+        return true
+    end
+    if type(secs) ~= "number" or secs <= 0 then
+        return false
+    end
+    return d.remaining < secs
+end
+
+--- Same, for an aura of either kind.
+function auras.aura_expiring(unit, spec, secs, cache_ms)
+    local d = auras.aura(unit, spec, cache_ms)
+    if not d.is_active then
+        return true
+    end
+    if type(secs) ~= "number" or secs <= 0 then
+        return false
+    end
+    return d.remaining < secs
+end
+
+--- True when the build has a real buff_manager behind these calls, so a caller
+--- can tell "lots of time left" from "we cannot see the clock".
+function auras.has_timings()
+    return manager() ~= nil
+end
+
+return auras

@@ -1,1 +1,1146 @@
-return(function(...)local XR={"keFHIGnDRsoDaBMtAza==";"kBH==","kBheZOicb","pZ;%\\`^apC9","pM)#46mb@_k";"pgEDQ\"EatZG";"kukOHkTh09ag5";"pEt;","p1JAQ\'";"kk3vztbz=";"pQ/IM\"3H\'!4.XmT","kyQMUZ2j2IvnoLU==","kG4FI9uDRHrNmhKc=";"pN]lFpV0";"kh4GaXlo1+U==","kSy0HNNc=";"kqw/PS859WOv=";"pf2qfA_:";"p]I_(J8K3=I";"ka6zMB08m","p@E,*kR5E%(M:$PabTu","p\"W6J^","pL5","kbO08BFnmTNDj3i/a8hnE+H==";"p-F+6l\'mm";"pDBG]Qn\\1";"k3GQRAb01bta=";"pY0D(NKRKRd:B";"psGAo";"pmbD1=jg]";"pNQMmQLm.VV","kp7PYj9z6vC4=","kdQMY","k4Y6FSx0cKgJ=";"pa:_9B]\\l","kCt3YUlyR","p+2B9";"pP!Mf*-4","peP","pY2NSc","pq@Z;5ZVkuK\'jV+X4Hk]","pM(>12e)[OS";"kb6/BJFgdsH==","p6h%6nuf_","kNP2R0QP=";"p=>W","k4l09GYZIAJJ=";"pcoRQ5^hD";"pDgunaT2";"p`g;D%","kljIBynJ=","kXf7fr+iPI+VGUOVlXLXgv306NrmRwR34O/T+";"kKwQHHc==";"kUEU91naG/av=","p57DOnL9Z","pbuLt`d5X","p-ONg8","pDm0dA-;8mC7,.:V","kHxa+l9DLYnb7KPU=";"kdnMDS6P=","p1D";"p1C;.icbI9Uc[n\";>GZQYhJ\'8ELp\\:ACE>\"u?r$DUYYO-N<&cY2m,O-KP/5Z3k*\\s@:!qn^;*53%XZom*\\5Xs$@\"G;u?R0\\T","k18rSpjBM","pdcq\"@","p6<,m","p+HBmD";"kLlPoVD6t";"p([aj,G,n$AM)e7Ut%bIdh#ku&Br?B+SBo9(b?KRb\"u@f";"k3sd6bW+i","p\"r(@-";"p%_Ce";"p@Q`b\"??";"kRc==";"p(fhro\')b#%","pr3rdk","pKDJo1Z_X","kImQWSLHeiUiN","kerAibLvqFdAFYmOxCbx52/4p0U==","p+.aD-qruWHr&OP.)SPg1c/&k_;R","p=29%2";"p&\"][@GF3j+V9tQHKWp,s/O0a.G[%b,D/PGphZBSHGe:^s(N!QkV5;8:LIF=m^IBV;95P1\\Mr0=c0@:erFdd,Yf.>J60O";"kpLvE1Klbg8pl2c==","p4p5/p_J&";"kA/n+UKvg","pkY";"kCNaQvPVV";"pJ/N@U#eO$";"ks6PLCf/S";"kGv1k4RlW/8b=";"p?ug8_?lV@";"pacCF)LV9?\\$/*#RV`3*.Pd*%,19sgNZ7c&S1Ts";"k1Fui6SjyEXf4hjD=","kOtcpk6MR","k2EcM/s/=","pC?h1]lhf<:";"k1a==","kVmXaacuiPJruQuH=";"k2hPkDIN72C8x5k/Y0cubT8Uhg7bNTz4wOH4Slc+ZSrh0V/qKk1uE1SUM7dwMNw2rjqp7hrsjtpCKu+jF/tlceXU2/Sr5zLUBgwLQbdRL5r8Px767EQ+93B4M";"pu_Ph#CI&","kbVG3xIH=";"pa@)5`";"pFbE:rD`";"kWKtTADrZscMv","k7Ond6bfqzwGDT6EsuPS2DcDfvyqJZUpw72tPJYVEOthUqkpl597ynB8/za==";"pE1P\\[";"pK\\eRKr5=N)I\'GgS","kmojJ","p\\s6%e*_RR";"p-`5M_","pII\"0hQkf!","p6q]GA5[5&i\"eC=u^/U29:Gp";"p%-K.YNP","kTG5o8c==","klYGllbLQz7ivpu+UTIY3t+GSANLGusYyV9gsN9MV1BLm4Mvvkz3QL7wkgwTiAkXdVBz=","paQYtB";"k+MW8uhnsWH==","p-<@kmN?Ht6","pd\\\\l&","kGC/FdhVdr79v","pT>)OOo6W","p7L>Z6;DbjP","p\")qDo=Bl#Ltu_Tof5^I7^=anD0iQ";"k4Yxdc/tb1P8=";"k0Rjc9Pa=";"kY3/k+Uf2";"kA23RdN/E";"k3klH";"kv4db0j+NcHGupMFR3xypNL/s5j2ey+LDzgAr7xD/ahd6DM+Lmj1D88kHCdU+cj5tbZ/VwnXTPr4O";"p*_[VZ\"j41","p$LJG";"p1#6p";"k9KkoLkVr7c==";"kL33qK04=","p3>6SfsP/\',";"kGeWQKQSGvFFocEg4cSP=";"pJ#h-90N)V:Nnn#M;#4,7JQc=/\\%#9)^TZ";"kNmPFEZdtJ2c=","k16ArWa4IjgJZJQH=";"p-j:4MLkMl#\'mOeV","kHS+PTfeUYlllb/BIeEaeU3k3tFhRuSn2D+CphbUyC2EGFArRTC1onpY0yHKL4rpNeXMmZb9A+OYeZ40F/Uwv/8fdiy1at4KBtzz=","ke0oaQc4=","p:LA>lcD?02g,Dt#IF";"pn+uo;*T9pdB1F";"kn4c=";"ku0J6pO8=";"pKJ=750**";"p@Hba7","p=)V.=uXXI@G\']e";"pihm;KF=mSj27d3FTE_5DLSMSU%34+3mh:*$]):`/YI@0UaL#Q0)T3O","kXmdA0YHh2598","kyKMsMsu6idJUic8=";"pH;nlu0O","kwZQ3A84fzMa=";"pb7=X\'@&<>7";"kTo34";"p?Vs!,";"p\'`HeD#Mu@C","kSSrLJU==","kEmpkii9g","p^utPA","k1YsNpBqZ4tFjhU==";"knVfLnzJ=","komlkrkP=","kMQBHGlc=";"krod4/H==","pYTTK[\"P","kJVcL9U==";"pj84n";"kk21GdH==","kupzaEIej","pRR/EjHqiE","p&L.c^@bETR)C>iSG!N","pEBr","pQBXEBBJ5bRkN1iac`[_d`X-W/R36k]KRS+@ZH=oJ*8,d*=9hqPmQ`majfOUmmajq%j1;$0C`YTo-nb;e](R:NPr\'/W-->YqF?*[[MHQ]<*Ln6B756/8rJI(DV00/DO0XM;Pg;=HWO83fUeYNLW>`uYb.e\'diC;`/a?A\\_NR,bA5]a4CqPON`&DLI8Z6<<m13(7NlV#N:I5@\\sGgIaQ18ne\\PnMHMGs:m3.!$5AriL[;BC&OdJrYQ","kFXgQJ1UyzJX+gsU1oHD=","k/30u33S0";"kbmLTnpo0z5jmNHso","pJ>$eT6%J","kFjg1T2c=";"p&=U5X](`K9YA8g,";"k+d6kxH==";"kDzn0eU==";"kh16tltnxzU==","kFyV9ajH=","kgYEdLXUTdJTG5Pq1kvxl5U==";"pi\":gms^bO\'RC";"kZvr8";"p+j4\'j*hQ5L";"pK]0ZoZB;","ph]=7#1_Z;oq)!p";"kqG8xGK1B","kULLxnpLVw4VE7FLGT2b=";"kC6DFuBQD","kthSeWa==","pRdsO.Rr@";"piG=).%ft1[IY2#";"p;PC";"kJbWogc==";"kDdpvPi4=","khtP4BpnrwyP=";"kzU==","pT>5*/";"kXa==";"keMn4";"khcWjECP=";"p(@";"pJ.ItoPk#","p%\\\"\")";"kjc==";"kY5p0+vbOtr+b","pe.Eh593ja6uKula+\"1j_Tdju\\_sU?QHRs`lL,M:Z/K1GAOO";"kgVya";"pkj0cp-O:p8bcD.BMI>CFPL";"p;Ma!O8YrLnr2:ii%pZ+[k0YQ<khguY7r(Sk<mlI&%+;\"[[1?ijB>S_SOBF<%\"q^\']8)>m-bbiJMfZ`V<fn";"kxSwHEu99w1LFM4RyyAy58uve";"prmDQX-:U","p^g:dC$l(Y6,Xt";"p]sqAOddF&A?/upK-r";"kvcHUDzx1vU==","k9zEW5Mo92Oc=","po<rP2(3Z","p]9@RhT(nIGuPiAn","piGl?IIuT5T9bL(mbh]71","pOo4)X=8*G@16Ff","klRZaNTP=";"k0hv=","p+A.#:s\"t\\fC/";"p&]O2/","p%k+Z:W[h[F","kwfQZniv=","kMAP=";"kGd2Gyc==";"kJa==";"p^*QBRLfMD]cX6T";"kvGvEn0Gl89c=","kIb7o8KJ=","kKojUBlwxb+GHfO92","p","pqF4!/*(";"kT95UI3WsOk/=";"kEH==","k65iPjQsqWcJ=","kjxzfDtz=","kSxNqCSQG1f5TF6I/Ssv=";"kKPaUL19/czU=";"pk!","pcn+A8mp";"pOS#k?\\p";"k3A0O++0u";"pVaqdOV^pL]B^\':RmN$ji\\d3c","pt9\\/)mP%5=";"kA1RJluhWiEb=","kb+QieU==","p07L-CX7emrB5";"p/^\'9a_7$B>","pHa>A\"7qos!","phue+b1L","p6TZOoV8SN&W\\r*h";"kmRvyFH==";"p$>US.)me<";"pK<!gY9\']s5ZHK$/Mnk0qPnU@\"WUXPbh%Asb7Nmd&\"1@<t\'on0:\'In";"ktQclX+PI1g+MBojS2pZvTCqnj/8ndeg1DUM0Qvm5sCflmGwbvYn3nzpbEjaWmAMeQtrL2AWB3V4Hg71n50Tvs18l7GCsKI0KMpmPptJ=";"kqSJU+cbQaEa=";"pW49->a#B";"k6kX596vt8tbB7ka1bRjMgL9KYkc2Q/9SaWUTFs/w5BkKYVvlttvHqsRPPK798F+h","kKXH9tPMjfF2+dqgZ8U/1","kYz7Bghew6X3JtH==","kXNyIQ+1j","pZ&!/l";"p1qd8]=Zcu\\_5G%";"pF3C:$ar;>rD$@(/WA72AM@RG";"kHc==";"p`A\'5sBWEu(jsrB";"p)^R\"*]W`.IF)+q>)>VbN4`.)Vm4\'CK";"kQ/vO9y7KfBq2Jm9IefX=","pZIM","kra==","k1lo2","k7I3XiaGmRF+FU79qi4a=";"kext8","pK(?(j(@rX";"psX_Cj=uArsL*0YsJV","knygHC1H=","kEYa=","p7%N\"l*pU.Y";"kLcPMS/84Tpv=";"kqC8Usc==","pP_ZM","kvxk1LQQV";"k4xj81H==";"kILyhIsqikrz=","k7t2sfvzUxJxup0jeFbgQMHPbETwyz/81nLBe5nSQVezvvfVW9ynYimnSYxpOo5FRXVlDRFhbr4jbdTF7bRD=","phD\\3XNEl","kJBqe7sX=","kCYgfVTgslga=","k5qxfZfAinLPWYa2Htc==";"po[5Bu";"kvBijMIa81CeCG+hFGHc=","p8[VM7kA#UoRt";"kHCN8JOCMoPX=","pY1aOC)WS_RPssc","pb4]t!eFIQ5hPN";"kGDSFgnqEKjxZxz+31ypJYX1EbJ5Cno/EDz7Q22HGlqVF2MBMHlnsto1eazQAIcyvtB3FvTUxi2Oy1d0nVsrZJP4lgAv6QgUd+RH/";"p$t","kALulQNMjTU==","k+2y6OshLPvn8Jebr3MPEEdYTyteC13QEttfE+Mll79dhAzHGxxUPuYHP0fhilIPoNDe3","k3og/","kOH==";"pfY(8VeSkgj?F>qR<i7VJop7M(#][_W8)Es>>om)SWmA%LMeMC80m\'NT,(?d;/D7g?i%u(E8759==lsi:d\"F>";"kxQc7zHYKaYa=","p0U@/7RfY";"pK,[J*";"k0dIeniTUtCekHGP=","kPhH=","pPL\'@1i4<9KXRqp","kSS1rG1ap";"kQnQKBHMcvmQnvs2CZmoQ9LQyIkWfFBrgfSmqnjO0CmfXJIUiZQx1Zc6fZ4X=";"kk+hdGwnw/tc=";"pZ=#jA1I(e";"kiO7KwH==","kQp//JLQWmm0OQvbRyH==","p<mG/N+qp","kLoWHanRbOMgkx5IAOtCbDBSWZOnWrKfch5hsZ+PEnQqbg1UslqLv3MfPlXq5XFiqWWVnIl5gESlxvDZuvoxiZeidSO1evTTGE5/v1tyJ0GD=","kVH==","kaq0Kv+U=","kUUSCqxOP","kX6F1FDmbAXJ=","pnENWBi[7b-_H","pM+J\"%?8","p$Y","pnSNC&^K=/","kTwipaFKg","keYgf4Kzik1juuH==";"pX0UQ+","kHjHKvc==","klREDpc==","kmx0+Tc==","pk%ZCJm20`","k4c2ZDqz=";"k27SX","pa0SS","ktV7jSJlOz2+N2BtVajY6";"kuGpC55QrfZlF";"pUi8V99$VAY=<\\\\","pmTm/tj\"GBs`MlHE5!eX:22\"4SRO\'Rb!e7AY5K9@=kV\\+&MGFdggLiODj#CFrFN)<&K#g?3$/IP_j@b\"@SSuOf=jrnpXEi8jt=p=m&uIS";"p2MDi","p5S3hDoWT","p+D","k/qUPNGsn3M4=","p*uEq6";"krdluSi/=","piLfYAuf^K.b3@","kaYVs0BhttxPn3srqROeYJDTJ","p*F7EQ:E";"pMmg$F\\nrJ@C1U1ZKL-aLoC$.94RonMoF\'2cJ`TZFBNt\"<M2DOKX1>c38euk]";"kSeV9jlc1MU==","p?1uIbXa@[B!&?WKR\"P8[k`$3X95d$MaOD#","p9+g)IS9>";"kjIipJLY=";"p6u_6pZS$]aclQO";"pSe8";"kB8VJUaIToXz=","pIoEs","kSG7a+SvAX61jezX=";"kALuI1AMSmVOGQVP=","kfgOitxJ=","pKC6]=?O";"kcZTYOB8ApG2niLxxdBqV","kihUgV04=","p\\84TZk*/";"kDSy+1IhOk+J=","p6Kr/)","p-U:*k","pKDQ>h$hZ7G[r<#TEZ+Do50,#_8TD7;DH;aOJH\\\'YJ[)#>e(8";"kwYahha==";"kskFJjUXQIU==";"pf)4&N","pTW\'ct2RR_5g\\1$5Sp\"1";"pSKQbL>$/","kHSakGqbVyVP=";"ptPY","kvMK19LKEJhSJDNsm5EcF","k32EpMfJ=","kBACiexsj80H=";"p>ZbO","pkSTot]GZKu<)hZ*^a";"p4:391<\">,)%6=g#)$sa";"kly2mjMH=";"p-4","pI;%>M*f";"p#P7sX+Xc0(";"kn03w","pMM7oHMhlVJe1!D";"k4iSSXa==","p`nQ_INk;6%6(","pq2Nk\\.bd\'ONf";"p\'t";"kXwVz3bD=";"pNjX;nuY!`!a5-";"p\"B@(E@M3","kfaU=","k37PT","kfqhE/9tSgrr30IY=";"kCy5/YcH=";"pa@","p)%g8Y?DO%t9>OL,Fmh`C+?%A7cahgt#2TP5bVi2/\\/mJ:L\\BbBk8XJ)]WWq)Mi04";"pR..GXLMRmQE%Z4","knr20LPZ4","kma==","paYEKV[N;.O.!WB;V*.h-e#E.NWq6[SOidQ!/WS&CNhij1&PL?^a?Fk8jK4G-/5N$,950;aKTL";"p?mf<(+[2jca@";"p7i84.+(OX`","kaRAjpre4Hyz=","p>#q06N38R%o0";"pfR";"k+KT/PEqmiB3Mpp9GAZLmmmG1RsNw53qPSpuKDI8GnGHSl6gXuhq7RMYxZaX2Cl8c","kZ7DUcEOqskwEj3rWUkWUxpkkB0JEZD/tVVeY+j58m/2rikzxXtE5jTbRyrNwteeV9IWHbuTFng8WxweZVzy/mgT8YHup","pGEgZE-X.Y*"}local function cR(T)return XR[T-(23513-(-15094))]end for T,o in ipairs({{1648143263%6488753,881288-((979382+-384947)-(-1184158-(-897723)))};{-922776-(-1922571-(-999794));569845-569826},{2866699635%14700565+-89440,-970574+970992}})do while o[-589671-(-20883-568789)]<o[-491895+((728449+(25768-349152))+86832)]do XR[o[2094866911%9108117]],XR[o[877066+(-632364-244700)]],o[(9231299-838960)%(-618399+9010737)],o[1073561698%15787672]=XR[o[((-375307+-563438)+1980572)+-1041825]],XR[o[11870769%382928]],o[767695-767694]+(-1045523-(-1045524)),o[1653064976%(-533886+(6802656-(-367395)))+-659889]-1930084348%10546909 end end do local T=table.concat local o={["@"]=85930485%14321737,["6"]=584633-584629;N=102837+-102770;c=-231774+2369438215%13774456,B=296639-296573;D=53294+-53283;L=205244337%1341466;["%"]=303977339%(175984964%(399082+5393659)),J=-515018-(-515076),["3"]=-507467+507477,["\\"]=(-376467-(-417537))+-41026;G=167106259%(13041972-(-883548));[":"]=-619187-(-619192);[","]=1006919+-1006837,Q=-660269+660293;b=318060-317992,["1"]=377959-377936,["4"]=2404441644%(3370708078%24163638),["9"]=658221+-658188,t=2061545049%(9353875-(-557399)),h=127303877%2086948,n=608975848%(796123968%3332816);R=-40499+40534;a=212696+-212645,C=863431-863401;X=1107793525%4558821;["."]=529977976%5247306;e=959524+-959448,["8"]=38165847%165220,A=(-595976-285433)-(99274+(-796559-184207));E=615991+-615979;["$"]=853688117%8892584;[";"]=((428735564640%4374990700)%18977985)%15508097;j=-583936-(-583964),["2"]=1099705914%15937766;["?"]=-756773+(286248+470525),P=(-1042873+781564)+261323;f=971251845%4905312;["/"]=2390368858%14144194;["7"]=2738125731%12855050;["*"]=-430332-(-430345),["="]=(23720927085%741639980)%4650240,q=-1012146-(-1012192),l=178795-178761,K=1236598865%13435878+-498024;g=(-374073+(318722273735%(-34416+1660116772)-(-914905)))%8113717;S=(-439078+(-660677-(-319172)))-(-780623),["`"]=(680434+-537086)-143327,["("]=-738698+738713;I=698688-698611,o=(-528457-95998)+549099128%14063453;Z=-598695+598745,i=124506-124461;["-"]=(440627+510872)-(728104+223339);O=93694133%(-235291+1421292),u=257014381%1862423,m=(597220-(459659+532063))-(295368-689950),["\'"]=329074794%7478972;["#"]=164147-164095,F=165416+-165378,W=3146242627%(1419606902%24658968);["<"]=-67173+67252;["!"]=-989544+989573;r=(-573477+1237629)+-664077,["0"]=-1014177-(-1014213);V=1361731566%5535494;U=-119104-(-119168),T=2255668432%((2410984853%(10228660-(-878588))+(70668+(910070+-960996)))+(-416837+(-171273+(-632396+12237000))));s=419711424%(812256+1036693);["["]=-563029+563103,M=136849289%3601296,H=1981944932%(-738855+11749660),Y=-404336-(-929936-(-1042556-(243132+-760090))),["\""]=-239782+239813;d=1800205213%((734238+9268149)-(-38495+(374327+-1048952)));[")"]=179710+-179667,_=3288595445%13645624;[">"]=660231+-660213;["&"]=-143402+143473,["]"]=559505-559432;["5"]=425647+(177880+-603510),["+"]=-662019-(-662078),k=(1212115-446413)+-765640;["^"]=101141722%1021633;p=762851000%13152602}local I={u=(8253620662%187882129)%(12454363-13084)+-511148;F=1625297488%7559523,["7"]=564123-564110,T=403014-402984,Z=989636-(466110+523519),["1"]=1777189405%9453135,a=-386287-(-386319);r=549313-549302,R=854351646%(3846445-115652);k=-867067-(-867093);V=(117910+426168)-544072,f=326614+-326595;L=(719833+-129713)-590067,Y=((728188-647440)+40679)+-121391;D=593687485%8361795,C=(782477+-551546)-230873;e=999096+-999087;i=-734204-((-121088+-1100322)-(-487152)),b=742465+-742421;["3"]=394567-(562612-168047),p=92607-((1618490627%8886237-(1033073+-194680))-264524),W=-709848-(-709851);U=-948458-(-948458);["2"]=(-523709+213457)-(-310309);["5"]=36703+-36691,G=-643438+643472,["+"]=616312-(236473-(-120991+-258793)),m=54547-54518;["6"]=878675+(-234292-(1288033-643697));z=1719471247%13979441;h=-353114-(-353132),x=622324998%13516257-577137,N=-241-(-279),["9"]=123676-123617;q=-470239+(354818+115436),E=435716-435666;X=((279417+2110027651)-882164)%8938241;n=-997264-(-997286);I=-138822-(-1035522-(-896655));g=(1160604-841279)-(577423-258099);O=455914981%10361704;y=(206762+-1065133)+858392,Q=-534254-(-534281);v=(525802728-(1465559-514364))%4439533+-986631;c=(-528657-(-229640))-(-299065);S=(63551-(-226129))+-289647,o=254860+-254850;A=((342015+(-1186109-(-126452)))+2108856035)%(-728485+16944934),P=329187-2813273067%13083460;["/"]=3583335602%(237606+16199713);s=(212544137-519420)%2099254;H=-146149-(-146165),["8"]=-971691+971743;w=987222-987160,j=155648-((608505-428905)-23989),t=487956581%14786562,B=((273958303402-(-434402))%1985211054)%7783621,["0"]=284754+-284712,M=86037680%445791,l=-576397-(-576438),d=-122660-(-122706);K=130714822%4668386,["4"]=348881413%5900997+-722566;J=(6206895028%98700310)%841113}local w=table.insert local l=string.sub local m=string.len local V=math.floor local n=string.char local d=XR local q=type for S=(-739169+373312)+365858,#d,(-337952+384302)+-46349 do local O=d[S]if q(O)=="string"then local q=l(O,(-815218-188348)+1003567,-716790+716791)if q=="k"then O=l(O,-45655+45657)local o=m(O)local q={}local r=817222+-817221 local Y=((399526495284-627962)%2466213954)%10446698 local N=1618341600%8608200 while r<=o do local T=l(O,r,r)local m=I[T]if m then Y=Y+m*((-799942+800006)^(((731989+(213149-945135))-N)))N=N+(-321724-(-321725))if N==292346+-292342 then N=(-454448-48648)-(-503096)local T=V(Y/(-382308-(-447844)))local o=V((Y%(-317496+383032))/(140225766%738029))local I=Y%(1471360%122592)w(q,n(T,o,I))Y=378298-378298 end elseif T=="="then w(q,n(V(Y/(353266+-287730))))if r>=o or l(O,r+669112705%10454886,r+(-890172-(-890173)))~="="then w(q,n(V((Y%(174415475%748283))/(1130521813%((7603326-190777)-(-174844))))))end break end r=r+46924225%733191 end d[S]=T(q)elseif q=="p"then O=l(O,1895640392%9026859)local I=m(O)local q={}local r=1265964241%5274851 while r<=I do local T=(I-r)+(293891676%(1012608+4705081))%(794836-(1332580-611600))local m=T>=-73690+73695 and 189133+-189128 or T local d=11355947%11355947 local S=m>-2688-(-2689)for T=152676+-152676,487444216%5724881+-829327,-6229-(-6230)do local I if T<m then local w=l(O,r+T,r+T)I=o[w]if not I then S=false break end else I=(89993+176867)-(885054560%13827819-(-192632))end d=d*(834735-834650)+I end if S then local T=V(d/(905736+((670447+(-709242-(878976-640113)))+16149138)))%(436858+-436602)local o=V(d/(1592482214%6269357))%(3232316470%(13012705-135278)-82037)local I=V(d/(-780555+780811))%(929540+-929284)local l=d%(((-553107-302304)-(-129189+(-869456-(-484579))))-(-341601))if m==-813918-(-813923)then w(q,n(T,o,I,l))elseif m==(215543-(-778181))-993720 then w(q,n(T,o,I))elseif m==610656819%12462384 then w(q,n(T,o))elseif m==256705-256703 then w(q,n(T))end end r=r+m end d[S]=T(q)end end end end local vR,tR do local T=math[cR(-882380+921158)]local o=math[cR((1317343732-205339)%13719786)]local I=771880+(198940+(-1991881-(-1021063)))local w=table[cR(17246526%82729)]local l=280510768%2646328 local m={}local V={}local n=string[cR((1142938771-920939)%7320377)]for T=-30546-(-30547),1795767589%7211917,110485+-110484 do V[T]=T end repeat local T=o(134713217%1530832,#V)local I=w(V,T)m[I]=n(I-(435143+-435142))until#V==158580092%972884 local d={}local function q()if#d==-432560+432560 then l=((l*(303293711%2280402)+((-666901-(-21068-(-401991)))+10618075387749)))%(35184371192116-(-896716))repeat I=(I*(-393555+((925238+-581963)-(-50450))))%(720514+-720257)until I~=-421156+421157 local o=I%(182814396%1677196)local w=((412127-456729)-(-44615))-((I-o))/(-874363+874395)local m=(T(l/(1366557446%7991564)^w)%(4294026250-(642360+-1583406)))/(137754+-137752)^o local V=T((m%(-384779+384780))*(4294414972-((-1426502-(-980126))+-105948)))+T(m)local n=V%(-2250-((-809788+-151512)+893514))local q=((V-n))/((3218823906-437835)%(603264446%25633455))d={n%(-290563+290819);((n-n%(-332795-(-333051))))/(-886225+2578056876%(12199078-((-1053281-13558)-(-315312))));q%(185402851%2181207),((q-q%(2779618864%11878712)))/((-275251+120547445)%(583331+533930677%10045358))}end local o=#d local w=d[o]d[o]=nil return w end local S={}tR=setmetatable({},{[cR(-893391+932322)]=S;[cR(1530312463%6831578)]=nil})function vR(T,o)local w=S if(w[o])then return o else d={}local V=m l=o%(35184373060008-971176)I=o%(621866091%5758017)+868111928%9978298 local n=#T w[o]=cR(-944423+983287)local S=958020+-957920 local O=cR(-37400-(-76264))for o=2533344429%11620846,n,773197-773196 do S=(((string[cR((80154655052%943142046)%6163472)](T,o)+q())+S))%(-605237-(-605493))O=O..V[S+(261679-261678)]end w[o]=O end return o end end local T=require(tR[vR(cR(576280-537410),33076429782423-(-163753))])local o=require(tR[vR(cR(3895473942%15393269-(336423+(-584410+1186061))),13376067308076-928486)])local I=require(tR[vR(cR((((((289980967172-(-1009734-(-852310)))-(-703554))-580237)-217859)%1487086497)%6041507),841747689%4979199+16541910482882)])local w=nil local function l()if w then return w end local T,o=pcall(require,tR[vR(cR(-24694-(-63669)),((982296+9609471141969)-1118465752%(14769458-616080))-(-597929-(-787713-(-970805))))])if T and type(o)==tR[vR(cR(266407+-227442),-475531+31526857367060)]then w=o end return w end local function m(T,o)local I=l()if not I or type(I[T])~=tR[vR(cR(1018902707%12578567),508088+34760716776456)]then return nil end local w,m=pcall(I[T],o)if w then return m end return nil end local V=require(tR[vR(cR(1606496077%12170130),(-59765+34003750170963)-(-598754))])local n=require(tR[vR(cR(1138942576%10643960),(13758434330909-(-501857))-(312210+50962))])local d={}local q=o[tR[vR(cR(1144176089%14668429),20251911614789%880518580426)]]local S=o[tR[vR(cR(226437536%(5119514-(-838347))),431842+22076437911673)]]local O=o[tR[vR(cR((-215982+(158075+(-253457+982545)))-1005538477%6744336),7.5548768060128e+14%(16074206832762-559279))]]local r=o[tR[vR(cR(151799+-112898),4498440181894-199745)]]local Y=-888971-(-889021)local N=-159219-(-159269)local K=949241+-949141.5 local W,z=262324586.5%3544925.5,(((-188482+322834)-(-161237))+-503201)-((414796+297851)+-920439)local U={[tR[vR(cR(((-820099+929097)+347471)+-417462),141521+17338266215680)]]=false;[tR[vR(cR(258715-220050),(32573020724515-(-991520-(852332+-1812940)))-671548)]]=-379880-(-379880);[tR[vR(cR(-778270+817027),7456513144379-(-581284))]]=nil}local function F()return U[tR[vR(cR(823680+-784778),(-467029+25579432499846)-(-587139+435872))]]and W or K end local g=182209455%915625 local C=false local y=false local M=(-305872+1187361)+-881389.5 local b=(310473-(907684+-1270339))-(222154+450959)local j=-657095+657098 local k=1.2 local H=921695252%(-613662+947960020%21655262)local a=4544-4534 local L={[tR[vR(cR((195426981-855241)%948942),486011+3651346638297)]]=true;[tR[vR(cR(294788-3682896315%16151932),703572+(35163172990020-(1210037965%6398632+-1137769)))]]=false}local h={[tR[vR(cR((-19729-808841)+((-172616+-511275)+1414761488)%6198291),19384816992667-(-267416+1164095))]]=-815082+-999184918;[tR[vR(cR(619885+-580939),-318946+10142494201989)]]=(-354569-(-73376+((-65268+-441302)+-4251)))-229628,[tR[vR(cR(854996538%12953906),542401759431-(-636990))]]=false,[tR[vR(cR(3184746232%12841563),((3502598577168-957925)-990752854%7024070)-(-852943))]]=false}local E={[tR[vR(cR(-747508+786243),30420333235214-883525)]]=212571+-1000212571;[tR[vR(cR(834793+((-705294-1022627)-(-1641340-((-843668-(-8832+(-1187939-(-185223))))+-877093)))),(23326355585995-12591)-(-979137))]]=1874996640%((3585550333-(-522725))%23368756),[tR[vR(cR(1007036944%4705599),28328864595018-(-217698+477531))]]=false;[tR[vR(cR(274224628%1531765),(972838+3813094118424)-2951857292%12296518)]]=false}local s=false local J=false local P=false local p={[tR[vR(cR((86682000648%(73535636216%(-1022720+433666581)))%(1724858597%12111743)),-876316+28617589710249)]]=-999709707-290293,[tR[vR(cR((-442472-(-503625))+-22403),16349790840821-((274338-666424)+320914))]]=-1000825384-(-825384)}local A=628790-628670 local D={}local v=nil local t,X=nil,(-688586+270022)+-999581436 local function c(o,...)if I[tR[vR(cR((-1251179-(-318793))-(-538336+-432721)),-58224+17911175409209)]](tR[vR(cR(19955-(-18938)),1046263+1854988875159)])~=true then return end local w=select(tR[vR(cR(-287724-(-326556)),(30192365048379-984227)-(-932230))],...)>108516+-108516 and string[tR[vR(cR(993876-955166),(622074883%4031054-(-503544+1041703))+30157124302820)]](o,...)or o do local T,o=pcall(require,tR[vR(cR(-523047+561768),(-10747-(-824143+(-1017646+2601133)))+33716412030655)])if T and(o and type(o[tR[vR(cR(-538239-(-577242)),953477+(113027251182-(889471762-(-686065))%7353671))]])==tR[vR(cR(460554273%3837630),(731152-7598)+27821490536534)])then o[tR[vR(cR(1619678075%13496994),((-819536-35309)+(552541+232868))+(2339911081753-(-586169)))]](tR[vR(cR(1424457201%(148715550%10922815)),32923592041244-(-807894))],tR[vR(cR(900334935%4713593),576633+(13656759981799-(-237219)))],tostring(w))end end local l=(411140933-107093)%2704170 local m,V=pcall(function()return T[tR[vR(cR(-240986-(-279953)),635517+(24049188238045-(-247806)))]]()end)if m and type(V)==tR[vR(cR((1034805+704015021)%(3224702178%16271959)),22265741732080-607943)]then l=V end if w==t and(l-X)<-687698-(-687699)then return end t,X=w,l end local Q=nil local function u()if Q==nil then local T,o=pcall(require,tR[vR(cR(1829891029%10280069),22528206479527-(-142288))])Q=((T and type(o)==tR[vR(cR(405077-(-871547+1237835)),31128164332823-(-677800))]))and o or false end return Q or nil end local function i(T,...)local o=u()if o and type(o[tR[vR(cR(-538178-(-576790)),21591748629331-60163)]])==tR[vR(cR((55532+690734)-707388),(-322888+-68636)+(632010+29260912378141))]then pcall(o[tR[vR(cR(509363911%3717701),((-14433+-790914)+18863422743991)-(-789498))]],tR[vR(cR(1228444597%7582752),-1009468+7320267206042)],T,...)end end local function B(T)local o=u()if o and type(o[tR[vR(cR((-44854+((877302-807984)-338224))-(-352752)),(34092501523525-(-386482))-861938)]])==tR[vR(cR(-49859-(-88480)),1366896505158-603724)]then pcall(o[tR[vR(cR((145226187010%(((-1520778-(-621172))+116862511422)%(652127140-(-786542))-355699))%(1676023074%14523337)),-22380+33023017336928)]],T)end end local function e(o)local I,w=pcall(function()return T[tR[vR(cR(-536989-(-884286-(-308566))),-684852+21649428194726)]](o)end)if I then return w end return nil end local function f(T)if type(T)~=tR[vR(cR(-593658-(-632328)),747484+13883177280382)]then return nil end local o=D[T]if o then return o end local I=e(T)if I then D[T]=I end return I end local function Z(T)local o,I=pcall(T)if o then return I end return nil end local function G(o)for I=690690643%4160787,#o,(361477485688%1807392975)%7111353 do local w=o[I]local l=Z(function()return T[tR[vR(cR(561637858%(6992872-(-596304))),412591+9863211996531)]](w)end)if l then D[w]=l end end end G(O)G(r)local function R(T,o,I)if type(o)==tR[vR(cR(140483+-101564),-799113+21954898755757)]and(type(I)==tR[vR(cR(-1020564+1059226),8214656752327-393771)]and I>1385253842%(278950+(14416267-(496108+-537634))))then return((o/I))*(752698-752598)end if type(T)==tR[vR(cR(413207-374255),((46230+10044674716170)-565037)-(-276927))]and T==T then return T end return 774770+-774670 end local function x(T)local o=Z(function()return T:get_health_percentage()end)local I=Z(function()return T:get_health()end)local w=Z(function()return T:max_health()end)return R(o,I,w)end local TR=require(tR[vR(cR(-312296+350960),-848562+2136081616744)])local function oR(T)return TR[tR[vR(cR(595547988%6403325),7778935150007-(496601852%(-644067+4404858)+-747955))]](T)end local function IR(T,o)if not T then return false end if Z(function()return T:has_buff(o)end)==true then return true end if Z(function()return T:has_aura(o)end)==true then return true end return false end local wR={[tR[vR(cR(-678425-(-717121)),23128223741661-(-466889))]]={[tR[vR(cR(2255976101%(10647371-881408)),871369+5.2810742996987e+14%(3520716280794-662))]]=true;[tR[vR(cR(97813-58917),(-19133+(294542+((-732625-(-954278+2109651380%13870902))-256784)))+13978042464876)]]=true,[tR[vR(cR((477225+-398171)+-40248),1.7860322218748e+15%(25514745250315-(-819262)))]]=true};[tR[vR(cR(-941818+980834),356507+11844138455181)]]={[tR[vR(cR(((1692420-340640)-878386)-434511),12289485318568-486498)]]=true;[tR[vR(cR(-773727+812668),23737706008391-1009815)]]=true;[tR[vR(cR(3488898052%14780080+-760488),8088462183509-(-197758))]]=true}}local function lR(T,o)local I=wR[o]local w=Z(function()return T:get_buffs()end)if type(w)~=tR[vR(cR(((3296438888801%62197144577)%1219366451)%16243226+((((-658375+((-24465-824039)+2099520))+-194164)+-886679)+-279328)),-874611+1621862204767)]then return false end for T=1855134381%10785665,#w,(904513-626742)+(-1127552-(-849782))do local o=w[T]local l=type(o)==tR[vR(cR((22974+(1332669816-(-110964)))%11899687),-287662+27893450436724)]and o[tR[vR(cR((-1337711-(-534041))-(-842482)),(689998-(-218831))+24583398742146)]]or nil if l and I[l]then return true end end return false end local function mR(T)if type(T)~=tR[vR(cR(-820060+(-18707+(-834802+1712365))),-200997+6003625940356)]or not((core[tR[vR(cR(840460+-801585),-860893+19287088574455)]]and core[tR[vR(cR(-190511+229167),16997418544309-226049)]][tR[vR(cR(679416+-640511),27706680708486-(-7962+(-233304-(-553229))))]]))then return nil end local o=Z(function()return core[tR[vR(cR(187039+-148357),-428293+26027366229668)]][tR[vR(cR(-754886-(-793533)),-663735+6127421667612)]](T)end)local I=type(o)==tR[vR(cR(784849432%(113173+(-450768+(379281+15346758)))),(7.8198281148244e+14-391743948%8331884)%4344348956304)]and tonumber(o[tR[vR(cR(1261882872%7936125),-206469+(-702349+(29837643268002-655638)))]])or nil if I and I>187655400%795150 then return I end return nil end local function VR(T,o,I,w)if IR(T,I)then return true end if w and(w[tR[vR(cR(983187+-944205),-14896+34338500632934)]]and IR(T,{w[tR[vR(cR(972822+-934013),(612324+17630864121286)-161457)]]}))then return true end return lR(T,o)end local function nR(T,o)local I={}local w={}local function l(T)if type(T)==tR[vR(cR(-206758-(-245483)),14140225467726-(652298-(-46146)))]and not I[T]then I[T]=true w[#w+(-785420-(-785421))]=T end end if type(o)==tR[vR(cR(417090+-378285),(-131429+26688169949015)-(-846779))]then for T=-509912+509913,#o,-452429+452430 do l(o[T])end end for o=904551278%7122451,#T,285578+-285577 do l(T[o])end return w end local dR={}local function qR(T,o,I)local w=dR[T]if w and(w[tR[vR(cR(-897581-((751986+-1306382)+-382058)),-779431+15446373404730)]]==I and w[tR[vR(cR(-112351+151366),-47666+3237786728676)]]==((type(I)==tR[vR(cR((14000911722%78243237)%3503651),(14613088064268-(-663746+394659))-415971)]and#I or 409463-1120590263%11668550)))then return w[tR[vR(cR(933934+(65494+-960452)),3865410512%16102703+(9087024786696-(-182869)))]]end local l=nR(o,I)dR[T]={[tR[vR(cR(622994-584308),((111062+18512534741812)-136125)-(-215785))]]=I,[tR[vR(cR(143925-(467801+-362575)),34091512365532-(-841120+62534))]]=type(I)==tR[vR(cR(1137030509%(-474785+5528081)),592522+15665239017292)]and#I or 395215064%3728444,[tR[vR(cR(242227-203488),1030384+14077734699184)]]=l}return l end local SR=require(tR[vR(cR((343534+217894)+-522644),-41211+4632287426118)])local OR={}local function rR(T,o,I)if#I==(987052080%45167448)%837732 then return o end local w=table[tR[vR(cR(((102981-(99580+318345))+-108512)+462208),-925654+3524749627571)]](I,tR[vR(cR(-561302-((291832+-549793)+(478774+-821071))),1443729418%7931688+4402854939131)])local l=OR[T]if l and(l[tR[vR(cR(101217+-62389),12866057631946-(691217739-897419)%14361074)]]==o and l[tR[vR(cR(((1160688931-(-1169))-(-527589))%5230536),27500915656243-(-1012647))]]==w)then return l[tR[vR(cR(970555451%(-407569+8171703)),-661792+25625021128292)]]end local m={}for T=11707+-11706,#o,139649241%(915368-180372)do m[T]=o[T]end for T=418544-418543,#I,1474581696%16192713-1044812 do m[#m+931950681%4828760]=I[T]end OR[T]={[tR[vR(cR((3470007893-(-899645))%16607027),-117096+27531417256151)]]=o;[tR[vR(cR(73139+(288256-322462)),20688153419615-(685817+-465148))]]=w,[tR[vR(cR((348974-897647)+587635),-632582+688437087121)]]=m}return m end local function YR(T)local o=qR(tR[vR(cR(2884586836%13935014),5.9819154676392e+15%34378824562079)],O,m(tR[vR(cR(98755+-59776),28631067376592-((-839151+669890)+(235843-(-1334560-(-469708)))))],T))local I=SR[tR[vR(cR(-713830+752679),-317974+19663544189072)]](T)return rR(tR[vR(cR((19339292137%586400839)%2564404),18294141819032-(-661365))],o,I)end local function NR(T)local o=qR(tR[vR(cR((-1006122-(-155457))+889490),410883+21679759525186)],r,m(tR[vR(cR((490114+160783776)%(3433383-(-405550))),-757075+((33368522446232-(-304573))-96838))],T))local I,w=SR[tR[vR(cR(-953843-(-295171+(206454+-903776))),-956118+18243478920775)]](T)return rR(tR[vR(cR(406581-367557),34375442534995-429773)],o,w)end local KR=449903-(-251948+701850)local WR={[tR[vR(cR(1422755170%9811836),1041377+34413245206122)]]=-446681+(430822+-999984141),[tR[vR(cR(209194-170535),(-406031-547256)+6352536482068)]]=nil}local function zR()if not SR[tR[vR(cR(1023759+(18673-1003649)),32682600403328-((177-(230440+511540))-(-603323)))]]()then return nil end local o=T[tR[vR(cR(1125940654%(6027636-132863)),25014467781898-961121)]]()if WR[tR[vR(cR(-256766-(-295732)),34549021549918-((-778721+1534182)-879841))]]and(o-WR[tR[vR(cR(-431217+469830),549746+29641539629763)]])<KR then return WR[tR[vR(cR(2009918542%9709564),(60282830677-987706)-502246)]]end local I=nil pcall(function()I=T[tR[vR(cR(157134891%(-354862+1951384434%(-1010555+11094080))),171036+7818924167456)]]()end)local w={}local l=SR[tR[vR(cR((238445+-403638)-(-204154)),-372963+3349096723046)]](I)for T=(736257463%17510356+350280769)%3502267-876579,#l,550243451%((-559409-((501041+-1368034)+902679))+11599964)do local o=l[T][tR[vR(cR(218975348%1765618),(28387594488006-618628)-(-670678))]]if o then w[o]=true end end WR[tR[vR(cR(-748355+(1398726-611473)),(581990+-1513227)+4145857819033)]],WR[tR[vR(cR(-572142-(-610875)),3158448679453-(-364243))]]=o,w return w end local function UR()WR[tR[vR(cR(3413478550%15802961),-905845+25340179252958)]]=524119044%7695392+-1000832388 end local function FR(T)if type(T)~=tR[vR(cR(1018193223%4056392),-76470+23059804959680)]then return false end local o=zR()for I=((-625086+1214348923%17091218)+-1072886)+825528,#T,-285061+285062 do local w=((o==nil or o[T[I]]))and f(T[I])or nil if w then local T=Z(function()return w:count()end)or-777073+777073 local o=Z(function()return w:cooldown_up()end)==true if T>-727303+(-950091+1677394)and o then return true end end end return false end local function gR(T)if type(T)~=tR[vR(cR(-514190+553175),-169165+9400146517833)]then return false,tR[vR(cR(-815942-(-854870)),(-902606+20151889988729)-(-342475-570805))]end local o=-955404+955404 local I=nil local w=zR()for l=1032416+-1032415,#T,10425+-10424 do local m=((w==nil or w[T[l]]))and f(T[l])or nil if m then local w=Z(function()return m:count()end)or-257813-(-257813)local V=Z(function()return m:cooldown_up()end)==true if w>-633493+(58925+191030708)%12697076 and V then o=o+(790270+-790269)B(tR[vR(cR(41628-2883),1027181+16822742835160)]..tostring(T[l]))local w=Z(function()return(require(tR[vR(cR((-660870+(((-486553-(-425868-203460))-543026)+1193956))+-94127),(569810+26688011756986)-(15918619%1587458-644511))]))[tR[vR(cR(897296343%15196373+-671455),24519759452617-((-695488+-879852)-(-168689-(954419+(632971+-723288)))))]](T[l])end)B(tR[vR(cR(-463298-(-502319)),60273+6853069295564)])if w==true then UR()i(tR[vR(cR(3656004075%15361199),488888+9836198047587)],tostring(Z(function()return m:name()end)or T[l]))return true,nil,T[l]end I=I or(Z(function()return m:name()end)or T[l])end end end if o>717555-717555 then return false,string[tR[vR(cR(3903930915%16334277),29733446149435-(109703-(892201-100270)))]](tR[vR(cR((15930069386%92713606)%7600402),26941120462594-656376)],tostring(I))end return false,tR[vR(cR(427336+-388574),(479148-(-866893+(69047-(-530205))))+(-284586+32853648697112))]end local function CR()if v==false then return nil end if type(v)==tR[vR(cR(520530+-481537),-184271+16508119982564)]then return v end local T,o=pcall(require,tR[vR(cR(-294595-(-333417)),8188500089755-(-364670))])if T and type(o)==tR[vR(cR(-626699+665708),-53537+(((37138009-590128)%6009132-(-115251))+12362354913485))]then v=o return v end v=false return nil end local function yR(T)if V and(type(V[tR[vR(cR(-5825+(-199703+244408)),(13044382919677-626961)-169364)]])==tR[vR(cR(-649053-(-687908)),843539+32488772201711)]and V[tR[vR(cR(-536659+575512),9552782950749-795712)]]())then return true end return Z(function()return T:is_moving()end)==true end local function MR(o)pcall(function()core[tR[vR(cR(82282+-43492),26098756494394-4316100757%16989679)]][tR[vR(cR(1274823788%9513321),612408+5159193120410)]]()end)pcall(function()if type(T[tR[vR(cR(-741553+780394),3543815014926-234967)]])==tR[vR(cR((1595108826-(-995505))%11007348),(31057354962796-340073)-2432757600%(551861+11983683))]and T[tR[vR(cR(199896+-161159),-597151+19710964760402)]]()~=true then return end if T[tR[vR(cR((-475341-421189)+935407),(338325+8776538079213)-(1071840-900614))]]and type(T[tR[vR(cR(9522508%677398),(389756-164885)+11660836024113)]][tR[vR(cR(1332884116%6257489),9237079992160-(-85686))]])==tR[vR(cR(-375335-(-414181)),8154826179239-246677)]then T[tR[vR(cR((107807815%(13412342-2070)-(-471913+1215397))-(-256851)),960033415421-(-237111))]]:cancel_all()return end if type(T[tR[vR(cR(-396598+435606),361768+13773884259336)]])==tR[vR(cR((790960-279490)-472609),(-260398-(-593108))+2450178865416)]then T[tR[vR(cR(1045959892%5229605),(24805258740185-(-881218))-(-252517-737384))]]()end end)if V and type(V[tR[vR(cR((1049832-987615)-23357),16988685240502%(-110615+(-427778+(707862662754-(-127780)))))]])==tR[vR(cR(-871874-(-508521+-402033)),22171282702961-211420)]then V[tR[vR(cR(-491941-(-530868)),19205330848395-(191995+774888792)%13582342)]](true)end local I=CR()if I and(type(I[tR[vR(cR(-155772+194475),12762219354444-(-954250))]])==tR[vR(cR(210810+-172061),4.0537163961356e+14%12667864038278-748507)]and I[tR[vR(cR((529366+-257124)-((1042860+(-657127+(563781+-339293)))-376612)),17700954777997-(-352003))]]()==true)then if type(I[tR[vR(cR((16293065602%(311162+(610505+(639046+119240372))))%6216561),186458+14754973794968)]])==tR[vR(cR(-975726-(-1014505)),-917503+14066684688312)]then I[tR[vR(cR(1995749602%13043861),622985+27100713370792)]]()end end if V and type(V[tR[vR(cR(614373+-575462),10904883335569-(-735162))]])==tR[vR(cR(1181390246%7159705),868610+17651217988638)]then if yR(o)then V[tR[vR(cR((-157149+648446)-452666),21733786623343-726417)]]()elseif type(V[tR[vR(cR(7414154%(-131777+7507019)),-558117+2664042169099)]])==tR[vR(cR(-93924-(-132544)),(2723673743586-(-101))-(-388184-503828))]then V[tR[vR(cR((((-278542-999102)-(-1022340+585316))+(680871122-(-299336)))%3470872),(239539-944669)+254051346322)]]()end end end local function bR(T)T[tR[vR(cR(98979222%924678),27323898552967-(-839040))]]=497931-((-62671+778113)+-217511)T[tR[vR(cR(-433259+471928),17967917205074-(-627082))]]=false T[tR[vR(cR(((-4928-(-751752))+2107479735)%11395610),1468653423%7196524+569912043424)]]=false T[tR[vR(cR(142715-103737),-626392+18170643300186)]]=nil end local function jR()bR(h)bR(E)end local function kR()s=false J=false P=false jR()if V and type(V[tR[vR(cR(923744605%8032226),(843477+(63996+(-511748-(-281205))))+(6491414869058-335796))]])==tR[vR(cR(-573471+612488),(997031+24957111886947)-515274)]then V[tR[vR(cR((-749494-(-362583))-(-425930)),34962147487622-538925)]](false)end end local HR=215673427%12686671 local aR=337422+(601755-939165)local LR=-463159-(-463159)local hR=nil local function ER(T)if hR==nil then local T,o=pcall(require,tR[vR(cR(-594585-(949310+-1582779)),-238240+1227878868250)])hR=(T and(type(o)==tR[vR(cR(-566468-(-605319)),21025171436148-(-6314+(333191+-615633)))]and(o[tR[vR(cR(-865396+904343),((-614552-(-577500))+(848811+5407241238654))-95014)]]and o[tR[vR(cR(-6328-(-45340)),29895744099165-(-963586+(2084826-908729)))]][tR[vR(cR((97008864-887974)%906434),19073678063580-(-36851))]])))or false end if not hR then return false end local o,I=pcall(T[tR[vR(cR(451371-412532),22576946523965-(-1013742))]],T)return o and I==hR end local function sR(T,o)local I=nil local w,l=pcall(require,tR[vR(cR(-906843-(-1597877-(-652080))),30715910953772-(-958870))])if w and(l and type(l[tR[vR(cR(326299832%14185253),475475+((1836317787514-(-1609515-(-813752)))-((-632810-(-213136))+(192063083%5970848+(-503367-(-107549-(-771075)))))))]])==tR[vR(cR(1248089849%(3277693912%22049652)),18677638008555-(-213948))])then I=l[tR[vR(cR((-594367+1143493)+-510459),(-749817-(-282012))+9004638907677)]]()end if type(I)~=tR[vR(cR(226146291%6111008),34207832560727-(-1210967-(-498763)))]then I=Z(function()return core[tR[vR(cR(-208124-(-246925)),645697+3554149591166)]][tR[vR(cR(143293606%11019593),(13526771843676-(-187805))-797208)]]()end)end if type(I)~=tR[vR(cR((-201020+-243109)-(-483109)),14428950339727-224522304%(727176+775410531%5392759))]then return nil end local m,V=nil,nil for w=-159182+(-863762-(-1022945)),#I,-86034-(-86035)do local l=I[w]if l and(Z(function()return l:is_valid()end)==true and(Z(function()return l:is_unit()end)==true and(Z(function()return l:is_player()end)~=true and(Z(function()return l:is_dead_or_ghost()end)~=true and not ER(l)))))then local I=Z(function()return l:is_enemy_with(T)end)==true or Z(function()return l:is_in_combat()end)==true if I and Z(function()return T:can_attack(l)end)~=false then local I=Z(function()return T:distance_to(l)end)if type(I)==tR[vR(cR(34220964%5697053),1686400653823-(-445199))]and(I<=o and((V==nil or I<V)))then m,V=l,I end end end end return m end local function JR(T,o)local I=Z(function()return T:get_position()end)local w=Z(function()return o:get_position()end)if not I or not w then return false end local l,m=I[tR[vR(cR(-297843+336670),25398364587019-(-320201))]]-w[tR[vR(cR(-475478+514200),-563788+5224428354720)]],I[tR[vR(cR(88919-50208),(827187+(((-169441+-734430)+-1200981)-(-641359)))+10328272561432)]]-w[tR[vR(cR(-419890-(-458725)),(1036584+8425354029637)-409195)]]local n=package[tR[vR(cR((-638003+((662580-(447305+-747739))-1795426626%7327574))-(-518657+634020)),33094901811020-647697)]][tR[vR(cR(1546005766%9426629),((-519576-232950)+443050)+3535841084452)]]if type(n)==tR[vR(cR(-873746+912666),163694+15603633432997)]and type(n[tR[vR(cR(-461977-(-500876)),-2198+(-425523+6977474122140))]])==tR[vR(cR(-431449-(-470437)),1652072368456-(-487438))]then local T,o,w=n[tR[vR(cR(29077+9534),635374+14358329954923)]](I[tR[vR(cR(904400163%7293235),5293991775730-(911103+-1577456))]],I[tR[vR(cR(3524139818%16091785),((420860+262315)+-1585519)+15292011389652)]],(371976+403044)-774975)if T and(w and w>=981914+-981912)then l,m=T,o end end local d=math[tR[vR(cR(-849751+541671501%15021747),-918809+6675485118933)]](l*l+m*m)if d<197565+-197564.5 then l,m,d=1034414+-1034413,285639+-285639,667294-667293 end local q,S=pcall(require,tR[vR(cR((-661308-(-539648))-(-160560)),85330+1491554410293)])if not q or type(S)~=tR[vR(cR(1076474-1037754),7607125261619-506741282%4965206)]then return false end local O=S[tR[vR(cR(77328015%1196703-700185),40980+28033009271854)]](I[tR[vR(cR(559128+-520113),33775744116465-(-785714))]]+(l/d)*HR,I[tR[vR(cR(272751-394188554%2359010),(-387677+10650999330911)-(-731287))]]+(m/d)*HR,I[tR[vR(cR((67046+(919961+-479159))-468914),3783495142351-749498)]])if V and type(V[tR[vR(cR(1083483-1044844),(2902455960087-(-46903))-(-418786))]])==tR[vR(cR(1405809616%5623083),34449062021302-(-541883))]then V[tR[vR(cR(1251229443%12030680),-1005003+15529191402138)]](false)end if V and(type(V[tR[vR(cR(366067+-327045),6399560263621-624467)]])==tR[vR(cR(130470+-91656),-932005+18851615681085)]and V[tR[vR(cR(-554328+592947),(-249843+27841119176564)-(-703854))]]())then return true end return V and(type(V[tR[vR(cR(-203956+(1140366-897568)),(-209841+(800287+-1399299))+5751898010742)]])==tR[vR(cR(-548065+586723),795097+33322056804181)]and V[tR[vR(cR(216311+-177630),694931+8174024781985)]](O,true)==true)end local function PR(T)return T>=F()end local function pR(T,o,I)local w=T and T[o]if type(w)~=tR[vR(cR(66344919%333196),15130430440958-(-571649))]or w~=w then w=I end if w<982739+(-325370-657364)then w=-952439+952444 end if w>-994235+994330 then w=147358+-147263 end return w end local function AR(T,o,I,w,l)if U[tR[vR(cR((489652569-715057)%16296622),29669651286336-(-1085422-(-281467)))]]then if T<W then s=true end if I==true and o<W then J=true end end if w<N then w=N end if l<N then l=N end if T<=w then s=true elseif PR(T)then if s==true then bR(h)end s=false end if I==true and o<=l then J=true elseif PR(o)then if J==true then bR(E)end J=false end if s==true or J==true then if T<F()then s=true end if I==true and o<F()then J=true end end end local function DR(T,o,I,w,l,m)if w==true then T[tR[vR(cR(-985325-(-1024327)),(15828635829602-821727)-807968)]]=false T[tR[vR(cR((25954+(-658537-1683917132%10932579))+971223),-660158+8935701540390)]]=false return false end if(l-T[tR[vR(cR(1732980511%9367253),3877132972059-(-280425))]])<b then return false end if T[tR[vR(cR(868171+(((1154460-(682890+((-1934441-(-850686))-(-788604))))+-1176563)-419372)),4956703864061-944435)]]and not T[tR[vR(cR(926658687%12192368),95496+16207659744759)]]then T[tR[vR(cR(2280969148%14811235),-120074+34299847840181)]]=true;(require(tR[vR(cR(616926284%2647586),1540778052%9998810+16731836077821)]))[tR[vR(cR(1152493264%8529954+-910742),484826+4324733220090)]](string[tR[vR(cR(2443053764%9850866),-70475+26565670463567)]](tR[vR(cR(4150635664%16213269),-251440+31366069120513)],o,o,b,m,H))end if T[tR[vR(cR((5240740248%48144126)%(257025+4236858)+-690780),5784344429773-(-970433))]]>=H then return false end local V,n,d=gR(I)if V then T[tR[vR(cR(3990817%(1462048287%5777427)),-236026+6660184030570)]]=l T[tR[vR(cR(-661367+700365),33648119932954-(-190237))]]=T[tR[vR(cR(-501319-(-540110)),6.9457259469523e+14%(10685731574765-(-727556)))]]+45280399%(-231813+(2146881-454410))T[tR[vR(cR(554010+-515274),7940900050106-(-345892))]]=true T[tR[vR(cR((1676699-617682)-1020376),32247675702001-(-397641))]]=mR(d)or T[tR[vR(cR(1173501724%10293535),-762802+11599842901382)]]c(tR[vR(cR(729780689%4930689),(409019+((-498156+10809605308149)-(1352898-1006397)))-921327)],o,T[tR[vR(cR(-535112-(-573802)),-374188+29928347256646)]])return true end if T[tR[vR(cR(926742871%(7571808-(-348741))),19745307696072-(-756782))]]~=n then T[tR[vR(cR(166651541%11900894),754538+4121244473789)]]=n i(tR[vR(cR(-882261-(-921033)),-210242+16870583192724)],o,tostring(n));(require(tR[vR(cR(1023445+-984743),23504999744360-897298)]))[tR[vR(cR((-227705+1660237364)%(2067138172%15706009)),984958+(((867112+-853044)+24908971318001)-(-394572)))]](string[tR[vR(cR(566781-(-417292+945254)),(-617327+9786636610096)-194360)]](tR[vR(cR(-707314-(-746021)),-76779+(24532816236571-(-10349)))],o,tostring(n)))end c(tR[vR(cR(-541742+580710),13193639950639-253684)],o,tostring(n))return false end function d.is_consuming(o)if not o then return false end local I=T[tR[vR(cR(-197433-(-236214)),10395510723428-652677)]]()return VR(o,tR[vR(cR((-594831+1112605)-479091),3837025991597-781763)],q,h)==true or VR(o,tR[vR(cR(330570869%6481018),188681+(-471843+31394411292273))],S,E)==true or I-h[tR[vR(cR(-822285+861105),-902673+16781323920822)]]<j or I-E[tR[vR(cR(378342-(-330738-(-670388))),(18992809172599-(48261+-1079460))-(-451690))]]<j end function d.is_resting()return P==true end function d.below_line(T)if not T then return false end local o,w=Y,Y if type(I[tR[vR(cR(-352880+(455934-64303)),((-263685+-588851)+(3627403332204-307879))-(-302980))]])==tR[vR(cR(-94304+132936),-31888+29307043638731)]then local T=I[tR[vR(cR(-536-(-39351)),(((956840+-1698236)+1272559)+21116796834942)-441382)]](tR[vR(cR(-952227+991211),12748189074582-(-885911-(-308605)))],nil)if type(T)==tR[vR(cR(1124829164%14607669),685548+7679830350363)]then o=pR({[tR[vR(cR(-85762-(-124379)),844218274%11717743+27512925944210)]]=T},tR[vR(cR(398597604%8303312),23730626342194-76777)],o)end local l=I[tR[vR(cR(1545084792%(7091833-(-1039988))),(625302+(-2138131-(-876995)))+12536529776414)]](tR[vR(cR(-129375-(-168144)),3511162894337-(-369196))],nil)if type(l)==tR[vR(cR(533772405%3315115),28994781808627-(-513196+(19365449496%280860407)%9832955))]then w=pR({[tR[vR(cR(233251-194379),27214819588956-630238)]]=l},tR[vR(cR(873696-835047),28693265316155-(-320430))],w)end end if o<N then o=N end if w<N then w=N end if x(T)<=o then return true end return TR[tR[vR(cR(1943383637%(10715908-(-648485))-33781),1028079+33628551793368)]](T)and oR(T)<=w or false end function d.clear()kR()end function d.tick(o,w)if not o then kR()return false end local l=pR(w,tR[vR(cR(1544888708%6746069),7.8463937521354e+14%13077323089659)],Y)local m=pR(w,tR[vR(cR(102778894%6421267),-653498+27862983304135)],Y)if type(I[tR[vR(cR(600075936%8219687),(14561725329003-796783)-(287681+137384))]])==tR[vR(cR(69490555%(4933565-848180)),3264526744836-551945)]then local T=I[tR[vR(cR(680412-((13640451465-(-210951))%(248216985-198085))%4750004),34022+27276557072975)]](tR[vR(cR((-828217+1822094)-955044),23545951043503-(-215016))],nil)if type(T)==tR[vR(cR(2963853617%13658132),458905+20407973732140)]then l=pR({[tR[vR(cR(1934791489%(3715620986%19698807)),30562159208351-(-707653))]]=T},tR[vR(cR(-840891+3044655638%12322980),10252667090834-(-229848))],l)end local o=I[tR[vR(cR((-95261+2304382582)%15782524),30793251642916-(-888502))]](tR[vR(cR(1167898803%10155304),1314458686%(1277334613%9985380)+10769263576398)],nil)if type(o)==tR[vR(cR(292027805%(17133628%7552964)),15643080967219-916505)]and not((w and w[tR[vR(cR(-718897+757733),(-694569+23145630539442)-1014366)]]==177423-177423))then m=pR({[tR[vR(cR(802372771%6630800-(1020712-2335118910%16437363)),-837987+19474323594844)]]=o},tR[vR(cR(1925999760%7673151),775608+17052488428685)],m)end end B(tR[vR(cR(-693149+731936),1378960695%(6392942-(-169395))+24896803811020)])local d=x(o)local O=oR(o)local r=TR[tR[vR(cR((112334523521%588155328)%10635865),-1041595+23192606600717)]](o)if l<N then l=N end if m<N then m=N end if U[tR[vR(cR(-345309+384249),(31761102019575-(-1041935))-(-840307-(-1019181)))]]then if d>=W and((not r or O>=W))then U[tR[vR(cR(404490+-365633),-352179+34755311677312)]]=false i(tR[vR(cR((811035+-726286)+-45995),9284016896946-505099)])elseif(T[tR[vR(cR(-973366+1012057),16097599506114-476939)]]()-U[tR[vR(cR(317384590%15867283),324322+12749598125956)]])>z then U[tR[vR(cR(-617232+656142),(-95501+-653999)+6895956467969)]]=false i(tR[vR(cR(-552869+591757),-1033856+22803658814020)],z,d,O)end end if P~=true and(s~=true and(J~=true and(C~=true and(not U[tR[vR(cR(2757573386%12310423),-624198+(-711354+14527676891819))]]and(d>l and((not r or O>m)))))))then return false end local K=VR(o,tR[vR(cR(1369708032%(6802240-519353)),(587124+-515784)+34296870079194)],q,h)local b=VR(o,tR[vR(cR(1981559275%(1045686102%19511288)),816629847%(878102+7046270)+31214012351550)],S,E)local H=T[tR[vR(cR(698307-1452860263%17084716),9420850369461-(-979917))]]()if K~=true and(H-h[tR[vR(cR((271169-(-335172-(-906028)))-(-338431)),(1010592-402932)+(26223580119162-322298))]])<j then K=true end if b~=true and(H-E[tR[vR(cR(377537-338683),22982898076385-(-735477))]])<j then b=true end B(tR[vR(cR(66684595%3023555+-127463),699162+(27698638229057-(-130521)))])local L=YR(o)B(tR[vR(cR((28959307-(-618691))%14769600),164060+(20804821699860-(-346267+(703030-810693))))])local D=NR(o)B(tR[vR(cR(((285120+-1677222)-(-407246))-(903400+-1927242)),21168036821285-(-978356+414418))])AR(d,O,r,l,m)if Z(function()return o:is_in_combat()end)==true then c(tR[vR(cR((477506992-(-717198))%(16405203-(-83947))),25695289650079-942807)],d,O)P=false if V and type(V[tR[vR(cR(372116-333177),272044+(32935564764813-(-419704)))]])==tR[vR(cR(1026388-987645),26843169646149-1038373)]then V[tR[vR(cR(616654+-577877),198570+2088622271250)]](false)end return false end if Z(function()return core[tR[vR(cR(287076-248347),30556687135708-918991)]][tR[vR(cR(79171727%6087147),844117+73129788801347%(47193+3848936798240))]]()end)==true then c(tR[vR(cR(1537775767%6744460),716982+18625628878887)])kR()return false end local v=Z(function()return core[tR[vR(cR(531901-366219086%3483106),((653102+29955587515803)-214799)-(-53919))]][tR[vR(cR(463200-424495),-719695+8170208404584)]]()end)if(type(v)==tR[vR(cR(144547211%(823942+9498084)),-852108+23229388912947)]and v>(-1582748-(-971808))+610940)or Z(function()return core[tR[vR(cR(930349+-891573),2771221126554-966960)]][tR[vR(cR(688262316%((81532+(662611+3444227))-(1682952-988102))),25903+((604138+((235904+-924248)+-375009))+9466154779746))]]()end)==true then c(tR[vR(cR(522233275%5383450),31873581862700-139415)])P=false if V and type(V[tR[vR(cR(2235226258%15740757),858427+(6131685574346-688356))]])==tR[vR(cR(466862+-428162),-525692+2378456564085)]then V[tR[vR(cR(-90691+129409),807666+(-132014+16069193509446))]](false)end return false end if s==true and(K~=true and(d<F()and FR(L)~=true))then bR(h)s=false if(T[tR[vR(cR(198143+(-131528+-27643)),1275291219764-(-180427))]]()-p[tR[vR(cR(-336709-(-375495)),-1030732+6129047542661)]])>=A then p[tR[vR(cR(1020505-981778),-793822+19994861252424)]]=T[tR[vR(cR(979733-940977),16785133376468-856579)]]();(require(tR[vR(cR(((179187-837058)-(191910-(-204180+3040308403)%15912651))+100847),(276834+11034315775514)-2790431023%(1056856738%14282464))]))[tR[vR(cR(848933+(861609+-1671739)),-632082+27726357010831)]](tR[vR(cR(1937278849%((6613197-(-576364))-(-882272))),28295630390163-(-1369929-(-666468)))])end i(tR[vR(cR(-603796+642745),770492+27961698577861)],d)end if J==true and(b~=true and(O<F()and FR(D)~=true))then bR(E)J=false if(T[tR[vR(cR(1054319-(686291-(-329373))),360941+22676223837352)]]()-p[tR[vR(cR(-838125-(-876769)),29404222464115-(-81985-627337))]])>=A then p[tR[vR(cR((203964+154350)-(168400+151216)),-81376+13718369025433)]]=T[tR[vR(cR(439613363%(-249823+14902308)),6.1685954559109e+14%17134987513218)]]();(require(tR[vR(cR((130419+3078786556)%12563220-889380),(-1584698-(-885721))+11809587571324)]))[tR[vR(cR(152078978%3898467),9729165017995-(-732647))]](tR[vR(cR((426804+-804297)-(-416181)),409468+26190005944397)])end i(tR[vR(cR(871119+-832148),21753760820800-290595976%6306485)],O)end if s==true or J==true then if s==true then p[tR[vR(cR((((9066+470179720783)-(-788206+1642084))%3073144810)%(12854287-153764)),-941031+13475477988509)]]=-999054344-945656 end if J==true then p[tR[vR(cR(843580+-804940),969626+7105572378386)]]=(-1000012711-468304)-(-481015)end elseif U[tR[vR(cR(-698133+((391784+-1061748)+1406706)),-82994+25446917232424)]]and(K~=true and b~=true)then U[tR[vR(cR(2624725906%12679648),465974+33727493738451)]]=false i(tR[vR(cR(-847881+867051625%12373786),-1028392+18157770197919)],d,O)end if s==true or J==true then if s~=true and(K~=true and(d<M and FR(L)==true))then s=true i(tR[vR(cR(514230873%(12415652-172987)),-260358+11358340509871)],d)end if J~=true and(b~=true and(r and(O<M and FR(D)==true)))then J=true i(tR[vR(cR(1144896922%10131487),(34405253350305-(-315835))-(-1003500))],O)end end B(tR[vR(cR((231425327-127553)%((2429510022-(-171569))%9766020)),23197755032158-352128)])if s~=true and J~=true then local T=d<l and(K~=true and FR(L)~=true)local I=r and(O<m and(b~=true and FR(D)~=true))if T or I or C then local w,m=pcall(require,tR[vR(cR((7756212-532479)%(3434944-(-157565))),(((594409-80634)-(-7596))+20324666297257)-696995)])if w and(type(m)==tR[vR(cR(75209294%1366737),24298635690735-(914331+(642392+3966041286))%15680489)]and type(m[tR[vR(cR(1328203411%6385407),32160072804978-129013)]])==tR[vR(cR(190999071%13592198+-669410),27371662791275-(-383345))])then if T then m[tR[vR(cR(236386573%13130432),554270690%4691833+27073271631187)]](tR[vR(cR(-34495-(-73455)),-916531+32675819926092)])end if I then m[tR[vR(cR(748278589%4275655),33819545300774-(490871279%3407206+-867491))]](tR[vR(cR(-935337-(-974014)),-50759+25831129492825)])end end local q=d>=g and((not r or O>=g))local S,Y=false,nil if w and(type(m)==tR[vR(cR(642071+-603116),(32683605034659-8276)-(203657+639402))]and type(m[tR[vR(cR(-216655+255645),700268+21558378716492)]])==tR[vR(cR(542181+-503228),427637+10559725756779)])then S,Y=m[tR[vR(cR((84604+260604)+-306358),5491782424356-749797)]](o)end local N=n[tR[vR(cR(3186290899%12952245),4668446637084-1039221)]]and n[tR[vR(cR(374038+-335217),423826+6418069090709)]][tR[vR(cR(-594545+(575002-(-58204))),(-1026571-(-310935))+(15720836867440-(-676178)))]]==true local K=I and(not T and d>=l)local W,z=pcall(require,tR[vR(cR(-376170+415015),-644177+5180621478486)])local U=W and(type(z)==tR[vR(cR(886997+-848269),-742965+(-519717+7927453279073))]and(type(z[tR[vR(cR((120291855640%(339587593303%1363850599-907122))%6563263),12079616810679-(-242082))]])==tR[vR(cR((185417225546%1270023668)%7139859),719426+8392340291581)]and z[tR[vR(cR(-595469+634207),563024+34664266809166)]](tR[vR(cR(-967732+455817732%5984358),19350351989577%2418795513323)])))if K and U then K=false end if K and(not S and not N)then if not y then y=true i(tR[vR(cR(620393-581775),-1014155+27821365814460)],tostring(Y))end C=false elseif q or S or N then y=false if C then i(tR[vR(cR((22874071857%1040287581)%8357672),(-40552+30658361706732)-(-180751))],d,O,q and tR[vR(cR(265558-226633),22827481579538-(-755352))]or tR[vR(cR(311960389%6778958-89473),-668428+24805577765172)])end C=false else y=false if not C then C=true i(tR[vR(cR(950607-911672),-578870+34176695099840)],T and tR[vR(cR(387131+(171214-519521)),924505+(-969176+2309401486271))]or tR[vR(cR(843146381%8688421-330773),773889+28739876290272)],tostring(Y),g)if V and type(V[tR[vR(cR(33657232%1528104),(4642713189104-(-579212))-(-518029))]])==tR[vR(cR(((((-769521+513946)+(-304707+-264742))+1774563)+-1791040)-(-880383)),-740354+13253715898791)]then V[tR[vR(cR(36674161%620939),3362614846844-(-313427))]]()end end n[tR[vR(cR(-324980+363625),19104910076723-(-786712))]](tR[vR(cR(905595664%6808697),22477510569827-(-688144))],string[tR[vR(cR(187087-148145),1235371104845-42151)]](tR[vR(cR((546846+(-872510-(-676315-(-27511))))-(1279124-994821)),1618620229796-471345)],((T or d<g))and tR[vR(cR(238198472%(15138531-(-738780))),(1204162-632897)+((18508717101093-(-986862))-908598))]or tR[vR(cR(415992-377350),22930232367819-(-515375))],d,r and O or-330074-(-330174)))return true end end end B(tR[vR(cR((-833265+1164591)-(56552814%3686743-958980)),1022447+(-747894+5478627840906))])if s~=true and J~=true then c(tR[vR(cR(-531683-(-570601)),(1724280425%8930356+16531570243474)-(-723638))],d,l,O,r and m or(-567375-(-329831))+237544)if P then i(tR[vR(cR((842710508-(-482032))%13174278),5106132717304-(981511+-2030083))],d,O)jR()if V and type(V[tR[vR(cR(577247-538277),50706+((-14804+34526925834232)-(-14599)))]])==tR[vR(cR(-933665-(-972333)),30774124109667-888983)]then V[tR[vR(cR((415562+-1354060)+977183),(-266524+196242)+23435450982259)]](false)end end P=false return false end local t=((K or b or P))and nil or sR(o,a)if t then local I=T[tR[vR(cR(97465923%862185),217097+5151345467548)]]()if LR==-504193-(-504193)then LR=I end if(I-LR)<aR then local T=Z(function()return t:get_name()end)or tR[vR(cR((390420+-1234266)-(-882752)),(-102010+-552717)+34940763377172)]c(tR[vR(cR(-57834-(-96815)),(31132323783517-((636127279%14773585+(-52114+-1921238))-(-268984)))-(-893262))],tostring(T),a)n[tR[vR(cR(1031518-992858),21325152103429-(887877+-1158131))]](tR[vR(cR(435199+(394679+-790999)),-569350+25205910468526)],string[tR[vR(cR(3373647477%15913249),22236373550337%(496488+3176625539312))]](tR[vR(cR(1186760201%14297846),7859859070819-(-157872))],tostring(T)))i(tR[vR(cR(-696997+735929),4318033469146-(923669+-938393))],d,O,tostring(T))B(tR[vR(cR(729031+-690270),10216973172344-21953)])JR(o,t)return true end c(tR[vR(cR(-282320-((1346745-(817504-(884825+-1022602)))+-712398)),-454093+((22144199390978-(-461122))-1041547))],aR)end LR=-913779-(-913779)if not P then i(tR[vR(cR(2734547620%12718646),6029740826018-889485)],d,tostring(s),O,tostring(J))end P=true B(tR[vR(cR(333540-294886),-1045660+2631984112348)])c(tR[vR(cR(2284707054%(((1011216+(606743-3488157088%(14103508-(-992994))))+-1436631)+(-230877+14513891))),(867340+73465)+5801656681831)],d,O,tostring(s),tostring(J),#L,#D)MR(o)n[tR[vR(cR(59948-(187525-(827419+-660974))),(9053274353522-236741)-883860)]](tR[vR(cR(3362441733%(15714993-((1394909-646481)-474140568%5995091))),(6247445587347-(-380074))-((-277279+-719014)-(-149827)))],string[tR[vR(cR(306978515%3228560-226699),26029296466996-220398)]](tR[vR(cR(961193+-922499),(319566667926%1320581673)%6431594+1049925397712)],d,O))if Z(function()return o:is_mounted()end)==true then local o=T[tR[vR(cR(307536+-268706),29604745727783-(612059+-1028683))]]()if(o-((n[tR[vR(cR(1869714526%(1467173972%(3875226881%25106370))),494194+17417259465434)]]or-1000770217-(-1792732-(-1949794-(-642354+-284925))))))>=73126505%988196 then n[tR[vR(cR(15886-(-23108)),30811834217233-(-117872))]]=o c(tR[vR(cR(657203+-618525),582153+(608887+4297234717053))])pcall(core[tR[vR(cR(-305201-(-343927)),363230+16952915617873)]][tR[vR(cR(919511898%5284328),945922+((534051+-89882)+6028145509418))]])end return true end if yR(o)then c(tR[vR(cR(909090774%(-355534+3311837438%21061767)),34612484624814-(78526+935591))])return true end local X=T[tR[vR(cR(1083355-328090846%(((-683927-(445147+(-839226-75685)))+(7303677-(-879756)))-(455365+(406657237-426995)%4141082))),-782536+8769686335628)]]()local Q=false if J and O<F()then Q=DR(E,tR[vR(cR((-1563338-(-711174))-(-891026)),8302196032366-(-854898))],D,b,X,tR[vR(cR(284190-245266),679434+30835711086594)])end if s and(d<F()and(not Q and(X-E[tR[vR(cR(-914342+953124),27094600669512-547057)]])>=k))then DR(h,tR[vR(cR(-273845+312768),(30824+-562366)+6376988542839)],L,K,X,tR[vR(cR(967739+-928831),11970578865558-503992)])end return true end function d.request_full(o)U[tR[vR(cR(112047251%4000301),(16765946684106-354875)-(-37358+3568687007)%16671986)]],U[tR[vR(cR(-739372+778094),32209752518766-(-235232))]],U[tR[vR(cR(-793053+(1666726-834920)),23522832141122-(-908973))]]=true,T[tR[vR(cR((-239671+1679248932)%14858144),-653395+34525313160376)]](),o i(tR[vR(cR(-265302-(-304077)),193575+(-578387+31699528968153))],tostring(o))end function d.full_requested()return U[tR[vR(cR(711919239%(3345460-553772)),19876473473451-1037247)]]end function d._test_latch(T,o,I,w,l,m)if m then s,J=false,false end AR(T,o,I,w,l)return s==true,J==true end return d end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- resting.lua - the eat / drink implementation every rotation drives
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- WHY THIS IS SHARED AND NOT COPIED NINE TIMES
+--   Each class owns its resting decision - when to sit down, and at what
+--   percentage - but the machinery underneath is identical for all of them and
+--   has been wrong three times already: the aura-latency double-drink (1.4.6),
+--   the use counter that never reset (1.4.8), and the global cooldown refusing
+--   consumables silently (1.4.9). Nine copies means nine places for the next
+--   one to hide, so the rules live here and the rotations supply the policy:
+--
+--       function mage.rest(player)
+--           return resting.tick(player, { eat_pct = 30, drink_pct = 30 })
+--       end
+--
+--   A class that wants to rest earlier, later, or not at all changes its own
+--   numbers; nothing else has to move.
+--
+-- WHAT IT GUARANTEES  (carried over unchanged, each one earned)
+--   * one consumable at a time, with a 5s commit window covering the delay
+--     between using an item and its aura appearing
+--   * separate food and drink timers, because both auras run at once in TBC
+--   * a per-rest use cap that RE-ARMS when the rest ends
+--   * skip_gcd on the item use, because food and drink do not use the global
+--     cooldown but use_self_safe gates on it by default
+--   * every refusal is reported once per rest instead of stalling in silence
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local consumables = require("data/consumables")
+local gui = require("gui")
+-- rotation is required LAZILY and deliberately.
+--
+-- rotation.lua requires the nine class rotations, each of which requires this
+-- module, so a top-level require here would close the loop: Lua only records a
+-- module in package.loaded after its chunk returns, so a circular require
+-- re-enters the half-built chunk instead of getting the finished table.
+local rotation_mod = nil
+
+local function get_rotation()
+    if rotation_mod then
+        return rotation_mod
+    end
+    local ok, mod = pcall(require, "rotation")
+    if ok and type(mod) == "table" then
+        rotation_mod = mod
+    end
+    return rotation_mod
+end
+
+--- The class's preferred consumable ids, or nil when it has no opinion.
+local function preferred(which, player)
+    local rotation = get_rotation()
+    if not rotation or type(rotation[which]) ~= "function" then
+        return nil
+    end
+    local ok, ids = pcall(rotation[which], player)
+    if ok then
+        return ids
+    end
+    return nil
+end
+local movement = require("movement")
+local state = require("state")
+
+local resting_mod = {}
+
+local FOOD_AURAS = consumables.FOOD_AURA_IDS
+local DRINK_AURAS = consumables.DRINK_AURA_IDS
+local FOOD_ITEM_RANK = consumables.FOOD_ITEM_IDS
+local WATER_ITEM_RANK = consumables.WATER_ITEM_IDS
+
+-- Rest at or below this, unless the rotation says otherwise.
+local REST_DEFAULT = 50
+-- 1.7.8 (user: "eat and drink when health or mana is below 50 %, resume once
+-- mana and health are above 90 %"): a rest starts at REST_START or lower (the
+-- Resting tab's sliders can only raise that line); once a rest runs, both
+-- health and mana are topped up to REST_DONE before the bot walks on.
+local REST_START = 50
+local REST_DONE = 99.5               -- 1.2.36: rest to full out of combat (1.7.8 stopped at 90)
+-- 1.27.0 FULL REST AFTER A RESURRECT (user: "after the player dies and resurrects,
+-- eat / drink until health and mana are 100 % before resuming Zygor questing; if an
+-- enemy attacks, kill it and rest after"): death.lua calls request_full() when the
+-- player is alive again. Until then the stop line is FULL_LINE (not REST_DONE) and a
+-- rest starts above the usual start line; combat still ends a rest (the fight comes
+-- first) and the request stays, so the rest takes up again after it. Cleared at full,
+-- after FULL_MAX_S s, or when nothing in the bags can fill what is missing.
+local FULL_LINE, FULL_MAX_S = 99.5, 180
+local full_req = { on = false, t = 0, why = nil }
+local function done_line() return full_req.on and FULL_LINE or REST_DONE end
+local REGEN_DONE = 80            -- 2.139.0: no food / water - wait for this much HP and MP
+local regen_wait = false
+local water_stay_logged = false
+local REST_TOPUP = 99.5         -- 2.99.0: the other resource is topped up in the same rest below this
+
+-- Seconds a use is committed for before another of the same kind is
+-- considered - eat or drink for this long before reaching for another item.
+--
+-- It also covers the delay between using an item and its aura becoming
+-- visible; that alone wanted 5s, because a 3s window still double-consumed
+-- when the aura took 4.5s to register. Fifteen is the eating time asked for,
+-- and it subsumes the aura delay.
+--
+-- This only bites when NO aura is up: a meal that is actually ticking is left
+-- alone by the first check in consume_one however long it runs.
+local USE_COMMIT = 15.0
+local JUST_USED = 3.0          -- 2.110.0: seconds an item use counts as eating / drinking
+local FOOD_AFTER_DRINK = 1.2   -- 2.240.0: seconds between the drink and the food (one use per tick)
+-- Worst-case bound per rest session if aura detection is broken entirely.
+local MAX_USES = 8
+
+-- How close a hostile mob may be before sitting down is a bad idea.
+--
+-- Being out of combat is not the same as being safe. A mob that has not
+-- aggroed yet is still standing there, and eating in front of it means
+-- taking the first hit sitting down, at the health that made the bot stop to
+-- eat in the first place. The rest waits until nothing hostile is inside
+-- this radius.
+local REST_CLEAR_YARDS = 10
+
+-- Gates use_self_safe applies by default, and why one of them is turned off.
+--
+-- use_self_safe refuses while the global cooldown is running. Food and drink
+-- do not trigger or respect the GCD in TBC, so that gate is simply wrong for a
+-- consumable - and it bites constantly, because a rest is entered the moment a
+-- kill finishes, while the rotation's last cast still has the GCD spinning.
+--
+-- The other gates (usable, cooldown, moving, mounted, casting, channelling)
+-- are left on: halt_for_rest has already stopped the bot, and they are real.
+local USE_OPTS = { skip_gcd = true, check_los = false }   -- 2.311.0: no LoS ray
+
+local food_state  = { last = -1e9, uses = 0, pending = false, warned = false }
+local drink_state = { last = -1e9, uses = 0, pending = false, warned = false }
+local rest_eat = false
+local rest_drink = false
+local resting = false
+local miss_warned = { food = -1e9, water = -1e9 }     -- one warning per kind per MISS_GAP s (log 2026-11-15: 8 a second)
+local MISS_GAP = 120
+local item_by_id = {}
+local path_runner_mod = nil
+
+-- ----------------------------------------------------------------------------
+-- DIAGNOSTIC
+-- ----------------------------------------------------------------------------
+-- Every gate below this point can stop a rest, and most of them were silent.
+-- mfz_rest_debug names the one that is actually holding, once per second and
+-- only when it changes, so a stalled rest can be read straight off the log
+-- instead of guessed at.
+local dbg_last_msg, dbg_last_t = nil, -1e9
+
+local function rest_debug(fmt, ...)
+    if gui.is_on("rest_debug") ~= true then
+        return
+    end
+    local msg = select("#", ...) > 0 and string.format(fmt, ...) or fmt
+    do
+        local ok_d, dbg = pcall(require, "debuglog")
+        if ok_d and dbg and type(dbg.line) == "function" then
+            dbg.line("rest", "%s", tostring(msg))
+        end
+    end
+    local t = 0
+    local ok, now = pcall(function() return izi.now() end)
+    if ok and type(now) == "number" then t = now end
+    if msg == dbg_last_msg and (t - dbg_last_t) < 1.0 then
+        return
+    end
+    dbg_last_msg, dbg_last_t = msg, t
+end
+
+-- The session log (2.67.0). rest_debug only reaches the in-game console,
+-- and only with the Rest debug box ticked, so a rest that never started - no
+-- water in the bags, a threat nearby, the client refusing the item - left
+-- nothing in scripts_log. These go to MASTER_FARMER_ERRORS as TRAIL lines
+-- (written only when they change), and the item use itself is probed, so an
+-- armed flight recorder names it if the game dies there.
+local errorlog_mod = nil
+local function elog()
+    if errorlog_mod == nil then
+        local ok, m = pcall(require, "errorlog")
+        errorlog_mod = (ok and type(m) == "table") and m or false
+    end
+    return errorlog_mod or nil
+end
+
+local function rtrail(fmt, ...)
+    local el = elog()
+    if el and type(el.trail) == "function" then
+        pcall(el.trail, "rest", fmt, ...)
+    end
+end
+
+local function rprobe(tag)
+    local el = elog()
+    if el and type(el.probe) == "function" then
+        pcall(el.probe, tag)
+    end
+end
+
+local function pcall_item(id)
+    local ok, item = pcall(function() return izi.item(id) end)
+    if ok then return item end
+    return nil
+end
+
+local function item_of(id)
+    if type(id) ~= "number" then
+        return nil
+    end
+    local cached = item_by_id[id]
+    if cached then
+        return cached
+    end
+    local item = pcall_item(id)
+    if item then
+        item_by_id[id] = item
+    end
+    return item
+end
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+-- Prewarm the item cache. Every call is guarded: this runs at module load over
+-- ~250 ids, and an unguarded throw on any one of them would abort the whole
+-- chunk. main.lua bails out entirely when `healing` is missing, so one bad id
+-- would take the whole bot down rather than just one food.
+local function prewarm(list)
+    for i = 1, #list do
+        local id = list[i]
+        local item = safe(function() return izi.item(id) end)
+        if item then
+            item_by_id[id] = item
+        end
+    end
+end
+prewarm(FOOD_ITEM_RANK)
+prewarm(WATER_ITEM_RANK)
+
+local function as_percent(value, current, maximum)
+    -- 2.306.0 (audit CORE-B-3): health / max first (exact); then
+    -- get_health_percentage as is - it is 1..100 (izi_sdk.lua:72), and the old
+    -- "0..1.5 is a fraction, x100" read the player at 1% HP as 100% (no potion,
+    -- no meal before the next pull)
+    if type(current) == "number" and type(maximum) == "number" and maximum > 0 then
+        return (current / maximum) * 100
+    end
+    if type(value) == "number" and value == value then
+        return value
+    end
+    return 100
+end
+
+local function health_pct(player)
+    local pct = safe(function() return player:get_health_percentage() end)
+    local cur = safe(function() return player:get_health() end)
+    local maxh = safe(function() return player:max_health() end)
+    return as_percent(pct, cur, maxh)
+end
+
+local power = require("power")
+
+local function mana_pct(player)
+    -- power.lua (2.202.0): izi mana_* first, native get_power / get_max_power (mana 0) when
+    -- they read nothing - on WoW Forever a Mage read as having no mana and never drank.
+    return power.mana_pct(player)
+end
+
+local function has_any_aura(player, ids)
+    if not player then
+        return false
+    end
+    if safe(function() return player:has_buff(ids) end) == true then
+        return true
+    end
+    if safe(function() return player:has_aura(ids) end) == true then
+        return true
+    end
+    return false
+end
+
+-- 2.240.0: the Food / Drink aura by NAME as well as by id. The id lists
+-- missed the Conjured Sweet Roll's Food (1131), so the food was re-used every
+-- USE_COMMIT seconds mid-meal, and "not eating" also let the threat check walk
+-- the character off its meal. Names: Food, Drink, Refreshment, Food & Drink.
+local AURA_NAMES = {
+    food  = { ["Food"] = true, ["Refreshment"] = true, ["Food & Drink"] = true },
+    drink = { ["Drink"] = true, ["Refreshment"] = true, ["Food & Drink"] = true },
+}
+
+local function has_named_aura(player, kind)
+    local names = AURA_NAMES[kind]
+    local list = safe(function() return player:get_buffs() end)
+    if type(list) ~= "table" then return false end
+    for i = 1, #list do
+        local b = list[i]
+        local n = type(b) == "table" and b.buff_name or nil
+        if n and names[n] then return true end
+    end
+    return false
+end
+
+--- The aura spell an item casts when used (core.quests.get_item_spell), or nil.
+local function item_aura_id(item_id)
+    if type(item_id) ~= "number" or not (core.quests and core.quests.get_item_spell) then return nil end
+    local info = safe(function() return core.quests.get_item_spell(item_id) end)
+    local id = type(info) == "table" and tonumber(info.spell_id) or nil
+    if id and id > 0 then return id end
+    return nil
+end
+
+--- Eating / drinking right now: the listed ids, the used item's own spell,
+--- or an aura named Food / Drink.
+local function consuming(player, kind, ids, st)
+    if has_any_aura(player, ids) then return true end
+    if st and st.aura_id and has_any_aura(player, { st.aura_id }) then return true end
+    return has_named_aura(player, kind)
+end
+
+local function ranked_ids(base, extra)
+    local seen = {}
+    local out = {}
+    local function add(id)
+        if type(id) == "number" and not seen[id] then
+            seen[id] = true
+            out[#out + 1] = id
+        end
+    end
+    -- Class preference first (2.173.0): a mage's conjured water and food are
+    -- what the rest drinks and eats while any are in the bags.
+    if type(extra) == "table" then
+        for i = 1, #extra do
+            add(extra[i])
+        end
+    end
+    for i = 1, #base do
+        add(base[i])
+    end
+    return out
+end
+
+-- Ranked lists cached per class preference (2.145.0): they were rebuilt -
+-- four new tables - on every 0.1 s rest check.
+local ranked_cache = {}
+
+local function cached_ranked(key, base, extra)
+    local c = ranked_cache[key]
+    if c and c.extra == extra and c.n == (type(extra) == "table" and #extra or 0) then
+        return c.list
+    end
+    local list = ranked_ids(base, extra)
+    ranked_cache[key] = { extra = extra, n = type(extra) == "table" and #extra or 0, list = list }
+    return list
+end
+
+-- Bag food / water the curated lists miss (2.149.0, bags.food_water): a
+-- quest reward or a new drop is eaten after every ranked item, instead of the
+-- rest calling it "no usable food" and sending the bot to a vendor.
+local bags = require("bags")
+local extra_cache = {}
+
+local function with_bag_extras(key, list, extras)
+    if #extras == 0 then return list end
+    local sig = table.concat(extras, ",")
+    local c = extra_cache[key]
+    if c and c.base == list and c.sig == sig then return c.list end
+    local out = {}
+    for i = 1, #list do out[i] = list[i] end
+    for i = 1, #extras do out[#out + 1] = extras[i] end
+    extra_cache[key] = { base = list, sig = sig, list = out }
+    return out
+end
+
+local function food_ids(player)
+    local list = cached_ranked("food", FOOD_ITEM_RANK, preferred("preferred_food_ids", player))
+    local ef = bags.extra_food_water(player)
+    return with_bag_extras("food", list, ef)
+end
+
+local function water_ids(player)
+    local list = cached_ranked("water", WATER_ITEM_RANK, preferred("preferred_drink_ids", player))
+    local _, ew = bags.extra_food_water(player)
+    return with_bag_extras("water", list, ew)
+end
+
+-- WHAT IS IN THE BAGS (2.231.0). has_usable walked every known food / water
+-- id (~380) and asked izi.item(id):count() for each - a bag scan per id. With
+-- no food in the bags nothing ended the loop early, and the rest tick asks up
+-- to four times: after every kill at low health, 30-40 ms and 4-6 MB a
+-- check, every 2 s (SPIKE u:healing 60-76 ms, heap +8.7 MB, 19:24 and 19:30
+-- sessions). Now the bags are read once per PRESENT_TTL and only ids
+-- actually carried are asked about. nil = bags unreadable: the old full walk.
+local PRESENT_TTL = 1.0
+local present = { t = -1e9, set = nil }
+
+local function bag_present()
+    if not bags.readable() then return nil end
+    local now = izi.now()
+    if present.set and (now - present.t) < PRESENT_TTL then return present.set end
+    local me = nil
+    pcall(function() me = izi.me() end)
+    local set = {}
+    local list = bags.list(me)
+    for i = 1, #list do
+        local id = list[i].item_id
+        if id then set[id] = true end
+    end
+    present.t, present.set = now, set
+    return set
+end
+
+local function present_reset()
+    present.t = -1e9
+end
+
+local function has_usable(ids)
+    if type(ids) ~= "table" then
+        return false
+    end
+    local carried = bag_present()
+    for i = 1, #ids do
+        local item = (carried == nil or carried[ids[i]]) and item_of(ids[i]) or nil
+        if item then
+            local count = safe(function() return item:count() end) or 0
+            local ready = safe(function() return item:cooldown_up() end) == true
+            if count > 0 and ready then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+--- Use the best consumable in `ids`.
+---
+--- Returns (true) on success, or (false, reason) so the caller can say what
+--- went wrong. Before 1.4.9 a refused use returned a bare false and the bot sat
+--- in the rest state consuming nothing and logging nothing, for ever - which is
+--- indistinguishable from "eating and drinking do not run at all".
+local function use_first(ids)
+    if type(ids) ~= "table" then
+        return false, "no id list"
+    end
+    -- The first one carried wins, because the lists are ordered best first.
+    --
+    -- 2.6.0 sorted by a level table instead, which was the right fix for the
+    -- list as it stood then: it was ordered by item id, so a character with
+    -- Tough Jerky and Roasted Quail could sit down to the jerky. The lists in
+    -- data/consumables are now genuinely best first and cover drops and quest
+    -- food too, so position IS the ranking. A second, sparser ranking on top
+    -- of it could only disagree with it - an item missing from the level
+    -- table scored zero and lost to a level 1 vendor roll.
+    local held = 0
+    local refused = nil
+    local carried = bag_present()
+    for i = 1, #ids do
+        local item = (carried == nil or carried[ids[i]]) and item_of(ids[i]) or nil
+        if item then
+            local count = safe(function() return item:count() end) or 0
+            local ready = safe(function() return item:cooldown_up() end) == true
+            if count > 0 and ready then
+                held = held + 1
+                rprobe("rest:use " .. tostring(ids[i]))
+                -- 2.312.0: core.input.use_item (the Slave Pens drink-crash
+                -- correction), not izi's use_self_safe / use_self
+                local ok = safe(function()
+                    return require("spellcheck").use_item(ids[i])
+                end)
+                rprobe("rest:used")
+                if ok == true then
+                    present_reset()          -- the last one may just have gone
+                    rtrail("used %s", tostring(safe(function() return item:name() end) or ids[i]))
+                    return true, nil, ids[i]
+                end
+                refused = refused or (safe(function() return item:name() end) or ids[i])
+            end
+        end
+    end
+    if held > 0 then
+        return false, string.format("%s is in the bags but the client refused to use it", tostring(refused))
+    end
+    return false, "nothing usable in the bags"
+end
+
+local function get_path_runner()
+    if path_runner_mod == false then
+        return nil
+    end
+    if type(path_runner_mod) == "table" then
+        return path_runner_mod
+    end
+    local ok, mod = pcall(require, "path_runner")
+    if ok and type(mod) == "table" then
+        path_runner_mod = mod
+        return path_runner_mod
+    end
+    path_runner_mod = false
+    return nil
+end
+
+local function is_moving_now(player)
+    if movement and type(movement.is_moving) == "function" and movement.is_moving() then
+        return true
+    end
+    return safe(function() return player:is_moving() end) == true
+end
+
+local function halt_for_rest(player)
+    pcall(function()
+        core.input.stop_attack()
+    end)
+    pcall(function()
+        if type(izi.is_sequence_active) == "function" and izi.is_sequence_active() ~= true then
+            return
+        end
+        if izi.sequence and type(izi.sequence.cancel_all) == "function" then
+            izi.sequence:cancel_all()
+            return
+        end
+        if type(izi.cancel_sequence) == "function" then
+            izi.cancel_sequence()
+        end
+    end)
+    if movement and type(movement.set_resting) == "function" then
+        movement.set_resting(true)
+    end
+    local pr = get_path_runner()
+    if pr and type(pr.is_active) == "function" and pr.is_active() == true then
+        if type(pr.pause) == "function" then
+            pr.pause()
+        end
+    end
+    if movement and type(movement.nav_stop) == "function" then
+        if is_moving_now(player) then
+            movement.nav_stop()
+        elseif type(movement.nav_stop) == "function" then
+            movement.nav_stop()
+        end
+    end
+end
+
+--- One rest of this kind is over: clear its per-rest use budget.
+---
+--- MAX_USES caps how many consumables a SINGLE rest may burn while waiting for
+--- an aura to appear. It is not a lifetime allowance, so it has to be cleared
+--- every time the latch drops - on reaching full, on running out of food, and
+--- on a hard reset. Before 1.4.8 only the hard reset cleared it, so the counter
+--- accumulated across rests and the bot stopped eating and drinking for good
+--- after eight consumables.
+local function end_kind(st)
+    st.uses = 0
+    st.pending = false
+    st.warned = false
+    st.use_failed = nil
+end
+
+local function reset_use_state()
+    end_kind(food_state)
+    end_kind(drink_state)
+end
+
+local function clear_rest()
+    rest_eat = false
+    rest_drink = false
+    resting = false
+    reset_use_state()
+    if movement and type(movement.set_resting) == "function" then
+        movement.set_resting(false)
+    end
+end
+
+-- ----------------------------------------------------------------------------
+-- A CLEAR SPOT TO REST (2.41.0)
+-- ----------------------------------------------------------------------------
+-- The rest used to be cancelled outright while anything attackable stood
+-- within REST_CLEAR_YARDS - rabbits and neutral mobs included - and the tick
+-- fell through to the quest engine, which pulled the next mob at 30% health.
+-- Quest objectives sit in camps, so there nearly always was something close.
+--
+-- Now only a real threat counts (hostile to the player or already in combat,
+-- not a critter), and instead of giving up the bot walks REST_STEP yards
+-- straight away from it and rests there, holding the tick so nothing else can
+-- start a fight. After REST_MOVE_MAX of that it sits down regardless: eating
+-- next to a mob is still better than fighting at low health.
+local REST_STEP = 20
+local REST_MOVE_MAX = 12.0
+local move_since = 0
+
+local CRITTER = nil
+local function is_critter(u)
+    if CRITTER == nil then
+        local ok, enums = pcall(require, "common/enums")
+        CRITTER = (ok and type(enums) == "table" and enums.creature_type and enums.creature_type.CRITTER) or false
+    end
+    if not CRITTER then
+        return false
+    end
+    local ok, t = pcall(u.get_creature_type, u)
+    return ok and t == CRITTER
+end
+
+--- The nearest real threat within `yards`, or nil.
+local function rest_threat(player, yards)
+    -- The shared object-list cache first (2.145.0); the raw call built a
+    -- fresh table of every object on each check and was then thrown away.
+    local list = nil
+    local ok_t, targeting = pcall(require, "targeting")
+    if ok_t and targeting and type(targeting.visible_objects) == "function" then
+        list = targeting.visible_objects()
+    end
+    if type(list) ~= "table" then
+        list = safe(function() return core.object_manager.get_visible_objects() end)
+    end
+    if type(list) ~= "table" then
+        return nil
+    end
+    local best, best_d = nil, nil
+    for i = 1, #list do
+        local u = list[i]
+        if u and safe(function() return u:is_valid() end) == true
+            and safe(function() return u:is_unit() end) == true
+            and safe(function() return u:is_player() end) ~= true
+            and safe(function() return u:is_dead_or_ghost() end) ~= true
+            and not is_critter(u) then
+            local hostile = safe(function() return u:is_enemy_with(player) end) == true
+                or safe(function() return u:is_in_combat() end) == true
+            if hostile and safe(function() return player:can_attack(u) end) ~= false then
+                local d = safe(function() return player:distance_to(u) end)
+                if type(d) == "number" and d <= yards and (best_d == nil or d < best_d) then
+                    best, best_d = u, d
+                end
+            end
+        end
+    end
+    return best
+end
+
+--- Walk REST_STEP yards straight away from `threat`. True when a move is on.
+local function move_away_from(player, threat)
+    local me = safe(function() return player:get_position() end)
+    local tp = safe(function() return threat:get_position() end)
+    if not me or not tp then
+        return false
+    end
+    local dx, dy = me.x - tp.x, me.y - tp.y
+    -- 1.2.74 ESP (resting): away from ALL the hostiles around (nearer ones count more), not only from the nearest one -
+    -- walking away from one mob into the next camp is what sat the character down beside a pack
+    local es = package.loaded["esp"]
+    if type(es) == "table" and type(es.away_vector) == "function" then
+        local ax, ay, an = es.away_vector(me.x, me.y, 45)
+        if ax and an and an >= 2 then dx, dy = ax, ay end
+    end
+    local len = math.sqrt(dx * dx + dy * dy)
+    if len < 0.5 then
+        dx, dy, len = 1, 0, 1
+    end
+    local ok_v, vec3 = pcall(require, "common/geometry/vector_3")
+    if not ok_v or type(vec3) ~= "table" then
+        return false
+    end
+    local spot = vec3.new(me.x + dx / len * REST_STEP, me.y + dy / len * REST_STEP, me.z)
+    if movement and type(movement.set_resting) == "function" then
+        movement.set_resting(false)   -- the rest lock would refuse the walk
+    end
+    if movement and type(movement.is_moving) == "function" and movement.is_moving() then
+        return true
+    end
+    return movement and type(movement.nav_to) == "function" and movement.nav_to(spot, true) == true
+end
+
+local function resource_full(pct)
+    return pct >= done_line()                -- 1.27.0: FULL_LINE after a resurrect
+end
+
+--- Threshold for this kind, as a percentage.
+---
+--- Supplied by the calling rotation rather than read from a slider, so a class
+--- can rest earlier or later than the default without a second GUI control.
+--- Clamped so a bad profile cannot make the bot rest at 0% or at full health.
+local function start_pct(opts, key, fallback)
+    local n = opts and opts[key]
+    if type(n) ~= "number" or n ~= n then
+        n = fallback
+    end
+    if n < 5 then
+        n = 5
+    end
+    if n > 95 then
+        n = 95
+    end
+    return n
+end
+
+local function latch_rest(hp, mana, has_mana, eat_at, drink_at)
+    -- 1.27.0: after a resurrect both are filled to the top, from any level
+    if full_req.on then
+        if hp < FULL_LINE then rest_eat = true end
+        if has_mana == true and mana < FULL_LINE then rest_drink = true end
+    end
+    -- 1.7.8: never later than REST_START
+    if eat_at < REST_START then eat_at = REST_START end
+    if drink_at < REST_START then drink_at = REST_START end
+    if hp <= eat_at then
+        rest_eat = true
+    elseif resource_full(hp) then
+        if rest_eat == true then end_kind(food_state) end
+        rest_eat = false
+    end
+    if has_mana == true and mana <= drink_at then
+        rest_drink = true
+    elseif resource_full(mana) then
+        if rest_drink == true then end_kind(drink_state) end
+        rest_drink = false
+    end
+    -- 1.7.8: a rest in progress tops BOTH up to REST_DONE (resume above 90 %
+    -- health AND mana) - the other kind joins while it is under the line
+    if rest_eat == true or rest_drink == true then
+        if hp < done_line() then rest_eat = true end
+        if has_mana == true and mana < done_line() then rest_drink = true end
+    end
+end
+
+--- Use exactly one consumable of this kind, then leave it alone.
+---
+--- Order matters. The aura check comes first so a working consumable is never
+--- stacked; the commit window comes second so a consumable that is working but
+--- has not registered yet is not stacked either. Only when both say "nothing is
+--- happening" does another get used.
+local function consume_one(st, kind, ids, aura_up, now, aura_list)
+    -- 1. It is working. Leave it.
+    if aura_up == true then
+        st.pending = false
+        st.warned = false
+        return false
+    end
+
+    -- 2. Used recently. The aura may simply not have landed yet.
+    if (now - st.last) < USE_COMMIT then
+        return false
+    end
+
+    -- 3. Committed, waited, and still no aura: the aura ids do not cover this
+    --    item. Say so once - silently working through the whole stack at one
+    --    item per tick is what this guard exists to prevent.
+    if st.pending and not st.warned then
+        st.warned = true
+        require("actlog").console_warn(string.format(
+            "[Master Farmer - Zygor Forever] Used %s but no %s aura appeared within %.1fs. "
+            .. "consumables.%s is probably missing this item's aura id - "
+            .. "capping at %d uses this rest instead of consuming the stack.",
+            kind, kind, USE_COMMIT, aura_list, MAX_USES))
+    end
+
+    if st.uses >= MAX_USES then
+        return false
+    end
+
+    local ok, why, item_id = use_first(ids)
+    if ok then
+        st.last = now
+        st.uses = st.uses + 1
+        st.pending = true
+        st.aura_id = item_aura_id(item_id) or st.aura_id
+        rest_debug("used one %s (use %d this rest)", kind, st.uses)
+        return true
+    end
+
+    -- Nothing was consumed and nothing is on cooldown or committed, so the rest
+    -- is stalled. Say so - once per rest, naming the reason.
+    if st.use_failed ~= why then
+        st.use_failed = why
+        rtrail("%s: %s", kind, tostring(why))
+        require("actlog").console_warn(string.format(
+            "[Master Farmer - Zygor Forever] Tried to use %s and nothing happened: %s.", kind, tostring(why)))
+    end
+    rest_debug("%s blocked - %s", kind, tostring(why))
+    return false
+end
+
+
+-- ----------------------------------------------------------------------------
+-- PUBLIC
+-- ----------------------------------------------------------------------------
+--- Detect active food/drink auras and the brief item-use confirmation window.
+function resting_mod.is_consuming(player)
+    if not player then return false end
+    local now = izi.now()
+    return consuming(player,"food",FOOD_AURAS,food_state)==true
+        or consuming(player,"drink",DRINK_AURAS,drink_state)==true
+        or now-food_state.last < JUST_USED or now-drink_state.last < JUST_USED
+end
+
+--- Is the bot sitting down right now?
+function resting_mod.is_resting()
+    return resting == true
+end
+
+--- 2.240.0: HP or mana at or under the Resting tab's lines (the same sliders
+--- the rest starts on). healing.lua holds the tick on it during the loot hold,
+--- so questing does not start a walk at 1% mana a moment before the rest.
+function resting_mod.below_line(player)
+    if not player then return false end
+    local eat_at, drink_at = REST_DEFAULT, REST_DEFAULT
+    if type(gui.slider) == "function" then
+        local e = gui.slider("eat_hp", nil)
+        if type(e) == "number" then eat_at = start_pct({ v = e }, "v", eat_at) end
+        local d = gui.slider("drink_mana", nil)
+        if type(d) == "number" then drink_at = start_pct({ v = d }, "v", drink_at) end
+    end
+    if eat_at < REST_START then eat_at = REST_START end          -- 1.7.8
+    if drink_at < REST_START then drink_at = REST_START end
+    if health_pct(player) <= eat_at then return true end
+    return power.has_mana(player) and mana_pct(player) <= drink_at or false
+end
+
+--- Drop every latch. Called when the owner changes or the bot stops.
+function resting_mod.clear()
+    clear_rest()
+end
+
+--- Rest if this character needs to. Returns true while resting, so the caller
+--- holds the rest of the tick.
+---
+--- `opts.eat_pct`   sit and eat at or below this health percentage
+--- `opts.drink_pct` sit and drink at or below this mana percentage
+--- Both default to REST_DEFAULT.
+function resting_mod.tick(player, opts)
+    if not player then
+        clear_rest()
+        return false
+    end
+
+    local eat_at = start_pct(opts, "eat_pct", REST_DEFAULT)
+    local drink_at = start_pct(opts, "drink_pct", REST_DEFAULT)
+    -- The Resting tab's sliders win over the rotation's built-in numbers
+    -- (2.41.0): every rotation hard-coded 30%, so "Eat Below HP %" did
+    -- nothing. A rotation that passes drink_pct 0 (no mana) keeps it off.
+    -- `gui` is this module's own top-level require (2.193.0: no
+    -- pcall(require) on every rest tick).
+    if type(gui.slider) == "function" then
+        local e = gui.slider("eat_hp", nil)
+        if type(e) == "number" then
+            eat_at = start_pct({ v = e }, "v", eat_at)
+        end
+        local d = gui.slider("drink_mana", nil)
+        if type(d) == "number" and not (opts and opts.drink_pct == 0) then
+            drink_at = start_pct({ v = d }, "v", drink_at)
+        end
+    end
+
+    -- REST PROBE (2.193.0): u:healing was the only multi-millisecond stage
+    -- (1.4-1.7 ms) and lined up with the 31 MB heap spike. These marks split
+    -- it in the PERF line, and errorlog's SPIKE line names the slow part.
+    rprobe("rest:auras")
+    local hp = health_pct(player)
+    local mana = mana_pct(player)
+    local has_mana = power.has_mana(player)
+    -- NOTHING TO DO (2.240.0): not resting and both above their lines - no
+    -- aura reads, no food / water lists (they were built every 0.1 s at full
+    -- health and mana: two bag scans, table sorts and a signature per tick).
+    if eat_at < REST_START then eat_at = REST_START end          -- 1.7.8
+    if drink_at < REST_START then drink_at = REST_START end
+    -- 1.27.0: the full-rest request after a resurrect - done at full, or too old
+    if full_req.on then
+        if hp >= FULL_LINE and (not has_mana or mana >= FULL_LINE) then
+            full_req.on = false
+            rtrail("full health and mana after the resurrect - questing again")
+        elseif (izi.now() - full_req.t) > FULL_MAX_S then
+            full_req.on = false
+            rtrail("full rest after the resurrect: %d s passed (HP %.0f MP %.0f) - questing again", FULL_MAX_S, hp, mana)
+        end
+    end
+    if resting ~= true and rest_eat ~= true and rest_drink ~= true and regen_wait ~= true
+        and not full_req.on and hp > eat_at and (not has_mana or mana > drink_at) then
+        return false
+    end
+    local eating = consuming(player, "food", FOOD_AURAS, food_state)
+    local drinking = consuming(player, "drink", DRINK_AURAS, drink_state)
+    -- JUST USED (2.110.0): the aura lands a moment after the item is used.
+    -- Eating the LAST piece of food left the bags empty before the aura
+    -- showed, and the check below read "no usable food - not resting" 0.3 s
+    -- into every such rest. An item used in the last JUST_USED s counts as
+    -- eating / drinking.
+    local now_u = izi.now()
+    if eating ~= true and (now_u - food_state.last) < JUST_USED then eating = true end
+    if drinking ~= true and (now_u - drink_state.last) < JUST_USED then drinking = true end
+    rprobe("rest:food_ids")
+    local foods = food_ids(player)
+    rprobe("rest:water_ids")
+    local waters = water_ids(player)
+    rprobe("rest:checks")
+    latch_rest(hp, mana, has_mana, eat_at, drink_at)
+
+    -- Combat ends a rest outright. Potions are handled by healing.lua, which
+    -- still owns everything that happens while fighting.
+    if safe(function() return player:is_in_combat() end) == true then
+        rest_debug("in combat - HP %.0f MP %.0f - resting is suppressed until it ends", hp, mana)
+        resting = false
+        if movement and type(movement.set_resting) == "function" then
+            movement.set_resting(false)
+        end
+        return false
+    end
+    if safe(function() return core.character.is_swimming() end) == true then
+        rest_debug("swimming - cannot sit down to eat or drink")
+        clear_rest()
+        return false
+    end
+    -- audit 1.19.0: a merchant window is open - core.input.use_item on food /
+    -- water there SELLS it (bags.use_id), and healing runs before vendor in the
+    -- cascade. Stand down (latches kept, as in combat) so the vendor trip can
+    -- finish and close the window; the rest carries on after.
+    local n_vendor = safe(function() return core.game_ui.get_vendor_item_count() end)
+    if (type(n_vendor) == "number" and n_vendor > 0)
+        or safe(function() return core.inventory.can_merchant_repair() end) == true then
+        rest_debug("merchant window open - not eating / drinking (it would sell the item)")
+        resting = false
+        if movement and type(movement.set_resting) == "function" then
+            movement.set_resting(false)
+        end
+        return false
+    end
+
+
+    if rest_eat == true and eating ~= true and hp < done_line() and has_usable(foods) ~= true then
+        end_kind(food_state)
+        rest_eat = false
+        if (izi.now() - miss_warned.food) >= MISS_GAP then
+            miss_warned.food = izi.now()
+            require("actlog").console_warn("[Master Farmer - Zygor Forever] Eat/drink skipped - no usable food in bags.")
+        end
+        rtrail("HP %.0f is at the eat line but there is no usable food in the bags - not resting", hp)
+    end
+    if rest_drink == true and drinking ~= true and mana < done_line() and has_usable(waters) ~= true then
+        end_kind(drink_state)
+        rest_drink = false
+        if (izi.now() - miss_warned.water) >= MISS_GAP then
+            miss_warned.water = izi.now()
+            require("actlog").console_warn("[Master Farmer - Zygor Forever] Eat/drink skipped - no usable water in bags.")
+        end
+        rtrail("MP %.0f is at the drink line but there is no usable water in the bags - not resting", mana)
+    end
+    if rest_eat == true or rest_drink == true then
+        -- a kind that is usable again may warn again at once
+        if rest_eat == true then miss_warned.food = -1e9 end
+        if rest_drink == true then miss_warned.water = -1e9 end
+    elseif full_req.on and eating ~= true and drinking ~= true then
+        -- 1.27.0: nothing in the bags fills what is missing - the normal rules again
+        full_req.on = false
+        rtrail("full rest after the resurrect: nothing to eat / drink for HP %.0f MP %.0f - questing again", hp, mana)
+    end
+
+    -- EAT AND DRINK TOGETHER (2.99.0). A rest used to consume only what had
+    -- crossed its own line: a mage sitting down at 20% mana with 70% health
+    -- drank, stood up at 100% mana with 70% health, and sat down again to eat
+    -- a fight later. Once a rest is on for either reason, the other resource
+    -- is topped up in the same sit-down when it is under REST_TOPUP and there
+    -- is something usable for it; both are used on the same tick and the rest
+    -- ends when both are full.
+    if rest_eat == true or rest_drink == true then
+        if rest_eat ~= true and eating ~= true and hp < REST_TOPUP and has_usable(foods) == true then
+            rest_eat = true
+            rtrail("also eating (HP %.0f) while resting for mana", hp)
+        end
+        if rest_drink ~= true and drinking ~= true and has_mana and mana < REST_TOPUP
+            and has_usable(waters) == true then
+            rest_drink = true
+            rtrail("also drinking (MP %.0f) while resting for health", mana)
+        end
+    end
+
+    -- NOTHING TO EAT OR DRINK (2.139.0). This used to log "no usable food -
+    -- not resting" and carry on at low health / mana. Now the rest asks for a
+    -- food / water run (supplies.request); when one can happen (a seller
+    -- known and gold or junk to pay) the cascade is released so vendor.lua
+    -- runs it. When none can, the character stands and waits until health
+    -- and mana have come back to REGEN_DONE by themselves. A mage keeps
+    -- conjuring meanwhile (conjure.tick runs first, as soon as the mana is
+    -- there), and the moment something usable is in the bags the normal rest
+    -- takes over.
+    rprobe("rest:supplies")
+    if rest_eat ~= true and rest_drink ~= true then
+        local no_food = hp < eat_at and eating ~= true and has_usable(foods) ~= true
+        local no_water = has_mana and mana < drink_at and drinking ~= true and has_usable(waters) ~= true
+        if no_food or no_water or regen_wait then
+            local ok_s, supplies = pcall(require, "supplies")
+            if ok_s and type(supplies) == "table" and type(supplies.request) == "function" then
+                if no_food then supplies.request("food") end
+                if no_water then supplies.request("water") end
+            end
+            local recovered = hp >= REGEN_DONE and (not has_mana or mana >= REGEN_DONE)
+            local run, why = false, nil
+            if ok_s and type(supplies) == "table" and type(supplies.trip_wanted) == "function" then
+                run, why = supplies.trip_wanted(player)
+            end
+            local vendor_busy = state.vendor and state.vendor.active == true
+            -- Out of water, health is fine, and one drink is not affordable
+            -- yet: stay on the RestedXP step. The run starts on its own once
+            -- gold or junk covers the water (2.171.0).
+            local water_only = no_water and not no_food and hp >= eat_at
+            -- 2.240.0: a mage who conjures water is never sent to buy it
+            -- (supplies.missing), so "stay on the quest" left one questing
+            -- under the drink line with too little mana to conjure. It waits
+            -- for the mana instead; conjure.tick conjures as soon as it can.
+            local ok_cj, cj = pcall(require, "conjure")
+            local conjurer = ok_cj and type(cj) == "table" and type(cj.knows) == "function" and cj.knows("water")
+            if water_only and conjurer then water_only = false end
+            if water_only and not run and not vendor_busy then
+                if not water_stay_logged then
+                    water_stay_logged = true
+                    rtrail("no water and cannot buy it yet (%s) - staying on the quest", tostring(why))
+                end
+                regen_wait = false
+            elseif recovered or run or vendor_busy then
+                water_stay_logged = false
+                if regen_wait then
+                    rtrail("regen wait over - HP %.0f MP %.0f (%s)", hp, mana,
+                        recovered and "recovered" or "going to buy")
+                end
+                regen_wait = false
+            else
+                water_stay_logged = false
+                if not regen_wait then
+                    regen_wait = true
+                    rtrail("no %s and no way to buy it (%s) - waiting for HP / MP to reach %d%%",
+                        no_food and "food" or "water", tostring(why), REGEN_DONE)
+                    if movement and type(movement.nav_stop) == "function" then
+                        movement.nav_stop()
+                    end
+                end
+                state.set_note("Rest", string.format("No %s - waiting  HP %.0f%%  MP %.0f%%",
+                    (no_food or hp < REGEN_DONE) and "food" or "water", hp, has_mana and mana or 100))
+                return true
+            end
+        end
+    end
+
+    rprobe("rest:decide")
+    if rest_eat ~= true and rest_drink ~= true then
+        rest_debug("no rest needed - HP %.0f (eat at %.0f) MP %.0f (drink at %.0f)",
+            hp, eat_at, mana, has_mana and drink_at or 0)
+        if resting then
+            rtrail("done - HP %.0f MP %.0f", hp, mana)
+            reset_use_state()
+            if movement and type(movement.set_resting) == "function" then
+                movement.set_resting(false)
+            end
+        end
+        resting = false
+        return false
+    end
+
+    -- A rest is needed. Out of combat is not the same as clear: find a spot
+    -- with no real threat within REST_CLEAR_YARDS first.
+    -- 2.260.0: once sat down the rest is not broken off to walk away (the
+    -- 17:12 log stood up at 82% HP mid-meal when the food aura read missed);
+    -- a mob that attacks ends the rest through combat anyway.
+    local threat = (eating or drinking or resting) and nil or rest_threat(player, REST_CLEAR_YARDS)
+    if threat then
+        local now_m = izi.now()
+        if move_since == 0 then
+            move_since = now_m
+        end
+        if (now_m - move_since) < REST_MOVE_MAX then
+            local name = safe(function() return threat:get_name() end) or "mob"
+            rest_debug("hostile %s within %d yards - moving away to rest", tostring(name), REST_CLEAR_YARDS)
+            state.set_note("Rest", string.format("Moving away from %s to rest", tostring(name)))
+            rtrail("rest needed (HP %.0f MP %.0f) - moving away from %s", hp, mana, tostring(name))
+            rprobe("rest:move_away")
+            move_away_from(player, threat)
+            return true               -- hold the tick: no new pull at low health
+        end
+        rest_debug("no clear spot after %.0fs - resting where it stands", REST_MOVE_MAX)
+    end
+    move_since = 0
+
+    if not resting then
+        rtrail("start - HP %.0f (eat %s) MP %.0f (drink %s)", hp, tostring(rest_eat), mana, tostring(rest_drink))
+    end
+    resting = true
+    rprobe("rest:halt")
+    rest_debug("resting - HP %.0f MP %.0f - eat=%s drink=%s - %d food / %d water ids known",
+        hp, mana, tostring(rest_eat), tostring(rest_drink), #foods, #waters)
+    halt_for_rest(player)
+    state.set_note("Rest", string.format("Eating / drinking  HP %.0f  MP %.0f", hp, mana))
+
+    if safe(function() return player:is_mounted() end) == true then
+        -- One dismount per second (2.217.0), not one per tick.
+        local now = izi.now()
+        if (now - (state.rest_dismount_t or -1e9)) >= 1.0 then
+            state.rest_dismount_t = now
+            rest_debug("mounted - dismounting first")
+            pcall(core.input.dismount)
+        end
+        return true
+    end
+    if is_moving_now(player) then
+        rest_debug("still moving - waiting for the character to stop")
+        return true
+    end
+
+    local now = izi.now()
+
+    -- ONE ITEM PER TICK, DRINK FIRST (2.240.0). Food and drink used in the
+    -- same tick: the client dropped the second use while use_self_safe still
+    -- said true - 13:08 session, MP 3 -> 17 in 30 s (base regeneration), then
+    -- 17 -> 89 in 31 s once the drink was used on its own. Rests with both took
+    -- 52-60 s, drink-only ones 37-40 s. Food follows FOOD_AFTER_DRINK s later.
+    local used_drink = false
+    if rest_drink and mana < done_line() then
+        used_drink = consume_one(drink_state, "drink", waters, drinking, now, "DRINK_AURA_IDS")
+    end
+    if rest_eat and hp < done_line() and not used_drink
+        and (now - drink_state.last) >= FOOD_AFTER_DRINK then
+        consume_one(food_state, "food", foods, eating, now, "FOOD_AURA_IDS")
+    end
+    return true
+end
+
+--- 1.27.0: rest until health and mana are full (death.lua, on resurrect).
+function resting_mod.request_full(why)
+    full_req.on, full_req.t, full_req.why = true, izi.now(), why
+    rtrail("rest to full health and mana requested (%s)", tostring(why))
+end
+function resting_mod.full_requested() return full_req.on end
+
+--- Test hook (1.7.8): the start / stop latch alone.
+function resting_mod._test_latch(hp, mana, has_mana, eat_at, drink_at, fresh)
+    if fresh then rest_eat, rest_drink = false, false end
+    latch_rest(hp, mana, has_mana, eat_at, drink_at)
+    return rest_eat == true, rest_drink == true
+end
+
+return resting_mod

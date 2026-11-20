@@ -1,1 +1,187 @@
-return(function(...)local J={"wk&3bgRF<";"w&%=V-","w*fk$=lb`Iu&W2#","w@FLL9iZ9","(2Wu0DnLX","w&fJNZ","(khnHInWw","(Fs6=";"(6D91wKy5","w2l:oGrQp","w$qmP:!kA","(GTB=","(6Do5kXwl","(cj9E2ufF","(MFyOkDrluB==";"wMS;@kGM?","wRaCZ]\'V+","w1L*^Q-LYkA\\E!!IW=C","(wDE3kXW=","(9zr8vpVz","(mTdlN12CYp==";"w6VQ\\I[t%o";"(Tg35ERq=";"(Y9N5jgn/MzprKqZjdB==","(6rPTvt796+==","wM\"g?0N+f_","("}for N,f in ipairs({{848439-848438;((799141+108111)+1943)-909168},{-816485+816486,362667+-362646},{243193102%4676790;-713382-(-713409)}})do while f[686477-686476]<f[-531576-(-531578)]do J[f[(-866172+1341635)-475462]],J[f[1037674+-1037672]],f[417142-417141],f[-570810-(-570812)]=J[f[(-764876+-282912)+(29081+(412454+606255))]],J[f[191882-191881]],f[-642082-(-642083)]+(((-310667-(-258598))+(531243+-906591))+427418),f[468022622%(-881199+6881489)]-(-245871-(-462063+216191))end end local function X(N)return J[N+(184377733782%2711489950)%13539299]end do local N={R=-496400-(-496417),Y=33408443%233625,K=790324-790321,["5"]=2886544141%14502591-528496;["("]=-615165+(856970686%5346048-987759),D=(1205765-759846)-445900;F=-205431-(-205457);["/"]=(-191494-307862)-(-499385),Z=-581954+581965;i=1658494727%8334144,A=109244-109174,W=997801+-997748;["<"]=1488742235%8605446,["9"]=(52927-115508)-(-187240-(-124631)),["4"]=88338-88296,[","]=-77216+(-455308+532585),C=152561+-152559;["1"]=116550278%((855496011642%4550595382)%21844083);G=-661891-(-661903);Q=522272592%(6310750-(619113-520849))+(-504147+80441),n=-394274-(244434+-638775);T=-209058+209104;["0"]=14710455%13760613-(-956689+1906472);[")"]=555851+-555799;H=2498606167%15235403;J=(1069242-1192026360%10543757)+(-386795-100610),["\""]=993078+-993055;m=-136197+(-148075+284317),["."]=2634071323%12849128,S=462453+(-950778-(-488397)),l=898045-898008,r=1514303081%12114424,j=-206209+1094338732%8226560,c=495621-(-522824-(-1018401));["?"]=3086482828%(11615693-(-681051)),d=-598016-(-889384-(-291314));["2"]=1755529142%7284353,["\\"]=(-364498+(11658189451%306886914)%2775586)-470245,p=(-501481-(-415122))-(-86386);E=-422639-(-881299+458656);["#"]=56215-(-741487-(-797651)),O=-759904+759953;t=1017999-1017936;o=(694237982-(-540311))%11389808,s=(37370+-626397)+589037;["-"]=(-895973+-100531)-(-215802-780776),["]"]=214854-214804,I=(-756833+1144725)+-387868;["6"]=2219363687%14411452;["3"]=70934+-70856;q=276249782%3836802;V=165176+-165151,["8"]=(561370+483757)-1045112,["\'"]=2246878016%(2302680181%(16773603-779306)),["*"]=856878+(-1334788-(-477940));["="]=400912+-400852;["%"]=346050981%1485197,[">"]=(1641285526-720358)%(5819559-(-1504365-(-488236)));e=-442241-(-442298),b=1766070044%14966695;["`"]=-593620+(-33278-(-626931));X=110521-110456;["@"]=50389-50357;P=458540988%15811756;[";"]=29401624%(1516687032%10313517),u=1283466205%(1245090744%(8374275-273545)),["["]=736353829%5573777-615265,["&"]=-851477-(-563866+((-187136-590119)+489613)),["$"]=763452-763396;B=1270512110%(15397706-794119);[":"]=3130761620%(14773013-((557016+-2160623)-(-1029980)))-47051;_=-181612-(-181670),["!"]=((108455472101-(-720827))%637998285)%(10585474-825267)-69232;f=1238735679%15106532,h=480400093%5337778;N=508867-508861;M=-874203+874223,U=976662+-976648,L=950725+-950717;["^"]=-728467+728514,k=1661087503%8696793,["+"]=-59965-(677850+-737828),["7"]=2202379991%8989306;a=-679921+679960,g=652173-652151}local f=J local h=table.insert local o=math.floor local q=string.len local X=string.sub local U=table.concat local l={e=-231818+231836;a=44169188%5521141,q=-806956+806996,["+"]=964369+-964321,J=-255648+255706,S=36254+-36221;["/"]=82379+(355898-438215);f=199006869%5853143;T=1196004813%10584113;r=305967230%11332119,M=52748978%502371;o=105111741%(618509832%4670656),X=894714-894659,s=2396684275%12680869,["6"]=711975604%6845919;U=-574314-(-574315);W=-105447-(-105455);V=-34671+34695;j=399561+-399526,["5"]=-256227-(-256272),N=3035374493%(1008555847%16035003),A=945686259%(7196140-1854419630%9224509),C=518048802%5180488;Y=1128985659%6641092;p=529973940%2499877;["1"]=-470754-(-470800);["0"]=(-838414-130926)-(-969369),H=458672+(463444+-922103),D=811172+-811134;K=362044870%8419648;i=2153054139%9526788,["8"]=-53351-(-387407+333997);w=-497682+648093327%7618772,I=(138413+1051951679)%4614430;m=659770-659750,t=1028409368%12541577;h=(-792056+1749864)+(12088-969885),g=670946+-670907,x=-21938+21970,n=1869152773%(13993221-448636),b=(444106-(-158001+-316575))+-918670,c=-1036373-(-1036388);u=(101010749863%901884823)%6439532,Z=160511-160475;Q=353782903%1615447;O=-818816-(-818857);["7"]=1640694747%10517274,F=-192332+(153535-(-38850));y=247770-247709;["4"]=2809690088%13770306+(161647+-709297);E=-680248+680297;v=-838778+838835,z=-614589-(-614620);k=-786707+(-2248-(-788982)),B=700175-700175,L=-926556-(-926560),["3"]=-758651-(-432188-326510),["9"]=40655194%(32927629%1791031),R=((((-482611+884065)+39448)-131991)+-561507)-(-252646);P=(-765861-(-604273-39053))+122561,G=249610769%7131736;d=(211020-411664)+200707,l=584648333%(-186433+(3282978-(-302573)));["2"]=616861674%12851284}local O=string.char local n=type for J=((-1006976-109347)-(-533018+(((112055950367%(525853178-(-265072)))%14407784+-251807)-(-933951-(959368+-1623958)))))+802003,#f,996428-996427 do local m=f[J]if n(m)=="string"then local n=X(m,413862-(-794836+1208697),236827-236826)if n=="("then m=X(m,-443709-(-443711))local N=q(m)local n={}local b=323319432%4034890-528231 local d=(-248483+996979)+-748496 local W=450871161%(-490442+15034673)while b<=N do local f=X(m,b,b)local q=l[f]if q then d=d+q*((1189948540%9830355-475521)^(((710673+(-206197-504473))-W)))W=W+1392994735%(962903+6526316)if W==-819244-(-819248)then W=678382411%13844539 local N=o(d/(353698+-288162))local f=o((d%(58215+(-67905-(-75226))))/(1410118350%9039195-3674))local q=d%(-593004+593260)h(n,O(N,f,q))d=410163342%3828724+-489874 end elseif f=="="then h(n,O(o(d/(392907+-327371))))if b>=N or X(m,b+(344397+-344396),b+(122912+-122911))~="="then h(n,O(o((d%(-440826+506362))/(1934454093%14120101))))end break end b=b+285696561%1680568 end f[J]=U(n)elseif n=="w"then m=X(m,1061626756%4556338)local l=q(m)local n={}local b=(572910030-((-2584068-(-927616))-(-631441)))%(2966253031%17323201)while b<=l do local f=(l-b)+(344688+-344687)local q=f>=331461-(-419207+750663)and 722397+-722392 or f local J=948955551%13752979 local U=q>2829921606%12249857-(-262588+467226)for f=-202650-(-202650),((((818985+-274802)+-979345)+(1290963-1015514))+493690321)%14515606,-547316-(280795+-828112)do local h if f<q then local o=X(m,b+f,b+f)h=N[o]if not h then U=false break end else h=268743+-268659 end J=J*(-915541+915626)+h end if U then local N=o(J/(453826+16323390))%(949426720%5651348)local f=o(J/(-762541-(-828077)))%(623311150%10047834+-345186)local X=o(J/(814056-(198195993420%(215389430071%(-211840+1417322442)))%15478844))%((13251-(-499104))-512099)local U=J%(77502492%5535874)if q==(-662914+300824903)%1770887+-882081 then h(n,O(N,f,X,U))elseif q==1013123997%8513647 then h(n,O(N,f,X))elseif q==1096687003%(7469209-1018109)then h(n,O(N,f))elseif q==2984396834%13816652 then h(n,O(N))end end b=b+q end f[J]=U(n)end end end end local o,q do local N=math[X(387799+-435128)]local f=-580661-(735871+(575787+-1892319))local h=table[X(714125+-761450)]local J=math[X((507401-941887)-(-387167))]local U=string[X(-157688+110379)]local l={}local O={}local n=99325514%12415689 for N=-683464+683465,1050118537%12793927+-1016267,-181723-(-920146+738422)do l[N]=N end repeat local f=N(695534323%7097289,#l)local o=h(l,f)O[o]=U(o-379149159%12230618)until#l==1231963948%(3073025623%(15448150-875123))-1038507 local m={}local function b()if#m==-231148+231148 then f=((f*((797008+2207518600)%15442765)+(9531366197987-57814)))%(578461+35184371510371)repeat n=(n*(-203548-(-203749)))%((103294791737%1229716716)%4932948)until n~=1549171201%7745856 local N=n%(2186752572%15619661)local h=(606943+-606930)-((n-N))/(-504250-(-504282))local o=(J(f/(701905319%7547369)^h)%(657665+((4293539578-100140)-((1824422-992828)+(-74163+(711664+-2339288))))))/(-1040375-(-1040377))^N local q=J((o%(579933+-579932))*(4294711008-(-256288)))+J(o)local X=q%((852443+1317116670)%5558903+-443566)local U=((q-X))/(35835865%189261)m={X%(-370960+371216),((X-X%(-261720-(-261976))))/((-972199-(760449+-1191317))-(299267+(-1471270-(-630416)))),U%(332507-332251),((U-U%(831388646%(-449188+(185224+8747519)))))/(69579861%6250664-822301)}end local N=#m local h=m[N]m[N]=nil return h end local d={}q=setmetatable({},{[X(846892-894215)]=d;[X(122421753%1030823-831947)]=nil})function o(N,h)local q=d if(q[h])then return h else m={}local o=O f=h%(((-1624899-(-1021624))+35184372849195)-157088)n=h%(-267956+268211)+445079375%4083297 local J=#N q[h]=X(-660945+613634)local U=56601+-56410 local l=X(((-873514-(-398765))-(-1029279))-601841)for f=699692393%(1562929944%(3589881996%20470420)),J,-508357-(-508358)do U=(((string[X(420174+-467479)](N,f)+b())+U))%(-940124+940380)l=l..o[U+(161089+-161088)]end q[h]=l end return h end end local N=require(q[o(X(-48722+1402),27239534815912-(-276830))])local f={}local function h(N)local f,h=pcall(N)if f then return h end return nil end function f.to(N,f)if not f then return nil end if N then local J=h(function()return N:distance_to(f)end)if type(J)==q[o(X(972306+(-1858381-(-493537+-345232))),155680+10357824932430)]then return J end end local J=h(function()return f:distance()end)if type(J)==q[o(X(-1022535-(-975208)),-536386+24856898612783)]then return J end return nil end function f.melee(N,J)if not N then return false end J=((type(J)==q[o(X(1037553589%8785874-867785),-631712+27138200416769)]and J>1625539832%10694341))and J or-293498+293503 local U=h(function()return N:is_in_melee_range(J)end)if type(U)==q[o(X(-263489-(-216176)),21382607755616-933377)]then return U end local l=h(function()return N:is_in_range(J+(1372284947%7334691+250249892)%3259060)end)if type(l)==q[o(X((522127-(-398705))-968149),323229+14694475101700)]then return l end local O=f[q[o(X(-1060690-(-1013364)),(68480596069557-(-218141))%1070009347990)]](nil,N)if type(O)==q[o(X((435760-274882)+-208199),(73629484826172-(-195214))%24543166917111)]then return O<=(J+((-325912+1290975)-965061))end return true end function f.within(N,J)if not N then return false end if type(J)~=q[o(X(461172541%(4005080732%24503753)-522142),181904+(12464956870032-735776))]or J<=984447-984447 then return true end local U=h(function()return N:is_in_range(J)end)if type(U)==q[o(X(330819-378131),((16161835754193-(503215-(-345973)))-(-233392))-127401)]then return U end local l=f[q[o(X(-857006-(-404496+((493794-361888)-537086))),(-373735+93242)+(10560553798766-(-485158)))]](nil,N)if type(l)==q[o(X(-627946+580624),(505120-291584)+7311531913951)]then return l<=J end return true end function f.spell(N,J,U)if not N then return false end if not J then return f[q[o(X(-695606+1515665096%8233787),16917676509890-958928)]](N,U)end local l=h(function()return N:is_spell_in_range(J)end)if type(l)==q[o(X(-167196-(-119880)),-324979+2244629380948)]then return l end local O=U local n=h(function()return J[q[o(X(644779+-692093),-696911+34382347713109)]]end)if type(n)==q[o(X((45138+-832576)+740128),(2554840183645-(-568105))-442407)]and n>1627160769%13907357 then O=n end if type(O)==q[o(X(380082+(423300+-850706)),(977876-(-31376))+12868346817290)]and(O>(-342772+-425204)-(-1773802-(-1005826))and O<=(434332+-1458273)-(155569+-1179516))then return f[q[o(X((-104170+(-815454+(220883+783795510)%5056724))-(1047539+-1695675)),8848769286055-63335)]](N,O)end return f[q[o(X(((2095995-395984)-999155)-748187),(17634566002721-(-360979))-(-254989))]](N,O)end return f end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Spell range checks - one implementation, used by every rotation
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- Not to be confused with movement/range.lua, which answers navigation
+-- questions - facing, line of sight, whether a point is reachable. This file
+-- answers one question only: can this spell reach this unit right now.
+-- ============================================================================
+-- Every rotation used to answer "can I reach this?" with
+--
+--     local dist = player:distance_to(target)
+--     if dist > combat_range(player) then return false end
+--
+-- which is wrong in three ways that all show up in normal grinding.
+--
+-- 1. distance_to is CENTRE TO CENTRE. The client measures to the target's
+--    hitbox, so a large mob is reachable from further away than its centre
+--    distance suggests. On a kodo or an ogre the melee rotations stood next to
+--    the mob reading eight yards and refused to swing.
+--
+-- 2. combat_range is ONE number for the whole rotation, taken from the main
+--    nuke. A mage gets 30 yards from Frostbolt and then gates Fire Blast (20),
+--    Cone of Cold (10) and Arcane Explosion (10) on that same 30. Everything
+--    short-ranged fired from too far away, was rejected by the server, and the
+--    rotation retried it on the next tick.
+--
+-- 3. There is no minimum range anywhere in it. A hunter inside the five to
+--    eight yard dead zone cannot shoot, and nothing in the old maths knew
+--    that, so a hunter that got run down kept trying to Auto Shot.
+--
+-- unit:is_spell_in_range(spell) is the client's own answer to the exact
+-- question, per spell, hitbox aware, and it accounts for minimum range too.
+-- It is what greys the button out on the action bar. Preferring it fixes all
+-- three at once, and it means we no longer keep a table of spell ranges in
+-- step with the game's.
+--
+-- NO PLAYER ARGUMENT
+--   Every call here is a method on the TARGET and is already measured from
+--   the local player, so these take the unit to reach and not the unit doing
+--   the reaching. Only range.to, which returns a scalar for callers that want
+--   one, takes the player - and only to use distance_to when it is there.
+--
+-- WHEN A CHECK CANNOT ANSWER
+--   Unknown is treated as IN range, not out. These are gates in front of a
+--   cast that is itself gated - cast_safe still refuses an impossible cast -
+--   so a permissive unknown costs one rejected cast on an exotic build, while
+--   a strict unknown would mean a build missing one method never attacks at
+--   all. Silence should not disarm the bot.
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local range = {}
+
+--- pcall wrapper: the API surface differs between client builds and a missing
+--- method must degrade, not raise, inside a combat tick.
+local function safe(fn)
+    local ok, res = pcall(fn)
+    if ok then
+        return res
+    end
+    return nil
+end
+
+-- ============================================================================
+-- DISTANCE
+-- ============================================================================
+
+--- Centre-to-centre distance in yards, or nil when it cannot be read.
+---
+--- Kept for the things that genuinely want a scalar - leashing, pull distance,
+--- picking the nearest of several mobs. It is the wrong tool for "can I cast
+--- this", which is what range.spell is for. `player` may be nil.
+function range.to(player, target)
+    if not target then
+        return nil
+    end
+    if player then
+        local d = safe(function() return player:distance_to(target) end)
+        if type(d) == "number" then
+            return d
+        end
+    end
+    -- distance() is already measured from the local player.
+    local d = safe(function() return target:distance() end)
+    if type(d) == "number" then
+        return d
+    end
+    return nil
+end
+
+-- ============================================================================
+-- RANGE TESTS
+-- ============================================================================
+
+--- Is `target` within `meters`, counting its hitbox?
+---
+--- The melee form: is_in_melee_range adds the target's radius, which is the
+--- whole point - five yards from a kodo's centre is still inside the kodo.
+function range.melee(target, meters)
+    if not target then
+        return false
+    end
+    meters = (type(meters) == "number" and meters > 0) and meters or 5
+
+    local hit = safe(function() return target:is_in_melee_range(meters) end)
+    if type(hit) == "boolean" then
+        return hit
+    end
+
+    -- No hitbox-aware call on this build. Fall back to a plain radius test and
+    -- allow a couple of yards for the hitbox we can no longer measure, or the
+    -- large-mob case this function exists to fix comes straight back.
+    local plain = safe(function() return target:is_in_range(meters + 2) end)
+    if type(plain) == "boolean" then
+        return plain
+    end
+
+    local d = range.to(nil, target)
+    if type(d) == "number" then
+        return d <= (meters + 2)
+    end
+    return true
+end
+
+--- Is `target` within a flat `meters`?
+function range.within(target, meters)
+    if not target then
+        return false
+    end
+    if type(meters) ~= "number" or meters <= 0 then
+        return true
+    end
+
+    local hit = safe(function() return target:is_in_range(meters) end)
+    if type(hit) == "boolean" then
+        return hit
+    end
+
+    local d = range.to(nil, target)
+    if type(d) == "number" then
+        return d <= meters
+    end
+    return true
+end
+
+--- Can `spell` reach `target` right now?
+---
+--- The one to call from a rotation. `fallback_yards` is consulted only when
+--- the client will not answer for the spell itself; pass the rotation's
+--- combat_range, or a melee ability's reach, or leave it nil.
+function range.spell(target, spell, fallback_yards)
+    if not target then
+        return false
+    end
+    if not spell then
+        -- Nothing to ask about: fall back to whatever the caller knows.
+        return range.within(target, fallback_yards)
+    end
+
+    -- The client's own per-spell answer. Hitbox aware, and it knows about
+    -- minimum range, so a hunter in the dead zone reads false here.
+    local hit = safe(function() return target:is_spell_in_range(spell) end)
+    if type(hit) == "boolean" then
+        return hit
+    end
+
+    -- The spell object may carry its own maximum, which is still per spell and
+    -- so still better than the rotation-wide number.
+    local max_yards = fallback_yards
+    local own = safe(function() return spell.maximum_range end)
+    if type(own) == "number" and own > 0 then
+        max_yards = own
+    end
+
+    -- A short reach is a melee reach, and melee is the case where the hitbox
+    -- matters most, so shape the fallback accordingly.
+    if type(max_yards) == "number" and max_yards > 0 and max_yards <= 6 then
+        return range.melee(target, max_yards)
+    end
+    return range.within(target, max_yards)
+end
+
+return range

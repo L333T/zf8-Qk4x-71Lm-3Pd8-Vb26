@@ -1,1 +1,240 @@
-return(function(...)local s={"DP,d]7j)S27&5=-J:,&I+QP3h9HL7#L_L%\"qE3e)","D.$nUuO9K[tC%","D11lbcPcpD";".aJX5Zpq=","DRiT4\'s5","DYN2a8?6@]sm.n+*J]V27o[97#kHW*u6d<&WnM";".FMxV5scM+7rJq9SC0VkBC0ciouV0rUZCRBxB+l==",".bKLvZRd3EnyL";"D;.-W+,S`ZqGTYot`msqN6E;2POVuU%Xej&+!Oj\\+[X=.rC&4kd1:Kt9o_lOi,Npl\\;J3UB<g-aMQ&!4+FCl1\'","DLTkU\'MBH`Rnb*@$kP)J`4c),GfB@Sug8(*g=3>WO^?,RL/5?(VkPRhG>bj71q`?.eiSoK","D4M)`6cb";"DT2m/K/NfqQm+8AK(stqI=R=S,;ie",".zWMjeuxtcdgWoViSgQMMItI5+rhJ9HiQwSAzLWudSrMCtGfJs0==",".x0yq80oRlQbtR4TVTarlG/YuY7LNBTL=","DD\"OKRgZcjE\"\'??h7jBTW[>Q53\"V4N*4PsgDIrIHl@YKol^15?`F\"dVe>#,nWL5mCl/G0?";"DFp",".pgpFRl==";".1MvQ0fy=";".mSeFSZj3Xsuh9STRETYpIivjTD8f3tm+5fitM2eGCwRSueL=";".RMTSk8W7zi2QsGjBCm85+ZgX";"Dulk[En!4[c1j,7\"cB\"r#\\d^",".w2v1lvvT",".rTu0GaV460==";".4YqlCslg";"D","Dj/\\k:X/XVt$p\'\\%";"D(MHU","DnIbUAT3p","Do`=LtT6:8",".0ADd3JsEdTEz6T1/rMGEYX7Yd+iaC95RpNV=",".ADbZgr9=";".l93M3nUpj7za4R+i+/Y=";"D\'brD#g5";"D6nsU;tu2<Ef05Yt";"Dag1X^Qdk!_=3b\"#hQ)RGbM",".foPjtA==","D44se\"NMaL-kY";".M6vNGIhQgbnTnyQG";"DAoE(g","DMYg-5Vb!G=:)H(M`8f@2CFn*X/XC,1G(i#K*u7Y_^\\tm:B3=a^%-4%Icpjm",".vKfGLOPFbqEv0JCD9xlo/4Cy8mMS";"D?W\",b!J";"DWO*M";".nb+nBY/sILfqSKcUZP==";"DTHNP$ic",".tbq1N64=";".dY4U95xBtlLVpKTBG9rf50==","D?<oNk0Z^\\*)/aXjGuQXX#f#$F^.-&K+g(eD\'T@-JN6";".6gZ14An3","Dn\"+:YhCl/VuA";".W4Q6yJ/LjRaODu0nX3BzRIND",".u4JW4l==";"D$hAhj","DleH2","D[&ki+s#sr%!G,hKXN:**\'5JM";"DIZTXSZ\':[",".9JkdzT6I",".nNGZDCeT3NlDb2Chix5HUSW3hSrAzD2c",".v8MSTjS/QP==","DH1B!JJnP-,739@-D))k\\","DuJF.H";"Dc_eo;$cXU","DRh4=j,%)";"DT_O=]\"<3>s<>T/X6GZhhqfJh;H-s$m=G[m";"DN7oR#.Kc8";".yQnvZxmUwPw+B7SGisVkf4tMlA/HpzxQPXu/AP==",".Xeml8othCvNelgUUSyiJe8JR+/kutGbccD9C7eVNy47crxu2I0==";".dP==","D,mcA7p><","DN7o\'ckG5*C])3%";"D#@VU/+*\"!hQ=XSI\'X2;839!";".5o2/QSH8b20=",".WSeNMA==";".2zAd5OqP";"DpKl4c^&";".VyVVRiUpppSBhA==";"Di37T>*`RZ";"DMJu=77nt\"AeaQmTglNSoYb",".ee+UGvyKURiwLDLBud6oxotjGAqDLZVsEcSzLCRpqkp2ir6NGIbT2+r8xlSLr4dv5g75P4fY";".leUw+jzC/ag88F2Xkp4bu9mqbYEOf2fucB1Pal==";"DD;+uC.aeE*[-",".Gy16vcck/AIBk6m/xluw0VbBv5cDNP==";"./sRsUoq=",".w8ZBzwZb0uJLERWOLCWlFIFF";"DP),YdCjdk?<O.O^EI&%Lh-","D^?\'7u`tK","DZm\"Q[",".mYpo5RV=";".cCvxbexJ4CozpXtaaXZmjk1n",".j6ELOt4=";"D,1TYc1D_`(]h4]=-=s%Tq/",".D5Bbs7SeedSxPrqV3l27bC2sSLRaUl==","D!b6C";".+eKmFC4=";"DI87AW:=\'=F/U:&CW3",".WaNF1cL=";".7itYFcq=";".vgraPL6VyBySZDE7N8YHZhhguC8fBT4HJ72rR41mOkJgwiz17bGV8ZYOaHJM4zXGSTR8H5u2p0==",".nVxtzT/=","DZs\\X_lM_IfSQtRPepY!mh-","D?m9WoEB?P\'1Z]HJ9%.","DgP[_=*MVEY,ocW.";".Tib7Gxju7AFjC79xrPp8aBao5h0D","DW)N+,mo\\iO6MLl2CgYh2baN7)J8Pr4","D%n.L9\'d7HD,EU:be)_2;/nr!?eq3n,";"DD$L@Qb_]uo\'GoKh+N";".WJ2bI4V=";"D>@e\"&^/pKoX:i>4SZ7NIO+:r(\"\"qr8";"Dce\'n#qWdEH%i+75XuLP^9EL/1?g7`OGau",".c2i02bY=";"Dt]hCoO%T9","DY8.9i.N*q\"*n";"DWNq_SZePZY5\";<$l_9&\'^!A:pHAYQ?l\\6aI2l3r*-[=402<BHW2(d?OQeccpg+piu1Z","D:o\\O&d=cZ+)WFA8IA7OkC#2Qa7Z@+*=,","D5j",".kSdB+0==","DD3*=",".U4vkYR+=";".oKpEJpn3";".X+TTuP==";".41jhfiYULFLtOjDjPmi+LYR0N8qrVqC9emJ6OyriHlqTmkBzR066G/5dBxkYigjrt0==",".ZyHD1ECEb+ihaX3d/EKZC8FcSDTE";"D3M]*GKBRD\"c[6-bqMl_YB5H";".TKRg7C0vP04HWuOw4q2Z4uIfRj7E","Dj#t<_601H-$Z",".1L9XpOV+oDMxzTUUjI/xTS3HtnSk";"D\\p(8\\";"D\\k-gXO]lGj&lc";"DlJUJ)sc",".6P4rs7Y=";"D3%FYI&QEjWR[C&g=AXRf>j","DVYT)Wl@Q;mST]>G0CjUD9cq4Q@RZMo(0YEG(9)2\"H4H<3,D\'^(e)UucEKS5In\"L(u%N8s#gANL153h;9^uh\\*","D$kUB<#BahPLB?c7ENQK=?$uADq6S\"";".4f4XIcT+RZEUscV=",".2R75CKdArrdmC6SUS3G8JaAYhpKv+0==";"DMEMRo[5*393>6,3l/";".BHBWJ2JjXBtrpaUiWUVbOnnSWhHc/Z/GPP==",".wLa3NOUvbA==","De:)D-fe2";"DLKup=KQ)\\","Do2i0(";".Elon+l==",".SffyX5DGHBcpeGFJ",".eJA+lh2c1LMIUPCqz6VeUB4O5A==";"D-[1L=2%=O;%a?gatjN9=EJC/H4!","D!o]R<?Q","./b0+prA=";"D]7HEZ","DK:fDJpKR\"",".AROX1VlUbzfgO4R/T+1h+xJzqDXR";".z2xyXb4A1EY3lUHpfh1nNepOO634MHXQgOcyst/TsP==";".6dRhkR+Y7atb0/dcWk5nCiHT";"D#.8Dt\'(hiXp(\'_U";"DI?_&";".0rXyTOD8iloC";"DWZ(C0hr2$m]7W","D<P1?FH+\'fc9X","DB;\"Gn\'B@;@QJ.)sq&K+dZ>j!*-F.7,=_V+N9n-*6JuTugS%","Dgc",".z8C0NIXYpklZPpsYjs50J6e0IZCyi/f4jiGR0GEu6yfIUi0F9RD4N0zAoOpD8S0IWYM4cj0=",".8PMOm/db0gmvdwaAY2xDttV=";"Daf[0mA\'p","DZOL^qt=L\\pAY3a9Ys%0me,";"DGp[T-KT.uFn1[d;\"Mf","DjjI4]Q49TFI7qe=pn%R`Z&","DECZe&d@]$]H<ZjUn.\"5r`%+g";".d0X3UOj/v57=";".yOgCm6qdH9uwlcTyVsf4tFwUWfFfHs+n3u3SUl==",".i0==";"D+J+`27%","DR4FUH3j^";".r8SrWOyIdQkS/K5L5JoBJt0=";"D\"\'G<bSf$c","DjBi-=fd=0!]O>`aS0&prs!","DDX/0<";"DsitpPQ#W\'?M6lAbRp(i2,u","Dj\"86W]m";"D(h`Ecb@2.pEb";".GX3oxrKBxvB/oCG8";".1X8manm9";"DS.GV_^)lm>",".weNN90==","D!4eh<g0u@",".1kZiVFxe4OFqIbvJ";"D$52<,gjTB>k@8W8#GY","D$U8Q<3NSdr-U",".6JgbzTY=";"DaqF3\'DCD\"!fM"}for A,X in ipairs({{1712011873%15017648,867922333%4544095},{-443413-(-443414);2535737805%(36212593%(6148659576%27338022))},{(978883022-(-718801))%5049493,((969937-(-629484))-824785)-774448}})do while X[-487267-(-487268)]<X[-590052-(-590054)]do s[X[-668616-(-668617)]],s[X[-813603-(-553532-260073)]],X[16452+-16451],X[-50581-(-50583)]=s[X[-668528-(-668530)]],s[X[(24114055699%334957653)%10062495]],X[-354119-(-354120)]+2401210874%(-153378+10639015),X[35116827%7023365]-(399235+-399234)end end local function Z(A)return s[A-86193788%((575982+2130492)-(-884126))]end do local A=type local X={["?"]=-594779+594828,["%"]=656416+-656365;[":"]=(78056-223179)-(-145199);j=31351682%15675837;O=-692927-(-692985),[")"]=226955141%(86605257%24665547),["&"]=2142134058%9963414,["4"]=785594+(-155037-630541),["["]=(1172609558-(-365229+72792))%11842128+-531294;L=250450+-250427;["+"]=1649931722%(-918953+10240601);Z=998456104%5978779;R=((-1025854-(-362615))-(-206677))-(-693471+236865);["2"]=3024868138%15049095,M=-816038-(-816092),["\""]=1222603379%12226033,Y=919506903%(1226568342%15876385),V=-33054+33100;["."]=34503950%282819,["#"]=-64198+64263,["="]=608649-608608;h=-330257-(-330277),["5"]=((-107354+-685934)+360650800)%7056029;r=-973956+974039,["<"]=((-730061+1239467)-(-196865))+-706232,["\'"]=(1285490122-(-606284))%7349122;[">"]=-838685-(-838700);["0"]=346064-345982,u=-557672+557717;["("]=-219632-(-219694),H=(125295+42815)-168092;S=174258+(923513+-1097698),["3"]=803172+-803103;T=2016342675%15510328;d=674868-674858,b=(791332-657694)+-133575,K=-418164-(-418186),s=-448551-(-448576);["\\"]=-371539+371566;J=-725907-(-725919);p=-102041+(-761812+169745039%(2488484562%(100034928%36836988)));["-"]=196993251%6566441,B=917400+-917333,W=-359308-(-359321);["1"]=(418629-(-330445))+-749006;P=(16947777442%71239110)%2374384;Q=28488298%229744,f=-672596-(-672605),I=((-413379+1347515)-293307)-640765;["*"]=1966610418%(15406244-(-201775));X=19542055%2791714,["@"]=-428723+428726,e=-710486-(-710563),n=(-515911+411967)-(860107-1029178489%7450829),U=7740-(469158-461490);q=381044+-380997,["^"]=(223578+293796780)%7350508,["]"]=686344851%(4259744176%16999757);a=(108016+812378)-920366,o=(16498772462%(89306772-1046032)-595587)%16335839;N=1769081155%14152649,g=141585935%1041073,["6"]=566579-566562,["8"]=1016115569%7007693;m=(68936+-392412)+323490,["$"]=-204151+204201,k=(-1002616-(-727728))-(-274925);c=529872604%(5574916-713700),i=1663604381%((45990791801%621552378)%((464359+358627056)%16376888));F=(-77196-(-842069+1637650874)%15729969)-(-969296),C=-317802-(-317803),["!"]=-240112-(-146905+(-583057-(-489845))),A=(771832+3336376409)%(13627855-(-105265));t=841028149%9242067;_=220283+-220224,E=(526943+-1206958)-(-680021);D=(257483+-1184109)-(-926626);["`"]=827119-827049;["9"]=747163134%3698827;G=911676+(-630249+(-406206+124813));l=-567473-(-567547);[";"]=590337+-590318,["/"]=-761267-(-761342),[","]=-606807-(-606873),["7"]=258876185%(770321885%4090640)}local g=table.concat local I=table.insert local C=string.sub local S=s local L={o=292006+(-1338329-(-1046352)),t=74437+-74411,R=-208472+208485,N=105967536%(-524660+1144353),v=-92935+92946;d=20162+(-436398+416281);b=487335+-487288,c=2617942198%(-659736+12668645),["2"]=412527-412477,f=-44327+(((1018789+1469740077)%10890544-414433723%4708805)+129498911)%636917,T=-993660+993715;g=2854663993%15771624;w=1604827904%12636440,["5"]=166809-166808;E=(10840488927%116645792)%722358;h=-199326-(-473336+273949),I=24012501%3001558,["4"]=40172+-40120,e=(174501900500%2296238605)%(-410400+14958203);K=(-1732608-(-804394))+928260;j=(641572+-1454297)-(-812740);["7"]=-742071-(-742091),["9"]=322407-322379,Z=798463+-798454,C=-144386-((1711607793-912618)%12131432-307711);l=-788316-(-788332);G=148057+(((169940+-2073829)-(-1027232))+728614);L=(980527-553939)+(-608926-(-182342));z=2456785890%16712829;P=-168447-(-168447),y=(-671229-(-817640))+-146351,n=-985540-(-985571),M=150852-(44580-(-106229)),["6"]=-645127+645152;V=310687+(317954+-628601);a=(104476980053%710758983)%8938842,H=(2677370862-1582034511%13183297)%15656912;F=-91346-(-91348);x=-1163+1197;k=-1037117+1037138,D=158006+-157948;q=-119639+119683,r=-881748+881799;p=-840242-(-840284);m=593053037%9565371;["0"]=-651009-(-1007653+356612),O=3445917281%15734782,Q=751741+-751684;["+"]=259008+-258996;U=(577347+(732049+-536060))-773317;["3"]=-923548-(-923558);i=296305289%(560594038%14339514);Y=777941480%(3565102-1088172252%14702363),X=939785+((-792103-(-71008))-218627),["1"]=-541557-(-541587);J=819263-819225,W=(240675016973%1391218119)%16494053;B=1134260339%16680299,s=656759613%5339509;u=1223210931%(9714188-719990),["/"]=-639210-(-639266),S=-433370+433388,A=129274+-129226,["8"]=1538701780%7771221}local T=string.char local D=string.len local F=math.floor for E=(354099-699049)+344951,#S,(98615814561%1517292644)%8773752 do local M=S[E]if A(M)=="string"then local A=C(M,-155101+155102,(29908000897%140414108)%1402100)if A=="."then M=C(M,235905022%11795251)local A=D(M)local X={}local c=217278+-217277 local j=1515527708%9297716 local H=693258-693258 while c<=A do local g=C(M,c,c)local S=L[g]if S then j=j+S*((1001131-1001067)^(((375822-375819)-H)))H=H+(-317335+317336)if H==(-414195+-507137)-(761233+-1682569)then H=1350429370%14215046 local A=F(j/(-349990-(-415526)))local g=F((j%(571613-506077))/(650800422%6443566))local C=j%(1200709161%10440947)I(X,T(A,g,C))j=-144784+144784 end elseif g=="="then I(X,T(F(j/(743797-678261))))if c>=A or C(M,c+(-734362-(-734363)),c+(118360-118359))~="="then I(X,T(F((j%(((646365+-335887)+-530448)+285506))/(-928337+928593))))end break end c=c+(-252302-(-252303))end S[E]=g(X)elseif A=="D"then M=C(M,846685+-846683)local A=D(M)local L={}local c=147117011%949142 while c<=A do local g=(A-c)+3060095611%15692798 local S=g>=924909-924904 and 2863464611%15394971 or g local D=(146735375-339925)%5855818 local E=S>1272683299%14798643 for A=-183900-(-183900),1976004592%(911512888%(20661149-(-826709))),((-825452+1359929167)%9243009-268590)+-112801 do local g if A<S then local I=C(M,c+A,c+A)g=X[I]if not g then E=false break end else g=(-1042868+427744730)%2397201 end D=D*(-842840-(-842925))+g end if E then local A=F(D/(-744677+3486368284%22094563))%(-123018-(-123274))local X=F(D/(-319164+384700))%(266174736%3327181)local g=F(D/(((-817231+1278540685)-(-556156))%7388898))%(309788+-309532)local C=D%(449577+-449321)if S==-899361+(-920534+1819900)then I(L,T(A,X,g,C))elseif S==(447653+14926547)%84012 then I(L,T(A,X,g))elseif S==(94950508134%(696473411853%(-940906+2890924017)))%12324555 then I(L,T(A,X))elseif S==-753822+753824 then I(L,T(A))end end c=c+S end S[E]=g(L)end end end end local e,J do local A=((-628278-338589)-(-153828))-(-813041)local X=table[Z((790675+-716620)-54618)]local g=math[Z(1478429193%6185815)]local I={}local C=math[Z(-401969+2955591852%12416682)]local S=string[Z(604929+(271809+-857176))]local L=(237297+113018)-350315 local T={}for A=910038-910037,(((738752837-((260682-(327865-(1267015-833693)))+-1207873))-(-654068))-(764463467%8583058-(-408487)))%10126967,101002597%1394014-633588 do T[A]=A end repeat local A=g((566136+-945480)-(-379345),#T)local C=X(T,A)I[C]=S(C-(719223+(103255-822477)))until#T==862848296%13916908 local D={}local function F()if#D==1866941364%11453628 then L=((L*(-921926+(907813+14182))+((407433+5853029484251)-(-751563))))%(164402+(35184371740008-(-184422)))repeat A=(A*((71299+-847165)-(-775921)))%(-961632-(-961889))until A~=((-574690+225544835049)%959773720)%4390871 local X=A%(-504205-(-504237))local g=(-603192-(-603205))-((A-X))/(1549376960%(6495986-93602))local I=(C(L/(1591138642%8742520)^g)%(-514533+4295481829))/(397152884%(2162217105%24683997))^X local S=C((I%(588415-588414))*(1021135668500%4308647039))+C(I)local T=S%(-128753+194289)local F=((S-T))/(-965569-(-1031105))D={T%(821808-821552),((T-T%(2902506%61750)))/(41862+-41606),F%(-807796+808052),((F-F%(425812+-425556)))/(153129806%15312955)}end local X=#D local g=D[X]D[X]=nil return g end local E={}e=setmetatable({},{[Z(855715+-836270)]=E,[Z(-285286+304736)]=nil})function J(X,g)local C=E if(C[g])then return g else D={}local S=I L=g%(((-3459-617872)+492282)+(148249+35184372069632))A=g%(203802399%((-1366677-(129902973%1472883+-1211029))+5415701))+(897542-897540)local T=#X C[g]=Z(-596073+615478)local E=119560685%691102 local M=Z(594661709%13195214+-857674)for A=1465735433%14956484,T,-1025444-(-1025445)do E=(((string[Z((241180+507366)-729018)](X,A)+F())+E))%((((896868-665142)+(-40521-(-454729)))-326060)+-319618)M=M..S[E+(-20641+20642)]end C[g]=M end return g end end local A={}A[e[J(Z(941684+-922252),-385503+27901935840660)]]=e[J(Z((560407+290180562)%1384388),1145052446384-(-538021))]A[e[J(Z(563695-544158),17597864078613-308968)]]=657118-((((-638172+880504)-(-567505))-361957)-(-209168))local X={[-117542-(198902+-316445)]=e[J(Z(73327795%362912),927492609%9364245+(-936322+25665260104095))],[799535+-799533]=e[J(Z(1048986643%4179152),631424+12935773120199)],[-352535+(817430-464892)]=e[J(Z(581175+-561732),325735+19112775942373)],[1052624724%9398435]=e[J(Z(-936262-(-955788)),(1008460+-43698)+31062173428535)];[243672990%14333705]=e[J(Z(54396-34854),4394739239556-(-771080))],[2174538177%9136715]=e[J(Z(-504504+524003),13645348358551-(-509619))],[-311257+311265]=e[J(Z(-600692-(-620214)),-553927+(12214673005581-455740))],[1013328-(908968-(-104351))]=e[J(Z(-708440+727876),2406374611412-(-42957))];[-805789+805800]=e[J(Z(166337+-146924),31579335030120-(-171091))]}local g={[e[J(Z(-266846+(-456468+742834)),16708206645912%138084387458)]]=((1247601-499549)-5028)-743023;[e[J(Z(554905109%2999382),(28514400181304-(-506416))-696309)]]=595763+-595760,[e[J(Z(921483-902017),273016+(15347098949411-(-143772)))]]=(395334994424%1882622429)%10314402,[e[J(Z(183176+-163700),4350499761708-877447)]]=86414+-86412;[e[J(Z((-1023140+949271)+(80933-(-12390))),13438933917566-164098)]]=-306931+((97418+(-466875+3296864878)%15769101)-446378);[e[J(Z(-757073-(-776624)),19790469698670-(-142507))]]=-36622+36624,[e[J(Z(44753-25253),-176996+4041464794555)]]=-17563+17566,[e[J(Z(567729+(855852+-1404028)),567155+30398945384441)]]=-909452+909453;[e[J(Z(-457324+476814),900351+9900951664129)]]=283761283%3188329}local I={[556680+-556679]=(2648593251%(605033318%(22337934-536759))-497607)%1487834;[747857-747855]=529889+-529887,[-36462-(-36465)]=-515003+515007}local function C(A)local X,g=pcall(A)if X then return g end return nil end local S=nil local function L(A)local X={}for A,g in(tostring(A or e[J(Z(-579115-(-598520)),10825173793976-924285)])):gmatch(e[J(Z(143239156%1245389),11822938249979-(-12196))])do X[A]=tonumber(g)end return X end function A.load(X)S={}if X==nil then X=C(function()return core[e[J(Z(-969044-(-988609)),27115295540117-647886)]](A[e[J(Z(-505804-(-525237)),34485311181128-1036982)]])end)end if type(X)~=e[J(Z(1113862397%4435253-594465),61038+18748247157011)]then return-1047634+1047634 end local g=559544+(1033346+-1592890)for A in X:gmatch(e[J(Z(1273951652%15924151),27989487896243-(-655734))])do local X,I,C,T,D=A:match(e[J(Z(720258082%6317883),(8082693612862-(-221532))-339411)])if X then S[X]=S[X]or{}S[X][tonumber(I)]={[e[J(Z(501373+(812599+(-275019+-1019446))),32061165042041-(-905615))]]=C,[e[J(Z(76757653%353632),10187439314183-(-866288-138830))]]=L(T);[e[J(Z(-881324+900743),6556096704861-(-847039+563323490)%9861876)]]=L(D)}g=g+(-633217+((-472545-313522)+(1588766-169481)))end end return g end function A.available()if S==nil then A[e[J(Z(716046-(-735881+1432460)),7688028138047-277787)]]()end return next(S)~=nil end local T={[e[J(Z((86240+79900729)%15993484),(234774160-(-992026))%(186390+12910217)+31692985607662)]]=-999934119-1102196431%7347537,[e[J(Z((1007576+(-651472-(-469749-(-319897))))-122591403%726815),29409113127212-866904)]]=nil,[e[J(Z(382021-(372946-(-290058-(-300431)))),(21788457676808-(-248441))-(-12535))]]=nil}function A.spec(L)if S==nil then A[e[J(Z(-174109-(-193562)),752124+4330910092008)]]()end local D=C(function()return L:get_class()end)local F=X[D]if not F or not S[F]then return nil end local E=C(function()return core[e[J(Z((-965787-(-524632))+460571),-834573+(164609536%6088235+27132365952052))]]()end)or 1707850440%15813430 if T[e[J(Z(-156558+175981),15811347820597-216076)]]~=F or E-T[e[J(Z(-364166+383614),-108036+22680470311380)]]>377003173%12144407-526526 then local A,X=nil,1015154-1015154 for g=44522560%4946951,442669+-442666,151339861%(1834845-994068)do local I=C(function()return core[e[J(Z(532157219%2463601),8850663374556-699979)]][e[J(Z(-264649+284173),-442414+5792005096541)]](g)end)local S=type(I)==e[J(Z(426893-407383),11673789607771-(-799025))]and tonumber(I[e[J(Z(3074425222%((-135411+-894180)+13893213)),23040939287475-(-815645))]])or-245498+1073497550%9937519 if S>X then A,X=g,S end end local S=((A and X>=(-1044650+1315443)+-270783))and((F==e[J(Z(493147+-473677),6192983639797-35450)]and I[A]or A))or g[F]T[e[J(Z(130381+-110985),12396516980642-(435741-(775904+(563412+-1880321))))]],T[e[J(Z(603584-584150),226194+17687615718566)]],T[e[J(Z(502830-483335),25650336285245-((989003+(488122+-1230171))+-282329))]]=E,F,S end local M=S[F][T[e[J(Z(700661+-681122),12415169192201-(-496658))]]]or S[F][g[F]]return M end local D={{e[J(Z(((-1147107-138912)-(-347804))-(-957727)),-936093+27144308709894)],e[J(Z(-421375+440806),27699508362823-(781595+-1250778))],e[J(Z(214183254%2549569),844330+31856890242645)]};{e[J(Z(63173235%397194),860379+(-149898+20399763000763))],e[J(Z(2432487623%16435596),-914707+16091923599075)];nil;e[J(Z((-484611+523939338)%6016498),-448106+32942609963882)]},{e[J(Z((((-127729+552763)+(-1327244-(-975699)))+1041391812)%14464525),18592615645111-(-969081))],e[J(Z((-546594-(-135230))+430828),25771355672172-905206)]},{e[J(Z(-543278+562671),-937023+9352443602268)];e[J(Z(156666367%(1960487-180409)),(441216+27774492669313)-(329558+7953))]},{e[J(Z(-100225+119620),14267300000712-731642)],e[J(Z(2626882812%10382859),34181781909710-411206)]},{e[J(Z(867792-381213182%(1970954610%19098180)),-753654+26060876394487)];e[J(Z(65391-45929),29913323089399-410825)]};{e[J(Z(832828+-813369),33312382023230-(840384+(1346755682%13457280+((255298+-2087095)-((960364+-1228589)-(862652+((-483752+289020)-688047)))))))];e[J(Z(663289468%(584073+3001170)),14001742002633-(-622868))]};{e[J(Z(-126557+(357018+-211071)),9595488140994-973119)];e[J(Z(-243391+262879),863285+32491472377642)]};{e[J(Z(2950147750%16209496),943700+10362553801991)],e[J(Z(309467-289983),(816944263767-(-217367))-417318)]},{e[J(Z((169579439469%760459846)%4562254),562202+6784238720605)];e[J(Z(457163072%3809530),(-747096+(21567325976901-7802))-645134)]},{e[J(Z(2809926115%11806330),8923954731079-(-463593))];e[J(Z(862274794%(3738550-(-533054+899627960%6286253))),303532+10613131724280)]};{e[J(Z(182393646%1350920),-820942+30008681253506)],e[J(Z(-327165+(788103-441503)),-339026+27670866750719)]},{e[J(Z((-364496-(724179+((681106+(-2249269-(-168403-330714)))-558003)))-518844),-250078+15949594151765)],e[J(Z(207632-188150),30851397503511-326243)]},{e[J(Z(-260547+((657786-146396)-(((-1018545-772337)-(-878524))+1143754))),23914623538575-(-771765))],e[J(Z(-681208+700716),-892113+(9790253404639-580874))]},{e[J(Z((-1048196+1685276)+(-656928+39417)),9718874873226-707668039%4285663)];e[J(Z(-770114+((-451230+708727)+532172)),((-142384+-211773)+240976190)%3484513+22172840437166)]},{e[J(Z(581438+-561921),(((218580-115415)+(-1391601-(-668366)))-199918)+6289575607009)],e[J(Z((175470-386764)-(274778+-505502)),555230+13440338145464)]},{e[J(Z(1167810466%10243780),31635267916234-(-355515))];e[J(Z(3904384507%16404895),410076+(27455562033832-(-249284+(-532204-(1037999+((790234-(-213952))+-2359807))))))]},{e[J(Z(479357+-459913),-477387+((-324896+25377763111125)-(1084984-1017964)))];e[J(Z(397615193%8277459+(-906757-(-629064))),6079939759836-(-812995))]},{e[J(Z((-509431+259475)+(-598983+(102408473-(-793955)))%4873047),10504515312082-((980890-1008021)+265627))],e[J(Z(-609371-(-628826)),992216+18170498519437)]};{e[J(Z(439186+-419692),19199148704146-((-224580-(-184970-(1013330+-1342320)))+563087931%8787554))];e[J(Z(-716913+736448),13117220165515-437714)]};{e[J(Z(254168603%1154860+-79975),-840046+27456154568624)],e[J(Z(875188-855677),-1012270+15345225528142)]},{e[J(Z(2213975873%10799787),-667601+6230283990063)],e[J(Z(574424-554870),-762927+15698733991420)]};{e[J(Z(303033+(102058+-385681)),(289653+-826981)+9164880758957)],e[J(Z(-559804+579347),3517547881505-662093)]},{e[J(Z(973765+-954371),-987434+(14580975912580-347955))];e[J(Z((220896343574%1416033534)%10452788),902061+29177497635992)]},{e[J(Z(117401665%(541465+(-476032+3982227))),775524117882-(-281029))],e[J(Z(-629446-(-648944)),(15963564768282-(-934068))-310434)]};{e[J(Z(508830047%2842517),18585792648221-(-918645))];e[J(Z(803617-784044),9442551377160-713984)]},{e[J(Z(-850732-(-870131)),16187494%(2936255-303152)+8999762957847)];e[J(Z(832945-813431),-848838+27436302088278)]},{e[J(Z((290607460015%1529554811)%(7721920-(-121282))),195406+27005017817804)],e[J(Z(1703340311%11132816),5251855390793-1001371)]},{e[J(Z(((7083012-(-332244))-(-569920))%139749),9080740836085-(-402695))],e[J(Z(410875-391401),(158117173%7514647+25118199714333)-425259)]};{e[J(Z(2481931166%12598536),-895246+(583683+(17158961687141-678150)))];e[J(Z(-407254+715460855%5500262),(920326-((59797-761928)-(-796196)))+9169994098930)]};{e[J(Z(-38532-((-603529-107172)-(-652777))),-226286+((13426108232279-431318)-(-757426)))];e[J(Z(3001192626%16766330),(31430482001950-(-802432))-(-299309))]},{e[J(Z((808692334-(-986775))%(4364508-962577)),-512485+(5742168673533-391555))];e[J(Z((808582+-650032)+-139070),515504+(((429765+-1340649)-(-399705))+16119104542525))]};{e[J(Z(231641194%911761-34384),26083470852783-(-1038258))];e[J(Z(455101874%((-1008971-(-336647))+(-647633+7230118))),(883412-445478)+114840197852)]}}local F={[e[J(Z(-974753+994205),(24376546182541-504856)-11538)]]=e[J(Z((395055+-1035479)+700363701%6360943),680562+33802455948082)];[e[J(Z((12277+-715406)-(-722586)),-856763+((433581549886-864150)-(730109+239411782)%10423494))]]=e[J(Z(906217548%11470861),16386410154037-907428)];[e[J(Z((-972014+473566559)%10740344),-50166+20397638487809)]]=e[J(Z(-544635+(-1025996+1590194)),(32304+4448349034974)-2057108867%9101647)],[e[J(Z((689951+-942921)+272462),14530347341233-(-431698))]]=e[J(Z(1989711459%13535319),200219+(33781961738923-448084))];[e[J(Z((418025644828%2223551554)%9658629),17449741337152-(-7934))]]=e[J(Z(((663155+(-517793-819533))+(883990-650617))+460247),-267276+8917973449310)];[e[J(Z(642024491%7295511),15384478388374-357938)]]=e[J(Z(-5007-(-24413)),529967+15327001700619)];[e[J(Z(-936179-(-955715)),(2243166264848-(-776965))-86493)]]=e[J(Z(523110169%3209145),(11103641962552-164965)-(164986-(586513+-1295275)))],[e[J(Z((1308048772-369673)%10807104),-112565+((468689+34742087711462)-218997))]]=e[J(Z(1066282-1046786),-888806+34023831002684)],[e[J(Z(-178899-(-198359)),16708117323830-619634)]]=e[J(Z(958219-(1036610-97847)),-81613+(12495399640106-921345))],[e[J(Z(100354852%533699),-910815+11207402032391)]]=e[J(Z(1119894077%5713646),726467+(8981041292190-(-239673)))],[e[J(Z(-403204-(-422722)),((13018735908670-(-581519-(-855045)))-(-637859))-729082)]]=e[J(Z(-71580+91112),-1024403+29883457318194)],[e[J(Z((136466+2613658843)%11122450),11383973840699-(43257+-57770))]]=e[J(Z(514953+-495488),256118+4798952226270)],[e[J(Z(775090+(249443+-1004989)),4537504960858-389317)]]=e[J(Z((665285077%(3849466315%18632065)+1850843712)%11154908),14780573592184-(257818+-1169156))];[e[J(Z(230447-210914),(1331115469-(-404496))%5367286+21914503533491)]]=e[J(Z(673431-654009),972776+(25193576770308-(-456565)))];[e[J(Z(-70210-(774550+((-1336725-(-978171))-(431656+73964)))),((-300414+(-1603802-(1042819+-1521841)))-(-804509))+20208350279798)]]=e[J(Z(1177332276%13532331),5494688730107-456023)];[e[J(Z(736795423%3525244),266254+13120439849648)]]=e[J(Z(131533506%14573401+-353321),-612361+15216735667745)]}local E={e[J(Z(382889707%16646534),26041518958182-(-465698))],e[J(Z(-88822+(876853-((48075654696972%(-117633+356116184839))%1780567431)%12905139)),(-273954-(-236023))+19662530290440)],e[J(Z(763963+(787310+-1531882)),-358405+26191391304299)];e[J(Z((16578310823%592121153)%(187558+14587949)),(713998+23361598840888)-(358828-1016968))],e[J(Z(491042+-471624),3829847112%15503627+18215111882928)]}function A.stats_of(A)local X={}for g=893923+-893921,#((A or{})),582351-582350 do local I=A[g]local C=type(I)==e[J(Z(1390087089%9026413),466254+3653139580706)]and I[e[J(Z(41969-22552),202755+21394031604447)]]or I if type(C)==e[J(Z(((-1418720-(-584048))-(-653045))-(-201146)),26884821633510-(-542450))]and C~=e[J(Z((8848601383%76957661)%8378736),1006757+16460842368402)]then local A=false for X=831890-831889,#E,(-242731-(-237857))+4875 do if C:find(E[X])then A=true break end end if not A then local A=false for g=652027+-652026,#D,-747035-(-747036)do local I=D[g]local S,L=C:match(I[573507-573506])if S then X[I[737880-737878]]=((X[I[219334-219332]]or 684294+-684294))+tonumber(S)if I[-112643-(-112646)]and L then X[I[(11165522513%69352298)%768387]]=((X[I[3495264681%14208393]]or 366630+-366630))+tonumber(L)end if I[7122053%647459]then X[I[(-143531+(-1016092-((-535648+-847651)-(-812203))))+588531]]=((X[I[825229-825225]]or-13586+13586))+tonumber(S)end A=true break end end if not A then local A,g=C:match(e[J(Z(-115003+134484),16845524191926-150439)])if A then if g==e[J(Z((186165502-806910)%14256858),-503156+27190255290853)]then X[e[J(Z((-657176+470161)-(-206486)),33539007081279-217092)]]=((X[e[J(Z(547165+-527613),413207+1448063903715)]]or(265663+3024932793)%15434686))+tonumber(A)X[e[J(Z(-802746-(522487704%4925089+-1250416)),(26029073487945-(-542752))-349855)]]=((X[e[J(Z(-1024897+1044366),23002465566891-240634)]]or 487830231%8268309))+tonumber(A)elseif F[g]then X[F[g]]=((X[F[g]]or-816975-((137054-(861815-389193))+-481407)))+tonumber(A)end end end end end end return X end function A.score(X,g,I,C)if type(g)~=e[J(Z(704096+-684670),(231278+161574)+7569816094242)]then return nil end local S=nil for A,X in pairs(g[e[J(Z(-55703+75260),438098+30733436736751)]])do if X>-10202+10202 and((S==nil or X<S))then S=X end end local L=((S or-959996+959997))*.1 local T=-337881+337881 for X,S in pairs(X or{})do local D=g[e[J(Z(-783224+802774),29129407340810-(-742267))]][X]if D==nil and((X==e[J(Z(329181189%5774766),825647+34890333687755)]or X==e[J(Z(-629340+648885),5753848779308-324569)]))then D=L end if D then if g[e[J(Z(-392492-(-411933)),30182323436826-(-227822+-223877))]][X]and(not I and((tonumber(C)or A[e[J(Z(-706150-(-725718)),10374916425306-985707)]]))<A[e[J(Z(-208094+(645605-417953)),(31281799611136-556583)-(444737+-180115))]])then D=D*(380129418.5%1863379.5)end T=T+S*D end end return T end local M,c={},23973525%(381427-211402)local function j(X)local g=M[X]if g~=nil then return g or nil end local I=C(function()return core[e[J(Z(238793-219351),552527+27806382149401)]][e[J(Z(3643203%(1309719582%5258301)),12617501135274-973474)]](X)end)local S=((type(I)==e[J(Z(112825+-93427),29170351168432-785875)]and#I>=500784+-500782))and A[e[J(Z((((-945809+1290856)-457139325%(1243558576%(((-902056+68867)+(21318238-730864))-973061)))-664303)-(-902512+-74942)),(34010164193234-(453997+-513193))-(-604398))]](I)or false c=c+(1028258-1028257)if c>-231807-(-232107)then M,c={},909263208%4639098 end M[X]=S return S or nil end local function H(X,g,I,S)if type(g)~=e[J(Z((-168582-359860)-((-1227881-(319459-520835))-(-478659))),-296654+(10112518380389-(-664016)))]or g==e[J(Z(85155582%12162311),136346+22638678384233)]then return nil end local L=j(g)if not L then return nil end return A[e[J(Z(65876+(670931-2206669318%13288867)),-416313+16393525006554)]](L,S,I,C(function()return X:get_level()end))end function A.delta(X,g,I)if not A[e[J(Z(658643+(284467+-923540)),(26075732116476-(-313921))-(1823010-992108))]]()then return nil end local C=A[e[J(Z(933365-(319947-(((-776098+1023813)-1024273)+182661))),-38222+10265790657542)]](X)if not C then return nil end local S=H(X,g,false,C)if S==nil then return nil end if I==nil then return S end local L=H(X,I,true,C)if L==nil then return nil end return S-L end function A.link_score(X,g,I)if not A[e[J(Z(((-576912-169764)+(1784753-646090713%4246156))+-343571),(766442+13531536742654)-(-42617))]]()then return nil end local C=A[e[J(Z(613516+((-342995+1056763)+-1307887)),-701648+20032605724250)]](X)return C and H(X,g,I,C)or nil end A[e[J(Z(303781-284379),-113451+(-19041+(5993049124247-(1287655-(1019661-377017)))))]]=function()S,T[e[J(Z(1166392407%5981400),(-868834+18609531744246)-203056)]],M,c=nil,nil,{},-802953-(-802953)end return A end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- equip_tbc.lua - Zygor's TBC item score (stat weights) for equip.lua
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- 1.8.0 (user spec: "if the existing score does not match Item-ItemScore.lua,
+-- fix the TBC module only"). equip.lua compared item level and quality; Zygor
+-- on TBC (Item-ItemScore.lua GetItemScore 519-615) ignores item level and sums
+-- tooltip stat x the spec's weight:
+--   * weights: Zygor's Data-TBC/Item-Statweights.lua, imported LOCALLY by
+--     tools/import_zygor_npcs.py into scripts_data/zfb/zygor_statweights.txt
+--     (no Zygor data in the product); missing file = no score, equip.lua's
+--     item-level rule stands;
+--   * the spec: the talent tab with the most points (Druid: tab 2 = Feral
+--     DPS, tab 3 = Restoration); under 10 points the levelling default below;
+--   * stats: read from core.game_ui.get_hyperlink_tooltip(link) (documented;
+--     empty on a client without C_TooltipInfo = no score) with patterns
+--     written from the TBC tooltip text; set and socket-bonus lines skipped;
+--   * a capped stat (caps) counts half on an item not worn while the player
+--     is below 70 (548-554); ARMOR / DAMAGE_PER_SECOND without a weight count
+--     0.1 x the spec's lowest positive weight (182-191, 566-574);
+--   * upgrade = strictly higher score (Item-Upgrades.lua 299-301).
+-- Loaded by equip.lua only when gamever.is_tbc().
+-- ============================================================================
+
+local M = {}
+
+M.FILE = "mfzb/zygor_statweights.txt"
+M.MAX_LEVEL = 70
+local CLASS_TOKEN = { [1] = "WARRIOR", [2] = "PALADIN", [3] = "HUNTER", [4] = "ROGUE", [5] = "PRIEST",
+    [7] = "SHAMAN", [8] = "MAGE", [9] = "WARLOCK", [11] = "DRUID" }
+-- under 10 talent points: the usual levelling spec
+local DEFAULT_SPEC = { WARRIOR = 1, PALADIN = 3, HUNTER = 1, ROGUE = 2, PRIEST = 3, SHAMAN = 2, MAGE = 3,
+    WARLOCK = 1, DRUID = 2 }
+local DRUID_TAB = { [1] = 1, [2] = 2, [3] = 4 }
+
+local function safe(fn)
+    local ok, v = pcall(fn)
+    if ok then return v end
+    return nil
+end
+
+local rules = nil        -- CLASS -> spec # -> { name, stats, caps }
+local function kv(s)
+    local t = {}
+    for k, v in tostring(s or ""):gmatch("([%u_]+)=(%-?[%d%.]+)") do t[k] = tonumber(v) end
+    return t
+end
+function M.load(body)
+    rules = {}
+    if body == nil then body = safe(function() return core.read_data_file(M.FILE) end) end
+    if type(body) ~= "string" then return 0 end
+    local n = 0
+    for line in body:gmatch("[^\n]+") do
+        local cls, num, name, stats, caps = line:match("^(%u+)\t(%d+)\t([^\t]*)\tstats ([^\t]*)\tcaps ([^\t]*)")
+        if cls then
+            rules[cls] = rules[cls] or {}
+            rules[cls][tonumber(num)] = { name = name, stats = kv(stats), caps = kv(caps) }
+            n = n + 1
+        end
+    end
+    return n
+end
+function M.available()
+    if rules == nil then M.load() end
+    return next(rules) ~= nil
+end
+
+--- The spec rule for `player` and its name, or nil.
+local spec_cache = { t = -1e9, cls = nil, n = nil }
+function M.spec(player)
+    if rules == nil then M.load() end
+    local cid = safe(function() return player:get_class() end)
+    local cls = CLASS_TOKEN[cid]
+    if not cls or not rules[cls] then return nil end
+    local t = safe(function() return core.time() end) or 0
+    if spec_cache.cls ~= cls or t - spec_cache.t > 30 then
+        local best, best_pts = nil, 0
+        for tab = 1, 3 do
+            local info = safe(function() return core.game_ui.get_talent_tab_info(tab) end)
+            local pts = type(info) == "table" and tonumber(info.points_spent) or 0
+            if pts > best_pts then best, best_pts = tab, pts end
+        end
+        local n = (best and best_pts >= 10) and (cls == "DRUID" and DRUID_TAB[best] or best) or DEFAULT_SPEC[cls]
+        spec_cache.t, spec_cache.cls, spec_cache.n = t, cls, n
+    end
+    local r = rules[cls][spec_cache.n] or rules[cls][DEFAULT_SPEC[cls]]
+    return r
+end
+
+-- tooltip text -> stats. First matching pattern per line (more specific first).
+local LINE = {
+    { "Increases healing done by up to (%d+) and damage done by up to (%d+)", "SPELL_HEALING_DONE", "SPELL_DAMAGE_DONE" },
+    { "damage and healing done by magical spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE", nil, "SPELL_HEALING_DONE" },
+    { "healing done by spells and effects by up to (%d+)", "SPELL_HEALING_DONE" },
+    { "Increases healing done by up to (%d+)", "SPELL_HEALING_DONE" },
+    { "damage done by Shadow spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_SHADOW" },
+    { "damage done by Fire spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_FIRE" },
+    { "damage done by Frost spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_FROST" },
+    { "damage done by Arcane spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_ARCANE" },
+    { "damage done by Nature spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_NATURE" },
+    { "damage done by Holy spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_HOLY" },
+    { "attack power by (%d+) in Cat", "FERAL_ATTACK_POWER" },
+    { "ranged attack power by (%d+)", "RANGED_ATTACK_POWER" },
+    { "attack power by (%d+)", "ATTACK_POWER" },
+    { "spell critical strike rating by (%d+)", "CRIT_SPELL" },
+    { "critical strike rating by (%d+)", "CRIT" },
+    { "spell hit rating by (%d+)", "HIT_SPELL" },
+    { "hit rating by (%d+)", "HIT" },
+    { "spell haste rating by (%d+)", "HASTE" },
+    { "haste rating by (%d+)", "HASTE" },
+    { "expertise rating by (%d+)", "EXPERTISE" },
+    { "armor penetration rating by (%d+)", "ARMOR_PENETRATION" },
+    { "ignore (%d+) of your opponent's armor", "ARMOR_PENETRATION" },
+    { "spell penetration by (%d+)", "SPELL_PENETRATION" },
+    { "defense rating by (%d+)", "DEFENSE_SKILL" },
+    { "dodge rating by (%d+)", "DODGE" },
+    { "parry rating by (%d+)", "PARRY" },
+    { "block value of your shield by (%d+)", "BLOCK_VALUE" },
+    { "shield block rating by (%d+)", "BLOCK" },
+    { "block rating by (%d+)", "BLOCK" },
+    { "Restores (%d+) mana per 5 sec", "MANA_REGENERATION" },
+    { "(%d+) mana every 5 sec", "MANA_REGENERATION" },
+    { "%(([%d%.]+) damage per second%)", "DAMAGE_PER_SECOND" },
+    { "^(%d+) Armor$", "ARMOR" },
+}
+-- "+12 Stamina", "+10 Spell Damage and Healing" ... (base stats, enchants, gems)
+local PLUS = {
+    ["Strength"] = "STRENGTH", ["Agility"] = "AGILITY", ["Stamina"] = "STAMINA", ["Intellect"] = "INTELLECT",
+    ["Spirit"] = "SPIRIT", ["Attack Power"] = "ATTACK_POWER", ["Hit Rating"] = "HIT", ["Critical Strike Rating"] = "CRIT",
+    ["Spell Critical Strike Rating"] = "CRIT_SPELL", ["Spell Hit Rating"] = "HIT_SPELL", ["Healing"] = "SPELL_HEALING_DONE",
+    ["Spell Damage"] = "SPELL_DAMAGE_DONE", ["Defense Rating"] = "DEFENSE_SKILL", ["Dodge Rating"] = "DODGE",
+    ["Haste Rating"] = "HASTE", ["Expertise Rating"] = "EXPERTISE",
+}
+local SKIP = { "^Set:", "^Socket Bonus", "^Use:", "^Chance on hit", "^%(%d+%) Set" }
+
+--- Stats read from one item's tooltip lines.
+function M.stats_of(lines)
+    local s = {}
+    for i = 2, #(lines or {}) do                          -- line 1 is the name
+        local l = lines[i]
+        local text = type(l) == "table" and l.left_text or l
+        if type(text) == "string" and text ~= "" then
+            local skip = false
+            for k = 1, #SKIP do if text:find(SKIP[k]) then skip = true break end end
+            if not skip then
+                local hit = false
+                for k = 1, #LINE do
+                    local p = LINE[k]
+                    local a, b = text:match(p[1])
+                    if a then
+                        s[p[2]] = (s[p[2]] or 0) + tonumber(a)
+                        if p[3] and b then s[p[3]] = (s[p[3]] or 0) + tonumber(b) end
+                        if p[4] then s[p[4]] = (s[p[4]] or 0) + tonumber(a) end
+                        hit = true
+                        break
+                    end
+                end
+                if not hit then
+                    local v, what = text:match("^%+(%d+) (.+)$")
+                    if v then
+                        if what == "Spell Damage and Healing" then
+                            s.SPELL_DAMAGE_DONE = (s.SPELL_DAMAGE_DONE or 0) + tonumber(v)
+                            s.SPELL_HEALING_DONE = (s.SPELL_HEALING_DONE or 0) + tonumber(v)
+                        elseif PLUS[what] then
+                            s[PLUS[what]] = (s[PLUS[what]] or 0) + tonumber(v)
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return s
+end
+
+--- Zygor's score of stats `s` for spec rule `r`; `worn` (the item is on the
+--- player) and `level` decide the cap halving.
+function M.score(s, r, worn, level)
+    if type(r) ~= "table" then return nil end
+    local low = nil
+    for _, w in pairs(r.stats) do if w > 0 and (low == nil or w < low) then low = w end end
+    local white = (low or 1) * 0.1
+    local total = 0
+    for stat, v in pairs(s or {}) do
+        local w = r.stats[stat]
+        if w == nil and (stat == "ARMOR" or stat == "DAMAGE_PER_SECOND") then w = white end
+        if w then
+            if r.caps[stat] and not worn and (tonumber(level) or M.MAX_LEVEL) < M.MAX_LEVEL then w = w * 0.5 end
+            total = total + v * w
+        end
+    end
+    return total
+end
+
+-- audit P7: a link's tooltip stats are read once and cached by link (like
+-- equip.lua's red_cache); a link names the exact item, so its stats never change
+local stats_cache, stats_n = {}, 0
+local function link_stats(link)
+    local c = stats_cache[link]
+    if c ~= nil then return c or nil end
+    local lines = safe(function() return core.game_ui.get_hyperlink_tooltip(link) end)
+    local st = (type(lines) == "table" and #lines >= 2) and M.stats_of(lines) or false
+    stats_n = stats_n + 1
+    if stats_n > 300 then stats_cache, stats_n = {}, 0 end
+    stats_cache[link] = st
+    return st or nil
+end
+local function link_score(player, link, worn, r)
+    if type(link) ~= "string" or link == "" then return nil end
+    local st = link_stats(link)
+    if not st then return nil end
+    return M.score(st, r, worn, safe(function() return player:get_level() end))
+end
+
+--- Score of a candidate (bag link) minus the worn item's (slot link): > 0 is
+--- an upgrade. nil when it cannot be told (no weights, no tooltip data).
+function M.delta(player, cand_link, worn_link)
+    if not M.available() then return nil end
+    local r = M.spec(player)
+    if not r then return nil end
+    local c = link_score(player, cand_link, false, r)
+    if c == nil then return nil end
+    if worn_link == nil then return c end
+    local u = link_score(player, worn_link, true, r)
+    if u == nil then return nil end
+    return c - u
+end
+
+--- Score of one item link (for slot picking / rewards); nil when unknown.
+function M.link_score(player, link, worn)
+    if not M.available() then return nil end
+    local r = M.spec(player)
+    return r and link_score(player, link, worn, r) or nil
+end
+
+M._reset = function() rules, spec_cache.cls, stats_cache, stats_n = nil, nil, {}, 0 end
+return M

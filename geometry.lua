@@ -1,1 +1,287 @@
-return(function(...)local h={"12xzDDa1=";"1LK==";"pu)M@M","p!,","pr=Ua4^I.8","pa7lerO\'*/";"1gabo";"1s6==";"pl!6Ygo+";"1DyPKcRJ6quE=","p63","p^K";"p46CMBtKZ+B","p","1Jrz+ho2=","pnEI^5","p8j4:Elr84","1wCbalGum","1XisL","pt&";"pW98UX;#1TcHBjifKC]aq_*s\"FWBg";"pgG";"pG]37JB+21Nm^TeA%A%_";"1B4sm","1BS==";"1KY4ROW8Xg6==","1lS==";"12vOa09lq";"1EoBBqEbI";"11yGUXQK=","pg[","pq/Im(nJ";"1GECgG6==","1PZ==";"1buw51q/1ye8T";"pE\\jbCHI2","15gexq4uEhS==","pR2","12K==";"pk+O_";"1tAq4jvD=","p1hQb","1PS4cuzbgfK==";"pl(";"19fu6tMJt";"pnSZ.O","12kh=";"p)9L_4K*]","1iw8+0vHqdZ==","11Ps4aSMKa6==";"1j9UQ7v9O","1lv7f09Y=";"19qPS1xYT/d3kECPO","p+l9QBP20A%N3Jmk!g";"1vlm0dK4NgT0lieob6kiaiYnVC3gUPHLF","1dG9XmKaz";"pet","p*Q";"1YhbQ8xCPnS==";"pG@W-TkWCj";"p;,W\'EZ*#\"o","1F6==";"1j6==","19xRGtYfWU1wvzVAh7ek6W2xDXMZ=";"pd5s<qlYW(";"1wcx1kz5b","1npdM+AZ=";"1ai7LkdFa","1/K==";"1bga+2ujV";"1Qd+ZIM3P","15kASA0Uz";"1iw8aliHV/nMj0nm=","pQ,";"1+VFfaJ1XvZ==","12vMsln8a","1ddS8psz=";"1PYFJMI3Ua/Z8D+l5oAlyl6dT";"1NC++s6Eq","p11!-in+g$","pIhS)","pt#";"pV)/Y^>3`","1gViCQ6==","pOX\"^67#Zc";"1t6==";"1k6==","18VP7/cr10XADcwkTCEJaeuhaaF5ks1ju";"1BmOLDt2EXK==";"1WjKw/b6=";"1kZ==";"p>>";"pKB:.ECK,W^"}for w,e in ipairs({{184710-184709,487804377%13550119},{42604-42603,-857651+857719},{-423503-(-423572),-872119+872212}})do while e[1726597437%(54055+9926277)]<e[663472533%6839923]do h[e[1469604676%(9302779-905038)]],h[e[-939734+943345232%10243538]],e[(-625683+994983812)%13437272],e[-430021-(-430023)]=h[e[78574+-78572]],h[e[346411+-346410]],e[226330-226329]+((-150888-593494)+569258063)%3384010,e[248925-248923]-(422241-(-880804+1303044))end end local function Q(w)return h[w+(236612+(323796+(200953+-711060)))]end do local w=type local e=table.insert local g=string.len local s=string.char local b=math.floor local p=string.sub local o={["0"]=-1048039+1048066,t=1043869+-1043858;["6"]=379166-((1264839-175323138%(477807+1603091))-358015);n=562261-562255,j=-661610-(-661644),["9"]=244781-244726,A=571696+-571639,X=1626876638%8385962,Y=604327+-604319,G=84091335%475092,O=(-1022679+1401202140)%5834081,J=((-2044249-(-920699))-(-241296))+2430648741%9528496,l=765250+-765225;N=-1039707-(-1039711),F=829218-829196,C=61419110%15354773,g=1662134118%7042941;["+"]=(538792+-291069)-182421254%995484,c=((-726335+1449380)-913290)+190280;o=563886+-563867,m=-82707-(-82727);M=2392299484%(-334926+15005296)-1029169;["/"]=475258+(-1037051+561822),Q=-750826-(-750850);k=(-782968+1270956540)%16712810;q=-922007-(-922044);h=(60086+-687744)-(-627702);p=2343347744%10412514+-532063,["2"]=-415975+416003,["4"]=1385062347%6353497;U=-219166-(-1210936-(130103821%12990949+-1186086)),S=-774016-(-774032);x=793089+-793026,s=-572107+572153,["7"]=-633396+633445;z=53508973%4446462-151377;T=114433-114394;["8"]=456468-456407;y=-594790+594803;I=1293546025%13335526;d=((-471423-(-51623))+913262173)%14489561,u=57916860%643520;r=-18908+18966;H=-609369-(-1353858-(-744472)),L=1654139412%(9256717-15715),B=-366371+366414;e=-188625-(-188675);E=291801-(-984762+(1061363-(-309768-(-94624))));P=3117724265%13210696,["5"]=1554674989%7812437,K=2616104032%(4107702792%19685684),["1"]=659968254%5592951,i=371248313%8839245;f=1170806707%5711252;["3"]=-833137+833199,b=857105+-857091,R=(1146329-277087)-869183;Z=268950+-268950;w=-301732+301785;v=1985550087%12332609,D=500522-500482;V=-474106+474139;a=(602410699-(-167462))%((738336960-(3445785%3044792-766681))%21304575),W=484517+-484515}local J=h local q={[">"]=-356906-(-356960);["0"]=2767665111%11628845;h=(-994818+559642)-((763352-622256)+-576355);d=727737-727693,m=184283+-184220;["5"]=-504112+504123;k=1036913+-1036904,["^"]=48642348%(796774304%7451183),["%"]=71247-305646264%1651757,["&"]=(1662189000%16287975-542875)-272645,[":"]=-516059+516092,K=718790-718754;V=-269012-(-269052);c=475251-475230;T=-374046-(128674-502765);["/"]=1009392743%10625186,M=-33117+33179;D=443309+-443244,O=364680+-364606,L=1687921792%((149217+7497353)-8915),["$"]=(324787-31879)+-292889;["+"]=1241978724%6502506,P=2591368%37556,["("]=315843780%11697915;H=-387765-((-308675+539715)+-618820);["!"]=2849703264%11219304;p=790769469%11296706;W=(101198+242128221)%2374798,["<"]=283836865%(3535417029%(3628131551%23018066)),["."]=-96632+96657,l=199214+(31321+-230515),o=-487872+487882,["9"]=515921-(914185208%10387567+436593),G=-235463+235520,e=-157390-(236982+(416719-811142));Y=-433134-(-433176),i=(933933-(-27027))+-960934;I=736339-736321;["?"]=-475305+475369,E=476726+-476671,q=585614+-585611;["4"]=-142645+142669,["7"]=(202719340-(-553866))%7259755;a=(105491209668%(390860+1158943446))%7938773;g=(237349621084%(105536+1502192589))%11110563;["`"]=467789858%3654608;[","]=-955811+955883;b=276777-276721,X=(150561139635%984153362-1001166)%4267962;U=-136809-(-136890),B=1022129-1022088,["#"]=-266048+266132,S=(1286088-793329)-((-178738+(-589390+-11914))+1272721);["]"]=(326266-443920)-(-117661);["-"]=-103951-(-103998),["1"]=65147461%((-906076-(-197991))+1465613);["*"]=41900+((-608557+-386286)+952993);["6"]=520881+-520823;["\""]=(197921-(-12247))-210089;N=-153094-(-153146);["="]=(720528+-1092705)-(-372212);_=(7970911275%37617469)%8406326;Z=915637+-915577,R=551419-(847680+-296322),["8"]=712742+-712674;[")"]=236922-236917,C=183961-183934;["3"]=-373698+373712,[";"]=98615-98569;F=-533171-(-533247),r=-957676-(-957746);t=569489432%11864363,["\'"]=360045765%((1153912-771991)+2246150);["["]=101598518%8466543,J=1760607937%12058958,j=(-428692-(245553+-1148535))-(842189-367912);A=2995736772%11982947,["@"]=405399845%3974508;s=-29473-(-29473),n=952775+-952744;["2"]=1539766568%11664898;Q=1023022-1022983,u=(751395+-122908)-(141291-(-340465+-146649));f=-446414+446473;["\\"]=1702202357%11987340}local Q=table.concat for h=367456+-367455,#J,-272905+272906 do local D=J[h]if w(D)=="string"then local w=p(D,1374888623%(15857843-(-129234)),786451+-786450)if w=="1"then D=p(D,(790968990-(-57368))%5610116)local w=g(D)local q={}local F=959191-959190 local l=602152-602152 local a=(-629012-(-160674))+468338 while F<=w do local g=p(D,F,F)local J=o[g]if J then l=l+J*((802691759%(5506438-756783))^(((900855+-900852)-a)))a=a+840897151%(-549834+(11016290-(-897019)))if a==1191993790%((111454-778427)+14368051)then a=(-638347+1593143)+-954796 local w=b(l/(612098256%9415888))local g=b((l%((-64263-(-61059))+68740))/(((-690403-(-482307))-1492451594%10736371)-(-304377)))local p=l%(709997011%(634300+7718603))e(q,s(w,g,p))l=-119161+119161 end elseif g=="="then e(q,s(b(l/(1088249-1022713))))if F>=w or p(D,F+(582497-582496),F+1374191953%(15499817-(-859611)))~="="then e(q,s(b((l%(374775+-309239))/(506753824%14076488))))end break end F=F+(-573445-(-573446))end J[h]=Q(q)elseif w=="p"then D=p(D,23240298%540472)local w=g(D)local o={}local F=2485687849%14795761 while F<=w do local g=(w-F)+(-750689-(-986541-(-235851)))local J=g>=(805431975-(-755680))%9374275 and 693910-693905 or g local h=-167759-(-167759)local Q=J>992982-992981 for w=867092+-867092,-705859+705863,(9885755281%1648722552)%13684521 do local e if w<J then local g=p(D,F+w,F+w)e=q[g]if not e then Q=false break end else e=-1030546-(-1030630)end h=h*(-629176+(-58039+687300))+e end if Q then local w=b(h/(4009677569%29804965-(-964957)))%(-100949-((-938179+527797)+(((877893+(-987205+-155685))+-455859)+1030033)))local g=b(h/(-138514-(-204050)))%(-696550+(614853+81953))local p=b(h/((-120633+1838098681)%10940344))%((457779128-57592)%12714480)local q=h%(-249474-(-249730))if J==142266311%6774586 then e(o,s(w,g,p,q))elseif J==-5463-(-5467)then e(o,s(w,g,p))elseif J==641440+-641437 then e(o,s(w,g))elseif J==1575246416%13817951 then e(o,s(w))end end F=F+J end J[h]=Q(o)end end end end local q,J do local w=string[Q((-437342+-138095)+525157)]local e=table[Q(558824-1705253712%15496769)]local g={}local s=math[Q(((-20234+687281)+-797215)+79894)]local b=931180403%10703223 local p=math[Q(2015664007%(2975893318%22276759)+-721123)]local o=387814224%3957288 local h={}for w=503654-503653,153863+-153607,202238+-202237 do g[w]=w end repeat local s=p(345023698%14375325-15897,#g)local b=e(g,s)h[b]=w(b-(-573033+573034))until#g==764978-764978 local D={}local function F()if#D==596305073%6552803 then o=((o*(-33873+34070)+(-544799+34917766510552)))%(35184371771154-(-317678))repeat b=(b*(-798942-(-799124)))%(((-911772-(-54083))+159102826)%9890305)until b~=348256+((-1163850-(-497284-359485))+-41174)local w=b%(120834121%7497034+-881545)local e=11692557%2923136-((b-w))/(882409127%13170285)local g=(s(o/(1004293-70802923%17449658)^e)%(4294211293-(-756003)))/((-704900+-312427)+1017329)^w local p=s((g%(682877+(-1636207-(-50198+-903133))))*(((-232104+551846)+667432407762)%4306089352))+s(g)local J=p%(-508055+1246138308%13393169)local q=((p-J))/(777579746%14136622)D={J%(-825933+(-596238+1422427));((J-J%(736151-735895)))/((157322713942%1691769843)%10560054-839544),q%(2218133929%11736157);((q-q%(-227043-(-227299))))/((193796+-708808)+515268)}end local w=#D local e=D[w]D[w]=nil return e end local l={}q=setmetatable({},{[Q(116797-167074)]=l,[Q(-296648+246395)]=nil})function J(w,e)local g=l if(g[e])then return e else D={}local s=h o=e%(-609625+35184372698457)b=e%(-1044456-(-1044711))+(955813+-955811)local p=#w g[e]=Q(-290884-(-240665))local J=-646277+646360 local q=Q(626800+-677019)for e=405098+-405097,p,-98459+98460 do J=(((string[Q(291802-342019)](w,e)+F())+J))%(-759339-(-759595))q=q..s[J+(628567+-628566)]end g[e]=q end return e end end local w=require(q[J(Q(434172+-484443),327590+1763552889967)])local e=math[q[J(Q(724153+-774389),(-781114+(-801995+1466515))+11092062508950)]]or math[q[J(Q(-335695+285402),-654016+(742409+28699052168315))]]local g={}local function s(w)local e,g=pcall(w)if e then return g end return nil end function g.guid(w)if not w then return nil end return s(function()return w:get_guid()end)end function g.object_id(w)if not w then return nil end local e=s(function()return w:npc_id()end)if type(e)~=q[J(Q((-558923-125593)+634261),32044670230127-(579423+-1519148))]then e=s(function()return w:get_npc_id()end)end if type(e)~=q[J(Q((363283+-32759)+-380767),33200369658393-(-1193695-(-569834)))]or e==1604758180%14997740 then return nil end return e end function g.position(w)if not w then return nil end local e=s(function()return w:get_position()end)if type(e)~=q[J(Q((1064379-138696)+-975942),1447433116706-(-385340))]then return nil end return e end function g.interact(w)if not w then return false end return pcall(function()core[q[J(Q(-1004226+953977),25203851288958-(-799700))]][q[J(Q((453963+-1312467)-(-808242)),265615+(721296+24394924628757))]](w)end)end function g.to_vec3(e,g,s)if type(e)==q[J(Q(-301253-(-250963)),-535969+24552611310659)]then return w[q[J(Q(-960407-(-910198)),17095715997969-773717)]](e,tonumber(g)or 556683-556683,tonumber(s)or 1428616964%8025938)end if type(e)~=q[J(Q(180762+-231056),-546255+(-959726+14452199306691))]then return nil end local b,p,o=e[q[J(Q(2380525064%(17829025-457665)-698975),-560827+(20280589873536-364931))]],e[q[J(Q(-537573+487352),(4734477550994-374803)-974409)]],e[q[J(Q(1617603446%10929461+(-409439+315990)),-1038323+35088864173096)]]if type(b)~=q[J(Q(-335290-(-285034)),9445376507869-(-382047))]then b,p,o=e[-816296-(-816297)],e[(-962729-(-853429))+109302],e[158370+-158367]end if type(b)~=q[J(Q(855741+(133793+-1039804)),7352404596857-653897)]or type(p)~=q[J(Q(670387+-720668),4168049725355-((613465-(-694112+634108))+-1376352))]or type(o)~=q[J(Q(643364-899575868%10099801),933577+2760048955314)]then return nil end return w[q[J(Q(767962+-818188),3215915320304-28896)]](b,p,o)end function g.distance(w,e)local b,p=g[q[J(Q(446951+-497212),895136+33466013417826)]](w),g[q[J(Q(-921942-(-871701)),25001138692546-(-709088))]](e)if not b or not p then return nil end return s(function()return b:dist_to(p)end)end function g.distance_squared(w,e)local b,p=g[q[J(Q(-608233+557944),13384293392226-778488)]](w),g[q[J(Q(945842+-996058),-541534+8422776656293)]](e)if not b or not p then return nil end return s(function()return b:squared_dist_to(p)end)end function g.distance_flat(w,e)local b,p=g[q[J(Q((11502-(-672275))-(-70553-(626708+(673271+-2104592)))),(-559404+(((-484722+348024)-765459)+1966075))+14585133417707)]](w),g[q[J(Q(223538-273805),25489+11243436852450)]](e)if not b or not p then return nil end return s(function()return b:dist_to_ignore_z(p)end)end function g.object_distance(w,e)return g[q[J(Q(687425+-737690),15569186481651-(-736066))]](g[q[J(Q(-94614+44394),(684251+25575106072376)-(-768814))]](w),g[q[J(Q(-60741-(-10508)),-125417+3889682722461)]](e))end function g.between(w,e,b)local p,o=g[q[J(Q((307458+((-678746+(406826+-97709))-959008))+970879),966767+(4613555137124-(-509084)))]](w),g[q[J(Q((1040032+((67697018352%528928605)%4389592+1349085833))%6887749-(1233058265-124394)%4967873),10870476173477-482264)]](e)if not p or not o or type(b)~=q[J(Q(598577+-648824),1008997+27558294315310)]then return nil end return s(function()return p:get_extended(o,b)end)end function g.offset(w,e,b)local p=g[q[J(Q((-204663-(-746726+(1876871-293694)))+990868),-2101+(5905919364199-309197))]](w)local o=g[q[J(Q(-47836+(1439059735%(10177777-(-639086))-419371)),959603+23516060388204)]](e)if not p or not o or type(b)~=q[J(Q((1025725+-888144)-187839),(893009+549321500332)-59109)]then return nil end return s(function()return p+(o:normalize()*b)end)end function g.direction(w,e)local b,p=g[q[J(Q((-233556-247586)-(-430866)),31861076529662-875359)]](w),g[q[J(Q((-750754-(-196553))-(-503935)),34579883534329-(-476952))]](e)if not b or not p then return nil end return s(function()return((p-b)):normalize()end)end function g.heading(w,s)local b,p=g[q[J(Q(-191149-(-140921)),91770682637128%((-530893+2134202642208)-(296442800%4629375-126495)))]](w),g[q[J(Q(-1010025+959798),-884516+10666530980834)]](s)if not b or not p then return nil end return e(p[q[J(Q((805485-(-301546+899012))+(-589191+330903)),31278501444388-(-123339))]]-b[q[J(Q(38238+-88502),11339462691042-1005168)]],p[q[J(Q(381407308%3044917-842908),((((405599+490218)-365696)+-481902)+(-828949+(-239709+23324574109726)))-647531)]]-b[q[J(Q(200623+-250905),13264156374509-387905)]])%((math[q[J(Q((-498371-125709)+573801),26814363243194-1029042)]]*(-868819+868821)))end local b=1646730012%13495048+-334153 local p=require(q[J(Q(-415501+(1067947-702684)),-201177+24088429741826)])local function o(w,e,...)local g=w and w[e]if type(g)~=q[J(Q(-87411-(-37188)),865224+2715806952815)]then return nil end local s,b=pcall(g,w,...)if s then return b end return nil end function g.future_position(w,e)if not w then return nil end local g=o(w,q[J(Q(-178444+128171),19789744054206-640912)])if type(g)~=q[J(Q(721007484%8192059+(691120+-847636)),29569299320569-928527)]or type(g[q[J(Q(-235034+184823),26159379563430-(-860347))]])~=q[J(Q(392520-442817),10278392824870-(-927040))]then return nil end e=tonumber(e)or(-200012-(-1162070-(-741970)))-(641271+-421183)if e<=910366+-910366 then return g end if e>b then e=b end if o(w,q[J(Q(-541852+491561),-572448+4446440558524)])==false then return g end local s=o(w,q[J(Q(77492+-127704),-565469+32435298722039)])if type(s)~=q[J(Q(-917071-(-866853)),33222295137410-131252)]or type(s[q[J(Q(374615+-424914),6095167455751-195656)]])~=q[J(Q(3474713416%(17376982-348139)-879719),9964135584363-56258737%13955270)]or(math[q[J(Q(790375-840659),2174799249972-500731)]](s[q[J(Q(744215-794437),10898907871901-(-316162))]])<1e-06 and(math[q[J(Q(262583+-312797),32144893372303-466749)]](s[q[J(Q((59167+(292280+-382616))+-19118),28884263557035-(-314546))]]or 656616+-656616)<1e-06 and math[q[J(Q(364869-415155),23765841943502-965006)]](s[q[J(Q(-1009475+959218),16331018185346-626143)]]or-614434+(-233222+(1601494884-230652))%9093276)<1e-06))then s=o(w,q[J(Q(630613+-680885),12608253061839-(-59703))])end local h=tonumber(o(w,q[J(Q(814122+-864370),(33444028437117-14696185%144823)-(-702476+647741))]))if type(s)~=q[J(Q(-487776+437480),204336+19253637415238)]or type(s[q[J(Q(-660828-(-610584)),34069736943374-844284)]])~=q[J(Q(-1010242-(-959988)),(178630+((-389074-(-1028236))+(36621042539917-797107)))%257894749670)]or not h or h<=274246+(-844397+570151)then return g end local D,F,l=s[q[J(Q((-725839-(-808001))+-132375),-576079+17144341716658)]],s[q[J(Q((310036+(270879+-715548))-(-84394)),-445793+9387469224016)]]or(218270864328%((-476392+1243678)+(1453417636-(-658225-1306740547%(185216+9864029)))))%7032862,s[q[J(Q((-153115+-547815)+650678),-10576+19928842880390)]]or 171550780%8577539 local a=math[q[J(Q(-36287+-13943),17371774832133-(-478318))]]((D*D+F*F)+l*l)if a<1e-06 then return g end local i=(h*e)/a local U,Z=pcall(p[q[J(Q(-573447-(-523202)),18422456950596-1156484440%8259596)]],g[q[J(Q(277240+-327484),7195790660934-(-90657))]]+D*i,g[q[J(Q(-883835-(-35923-797620)),213376+32488575800763)]]+F*i,((g[q[J(Q(94634+-144868),1014963281632-(176424+((-559465+515487)+-1025078)))]]or 972684+-972684))+l*i)if U and(type(Z)==q[J(Q(-218372-(-168087)),12487594718249-195800)]and type(Z[q[J(Q(-520880+470612),397558+11906587303671)]])==q[J(Q(((-720195+-824197)-(-1014034))-((567886+381677)+(895559+-2325220))),14581460076287-113490)])then return Z end return g end function g.future_distance(w,e,s)local b=g[q[J(Q(-195014+144804),2860929702402-(-820775))]](w,e)if not b or type(s)~=q[J(Q(181653-(-714243+946128)),31548638936525-(-702350))]or type(s[q[J(Q(-41557-8731),-413689+31580785837195)]])~=q[J(Q(297248+-347526),-264657+33140917569133)]then return nil end local p,o,h=b[q[J(Q((31374+166809998)%733005+-499500),1971091219161-329039)]]-s[q[J(Q(((207876869-(-757582))-438237)%(-573688+10013228)-576574),-126441+29821915570834)]],b[q[J(Q(987500+-1037708),67340726154149%16835181555069)]]-s[q[J(Q(840697-890992),304792+18903663303543)]],((b[q[J(Q(-353644+303409),-193420+19685465936234)]]or 297402408%5507452))-((s[q[J(Q(170244-220473),-854744+7023495225067)]]or 885068790%5206287))return math[q[J(Q(966046-1913160632%(348973974%(209327+25344579))),21900296817821-926853022%(11980330-259622))]]((p*p+o*o)+h*h)end return g end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- geometry.lua - object and position helpers, on the vec3 API
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- The handful of helpers every bot ends up writing - what is this object, how
+-- far away is it, where is the point between here and there - done with the
+-- vec3 methods the SDK already provides instead of trigonometry.
+--
+-- WHY NOT movement/geom.lua
+--   That file is the hot steering path and is deliberately allocation-free:
+--   it writes results into pooled points and its header says so. vec3 methods
+--   allocate. These two want different things and stay separate.
+--
+-- EVERY METHOD USED HERE IS IN THE REFLECTED API
+--   dist_to, dist_to_ignore_z, squared_dist_to, squared_dist_to_ignore_z,
+--   length, length_squared, normalize, get_extended, get_angle, clone,
+--   is_zero, is_nan, and the +, -, *, / operators.
+--
+-- normalize RETURNS a new unit vector
+--   It does not modify the receiver, so it is safe to call on a vector the
+--   caller still holds. get_unit_vector does the same thing; normalize is
+--   used here because that is the documented name for the operation.
+-- ============================================================================
+
+---@type vec3
+local vec3 = require("common/geometry/vector_3")
+
+-- math.atan2 was removed in Lua 5.3, where math.atan takes the second argument
+-- instead. Resolved once here so the module does not care which it is running
+-- on.
+local atan2 = math.atan2 or math.atan
+
+local geometry = {}
+
+local function safe(fn)
+    local ok, res = pcall(fn)
+    if ok then
+        return res
+    end
+    return nil
+end
+
+-- ============================================================================
+-- OBJECT IDENTITY
+-- ============================================================================
+
+--- The object's GUID, or nil.
+function geometry.guid(obj)
+    if not obj then
+        return nil
+    end
+    return safe(function() return obj:get_guid() end)
+end
+
+--- The object's creature id, or nil.
+---
+--- Replaces parsing it out of the GUID with a pattern. The client exposes it
+--- directly, so the string match, the capture and the tonumber all go away -
+--- and with them the assumption that the GUID's shape never changes.
+---
+--- npc_id and get_npc_id both exist; both are tried. An id of 0 means the
+--- object is not a creature - a player, a pet, a world object - and is
+--- returned as nil rather than passed on as if it were an id.
+function geometry.object_id(obj)
+    if not obj then
+        return nil
+    end
+    local id = safe(function() return obj:npc_id() end)
+    if type(id) ~= "number" then
+        id = safe(function() return obj:get_npc_id() end)
+    end
+    if type(id) ~= "number" or id == 0 then
+        return nil
+    end
+    return id
+end
+
+--- The object's world position as a vec3, or nil.
+function geometry.position(obj)
+    if not obj then
+        return nil
+    end
+    local p = safe(function() return obj:get_position() end)
+    if type(p) ~= "table" then
+        return nil
+    end
+    return p
+end
+
+--- Interact with an object or NPC. Returns true when the call was issued.
+function geometry.interact(obj)
+    if not obj then
+        return false
+    end
+    return pcall(function()
+        core.input.interact_with_object(obj)
+    end)
+end
+
+-- ============================================================================
+-- POSITIONS
+-- ============================================================================
+
+--- Turn loose coordinates into a vec3.
+---
+--- Accepts a vec3, an { x, y, z } table, or a { [1], [2], [3] } array, which
+--- are all shapes this project passes around.
+function geometry.to_vec3(p, y, z)
+    if type(p) == "number" then
+        return vec3.new(p, tonumber(y) or 0, tonumber(z) or 0)
+    end
+    if type(p) ~= "table" then
+        return nil
+    end
+    local px, py, pz = p.x, p.y, p.z
+    if type(px) ~= "number" then
+        px, py, pz = p[1], p[2], p[3]
+    end
+    if type(px) ~= "number" or type(py) ~= "number" or type(pz) ~= "number" then
+        return nil
+    end
+    return vec3.new(px, py, pz)
+end
+
+--- Distance between two positions.
+---
+--- dist_to replaces sqrt(dx^2 + dy^2 + dz^2) outright.
+function geometry.distance(a, b)
+    local va, vb = geometry.to_vec3(a), geometry.to_vec3(b)
+    if not va or not vb then
+        return nil
+    end
+    return safe(function() return va:dist_to(vb) end)
+end
+
+--- Squared distance, for comparisons.
+---
+--- Worth reaching for whenever the number is only being compared against
+--- another distance or a threshold: it skips a square root per call, and a
+--- scan over every visible object does a lot of them. Compare against the
+--- threshold squared.
+function geometry.distance_squared(a, b)
+    local va, vb = geometry.to_vec3(a), geometry.to_vec3(b)
+    if not va or not vb then
+        return nil
+    end
+    return safe(function() return va:squared_dist_to(vb) end)
+end
+
+--- Horizontal distance, ignoring height.
+---
+--- The one to use when a floor above or below should not count as far away -
+--- a vendor upstairs is not fifty yards from the door.
+function geometry.distance_flat(a, b)
+    local va, vb = geometry.to_vec3(a), geometry.to_vec3(b)
+    if not va or not vb then
+        return nil
+    end
+    return safe(function() return va:dist_to_ignore_z(vb) end)
+end
+
+--- Distance between two objects.
+function geometry.object_distance(o1, o2)
+    return geometry.distance(geometry.position(o1), geometry.position(o2))
+end
+
+-- ============================================================================
+-- DERIVED POSITIONS
+-- ============================================================================
+
+--- The point `dist` yards from `a` along the line toward `b`.
+---
+--- get_extended is exactly this, so the angle work the original did - two
+--- atan calls, a modulo, then sin and cos to rebuild the point - is not
+--- needed. It also avoids that version's bug: it computed AngleXYZ but then
+--- applied sin(AngleXYZ) * dist to Z directly, which is not the height of a
+--- point along the line.
+function geometry.between(a, b, dist)
+    local va, vb = geometry.to_vec3(a), geometry.to_vec3(b)
+    if not va or not vb or type(dist) ~= "number" then
+        return nil
+    end
+    return safe(function() return va:get_extended(vb, dist) end)
+end
+
+--- `origin` moved `dist` yards along `direction`.
+---
+--- direction is any vector; it is turned into a unit vector first, so its
+--- length does not scale the result.
+function geometry.offset(origin, direction, dist)
+    local o = geometry.to_vec3(origin)
+    local d = geometry.to_vec3(direction)
+    if not o or not d or type(dist) ~= "number" then
+        return nil
+    end
+    return safe(function()
+        return o + (d:normalize() * dist)
+    end)
+end
+
+--- The direction from `a` to `b` as a unit vector.
+function geometry.direction(a, b)
+    local va, vb = geometry.to_vec3(a), geometry.to_vec3(b)
+    if not va or not vb then
+        return nil
+    end
+    return safe(function() return (vb - va):normalize() end)
+end
+
+--- The heading from `a` to `b`, in radians, 0 to 2pi.
+---
+--- Plain atan2 is kept here deliberately. vec3:get_angle(target, origin)
+--- exists, but its exact convention - radians or degrees, which plane, which
+--- zero - is not recorded in the reflected reference and the SDK source is
+--- not on disk. A heading that is silently in the wrong unit points the
+--- character the wrong way, so the arithmetic that is known to be right stays
+--- until the convention can be confirmed.
+function geometry.heading(a, b)
+    local va, vb = geometry.to_vec3(a), geometry.to_vec3(b)
+    if not va or not vb then
+        return nil
+    end
+    return atan2(vb.y - va.y, vb.x - va.x) % (math.pi * 2)
+end
+
+-- ============================================================================
+-- FUTURE POSITION (2.245.0) - the documented Sylvanas method:
+--   future = position + normalize(direction) * movement_speed * t
+-- A unit that is not moving stays put. Guarded; answers the current
+-- position when anything is missing.
+-- ============================================================================
+local FUTURE_MAX_T = 3.0
+local FUTURE_VEC3 = require("common/geometry/vector_3")
+
+local function fcall(obj, name, ...)
+    local fn = obj and obj[name]
+    if type(fn) ~= "function" then return nil end
+    local ok, v = pcall(fn, obj, ...)
+    if ok then return v end
+    return nil
+end
+
+--- Where `unit` will be in `t` seconds (vec3), or nil when it has no position.
+function geometry.future_position(unit, t)
+    if not unit then return nil end
+    local pos = fcall(unit, "get_position")
+    if type(pos) ~= "table" or type(pos.x) ~= "number" then return nil end
+    t = tonumber(t) or 0
+    if t <= 0 then return pos end
+    if t > FUTURE_MAX_T then t = FUTURE_MAX_T end
+    if fcall(unit, "is_moving") == false then return pos end
+    -- 2.268.0: the direction it MOVES (get_movement_direction), not the one
+    -- it faces - a unit backing up or strafing moves away from its facing.
+    -- Facing only when the movement direction cannot be read.
+    local dir = fcall(unit, "get_movement_direction")
+    if type(dir) ~= "table" or type(dir.x) ~= "number"
+        or (math.abs(dir.x) < 1e-6 and math.abs(dir.y or 0) < 1e-6 and math.abs(dir.z or 0) < 1e-6) then
+        dir = fcall(unit, "get_direction")
+    end
+    local speed = tonumber(fcall(unit, "get_movement_speed"))
+    if type(dir) ~= "table" or type(dir.x) ~= "number" or not speed or speed <= 0 then
+        return pos
+    end
+    -- normalize: a length of 1
+    local dx, dy, dz = dir.x, dir.y or 0, dir.z or 0
+    local len = math.sqrt(dx * dx + dy * dy + dz * dz)
+    if len < 1e-6 then return pos end
+    -- displacement = speed * time along the direction
+    local d = speed * t / len
+    local ok, f = pcall(FUTURE_VEC3.new, pos.x + dx * d, pos.y + dy * d, (pos.z or 0) + dz * d)
+    if ok and type(f) == "table" and type(f.x) == "number" then return f end
+    return pos
+end
+
+--- Distance from `from` (a vec3) to where `unit` will be in `t` seconds.
+function geometry.future_distance(unit, t, from)
+    local f = geometry.future_position(unit, t)
+    if not f or type(from) ~= "table" or type(from.x) ~= "number" then return nil end
+    local dx, dy, dz = f.x - from.x, f.y - from.y, (f.z or 0) - (from.z or 0)
+    return math.sqrt(dx * dx + dy * dy + dz * dz)
+end
+
+return geometry

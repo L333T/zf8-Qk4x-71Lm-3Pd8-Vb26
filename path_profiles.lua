@@ -1,1 +1,314 @@
-return(function(...)local m={"FX/[5CE#!=<?LY_";"hf4+=","F=@K\"*U;7_rNA*ZXa<N";"FXC0";"F#nG[<YD.fN<&\">\"G]gK/C\\N6X!?N","FfH]","FoI","h/0K/9e1+","h8gQlFnYoMvcyD7mRAB==";"Fj1R";"hXmij5Y1sVW4JBHHN";"hTruAelB/mInTndFyRVQgj+==";"FUH^Z7i-)";"h+PFjC6CMkRDfAi==","haOH=";"h6enZHG2JbAwnVC2x7f==","FD$N\'UKY";"hK8YSt37n","FMj";"F%\"BebcU*7Tk;5";"FYG&=\\9dpa","FERXl/&gc","F&5^","F5PRb&hE";"FrF0s<P9e_cLK@-o5TV:U@ulU5;.pfgQs9Xue6Fgu@f?,qT5-r4+nrJ()F?%:r2b","ho6jR6wJbs840vlDm","hli==";"hCvTl+ozmqmLEUFdBijJhSdKZ","hJpc6tFHnubjfxi3fI6Ot8YfJ/f==","h58HLFb10ti==","Fa)^l=5k>/";"hB3aLY5o=";"hzFyGCIqi9H5KGd0Vg6Bo00ve";"Fc2=Lg3jA_","F&qgsoi3.";"F_@_jK#P@","FCc=CK1_=","FS/";"hbSeoDB==";"h5AZOf+==","heWn5Lycevf==","Fh=4GeL.b","FH*p<^+,m";"FcMC:+","hX3lzwtrOzUI8lKFNefxyBi==";"hT5N0XS3S3StMyOY7EGDO";"hWB==";"FDooQ=","hjcDt1+B=";"FUaUC=\"8EfaNi\"OEM\\T=p%_","FMqU","hbA114+==";"hMIhSEd7DpY1P","FNeO","hI408QrfKoHO0+CT9C9ss","hUVY=","hSRyKUnOmasE1U3/LMB==";"hz5IBuTp0Ful6L/Y=","hnTkIt3z/GgOb";"h4qcyDUKJ","h";"F?m","hx+==";"FS\"(GcZ\\4";"FL31[$[qq/XrZYmehX#b[0&b";"FA42EFL*K","hrbx/A94=","F&rRDa-0=";"hqXu4trJ52Lq+","hs0il4ro=";"hdx2DG6hS";"F!C3%YNcOu-","h4GNnQ+==","huI8TZZtEsA+=";"F\'E.d,:Ad;";"Fa)^8>ZbinsFK:X";"h8Br67/5qm+==","F[C3","hy4Z6rrH=","Fl])3Xs87`ZO?!Rp";"FXl::l`&W","hWwtJ7qsVBXqsSKqQAXx=";"hif==";"FgjrJ]]2Baj\"L$[YF_+,","F>puI-`JG";"hZsBGXeZr","hboYb7Fx=","hri==","FF!@KJ.X$;6(D`_%7JX(<7R_","FNMC/RsPDg]82K/\"76)c6\\N*","F#qK.df0&-+kFC,g[QgC5.?.nVQT","FG>)7_Rs:=DTi+Fl";"FjtuN!L`;>H2HtY<EScPr";"hHojKRB==","F`nF%J!7Wsq\"j";"hTPhhypR5";"hL1H=";"h2/N2W5x=";"F%^u\"P6!Qe0`e&m,mnj`2<&,b]?t!S_@n7","hlYRQMbDe49f77yOC/3W=";"FT*qG%Y...","haZIdRRAE","FLohEJ,<E";"F&4fQi.^a-V@k;m","F*X$*-Q\"NH","hOeY5S7i=";"hFQLRb8A/","F\'\'?S4o\"F?:D:","hEu7O7UlMmf==","FL2E;qC\"1";"F&Q(p7o:Z","FJ)J5<iL("}for o,w in ipairs({{895066+-895065;-986582-(-986694)},{-423182+423183;132433592%(-513201+1626088)};{394314863%1817119,180259+-180147}})do while w[848175+-848174]<w[-90841-(-90843)]do m[w[191949+-191948]],m[w[-412999+413001]],w[195291349%4649794],w[865585+((677237+((-1662712-135838)-(99027+590599)))-(-945356))]=m[w[173468920%1457722]],m[w[1625263465%12312602]],w[165550309%15050028]+(-696965+696966),w[-122378-(-122380)]-826519683%(-665983+2869092086%17120595)end end local function D(o)return m[o+(46413-37154)]end do local o=type local w={["#"]=2237659477%(12001827-978874);p=498094308%(-762413+(3874214-(-1288)));["4"]=-382733-(-382748);b=531355+-531321,o=2502577718%13675288;[","]=1903761849%7738869,["*"]=-172113+172176;V=44214-44131,T=795171+(-1657391-(-862225));["2"]=409011-408994,["/"]=-644412-(-1488975-(-844479));["6"]=631901+-631885;[">"]=1558669557%6747487;["+"]=684939203%3681265-223901,["\'"]=550530-(524871+25624);U=2259868967%13613668;H=(((-1010876+1333558)+292167)+-456368)+-158404;["."]=-801996-(-802000),d=685413174%6854131;[")"]=755516+-755461;["("]=(1044589+(-1560492-(-307593)))+208353,["!"]=443920+-443895;G=222643+-222634;t=-924319+924371,["&"]=873042-873035;["%"]=1806442458%16128950,F=(-912165+(-277942-(-923236)))+266902,O=100697+-100670;["8"]=-685804+685860;e=597751-(-915655+1513396),S=903987+(-1149082-(-245175)),["$"]=28504-28447,u=1474558974%((11820828-(158859+-48597))-286665)+-875698,["?"]=752008+-751963;l=2738545702%((-796063+(2414188429-(-272131)))%31132042);A=(-723516+1285714)+-562198;L=-553404-(-553442);[";"]=569440106%(2582472-(-932590)),c=-884605+884655,Y=1523773813%6989788;["9"]=619347-619283,B=-671157+671239;["["]=-501487-(-575801+74243),J=3047872873%14513680;K=-510322-(-510375),X=-913135-(-383358+-529828);M=-987545+987547,["@"]=556577+-556571,["\""]=630103592%((-1744639-(-928824))+3506941193%14509789),["]"]=854748+(860736+-1715465);g=632031+-632018,n=2841961559%(((-14265-(-862409))+3043529039)%13301655),["1"]=135992053%10460924,N=140468158%3254852+-509456;k=(52877935468%223119943)%1878211,h=((-735098+1024318)+2109627460)%11046684;a=1234191530%5366050;R=-170986-(-170994),D=912541-912492,j=860655628%5345687,E=1002856322%(-234330+15202334),q=(569392+2382864244)%12285740,C=2490026941%12835190,s=299515633%12479818,P=((((-944450-(-234616))+983766)-521023)-416986)-(-664155);["-"]=(855319-675738)-179533;I=((335645+-1319894)+1717446594)%14670618,[":"]=3023860317%13999353;i=(((72482+287555)+((-217717-159916)-707214))-(401781651%2243645+(439266+-1005914)))+327391,["5"]=976686-976654,r=(119504-303090)-(-183632),["\\"]=(-879314-(-435755))+443562,f=3368689825%15382145;Q=(-110028+(-436065+62046919))%4100051;["<"]=292150+((-295674-(-854924-(-600239)))-251150);["^"]=932247+-932207,W=-489046+489113,["3"]=311569-(480786+-169245);["0"]=1203118283%(164379+7308405);Z=522089-(112110-(-409942));["7"]=524057912%2318840;["`"]=-294505+294528;m=1082347034%4747136,_=507844593%2805771,["="]=(785115-(((1429505-290661)-916276)-375806))-(709015+229273)}local c=string.char local Z=string.sub local W=table.insert local U=m local d=string.len local k={v=976463576%4418387,T=-663440+663462,u=-205175+205183;Z=(-138154-(-271436))+-133240,f=-1035289-(-1035289);["+"]=405529+(-1372882-(-967385));B=(-251305-(-104724))+146597;r=403698+-403685,I=822926530%8662384,a=2055676669%9930805;["0"]=(783861+-284001)+-499853,["8"]=(53949100945%2248404690-371266)%10206157-273370;j=368401699%((49763881395%(-962213+254940446))%6745765),S=868030+-867991,m=100368-100309;k=-71029-(-71086);M=293223-293202;["1"]=361784049%2740788,V=(605344-(-410441+1814949010%10549051))-503543,l=1443337832%8747502,["4"]=(-120101-581962)+702091;o=(-443427+711781)+-268302;["3"]=(-246106+109889903)%(395412+1115599)+-850945;i=1753009724%6928892,n=-663297+663340;["9"]=-972033+972052;p=778553+-778491;w=488840+-488839,e=-57723-(-57760),y=684124+-684078;X=-797520-(-797531);F=8520384%(2038+81495),J=(22384058090%1066223617)%4360435,x=(172023-826561)-(-398995+-255579);O=-153292+153336;q=572929+-572891,["6"]=-619759+619800,P=1751675295%((1293203092119%5031931949)%25448128);b=((419749-6313)-607708)-(-194296);d=384508779%1701366,R=635142126%15491271,H=256352-256332;["/"]=1333513527%(13142505-(-192630)),E=794881+-794855;c=-373356+373361;K=(1576743899-((-3435-343317)+-609902))%6919739,s=(1649414-633507)-1015898;Q=(1297830-1002702)+-295111,["2"]=231856881%(5983212-(-1042109))-21274;D=-478595-(-478620);G=194376695%2399712,["5"]=-863712-(-863767);h=216215627%(915681+1821225),C=-355194+355224,W=(-793619+2114928113)%14888271,t=-517266-(-517297);U=96233-537583527%(2948222-(604966+-133644));g=826798-(((2952211-(((1155768-(1081651-278669))-(-402293))+223107))-537972)-609306);A=70853-70799;["7"]=313131+-313073;L=110992459%(1589067-912284);Y=223277120%3660280;z=308308138%1600710-971783;N=-1028680+1028683}local v=math.floor local I=table.concat for R=(549060+-459052)-(-339010+1641726558%14524757),#U,-86799+86800 do local B=U[R]if o(B)=="string"then local o=Z(B,-36214+36215,709800-709799)if o=="h"then B=Z(B,-202599-(-202601))local o=d(B)local w={}local n=1896789200%16074209+-32537 local V=158066+-158066 local H=523359+(-747570-(-224211))while n<=o do local U=Z(B,n,n)local d=k[U]if d then V=V+d*((((-856898+201123504%4756012)-64328)+-449710)^((102627235%12828404-H)))H=H+(-775371-(-775372))if H==(-611862-(-406205))-(-205661)then H=968741-(-825138+1793879)local o=v(V/(180161712%13853552))local Z=v((V%((474966-(-385707))-795137))/(947937+-947681))local U=V%(-391660-(-391916))W(w,c(o,Z,U))V=-791935+791935 end elseif U=="="then W(w,c(v(V/(984348-((1477423-(312916+1609853519%10800786))+2289836878%13628251)))))if n>=o or Z(B,n+(137479+-137478),n+(661906-(-704145+1366050)))~="="then W(w,c(v((V%(-845420+(-993696+1904652)))/(-306936-(-307192)))))end break end n=n+419608945%15541072 end U[R]=I(w)elseif o=="F"then B=Z(B,379976834%2345536)local o=d(B)local k={}local n=(237333+-807457)+570125 while n<=o do local U=(o-n)+(-577595-(-80959+-496637))local d=U>=-285975+285980 and 776667+-776662 or U local I=514682910%5718699 local R=d>2084029426%15437255 for o=(441103017%6382067-(-635450-(-613567)))-762277,643194+-643190,511921807%4829451 do local c if o<d then local W=Z(B,n+o,n+o)c=w[W]if not c then R=false break end else c=1923305168%13544402 end I=I*(-313728-(-313813))+c end if R then local o=v(I/(3586808581%31043751))%(742325-742069)local w=v(I/(288082-222546))%((1557231010-110407)%6859561)local Z=v(I/(1383219072%10806397))%((538285-965123)+759512486%7298898)local U=I%(592449-(-749091+(460215+881069)))if d==1637389%233912 then W(k,c(o,w,Z,U))elseif d==-915908-(-915912)then W(k,c(o,w,Z))elseif d==(262950664-(-312443))%2531376 then W(k,c(o,w))elseif d==54047314%3377957 then W(k,c(o))end end n=n+d end U[R]=I(k)end end end end local r,p do local o=241554821%4736369 local w=math[D(614036+-623232)]local c={}local Z=746884-746884 local W={}local U=table[D(-1027+(-117842+109691))]local d=math[D(971180-980340)]local k=string[D((-1364743-(-1704042-(-843772)))-(-495305))]for o=-220173-(-220174),(-274681+1032844757)%((667692+(-820056-871345))+14610154),-66893+66894 do W[o]=o end repeat local o=d(371003+-371002,#W)local w=U(W,o)c[w]=k(w-5433714%5433713)until#W==164556625%(313440-(-539185))local v={}local function I()if#v==-885544+885544 then Z=((Z*(-604343-(-604392))+((1092122-((110393-((-238647+1008609)+-563261))-(-180743)))+(9253361518406-(-460203+(373217+-404308))))))%(((-509160-332779)+35184373101049)-170278)repeat o=(o*((1656213-(-323255-(-1011138)))-968136))%(521095+-520838)until o~=314735+-314734 local c=o%((2248472174%14693184+-1302790)+887800)local W=(150194-150181)-((o-c))/(91250830%1983713)local U=(w(Z/(13929+((-253889+773327)+-533365))^W)%(4294886618-(-80678)))/(342260+-342258)^c local d=w((U%((-1518921-(-473946))-(-1044976)))*(244852+4294722444))+w(U)local k=d%(-776132+(-491412+1333080))local I=((d-k))/(729929+-664393)v={k%(210015+-209759),((k-k%((-384569+1077284)-692459)))/(408307+-408051);I%(-100274-(-100530)),((I-I%(1201543636%13350482)))/(939557+(53374+-992675))}end local c=#v local W=v[c]v[c]=nil return W end local R={}r=setmetatable({},{[D((194937-(-1063571-(505008-850409)))+-922296)]=R;[D(978414-987670)]=nil})function p(w,W)local U=R if(U[W])then return W else v={}local d=c Z=W%(35184371564209-(-1436914-(-1724549-(-812258))))o=W%((241754+123322)+-364821)+(-672012+672014)local k=#w U[W]=D(373887-383046)local R=-341587+(371071038031%1855377744)%8687912 local B=D(-960540+951381)for o=-1001509+(1791306-789796),k,901436-901435 do R=(((string[D(-136627-(-127446))](w,o)+I())+R))%(-1072+1328)B=B..d[R+(393119-393118)]end U[W]=B end return W end end local o=require(r[p(D(-621161+611942),33200469110731-157372)])local w=r[p(D(842561+-851755),((241563-713939)+21229385241249)-(-135728))]local c=r[p(D(-606080+596847),5048632559513-(203953-595544))]local Z={}local W={}local U={}local d=false local k=nil local v={r[p(D(594140+-603304),-507514+(6225611763329-(-225488-(-113196))))],r[p(D(-116087+106939),-889124+12430017034773)];r[p(D(-223826+214640),-93721+9586512927454)];r[p(D(-917135+907884),149200+5016311476765)]}local function I(o)local w,c=pcall(o)if w then return c end return nil end local function R(o)if type(o)~=r[p(D(-921474-(-912253)),-518030+17189716488153)]or o==r[p(D(537475810%(7398625-(-275288))-(131792+179267)),23843038909871-910910)]then return false end local w=3294903297%14388224 while w<=#o do local c=o:sub(w,w)if c~=r[p(D((-1243288-(-827745))-(-406385)),10728425296452-(-897100))]and(c~=r[p(D(-594310+2475075867%(2141756084%11045897)),(518787+-1473024)+30352216966121)]and(c~=r[p(D((479272+-21820)-466609),133192+11198831870810)]and c~=r[p(D(-922984+913811),(9773193825720-(-1181226-(-153578)))-(-94119))]))then return c==r[p(D(-233801+(((((447684615673%2092042436-832532)%8840875-740284)-728620)-(-800257+1482233))+1236832)),370121+35030332333054)]or c==r[p(D(2006251103%9549960-768716),9976358375269-(-302580-622927))]end w=w+(806407-806406)end return false end local function B(o)return w..(r[p(D(-208235-(-198991)),688700+(10305460337933-(57101-389049)))]..o)end function Z.folder()return w end function Z.ensure_folder()pcall(function()core[r[p(D((899568+(58650+-708787))+-258623),((2411191-762934)-((1212736-472369)+79473))+1217019848520)]](w)end)end local function n(o)if type(o)~=r[p(D(2265222901%12044793+-811001),(82086+(-941124+147363))+15425153089226)]or o==r[p(D(1040080845%6417483+-457758),-601397+11166364806248)]then return false end if o:sub(11098321%1849720,896927-896926)==r[p(D(636328+(-194495-451015)),-574005+24011139178512)]then return false end return o:match(r[p(D(-528126-(-518903)),8037574170950-871927)])~=nil end function Z.refresh()W={}local o=I(function()return core[r[p(D((331519+-935682)+594905),650301+28720732224236)]](w)end)if type(o)~=r[p(D(-655083+645880),-67912+(16451205409160-775689))]then return W end for w=898089+(-313371+-584717),#o,(-571173+-315902)-(-887076)do local c=o[w]if n(c)then W[#W+(866107-866106)]=c end end table[r[p(D(942424+-951600),7903442970946-(-457004+1257528))]](W)return W end function Z.region_of(o)if type(o)~=r[p(D((199563+-193654)+-15086),-166271+5353425173024)]or o==r[p(D(110176+-119335),25501196232653-(-833629))]then return r[p(D((1037348+-1016601)+-29949),12540061508810-805968)]end local w=o:gsub(r[p(D(-852863-(-843636)),-186310+(((-17879-(-985427))+-1216201)+19686413637187))],r[p(D(-91484+82325),(166784+(18225948239177-(-909384)))-416004)])return r[p(D(-361132+351912),516628+31223984174286)]end function Z.apply_region(o)local w=v[o]or r[p(D(189884+-199050),((4230538892%(6035377119%24071027)-806964)+34121942251882)-(-682854+(2943016806%13498906+(220717-535354))))]U={}d=true for o=423325-423324,#W,-834072+834073 do if Z[r[p(D(-521121+511970),487130+9937037625088)]](W[o])==w then U[#U+((-261091-102573)+363665)]=W[o]end end return U end local function V()if d then return U end return W end function Z.list()return V()end function Z.count()return#V()end function Z.labels()local o=V()local w={}for c=144366702%1241025+-407801,#o,1013909-1013908 do local Z=o[c]w[c]=Z:gsub(r[p(D(-207006-(-893528-(-695712))),(-1321661-(-918273))+21021810779734)],r[p(D(-594379-(-585220)),-714814+(755378+26769408007388))])end return w end function Z.file_at(o)if type(o)~=r[p(D(((244533-(-971587+1541681))+151767)-(-164582)),((1272137516-(-593537))%7485509+15111272973690)-309128)]or o<(2451174082%14330085+-1221525)-(-491979)then return nil end return(V())[o]end function Z.index_of(o)if type(o)~=r[p(D(4985-14141),20711829038119-905487059%16749401)]then return 278933-278932 end local w=V()for c=(1369871-(-192301-(-1040767)))-521404,#w,(3293+(-151192+(-462732+(761451-610296))))+((19492-(-900514))+(-881486+420957))do if w[c]==o then return c end end return 40279+-40278 end function Z.read_selected_name()local o=I(function()return core[r[p(D(-808724+799482),8268610348029-618792)]](c)end)if type(o)~=r[p(D(634573+-643795),(454394+12839435454189)-704704)]or o<=737339+-737339 then return nil end local w=I(function()return core[r[p(D(393758-402990),-319623+((-892163+1153653)+5236565294004))]](c)end)if type(w)~=r[p(D(425927-(306670+(217930-89490))),265945+4540746093870)]then return nil end w=(w:gsub(r[p(D(711649-720821),13903570297632-397668)],r[p(D(795170+(-1306594-(-502265))),(-750201-(-43669))+338300675879)])):gsub(r[p(D(-435699-((-797034+431598)+-61025)),875812+6604370176366)],r[p(D(-548167+539008),756633+20692457608014)])if w==r[p(D(-322679+(311298+2222)),-371529+7308103871078)]then return nil end return w end function Z.set_selected(o)if type(o)~=r[p(D(26227+-35457),16279886964254-(-966476))]or o==r[p(D((-660104+(-435826-(-859566)))+227205),(-436406+201116)+12067608639373)]then return end Z[r[p(D(-794070-(-784907)),(-501911+(-512090+1366443))+30286880126480)]]()pcall(function()core[r[p(D(-553977-(-544802)),-618571+29114589455676)]](c)end)pcall(function()core[r[p(D(-559038+549873),((-724097+12165126888506)-594691)-306255)]](c,o)end)end function Z.load_file(w)if type(w)~=r[p(D(185108+-194257),-842405+22717142415182)]or w==r[p(D(471480+-480639),30164505612925-(-911719))]then return nil,r[p(D(-193004-(-183813)),-742995+19413826379927)]end local c=B(w)local W=I(function()return core[r[p(D(-523549+514306),(14693830871177-273018423%1144011)-308466)]](c)end)if type(W)~=r[p(D(453441-(-571626-(-1034314))),11338118756475-412096)]or W<=1994510340%8451315 then return nil,r[p(D((345803-(846093+-473239))-(-17881)),13936296144885-(132076-998929))]..w end local U=I(function()return core[r[p(D(-493687-(-484472)),17250521413804-(-386978))]](c,707923-707923,782102164%(904843416%21878595))end)if not R(U)then return nil,r[p(D(-767569-(-758328)),-146846+(26483042545021-812249)%13241524780342)]..w end local d=I(function()return core[r[p(D(813134-773217051%8305319),951167+31124597367829)]](c)end)if type(d)~=r[p(D(607627-616812),39655+(33666059268163-126507))]or d==r[p(D(98456+-107615),29858885247074-(-39073))]then return nil,r[p(D(692200-701448),-307046+12287585869759)]..w end local v,n=o[r[p(D(-167971+158734),858742+9047210593959)]](d)if not v then return nil,n or(r[p(D(19465+((806545+-538706)+-296510)),(((-1734328-(-972678))-(-62876))+4491758089190)-(-292407))]..w)end if type(v[r[p(D(422104-431314),420538+((124272254623%657584626)%6946796+14297898816388))]])~=r[p(D(-420954-((1639241653-(-732200))%7006417+-884004)),24722630030853-(-606738))]or v[r[p(D(284076-293273),409159+25621093199111)]]==r[p(D(-765185+756026),-919648+27782809017611)]then v[r[p(D((-214684+-601960)+807409),211252+12150342462309)]]=w:gsub(r[p(D(104901-(125492-11412)),880677+17927998088065)],r[p(D(507195+-516354),599066708011-(-1151))])end k=v Z[r[p(D(371796-381005),12172256108714-(-337199))]](w)return v end function Z.save_path(w,c,W)W=W or{}local U,d=o[r[p(D(1007532+-1016693),(33124371424747-(-120073))-(-777551-(1012539+(-11099-786169))))]](w)if not U then return false,d or r[p(D(-972450-(-963242)),(362144+-654428)+(20238519631216-893878))]end if type(c)~=r[p(D(-225081-(-215883)),20071171922958-(-293539))]or c==r[p(D(-1044129+1034970),-736645+7105390064715)]then c=((U[r[p(D(984720+-993925),75154351853329%419856716847)]]or r[p(D(-85808+76628),20615000684651-959599)]))..r[p(D(97106+(544404-650663)),12838215928946-104072)]end if not c:match(r[p(D(-563049-(-553818)),59400592705-524129)])then c=c..r[p(D(469938-479109),-352951+5032900921583)]end c=c:gsub(r[p(D(309579+-318779),5016679986307-(-54214))],r[p(D(482798+-492047),-387408+14487490590661)])local v,I=o[r[p(D(-238256-(-229028)),(3588508749132-(-316570))-(-310433))]](U)if not v then return false,I or r[p(D(931279+-940466),(665982-748206)+29672062928207)]end Z[r[p(D(-360452+351248),(-695539+(-351844+2244279578977))-99710)]]()local R=B(c)pcall(function()core[r[p(D(-684693+3590442966%14474869),23183912356884-363948)]](R)end)local n=pcall(function()core[r[p(D(-233864-(439258+(-174628+-489320))),6704215665168-(-312413))]](R,v)end)if not n then return false,r[p(D(392231-401448),4412972279472-(-22236))]..c end if W[r[p(D(-702794+693560),(6382468995879-(-297714))-(-726242-206358))]]~=true then k=U Z[r[p(D(403195-412447),-962793+626012047067)]](c)Z[r[p(D((-160754-866564)+1018061),-784883+34636927559896)]]()end return true,c end function Z.last_loaded()return k end function Z.remember(o)if type(o)==r[p(D((399007-804859)-(585538+-982240)),27184534451123-599918)]then k=o end end local function H(w)if type(w)~=r[p(D((-366391+(739835+31392))-414089),-931181+30201536949678)]or type(w[r[p(D(548605-557757),24338983834077-773503)]])~=r[p(D((-37830-(862076+((904197-907125)+-403510)))+484239),16915375517575-(-882581))]then return false end local c=w[r[p(D(482137+-491355),(858052+-698298)+12635935195952)]]or r[p(D(926266+-935413),-207861+22262344245533)]local W=c..r[p(D((-808386+(-1204874-(-1044478)))-(-959537)),15345712149811-(-693723))]local U=B(W)local d=I(function()return core[r[p(D((-108651-(-724686))+-625190),20710795592243-(-837679))]](U)end)if type(d)==r[p(D((85260+(318687+-867203))-(-454049)),-247740+15688593710771)]and d>814228+-814228 then return false end local k,v=o[r[p(D(297779-306941),(381334+-739203)+4045180698087)]](w[r[p(D(537447+-546601),23718912783004-767618)]])if not k or type(k)~=r[p(D(388011+-397237),9592569941742-(392044-(-888621+1543068)))]then return false end local R,n=o[r[p(D(938151-947318),-91214+4363866689711)]](k)if not R then(require(r[p(D(-877806-(-868570)),(-517606+(352947+1016846))+13360579286777)]))[r[p(D(-906585+((46377+164337)-(-686631))),-1046437+3376066080812)]](r[p(D(-309566+376210146%3956945),(966364+-136830)+17903280960467)]..(W..(r[p(D(1013515-(2053704-(416397-(1041684+-1656307)))),15739713100759-405323)]..tostring(n))))return false end if type(R[r[p(D(260646491%1657166+-480683),-685768+(1392+13265788293216))]])~=r[p(D(-117038-(-107792)),-591263+(3205953486546-(-523146)))]or R[r[p(D(-901503+((268402+841782)-217897)),24697533519355-661071)]]==r[p(D(-375846-(-1175604-(-808917))),-255474+29960730182085)]then R[r[p(D(-81683+1018056059%5502614),-687061+32428627944232)]]=c end local V=Z[r[p(D(-362973+353749),18690145084311-6038)]](R,W,{[r[p(D(1016028+-1025216),185559+(25011686405216-(-332548)))]]=true})return V==true end function Z.seed_one(o)local w=H(o)if w then Z[r[p(D(-27737+18538),503196+4951875847832)]]()end return w==true end function Z.prepare()Z[r[p(D(-475254-(334443-800486)),12953013419584-(1069570-936392))]]()Z[r[p(D(-628232+(588706-(791106+(215943+(-975070+-62250))))),-680858+14036815486391)]]()return W end return Z end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- Path profiles — save / load / play PathTool JSON from scripts_data
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- Files live in scripts_data/mfz_profiles/*.json (do not prefix scripts_data/).
+-- ============================================================================
+
+local path_format = require("path_format")
+
+local FOLDER = "mfz_profiles"
+local SELECTED_FILE = "mfz_profiles/_selected.txt"
+
+local path_profiles = {}
+
+local files = {}
+local view = {}
+local use_view = false
+local last_loaded = nil
+local REGION_KEYS = { "ek", "kalimdor", "outland", "custom" }
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+local function looks_like_json(chunk)
+    if type(chunk) ~= "string" or chunk == "" then
+        return false
+    end
+    local i = 1
+    while i <= #chunk do
+        local c = chunk:sub(i, i)
+        if c ~= " " and c ~= "\t" and c ~= "\n" and c ~= "\r" then
+            return c == "{" or c == "["
+        end
+        i = i + 1
+    end
+    return false
+end
+
+local function join(name)
+    return FOLDER .. "/" .. name
+end
+
+function path_profiles.folder()
+    return FOLDER
+end
+
+function path_profiles.ensure_folder()
+    pcall(function()
+        core.create_data_folder(FOLDER)
+    end)
+end
+
+local function is_json_name(name)
+    if type(name) ~= "string" or name == "" then
+        return false
+    end
+    if name:sub(1, 1) == "_" then
+        return false
+    end
+    return name:match("%.json$") ~= nil
+end
+
+function path_profiles.refresh()
+    files = {}
+    local names = safe(function()
+        return core.read_dir(FOLDER)
+    end)
+    if type(names) ~= "table" then
+        return files
+    end
+    for i = 1, #names do
+        local name = names[i]
+        if is_json_name(name) then
+            files[#files + 1] = name
+        end
+    end
+    table.sort(files)
+    return files
+end
+
+function path_profiles.region_of(filename)
+    if type(filename) ~= "string" or filename == "" then
+        return "custom"
+    end
+    local id = filename:gsub("%.json$", "")
+    -- path_catalog is gone (2.9.0): it indexed routes that were never
+    -- shipped. Every profile on disk is a custom one now.
+    return "custom"
+end
+
+function path_profiles.apply_region(region_index)
+    local key = REGION_KEYS[region_index] or "ek"
+    view = {}
+    use_view = true
+    for i = 1, #files do
+        if path_profiles.region_of(files[i]) == key then
+            view[#view + 1] = files[i]
+        end
+    end
+    return view
+end
+
+local function listed()
+    if use_view then
+        return view
+    end
+    return files
+end
+
+function path_profiles.list()
+    return listed()
+end
+
+function path_profiles.count()
+    return #listed()
+end
+
+function path_profiles.labels()
+    local src = listed()
+    local labels = {}
+    for i = 1, #src do
+        local name = src[i]
+        labels[i] = name:gsub("%.json$", "")
+    end
+    return labels
+end
+
+function path_profiles.file_at(index)
+    if type(index) ~= "number" or index < 1 then
+        return nil
+    end
+    return listed()[index]
+end
+
+function path_profiles.index_of(filename)
+    if type(filename) ~= "string" then
+        return 1
+    end
+    local src = listed()
+    for i = 1, #src do
+        if src[i] == filename then
+            return i
+        end
+    end
+    return 1
+end
+
+function path_profiles.read_selected_name()
+    local size = safe(function()
+        return core.get_data_file_size(SELECTED_FILE)
+    end)
+    if type(size) ~= "number" or size <= 0 then
+        return nil
+    end
+    local text = safe(function()
+        return core.read_data_file(SELECTED_FILE)
+    end)
+    if type(text) ~= "string" then
+        return nil
+    end
+    text = text:gsub("%s+$", ""):gsub("^%s+", "")
+    if text == "" then
+        return nil
+    end
+    return text
+end
+
+function path_profiles.set_selected(filename)
+    if type(filename) ~= "string" or filename == "" then
+        return
+    end
+    path_profiles.ensure_folder()
+    pcall(function()
+        core.create_data_file(SELECTED_FILE)
+    end)
+    pcall(function()
+        core.write_data_file(SELECTED_FILE, filename)
+    end)
+end
+
+function path_profiles.load_file(filename)
+    if type(filename) ~= "string" or filename == "" then
+        return nil, "no profile selected"
+    end
+    local rel = join(filename)
+    local size = safe(function()
+        return core.get_data_file_size(rel)
+    end)
+    if type(size) ~= "number" or size <= 0 then
+        return nil, "profile missing: " .. filename
+    end
+    local header = safe(function()
+        return core.read_data_file_partial(rel, 0, 64)
+    end)
+    if not looks_like_json(header) then
+        return nil, "profile is not JSON: " .. filename
+    end
+    local raw = safe(function()
+        return core.read_data_file(rel)
+    end)
+    if type(raw) ~= "string" or raw == "" then
+        return nil, "failed to read " .. filename
+    end
+    local path, err = path_format.normalize(raw)
+    if not path then
+        return nil, err or ("bad path: " .. filename)
+    end
+    if type(path.id) ~= "string" or path.id == "" then
+        path.id = filename:gsub("%.json$", "")
+    end
+    last_loaded = path
+    path_profiles.set_selected(filename)
+    return path
+end
+
+function path_profiles.save_path(path, filename, opts)
+    opts = opts or {}
+    local normalized, err = path_format.normalize(path)
+    if not normalized then
+        return false, err or "cannot save path"
+    end
+    if type(filename) ~= "string" or filename == "" then
+        filename = (normalized.id or "path") .. ".json"
+    end
+    if not filename:match("%.json$") then
+        filename = filename .. ".json"
+    end
+    filename = filename:gsub("[^%w%._%-]", "_")
+    local json, enc_err = path_format.encode_json(normalized)
+    if not json then
+        return false, enc_err or "json encode failed"
+    end
+    path_profiles.ensure_folder()
+    local rel = join(filename)
+    pcall(function()
+        core.create_data_file(rel)
+    end)
+    local ok = pcall(function()
+        core.write_data_file(rel, json)
+    end)
+    if not ok then
+        return false, "write failed: " .. filename
+    end
+    if opts.quiet ~= true then
+        last_loaded = normalized
+        path_profiles.set_selected(filename)
+        path_profiles.refresh()
+    end
+    return true, filename
+end
+
+function path_profiles.last_loaded()
+    return last_loaded
+end
+
+function path_profiles.remember(path)
+    if type(path) == "table" then
+        last_loaded = path
+    end
+end
+
+local function seed_entry(entry)
+    if type(entry) ~= "table" or type(entry.module) ~= "string" then
+        return false
+    end
+    local id = entry.id or "path"
+    local filename = id .. ".json"
+    local rel = join(filename)
+    local size = safe(function()
+        return core.get_data_file_size(rel)
+    end)
+    if type(size) == "number" and size > 0 then
+        return false
+    end
+    local raw, err = path_format.take_module(entry.module)
+    if not raw or type(raw) ~= "table" then
+        return false
+    end
+    local path, err = path_format.normalize(raw)
+    if not path then
+        require("actlog").console_warn("[Master Farmer - Zygor Forever] Profile seed skip " .. filename .. ": " .. tostring(err))
+        return false
+    end
+    if type(path.id) ~= "string" or path.id == "" then
+        path.id = id
+    end
+    local saved = path_profiles.save_path(path, filename, { quiet = true })
+    return saved == true
+end
+
+function path_profiles.seed_one(entry)
+    local wrote = seed_entry(entry)
+    if wrote then
+        path_profiles.refresh()
+    end
+    return wrote == true
+end
+
+
+function path_profiles.prepare()
+    path_profiles.ensure_folder()
+    path_profiles.refresh()
+    return files
+end
+
+return path_profiles

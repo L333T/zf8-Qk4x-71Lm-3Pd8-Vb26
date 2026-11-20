@@ -1,1 +1,123 @@
-return(function(...)local m={"/CIrxMIa=","/PUNfT5==";"/tLFX5pN=";"/uQAFNBZ=";"/tNrt6X+b91==","/VsXyRTj=";"bj=]Y/","bi9qgA";"b#80T";"b2[Nh9","/eeOjGe39";"bk`dd";"b\"%msj";"/YLFLh9hP8j==";"/izpqed7=","/JD2b9TFwQ5==","/E99yLtSyM6/N5vS=";"bA7k-";"bRC1:n.`E";"bJ8Gm","/xqUUwc==";"/ldx5LDN=","b\"f@ad","/j6tLweKZT5ZpOlLFc1==","b2:","/bjHK9DW8","b^7c)H/WH";"/XBO3iXv8/nmxen0=";"bZ$\"26!\'61f7CfbO&=e";"/qno+Za0=";"beL_n7","/hy6dwUBX1j==","/NsZS+7zDnJMv";"b2SCe","/3d4X3wg=";"/p1z5eyp3","/Aj==","/H0TlE8NvkrFtwbK=";"b!H7#\\,*@X","b@1gjCP(","/os5Sx1==";"/","bT1c:5QRri$";"/Nzr3ediW","b\"Hc+j"}for j,d in ipairs({{((3966557676158%73454994721)%(149269758774%1022501696-(303960+2765147998)%14943462))%10241404,1058520106%6079627+-664963};{69061+(930544+-999604),-875895-(-1303108-(-427200))};{-1017403+3202217262%15615609;(1078495-989217)+-89233}})do while d[-459155+459156]<d[201747444%3253991]do m[d[-54158+54159]],m[d[950886+-950884]],d[808907-808906],d[114828+-114826]=m[d[-828701+828703]],m[d[((1509761-(-372198))-(-787182+1806057))+(-185837-677246)]],d[1275340066%5426979]+(642177-(486650-(-155526))),d[519384+-519382]-(-539226+539227)end end local function w(j)return m[j-(145867+-90743)]end do local j=string.sub local d={n=1545366057%6689896;["]"]=2013898191%(420403922%4663317+9673673)+-359543,["`"]=870191-870122;p=-807843+807880;L=(32652292841%466606857)%2834905,l=162275500%5409181;S=587226+-587212;G=1551516415%10009783,["#"]=((602211+-1449047)+1174672)-1288902548%9688532,Y=671865-(-488664+1160472),["/"]=859417-859340,U=250864-(-562902+813710);["&"]=(207505827-(-542257+472563))%7413411,T=1500481725%9205409;["\'"]=(1272148895-(-380222))%(2241704091%12821379),c=-554337-(-554355),X=-1016605+1016689,["%"]=49535948%(-254489+2318486),P=819213-819194,["7"]=-663541+2142724781%12600360,Z=-533182+304810321%(15400602-911218),u=928250+(-1747500-(-819293));O=-899610-(-899627),["+"]=-63790-(-63796);["8"]=1108129647%13850126-119484,e=-633713-(132797-766510),m=(-398869-(-397726))+1214;[")"]=-386901+386934,a=-658503+658528;f=633567380%((1490194302-378145)%11884739),r=-215664-((1105361-634589)+-686441),["<"]=1324261819%(-187880+7157679),["1"]=(36419+773607)+(-486293-323670);[","]=448006976%2000031,["!"]=-240752-(416294+-657076),["\""]=242736+-242705;M=-779586+4086716986%17240242;i=(1523909505-(1999196-950727))%(-541906+(-532970+9306557)),["2"]=373426394%3086168,["6"]=417646973%16705876;["5"]=(834422-828769)-654543966%10069821;["["]=-452387-(-452469),["4"]=1292231616%5873780,["@"]=1000602+-1000542,["9"]=241307+-241303;A=1146151014%12595066;b=-856147+856223,t=411713469%3216511;C=(533864+-185273)+-348527,H=-896877+896932,["0"]=-231474-(-231516),q=(1230303561-(-550968))%13378853,j=-1044778+1044789;V=524010+-523962,["$"]=829030-(445936-(-383045));g=-378200+378229;[">"]=907255+-907254,I=-788914+788948;h=494287389%1975270+-469862;F=585579133%9925069,["."]=1745656187%(9435557-(-120670-(-1150576-(-376743+1147378260%(1623612071%((-422071-336170)+13492126))))));R=-427625+427661,["?"]=-1007852-(-1007864);[";"]=838497+(-120125-718351);["-"]=-31720+31748,["\\"]=(-420347-(373783-(-132452)))-(-926647),d=-368731-(-368805),[":"]=(-60005-(-915312))+-855235,N=-891371-(-891397),s=(-594502-(-455006))+139519,_=216169+(-757927-(-541826)),["3"]=274518-274439;K=258979+-258964;k=1916635181%11831081;["="]=570380-570339,J=(-327268+548914)-221592;W=-906839-((-779905+(-40876-(-139067)))+-225203);Q=635281-635234;D=1375940117%8093765,E=-339192+(-466520-(-805714)),B=837238962%5508151,["("]=28931404%14465690;o=(528805+750283980)%12109883,["^"]=1958739747%(10077259-(-989067)),["*"]=292694400%(788572+2614851)}local u=m local A=table.concat local o={A=(2417718869-(2689132188-(124374-408518))%16099006)%13063981,l=547387888%(3406480-(-362780))-845185;["/"]=-523916+523945,m=(556075144-(-594079))%7522557;["3"]=824531-824486,r=173885685%14490472,["1"]=13180352%495573-295438;y=(-399018+-428615)+827696;Y=1294758196%9883650,b=175792803%(183248+751820);C=-824966-(-825002);["9"]=1674482649%12312372,v=337893+-337876;["4"]=907880-(2552528565%10009547-(-813756));T=371581526%6091500,g=-611388+611444;c=177444%88722;O=582890027%(523849+6853151)+-106966;n=2250339090%14153076;W=418826137%7615020,Q=-794579+794581;["6"]=(-721937+4090)-(-717878);a=-275059-(-275083),["0"]=44156-44136,q=-573505+573552,x=(323152+-959671)-(-636553),L=(-710014+(985597707-347577)%6786285)-528777;f=140869-140856,t=141046-141035;G=783303425%5889499;p=90732823%8248434,D=-726847-(-726898);N=1166491836%(3172026954%((12294414-(-787474))-612111));J=3214340611%(((-252116-259542)+(220134+4608489797%19139730))-3641043620%14560704),X=1862773606%15394823,["8"]=330275+-330242;i=(-952004+888227)+63802,["7"]=((346011714984%2907674494)%16602959+-877906)+271047;B=-722643-(-722696),V=-469371+469421;K=(1484878-466767)+-1018059,h=1361083179%16203371;E=289989523%4833158;["+"]=123438+-123429;d=775848-775793,["5"]=70968112%887101,w=1505217688%11317426;["2"]=-1038369-(-1038408),s=(667291+700685168674%3503445917)%14894036;z=83505+-83467;S=(31295+(270498-(701070+-83609)))+315728,e=36275819%(9116859-(412036-364125)),I=-777006+777041;R=-416814+(-332666+(-126052-(-875574))),Z=659790298%3706687;o=(805139+2969120702)%(3524696859%23572632),j=3049126018%16481762,u=348092+-348052;P=1042938+-1042931;H=16524-16506;U=-859080+630454498%6172504;k=792943490%5251281;M=469714-(274746+194964),F=-943856+943897}local s=string.len local k=math.floor local b=string.char local U=type local G=table.insert for T=-437132-(-401329+-35804),#u,43172-43171 do local B=u[T]if U(B)=="string"then local U=j(B,-345493-(-345494),260089-260088)if U=="/"then B=j(B,544276076%5790171)local d=s(B)local U={}local H=2755403281%13120968 local C=182734+-182734 local x=238167648%(516493+1964420)while H<=d do local u=j(B,H,H)local A=o[u]if A then C=C+A*((1453523092%5699569-132933)^((2824993447%15521942-x)))x=x+234140371%15609358 if x==(642633831277%(423728+3228934536))%12832251 then x=482164824%10481844 local j=k(C/(((747645-693808)+-132390)+(-560489-(-704578))))local d=k((C%(((-277468+(108750+((999442+-1177945)+(-389607+778807384))))-(-620332))%3604747))/(1853085997%12272091))local u=C%((25223+-356215)-(-331248))G(U,b(j,d,u))C=2261235936%9192016 end elseif u=="="then G(U,b(k(C/(-364015-(-574824-(-305551-(-898413+738135)))))))if H>=d or j(B,H+(-584035-(-584036)),H+((-102180+-893627)-(702077+-1697885)))~="="then G(U,b(k((C%(526288-460752))/(37949-37693))))end break end H=H+(-14750-(-14751))end u[T]=A(U)elseif U=="b"then B=j(B,734160+-734158)local o=s(B)local U={}local H=-5633+5634 while H<=o do local u=(o-H)+(-948918-(-492497+-456422))local A=u>=-691676-(-691681)and-884299+884304 or u local s=(699091860-385188)%(-253139+2014145191%18012033)local T=A>(147691876232%900568841)%4967708 for u=928041220%10918132,2622589404%13112947,-207762-(-207763)do local o if u<A then local A=j(B,H+u,H+u)o=d[A]if not o then T=false break end else o=247639-247555 end s=s*(-52487+52572)+o end if T then local j=k(s/(2024776998%29970146))%(-905231-(-905487))local d=k(s/((302897-925420)-(-1514669-(-826610))))%(1829357436%((-362403+-169663)+9865521))local u=k(s/(745455+(231440-(1092945-116306))))%((-462105+((-524462-((-1409791-((-1460561-(659806+-1112493))-(10015+-745902)))-(-247605)))+588151))+-491527)local o=s%(-90735+90991)if A==914499095%4417870 then G(U,b(j,d,u,o))elseif A==639847-639843 then G(U,b(j,d,u))elseif A==-466763+466766 then G(U,b(j,d))elseif A==-664122+664124 then G(U,b(j))end end H=H+A end u[T]=A(U)end end end end local x,C do local j=table[w((18424048233%146320445)%5580728)]local d={}local u=math[w(22906628%408062)]local A={}local o=string[w(730760-675600)]local s=580140502%2320562 local k=math[w(3495238836%16720072-688636)]local b=-930653-(-930653)for j=459320-459319,863503+(-64732+-798515),348595189%2744844 do d[j]=j end repeat local s=u(88726537%607716,#d)local k=j(d,s)A[k]=o(k-((-607250+648611029)%(3059683258%((173492826154%1522001817)%25269081))+-13246))until#d==-441870-(-441870)local U={}local function G()if#U==415530-(-511926+927456)then b=((b*(127815-127630)+(14157063219906-(-482959))))%(-428212+35184372517044)repeat s=(s*(56858950%14214735))%(865054772%4436177)until s~=-961756+961757 local j=s%(169641570%15421958)local d=1768019725%6906327-((s-j))/(11745-11713)local u=(k(b/(88045309%12577901)^d)%(943561666198%(483530360895%4317313496)))/(628665-628663)^j local A=k((u%(3430725633%13401272))*((412952204560-47414)%4301654630))+k(u)local o=A%(1403278562%12873514)local G=((A-o))/(113259345%1594279)U={o%(-974430+974686),((o-o%(828581521%6137639)))/(719125+-718869);G%(-290486-(-290742)),((G-G%(989987+-989731)))/(241515-241259)}end local j=#U local d=U[j]U[j]=nil return d end local T={}x=setmetatable({},{[w(-708654-(-616171-147614))]=T,[w(951850-896685)]=nil})function C(j,d)local u=T if(u[d])then return d else U={}local o=A b=d%(35184372461662-(-163229+536059))s=d%(-979669+979924)+2657726778%(12800263-380979)local k=#j u[d]=w(((-145596-(-619234))-(-64285+295185))+-187604)local T=20252001%382110 local B=w((342846924666%1530630339)%11231881)for d=(475209-917261)+442053,k,586449769%6374454 do T=(((string[w(-120953+176090)](j,d)+G())+T))%(-901285-(327405+-1228946))B=B..o[T+(-412199-(-412200))]end u[d]=B end return d end end local j=require(x[C(w(-809426+864574),20108363143121-(3376381719-(-659719))%17314210)])local d={}local u={}local A,o,s=false,{},-663838-(-663838)local k,b,U=nil,1009700-(1585608651-(-576734+(-768641+622813)))%(15267078-(-124393)),-962262+962262 local G=nil local T=-207008+715845538%5421504 local B=nil local function H(j,...)local d,u=pcall(string[x[C(w(((536696+-479592)+902440465)%(15149231-(-146403))),-386925+7285753848029)]],j,...)return d and u or tostring(j)end function d.start(d)j[x[C(w(-780103+2438027720%15044398),31759103081788-645318)]]({[x[C(w(414811-359642),564626+41440733903146%246671096003)]]=x[C(w(((-587334+-431115)+656773)-(-416837)),133406+34160259804677)];[x[C(w(610390993%((33110+-1045858)+8455868)),(-505374+-248142)+(32107690183473-222829))]]=d})end function d.set_context(d)j[x[C(w(((172062136959-(-815837))%(144240555261%1254408536))%8035263),33218135926908-(-27718))]](d)end function d.set_env(d)j[x[C(w(-992065+1047216),((178634+(-655968+(11976703020035-720042)))-(-390047-319203))-(-854276))]](d)end function d.set_beat_extra(j)G=j end function d.set_mem_extra(d)B=d j[x[C(w(62936721%258772),140949679%10020000+31849612906460)]](d and function()local j,u=pcall(d)return j and{[x[C(w(741546+-686400),-744119+28189107824601)]]=u}or nil end or nil)end function d.error(d,u,A)j[x[C(w(-431402-(-486545)),-192623+129492056331)]](d,u,A)end function d.warn(d,...)j[x[C(w(-493626+548794),-231334+18036757437930)]](x[C(w(-831905-(-887054)),828957+25066588206779)],H(d,...))end function d.info(d,...)j[x[C(w(112939783%4180913),15089258775017-(-923035))]](x[C(w(130738259%634384),1.7483987043768e+14%2689844414930)],x[C(w((-355872-(-655585-50023))-294578),-555346+26255692940702)],H(d,...))end function d.trail(d,A,...)local o=H(A,...)d=tostring(d)if u[d]==o then return end u[d]=o local s=o:match(x[C(w(79533-24403),22903602120566-(-915650))])s=((s and#s<=295067+-295049))and s:lower()or x[C(w(-246326-(-301485)),21876360667666-61705)]j[x[C(w((229871-923237)+748506),-959152+34198982175480)]](d,s,o)end function d.guard(d,u,...)return j[x[C(w(1545915177%8833486),((17797720575106-361068)-1791912516%((-362977+-246118)+9222689))-(-1000128))]](d,u,...)end function d.arm(j) end function d.arm_light(j,d) end function d.frame() end function d.spike_begin(j) end function d.spike_end() end function d.probe(d)d=tostring(d)if d==x[C(w(666376-611247),(24424620166470-986025)-((587293-(-270969))+-962363))]then return end j[x[C(w(((-261874-(-289739))+639229)+-611927),(-611152+35103818529178)-428248)]](d)if A and s<-1013343+1013391 then s=s+656992693%4006053 o[s]=(d:gsub(x[C(w(877543-822417),480907+10150726558004)],x[C(w(266945328%9884822),-161964+(25855864438031-(-83164)))]))end end function d.tick_begin()A=true s=(400743-898569)-(-497826)end function d.tick_end()if not A then return end A=false if not j[x[C(w((-245131-618799)-(-919072)),34994583849072-(-320763))]]()then return end local d=x[C(w(1892500334%(-64425+9295865)),742308+12417237344805)]if type(G)==x[C(w(2804225725%11983635),3074523850773-1030807)]then local j,u=pcall(G)if j and type(u)==x[C(w(226785-260833267%(5910052-((645200+-988242)-606423))),445033+(-536047+7059759880707))]then d=u end end local u=table[x[C(w((967563-193695)-718740),33182530240009-749968)]](o,x[C(w(512433641%(5060776039%22135649)),33902535366984-(-410108))],1748567320%12579621,s)..(x[C(w(104670+-49513),153480+(30187260646685-((-863344-278694)-(-383647))))]..d)local B=306012700%1336300 pcall(function()B=core[x[C(w(418247645%3801750),7373737096449-(-14791))]]()end)if u==k and(B-b)<T then U=U+686919153%(895244+15079620)return end local H=U k,b,U=u,B,69975-69975 j[x[C(w((-947856+239908)-(-763086)),666108+2770215665894)]](x[C(w(-557709-(-612848)),-986032+34481745813193)],x[C(w(109249430%3736027-849514),7868686512767-41544)],u,H>(((-877524-63424)-(-150447))-(119663218-(-18297))%948063)+1016078 and{[x[C(w(485334+-430168),1596176969498-491913)]]=H}or nil)end function d.tick(d)j[x[C(w(1076999-1021855),19287209270736-(-29169-927944))]](d)end function d.path()return j[x[C(w(732682+-677535),2035422437607-674779617%11623847)]]()end function d.stop(d)j[x[C(w(1253503348%5379606),12350619069299-(-659266+1035774))]](d)end return d end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- errorlog: the call surface every module already uses, now writing the
+-- JSON-Lines action log (actlog.lua) instead of a text file
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- Replaced in 1.75.0 (user: "replace all of the logging options with a new
+-- logging method that records actions in a format that can be fed into Claude").
+-- The old text log, its three recorders (full, light, crash capture), the heartbeat
+-- and the memory/CPU lines are gone; the ~120 call sites keep working because
+-- they still call errorlog.trail / info / warn / error / guard / probe ... and
+-- those now record structured events:
+--
+--   errorlog.trail(tag, fmt, ...)  -> event cat=<tag> ev=trail   (only when the
+--                                     text changed since the last one of that tag)
+--   errorlog.info / warn           -> cat=log ev=info / warn
+--   errorlog.error / guard         -> cat=error ev=lua_error with traceback, the
+--                                     context snapshot and the last stages
+--   errorlog.probe(tag)            -> the stage ring buffer (every error carries
+--                                     the last 48); verbose mode also writes them
+--   errorlog.arm / arm_light       -> nothing (the ring buffer replaces the recorders)
+--   errorlog.tick_begin / end      -> verbose: one "beat" event per bot tick
+--
+-- NOTHING HERE MAY THROW: it runs inside the error path.
+-- ============================================================================
+
+local actlog = require("actlog")
+
+local errorlog = {}
+
+local last_trail = {}
+local beat_on, beat_tags, beat_n = false, {}, 0
+local beat_last_body, beat_last_t, beat_same = nil, 0, 0
+local beat_extra = nil
+local BEAT_SAME = 2.0
+local mem_extra = nil
+
+local function fmt(f, ...)
+    local ok, text = pcall(string.format, f, ...)
+    return ok and text or tostring(f)
+end
+
+function errorlog.start(version)
+    actlog.start({ product = "Zygor Forever", version = version })
+end
+
+function errorlog.set_context(fn) actlog.set_context(fn) end
+function errorlog.set_env(fn) actlog.set_env(fn) end
+function errorlog.set_beat_extra(fn) beat_extra = fn end
+function errorlog.set_mem_extra(fn) mem_extra = fn actlog.set_extra(fn and function()
+    local ok, s = pcall(fn)
+    return ok and { mem = s } or nil
+end or nil) end
+
+function errorlog.error(where, err, tb) actlog.error(where, err, tb) end
+function errorlog.warn(f, ...) actlog.warn("log", fmt(f, ...)) end
+function errorlog.info(f, ...) actlog.event("log", "info", fmt(f, ...)) end
+
+--- A breadcrumb. Written only when it differs from the previous one with the same tag.
+function errorlog.trail(tag, f, ...)
+    local text = fmt(f, ...)
+    tag = tostring(tag)
+    if last_trail[tag] == text then return end
+    last_trail[tag] = text
+    -- ev = the first word of the text ("queued", "looting", "engage", "move_to", "arrived" ...), so a log can be
+    -- filtered by what happened; "trail" when the text does not start with a word
+    local ev = text:match("^(%a[%w_]*)")
+    ev = (ev and #ev <= 18) and ev:lower() or "trail"
+    actlog.event(tag, ev, text)
+end
+
+function errorlog.guard(where, fn, ...) return actlog.guard(where, fn, ...) end
+
+-- Recorders: replaced by the stage ring buffer every error event carries.
+function errorlog.arm(why) end
+function errorlog.arm_light(seconds, why) end
+function errorlog.frame() end
+function errorlog.spike_begin(group) end
+function errorlog.spike_end() end
+
+function errorlog.probe(tag)
+    tag = tostring(tag)
+    if tag == "-" then return end
+    actlog.stage(tag)
+    if beat_on and beat_n < 48 then
+        beat_n = beat_n + 1
+        beat_tags[beat_n] = (tag:gsub("^u:", ""))
+    end
+end
+
+function errorlog.tick_begin()
+    beat_on = true
+    beat_n = 0
+end
+
+function errorlog.tick_end()
+    if not beat_on then return end
+    beat_on = false
+    if not actlog.verbose() then return end
+    local extra = ""
+    if type(beat_extra) == "function" then
+        local ok, s = pcall(beat_extra)
+        if ok and type(s) == "string" then extra = s end
+    end
+    local body = table.concat(beat_tags, ">", 1, beat_n) .. " | " .. extra
+    local now = 0
+    pcall(function() now = core.time() end)
+    if body == beat_last_body and (now - beat_last_t) < BEAT_SAME then
+        beat_same = beat_same + 1
+        return
+    end
+    local same = beat_same
+    beat_last_body, beat_last_t, beat_same = body, now, 0
+    actlog.event("tick", "beat", body, same > 0 and { same_as_before = same } or nil)
+end
+
+function errorlog.tick(now) actlog.tick(now) end
+function errorlog.path() return actlog.path() end
+function errorlog.stop(why) actlog.stop(why) end
+
+return errorlog

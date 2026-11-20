@@ -1,1 +1,227 @@
-return(function(...)local E={"y.MX^4idAZasKr";"yoY]6","y>l1A_<ZqJ";"(4OHWaJe64ICr";"ym\".D>kn","ycnNI=:a4<H";"(9lvfEYQI5GBY+M9QBB+S";"y_/WMB^!3>h";"y(^XUZUUnWPRsA","(pknRQFrkDrU=","(N9R6fKqyr5Py";"yAAq/:RK";"y!0L&jE:N-","(4OzqPQGkObf=","(pqOPstTg";"(Y72e";"yZLlWp\"\'";"(s5eklS27vIU=","(/q4V+DUrRj3AllU=","(","(281kMsm7I6YR";"yGP?+YB*S";"y<90Pp#eIBZ","(sH195g1QL1cDysP1G4d04yvIac6TvorFz1E/7mzm/ofXIzth0+goaLN+PK8+JIFLIPBHPVdwaRcii7ALrv5BzsK6gmNvvD7YC697m167Fn3+QSbYig7yG1p7oU4wDqzsuLWV//s50xlg5bWwtwUXxO++EQLaFvSwsq==";"ymjq$_7a\"","yt+4_uN,)\\ak$at?","(pp3TQRDQgcA3";"y%B","(WbvTVYETtl6=";"y&W%<&l7";"yeB1;,q3%4CZA52`cMuIa","y@^";"y\'-*tFlt)","yZMS+#XGGC>";"y4YGf$\'Dg!pA^b8";"yD?QBO=>Q,,K>[#";"(C1eCnE==";"y6cn0_,qrf";"y+4(&WGHGo)uhQiiNo@","(p84wjLUg0Gr=";"yR8j2?;\"e";"(fh7fFsQLnsL=","(sXry+4dYj0X=","(5+i7hSGJ","yu_C)sD/LNpHe]GS0EkPHo#8#Z89\"8","(C/2/SIBOSx5GIJK1HFoNKIEAPGH2zltmAst=","y!0LWNT\"\'5H)i<t","(ful5dhFo","(jfPut/O5sHXP";"(BHwFdeUlOCy8k/aSYhD=","ym1O>bliWTr+KY;*3fj?_6#i5mN`N*\'=$","yKj<#5aq2";"(4h89PD5Kuqf=","(25+zNuGjnf/Af8u4XonylXCRxvSp0G9=","y8#/jr.P0e)5C%;3","yVn:\\TrReghiRPs1K\'Bja1K!fU";"y;]((K";"(b1g8O8GZ/EBwxcd=","yLkBP","y5..4W\"\'9\\P","(KXYrcxE=","yE4O\"Mm+";"y)0f=b","y)sN#%","(uY2LLsd=";"(iMJeXbr=";"y>4?)WQJeU:`DGA_BS%R0,-[";"(tSKJWzOk";"yZ?_C:A&jh2@S**U^a;KDmF3","(vlVglDcbBtq=","(bwoPlze4kao="}local function m(g)return E[g+(-590368-(-849765+229004))]end for g,k in ipairs({{-895825-(-895826),-17505+17576};{(-1006839+47934)+958906,17109-648854266%4701719},{-894907+894973,1004117+(694691+-1698737)}})do while k[538330+(856225+(-595504-799050))]<k[-714798-(-197782+-517018)]do E[k[((568877432-72517)-(-266950))%6053956]],E[k[-520901+520903]],k[859994-836208217%8701544],k[869451-(981457-(867795+-755787))]=E[k[(143349878903%1016696486)%5300371]],E[k[(453099899%16142639-939784)-166222]],k[380100-380099]+(-543922+543923),k[-404793-(-404795)]-(15071200059%295683253)%3417112 end end do local g=string.len local k=type local A=E local T=table.concat local N=string.char local j=string.sub local O={["-"]=1806982137%11364667;r=-952026-(-959965-(-7877)),B=52507005%7500990;U=-331182+331229,S=602905-602877,c=-750848-(-750891);["!"]=935265-935235,K=1624652386%7699774;[">"]=115567+-115555;M=-122800-(-122807);["."]=-619042+619108,R=((-364857+367111)-(-750340))+-752573,["\""]=-417322+417356,Q=837693104%(3819484197%(913312+(921341+3002081808)%16146552));["/"]=1422401619%(4549304-(-1006952)),n=-922063+922104;F=500495710%9268438,W=(-1013093+4129137004)%16188721;o=-140974+18821904%934043,X=-669604-(-669627),H=-10834+(223120345476%1957273139-(-422304))%8223174;["+"]=1294519046%12447298,["*"]=(70180214-(-538986-484535))%613825,["5"]=-639940+(585213+54751);q=855303-855288;[","]=(2867824407-(-456942))%12580181,k=985970887%8285469;["`"]=146888+-146842;C=-940764-(-940806);["\\"]=(-990874+1387800)-396849;["9"]=105347396%1333511;I=(-1008570+(-7734+763024))+253306,g=7807865%433770,["("]=1040599-1040532;["["]=280059-279988;["\'"]=1347272253%12831164,["@"]=54489-54472;G=1164160993%13381160;["2"]=-434567-(-434615),s=(988958211-(-619767))%(-573053+(-566403+6240373)),["4"]=509069+-508991,e=-485090+485119;["?"]=2457221521%13882607;u=185235+-185196;[")"]=(638492+-1625624)-(-987163);["#"]=543037+-543012;["]"]=(897960495%6366174+945249327)%15251278,l=243544+-243485,["%"]=2160783178%8440559,N=-987854+987914,["&"]=-958817-(-958861),["="]=-272435-(-272441),i=-835749-(-835802);Y=141944510%9462966;["$"]=(46146466456%1538725055)%11541211;["6"]=(18529970068%97604693)%2234676,O=955447-(-973185+((-863172+979292)+1812504));a=-386068-(-386072);J=519224+-519179;h=286584-286584;t=-847168-(-531974+-315245);b=763323686%3220775;f=206595732%1154166,["3"]=(54893+2227596031)%(2948466559%29342777);["^"]=-513496-(-513498);["<"]=429550-429481,["1"]=(976943+-1087575)-(-110695);d=533319722%2141846,V=(453225454%6657847-2056374855%(3732008254%25656966))-49184,p=802323-802266;["0"]=-628221+628276;["8"]=1089946381%13796789;Z=103417657%425587;E=((60476435630-(-359162))%629972376)%7867738,[":"]=-620687-(-620709);P=-740303+740352;T=814397+-814360;m=3935722964%16130012;j=945517-945452;_=-275391+275401;L=500448-500408;D=-847224+847227,[";"]=-208215-(-208279);A=(527991+(-210176+-527734))-(-1210064-(-403761+-596371));["7"]=1030699498%8962604}local n={z=-302511-(-302517),M=1623659209%(2829390332%17519171-(-636078)),J=-1043868+(489642-(-554272)),A=291309053%1361257,I=862854-862847;a=327588+-327551;Z=284551+-284509;N=573025632%5405902,["8"]=417519-417468,x=230962585%6077962,q=(-608996-(-295492))+313536,["+"]=830163+-830144;k=-357446+1873334520%(((-110825+-912611)+1443995)+15058590);U=246863525%3476951,v=-177039-(743901-(432116+488877));Q=4188982791%16557244,g=(1427217873-(1554279-(221919912%1738435-319846)))%8805447;m=-670850+670861;f=754036012%5200248;r=-496900-(-1500676-(-1003768));O=47206880%223729,["/"]=630503+-630473;Y=593147-593145,K=367526575%1446955,t=-155344+155372;D=592294852%4776571,B=774801+-774784;b=285029-284993,e=-263030-(-263064);["0"]=-851705+(-142100+993832),o=964265-964241;y=-187722-(474877+-662642),E=-32045+32045;["3"]=146442-146430,["6"]=89626+-89610;W=(906366659-326174)%13939084,R=-254262+254320;["1"]=473609+-473600;L=-463706-(-463750),d=-335850+335906;j=647207+-647194,T=577085+-577070,c=1628338634%12923322,F=2668866451%13212210,["4"]=-944205+944240,C=-996644-(-996666),s=-42559-(-42606),V=2058744626%10830446+-959836,u=-307922-(-307971),S=((547014-(-210173))+323457807)%3178578,["9"]=865374640%10426200;w=725061+-725028;["5"]=(431523+(-795767+501867292)%12214469)+(1033114+-1742930),n=(672967727-(-750392+595865))%(2794413473%20063339),h=296021+-295982;p=-756364-(-756418);X=908896460%(453760772%19296270-857598),l=-631595+631636;P=2424018903%15150118;["7"]=(261406063%((-857087+6961203)-195876)-1015150)+(-1296818-(-868475)),["2"]=369531+-369505,i=(702648+(-796798-474294672%2722538))-(-917638+250371),H=322868-322850,G=113417739%2223876}local W=math.floor local I=table.insert for d=109555120%4057597,#A,(-570361+1121708)-551346 do local Z=A[d]if k(Z)=="string"then local k=j(Z,903587+-903586,-981903+981904)if k=="("then Z=j(Z,2958164633%12173517)local k=g(Z)local O={}local u=-481609+481610 local f=-742857-(-742857)local x=163352-163352 while u<=k do local g=j(Z,u,u)local A=n[g]if A then f=f+A*((328614900%8014996)^(((975691+-975688)-x)))x=x+(34237017-714466)%549550 if x==(942887+-1305584)+362701 then x=759485846%3191117 local g=W(f/(399388+-333852))local k=W((f%(117420-975379614%9201205))/(764692-764436))local A=f%(181430-181174)I(O,N(g,k,A))f=391375177%3799759 end elseif g=="="then I(O,N(W(f/(1013427-((7061513794006%39895571387)%184743523)%1316218))))if u>=k or j(Z,u+(926123+-926122),u+712675105%4688652)~="="then I(O,N(W((f%(926720-861184))/(-514906+515162))))end break end u=u+(((-503284+-698039)-(-403708))+797616)end A[d]=T(O)elseif k=="y"then Z=j(Z,-526523+526525)local k=g(Z)local n={}local u=1797758915%14155582 while u<=k do local g=(k-u)+(1173582891-350074)%(6128808-349336)local A=g>=-979293-(-1964581-(-985283))and 207437+(-739527+532095)or g local T=(12438952155%415042227-(-922696))%13453926-32488 local d=A>(((178412997205-948541)-617782)%1055709816-(194039-790384))%5752886 for g=(-461272+(-197521+((-370698+(188867+61276431249%241280022)%6630447)-498948)))+819534,132755-132751,630193851%(5877480-1029835)do local k if g<A then local A=j(Z,u+g,u+g)k=O[A]if not k then d=false break end else k=1644059788%7576312 end T=T*(-279105+1120358241%8421647)+k end if d then local g=W(T/(1645237204%31930588))%(-845366-(813365+-1658987))local k=W(T/(629527264%9991456))%((-11608-31558)-(-65000+(927262+-905684)))local j=W(T/(-24069-(747983-772308)))%(-965489+1145967051%11225503)local O=T%(232373779%1282998-150885)if A==-754957+754962 then I(n,N(g,k,j,O))elseif A==3574183444%14892431 then I(n,N(g,k,j))elseif A==1738920561%8125797 then I(n,N(g,k))elseif A==856511-856509 then I(n,N(g))end end u=u+A end A[d]=T(n)end end end end local e,i do local g=-321701-(-321703)local k=math[m(147673-386145334%10157035)]local A=string[m((240919+-143731)-127523)]local T=table[m(-187861+157487)]local N=870783+-870783 local j={}local O={}local n=math[m(-198726+168389)]for g=-787171+379682288%11143974,541300-541044,(1544336393-(-577706))%14999166 do O[g]=g end repeat local g=k((849835+(-1110388-780729))-(-1041283),#O)local N=T(O,g)j[N]=A(N-(((-1586923-(-381976))-((-371697+966089)+-885745))-(-913595)))until#O==-412463+412463 local W={}local function I()if#W==368680740%12289358 then N=((N*(866090-866057)+(12862794048640-543871)))%(-909356+35184372998188)repeat g=(g*(125383760%1171810))%(-825553-(-825810))until g~=647752-(-632802+1280553)local k=g%(-824808+824840)local A=635118367%(437884267%(9539752-280814))-((g-k))/(139595502%13959547)local T=(n(N/(-599257+393122459%12266350)^A)%(4293992357-(-974939)))/(1239451170%8154284)^k local j=n((T%(-787809+787810))*(4295195174-227878))+n(T)local O=j%(3291122734%14064347)local I=((j-O))/(2538756100%13648874)W={O%(58791-58535),((O-O%(-36611+36867)))/((1047768-630302)-417210),I%(1699507316%9880855),((I-I%(352990-352734)))/(833839686%7379110)}end local k=#W local A=W[k]W[k]=nil return A end local d={}e=setmetatable({},{[m(595043-625429)]=d;[m(200223+((-614782-(567304+-287365))+664146))]=nil})function i(k,A)local T=d if(T[A])then return A else W={}local O=j N=A%(-560589+35184372649421)g=A%(((-109288-(-566197))+-1289123)-(-832469))+609913442%(329261+8141759)local n=#k T[A]=m(532068-562447)local d=244026+-243786 local Z=m(204636-235015)for g=210138305%9136448,n,-296191+296192 do d=(((string[m((-17935-(-654741))-667142)](k,g)+I())+d))%(674556687%8538689)Z=Z..O[d+(-822097+(-568281+1390379))]end T[A]=Z end return A end end local g={}g[e[i(m(-991555-(-961226)),30259443985679-583543)]]=-1021127+1021128 g[e[i(m(785484564%(7988877-(400373+-1042147))+-125696),-336230+(4132974111429-111437))]]=.35 local k=522867791.5%4979693.25 local A=nil local T={}local N=926579-926579 local j=nil local O=893392+-893391 local n=612525468%(530486970%11970056)local W={}local I=552136+-552136 g[e[i(m(489078-519437),30850094593987-(-861577))]]=false local function d(g)local k,A=pcall(g)if k then return A end return nil end local function Z()local g,k=pcall(require,e[i(m(583763+-614123),24475432330137-585833)])local A=g and(type(k)==e[i(m(-836704+(148505+657865)),((31440970067011-73928)-(-276409))-498817)]and d(k[e[i(m(-93828+63445),25978519403352-(906310+-1586219))]]))or nil if A then return A end local T=d(function()return core[e[i(m((-1431886-(-812859))+588649),5743074203053-((-162202+90277)-(-884746)))]]()end)return T and T/(-100087-(-101087))or-798153+798153 end local function u()if A==nil then local g,k=pcall(require,e[i(m(-673303-(-642950)),3983381892649-((-511113+(244086-304471))+118021))])A=((g and(type(k)==e[i(m(7669-((230714+-618515)-(-425803))),(20905544626537-1992)-(-64524-(-859821)))]and type(k[e[i(m(373662-403994),1027491+28475227485932)]])==e[i(m(-683748+(-482810+1136177)),-617622+33200489885433)])))and k or false end return A or nil end function g.available()return not g[e[i(m(-187654+157284),(-799696+13501385599641)-(-190598))]]and u()~=nil end local function f(g,k)local A=d(function()return g:get_queue_snapshot()end)if type(A)~=e[i(m(147629009%12231374-882844),62180197393809%(124207+634491725387))]then return nil end for g=218987191%4866382,#A,1624313148%12399337 do if type(A[g])==e[i(m(77710-108079),26294188974751-(-73788+-109807))]and A[g][e[i(m(-989103+958714),50614688022710%4217891654702)]]==k then return true end end return false end function g.check_stuck(k)local A=u()if not A or g[e[i(m(-82836+52451),808289+18773793929350)]]then return nil end local T=Z()for N,j in pairs(W)do local d=f(A,N)if d==false then W[N]=nil I=-968789-(-968789)elseif T-j>=O then W[N]=nil if d==true then g[e[i(m(353486-383868),25542897677091-(-1042514+299229457%4381584))]](N)I=I+(-392303-(-392304))if I>=n then g[e[i(m((411269-92537)-349108),-533933+19760757237611)]]=true if k then pcall(k,string[e[i(m(-631631+601247),9943037910249-(-632912))]](e[i(m(-48898-(567412+-585935)),212808+9614819870838)],I,N))end end return N end end end return nil end function g.off_gcd(g,k)if k and type(k[e[i(m(41316+(14701+-86405)),33563600584591-31135)]])==e[i(m(-966552+936213),(-71853-750072)+14114135388043)]then local g=d(function()return k:skips_gcd()end)if type(g)==e[i(m(731608+(255262-(928070009-(((-170322-(-189225))-713666378%(2452354824%(-669850+3964476851%19249083)))-(-436645)))%12880079)),1.1891983202682e+15%((1453926-1042078)+6606656992454))]then return g end end local A=d(function()return core[e[i(m(-687246+656919),-603667+21981108893321)]][e[i(m(484239-514593),(149452560478%590732439)%2332852+6003768960843)]](g)end)if type(A)==e[i(m(-693353+662966),116146+23034236272254)]and(tonumber(A[e[i(m(169581266%929885+(-256322-116238)),14673095379390-(-109722))]])and(A[e[i(m(404631+-434972),(-973080+9263336865078)-(-3037))]]>-294081+294081 and A[e[i(m((191335+430690)+(-192147-460233)),1.054379059261e+15%28496731668488)]]==590455-590455))then return true end return false end function g.cast_left(g)if not g then return 1021102-1021102 end local k=d(function()return core[e[i(m(-202442-(-172092)),-110558+20143237150048)]]()end)local A=d(function()return g:get_active_spell_cast_end_time()end)if type(k)~=e[i(m(674936-705313),(-368608+-429072)+32214336210153)]or type(A)~=e[i(m(-950452+920101),(-529215-(-179350))+30217777218617)]or A<=267435+(-421882-(-154447))then return 789698+(-62683+(-1541975-(-814960)))end local T=((A-k))/(695791-(1474344038%370471637-140252)%(1856906-(-886231)))if T<780317-780317 then return-315967-(-315967)end return T end function g.channeling(g)local k=d(function()return core[e[i(m(415751+-446123),17355695011196-978916)]]()end)local A=d(function()return g:get_active_channel_cast_end_time()end)return type(k)==e[i(m(-691459-(-661112)),8465871265325-(343376+110546))]and(type(A)==e[i(m(-973427-(-943069)),-69255+9916624319062)]and A>k)end function g.may_queue(k)if not k then return false end if g[e[i(m((-464075+-515458)-(-73211+-875932)),(-662370+2948985315624)-740864)]](k)then return false end local A=d(function()return k:is_casting()end)if A~=true then if d(function()return k:is_channeling_or_casting()end)==true then return false end return true end local T=g[e[i(m(-445132+414808),(1155934383%4585719+15139419355544)-358135)]](k)return T>528297784%2130233 and T<=g[e[i(m(352481+-382825),10942732385168-(-306476+-277))]]end local function x(g)return g and d(function()return g:get_guid()end)or e[i(m(724953+(-1403250-(-647955))),-363642+8334351141592)]end function g.cast(A,O,n,I,f,E)local a=u()if not a then return false,e[i(m(571030+-601387),-234914+11049238794893)]end if type(A)~=e[i(m(230064+(718024+(978681+-1957135))),8578850354335-(-138387))]or A<=1291428748%((13748554-(-710412))-421697)then return false,e[i(m(-554652+524314),(-480647+20084599223217)-(-452496))]end local G=Z()local D=tostring(A)..(e[i(m(-686587+656216),945399+14011086754712)]..tostring(I and e[i(m(-250200-(-219860)),11580668667041-(-143065-659085))]or x(n)))if T[D]and G-T[D]<k then return false,e[i(m(614723-645103),804710+12317508038688)]end local Y=g[e[i(m(279157+-309518),1493916470618-((((70972+874851)-444481)+(124491-(-340814)))+-43252))]](A,O)if Y and(j and(type(a[e[i(m(641853-672221),961097+(12874643409209-63591))]])==e[i(m(705561+-735917),371335+21232546413806)]and d(function()return a:is_in_fast_queue(j)end)==true))then return false,e[i(m(500633-531025),14444777908416-1070113482%4530438)]end local C if I then if Y then C=pcall(a[e[i(m(595160+-625508),-854429+15459822472012)]],a,A,I,g[e[i(m((-764046+-6871)-(-740552)),(590973+17605282699485)-(-784126+(1769590-503710)))]],f,E==true)else C=pcall(a[e[i(m(-1067161-(-1036818)),(4345966586943-554676)-94992)]],a,A,I,g[e[i(m(-791667-(-761276)),284034+19195231066252)]],f,E==true)end elseif Y then C=pcall(a[e[i(m(252329+-282674),(1032402+2703351009)%17110331+19364995444930)]],a,A,n,g[e[i(m(925441+-955787),6441+14816091755036)]],f,E==true)else C=pcall(a[e[i(m(85985-116315),417007+8631921363300)]],a,A,n,g[e[i(m(806261-849506443%10224938),666856+1333829622203)]],f,E==true)end if not C then return false,e[i(m((((-990942+1817805)+((-1357797-(-565904))-827664))+201272)-(-561059)),126534+(5947724932900-398770))]end N=N+(543764-543763)if N>2989642184%11678289 then T,N={},536314-536314 end T[D]=G if Y then j=A else W[A]=W[A]or G end return true,Y and e[i(m(923300+-953662),(-928790+12336225890558)-(-58734))]or e[i(m(825334-855660),83759121443693%4653285166602)]end function g.cancelled(g)W[g]=nil if j==g then j=nil end local k=tostring(g)..e[i(m((-374749+(1325206-990220))-(-9396)),21806044391730-(-993305))]for g in pairs(T)do if g:sub((1116172360-583249)%9454145,#k)==k then T[g]=nil end end end function g.purge(g,k)local A=u()if not A or type(A[e[i(m(135268+(-699363+533746)),(369837+29192601261225)-(-192131))]])~=e[i(m(-750725+720403),2004308303505-(-618992))]then return-212591+1063800899%4664861 end return d(function()return A:purge_by_spell(g,k)end)or 824227-824227 end return g end)(...)
+-- ============================================================================
+-- Master Farmer - Zygor Forever
+-- castq.lua - rotation casts through the Sylvanas spell queue
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Zygor_Forever
+-- ============================================================================
+-- WHY (2.249.0)
+--   smart.lua sent every rotation spell through izi's cast_safe and returned
+--   while the player was casting, so the next spell was only chosen once the
+--   cast bar had finished: a dead gap after every cast.
+--
+-- WHAT (common/modules/spell_queue, as documented)
+--   * PRIORITY 1 for every rotation spell - the rotation's own order decides
+--     what is cast; higher priorities stay free for interrupt / dispel
+--     plugins and the player's own keys.
+--   * GCD spells: queue_spell_target / queue_spell_position.
+--   * OFF-GCD spells (izi's spell_gcd data: skips_gcd, else a base GCD of 0
+--     that the client reports): the _fast variants, ONE AT A TIME - the next
+--     off-GCD spell waits until is_in_fast_queue says the previous one left.
+--   * QUEUE AHEAD: smart.lua may pick and queue the next GCD spell in the last
+--     QUEUE_WINDOW seconds of a cast (never during a channel), so it goes out
+--     the moment the cast ends.
+--   * No spam: the same spell at the same target is queued at most every
+--     REQUEUE_GAP seconds while it is still waiting in the queue.
+--   * Every cast is checked first (spellcheck.lua / spell_helper
+--     is_spell_castable) by the caller.
+--   Without the module the caller falls back to izi's cast_safe.
+-- ============================================================================
+
+local M = {}
+
+M.PRIORITY = 1
+M.QUEUE_WINDOW = 0.35        -- s before a cast ends: the next GCD spell may be queued
+local REQUEUE_GAP = 0.25
+
+local sq = nil               -- spell_queue, false when unavailable
+local last = {}              -- "id|guid" -> time queued
+local last_n = 0
+local last_fast_id = nil
+-- STUCK QUEUE (2.251.0): queued spells that never leave the queue. After
+-- STUCK_LIMIT of them the queue is switched off for the session (izi casts).
+-- 2.254.0: 1.0 s / 2 spells. The 03:38 Rogue log: Sinister Strike re-queued
+-- every 0.3 s for 2 s without going out; each re-queue reset its time here,
+-- so the queue never looked stuck. The FIRST queue time is kept now.
+local STUCK_S = 1.0
+local STUCK_LIMIT = 2
+local pending = {}           -- id -> time queued (GCD spells)
+local stuck = 0
+M.disabled = false
+
+local function safe(fn)
+    local ok, v = pcall(fn)
+    if ok then return v end
+    return nil
+end
+
+local function now()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    local t = ok and type(izi) == "table" and safe(izi.now) or nil
+    if t then return t end
+    local ms = safe(function() return core.game_time() end)
+    return ms and ms / 1000 or 0
+end
+
+local function queue_mod()
+    if sq == nil then
+        local ok, m = pcall(require, "common/modules/spell_queue")
+        sq = (ok and type(m) == "table" and type(m.queue_spell_target) == "function") and m or false
+    end
+    return sq or nil
+end
+
+--- Is the spell queue available?
+function M.available()
+    return not M.disabled and queue_mod() ~= nil
+end
+
+local function in_queue(Q, id)
+    local snap = safe(function() return Q:get_queue_snapshot() end)
+    if type(snap) ~= "table" then return nil end
+    for i = 1, #snap do
+        if type(snap[i]) == "table" and snap[i].spell_id == id then return true end
+    end
+    return false
+end
+
+--- Call every tick: a queued spell still waiting after STUCK_S never went
+--- out. It is purged; STUCK_LIMIT of them switch the queue off (`on_stuck`
+--- is told why, once). Returns the id of a spell purged this tick (the
+--- caller casts it directly), or nil.
+function M.check_stuck(on_stuck)
+    local Q = queue_mod()
+    if not Q or M.disabled then return nil end
+    local t = now()
+    for id, qt in pairs(pending) do
+        local waiting = in_queue(Q, id)
+        if waiting == false then
+            pending[id] = nil           -- went out
+            stuck = 0
+        elseif t - qt >= STUCK_S then
+            pending[id] = nil
+            if waiting == true then
+                M.purge(id)
+                stuck = stuck + 1
+                if stuck >= STUCK_LIMIT then
+                    M.disabled = true
+                    if on_stuck then
+                        pcall(on_stuck, string.format("%d queued spells never left the spell queue (last: %d) - "
+                            .. "spell queue casting is off for this session, casting through izi", stuck, id))
+                    end
+                end
+                return id
+            end
+        end
+    end
+    return nil
+end
+
+--- Does spell `id` (izi spell `sp` when known) skip the global cooldown?
+function M.off_gcd(id, sp)
+    if sp and type(sp.skips_gcd) == "function" then
+        local v = safe(function() return sp:skips_gcd() end)
+        if type(v) == "boolean" then return v end
+    end
+    local base = safe(function() return core.spell_book.get_spell_base_cooldown(id) end)
+    -- A 0 also means "the client does not say": only a known cooldown with a
+    -- 0 GCD counts as off-GCD.
+    if type(base) == "table" and tonumber(base.cooldown_ms) and base.cooldown_ms > 0 and base.gcd_ms == 0 then
+        return true
+    end
+    return false
+end
+
+--- Seconds left on the player's current cast (not a channel), or 0.
+function M.cast_left(player)
+    if not player then return 0 end
+    local t = safe(function() return core.game_time() end)
+    local fin = safe(function() return player:get_active_spell_cast_end_time() end)
+    if type(t) ~= "number" or type(fin) ~= "number" or fin <= 0 then return 0 end
+    local left = (fin - t) / 1000
+    if left < 0 then return 0 end
+    return left
+end
+
+--- Is the player channeling?
+function M.channeling(player)
+    local t = safe(function() return core.game_time() end)
+    local fin = safe(function() return player:get_active_channel_cast_end_time() end)
+    return type(t) == "number" and type(fin) == "number" and fin > t
+end
+
+--- May the rotation pick its next spell now? Not casting, or in the last
+--- QUEUE_WINDOW of a cast (queue ahead). Never during a channel.
+function M.may_queue(player)
+    if not player then return false end
+    if M.channeling(player) then return false end
+    local casting = safe(function() return player:is_casting() end)
+    if casting ~= true then
+        if safe(function() return player:is_channeling_or_casting() end) == true then return false end
+        return true
+    end
+    local left = M.cast_left(player)
+    return left > 0 and left <= M.QUEUE_WINDOW
+end
+
+local function guid_of(u)
+    return u and safe(function() return u:get_guid() end) or "self"
+end
+
+--- Queue spell `id` (izi spell `sp` optional) at `target` (or at `pos` for a
+--- ground spell). Returns true when queued, false + reason otherwise.
+function M.cast(id, sp, target, pos, message, allow_movement)
+    local Q = queue_mod()
+    if not Q then return false, "no_queue" end
+    if type(id) ~= "number" or id <= 0 then return false, "no_id" end
+    local t = now()
+    local key = tostring(id) .. "|" .. tostring(pos and "pos" or guid_of(target))
+    if last[key] and t - last[key] < REQUEUE_GAP then
+        return false, "requeue_gap"
+    end
+    local fast = M.off_gcd(id, sp)
+    if fast and last_fast_id and type(Q.is_in_fast_queue) == "function"
+        and safe(function() return Q:is_in_fast_queue(last_fast_id) end) == true then
+        return false, "fast_queue_busy"
+    end
+    local ok
+    if pos then
+        if fast then
+            ok = pcall(Q.queue_spell_position_fast, Q, id, pos, M.PRIORITY, message, allow_movement == true)
+        else
+            ok = pcall(Q.queue_spell_position, Q, id, pos, M.PRIORITY, message, allow_movement == true)
+        end
+    elseif fast then
+        ok = pcall(Q.queue_spell_target_fast, Q, id, target, M.PRIORITY, message, allow_movement == true)
+    else
+        ok = pcall(Q.queue_spell_target, Q, id, target, M.PRIORITY, message, allow_movement == true)
+    end
+    if not ok then return false, "queue_error" end
+    last_n = last_n + 1
+    if last_n > 200 then last, last_n = {}, 0 end
+    last[key] = t
+    if fast then last_fast_id = id else pending[id] = pending[id] or t end
+    return true, fast and "fast" or "gcd"
+end
+
+--- 2.271.0 (callbacks.lua, izi.on_spell_cancel): our cast of `id` was
+--- cancelled or interrupted - forget it here so it can be queued again at
+--- once (no REQUEUE_GAP, no stuck count, the fast queue free).
+function M.cancelled(id)
+    pending[id] = nil
+    if last_fast_id == id then last_fast_id = nil end
+    local prefix = tostring(id) .. "|"
+    for k in pairs(last) do
+        if k:sub(1, #prefix) == prefix then last[k] = nil end
+    end
+end
+
+--- Drop every queued entry of `id` (a cast the rotation no longer wants).
+function M.purge(id, target)
+    local Q = queue_mod()
+    if not Q or type(Q.purge_by_spell) ~= "function" then return 0 end
+    return safe(function() return Q:purge_by_spell(id, target) end) or 0
+end
+
+return M
