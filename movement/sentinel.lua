@@ -359,8 +359,33 @@ function S.plan_route(c, nodes, cb, extra)
     do local fr = package.loaded["flightrec"] if fr then fr.note("sn_plan_route") end end 
     local accept = reply_guard(c)
     S.plan_sent = S.plan_sent + 1
+    -- 1.2.91: the nodes of every plan are logged (the library retries HTTP 422 "Position not on navmesh" for ~6 s with no callback, and the
+    -- logs never said WHICH point was off the mesh), and every reply that failed or took 1 s or more.
+    local sent_t, sent_n = nil, S.plan_sent
+    do
+        local R = package.loaded["movement/core"]
+        if R and R.now then sent_t = R.now() end
+        if R and R.trail and type(nodes) == "table" then
+            local parts = {}
+            for i = 1, math.min(#nodes, 5) do
+                local n = nodes[i]
+                parts[#parts + 1] = string.format("(%.0f, %.0f, %.1f)", n.x or 0, n.y or 0, n.z or 0)
+            end
+            R.trail("nav", "plan #%d nodes: %s%s", sent_n, table.concat(parts, " -> "), #nodes > 5 and (" ... +" .. (#nodes - 5)) or "")
+        end
+    end
     local function on_done(success, data)
-        do local R = package.loaded["movement/core"] if R and R.now then S.last_reply_t = R.now() end end
+        do
+            local R = package.loaded["movement/core"]
+            if R and R.now then
+                S.last_reply_t = R.now()
+                local dt = sent_t and (R.now() - sent_t) or 0
+                if R.trail and (success ~= true or dt >= 1.0) then
+                    R.trail("nav", "plan #%d reply: ok=%s after %.2f s%s", sent_n, tostring(success == true), dt,
+                        (success ~= true and type(data) == "string") and (" (" .. data .. ")") or "")
+                end
+            end
+        end
         S.plan_replied = S.plan_replied + 1
         if not accept() then return end
         pcall(cb, success == true, data)

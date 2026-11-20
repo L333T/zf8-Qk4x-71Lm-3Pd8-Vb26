@@ -574,7 +574,7 @@ N._ps_report = ps_report
 -- walked as a short leg (N.detour) instead of being handed to Sentinel's own long plan (10-66 s of awaiting_path in the logs).
 local UG = { seen = {}, under = {}, n = 0 }          -- 1.2.80: goals asked about / flagged underground
 function N.is_underground(x, y) return UG.under[key_of(x, y)] == true end
-local NR = { N = 3, TTL = 600, RADIUS = 20, by = {} }          -- 1.2.79c: unanswered plans per goal
+local NR = { N = 3, TTL = 600, RADIUS = 20, BACKOFF = 7, by = {} }          -- 1.2.79c: unanswered plans per goal
 -- 1.2.90 SATURATED SERVER (log 18:40-18:55: 86 of 120 leg plans got no reply; the server runs query_pool_size 3, so each bot plan that
 -- fired two hedges on top of the first filled the pool and everything behind it waited). SAT counts plans in a row that got no reply
 -- (any goal); while SAT.n >= SAT.MIN and the last one is younger than SAT.TTL s, no HEDGE request is sent - the plan is asked once,
@@ -1558,6 +1558,17 @@ issue_walk = function(c, x, y, z, mode, keep_z)
             R.trail("nav", "(%.0f, %.0f): dest z %.1f is %.0f yd above the player - walking at z %.1f (not up the mountain)",
                 x, y, z, z - hz, hz)
             z = hz
+        end
+    end
+    -- 1.2.91 BACK-OFF AFTER AN UNANSWERED PLAN (console log: the library retries HTTP 422 "Position not on navmesh" at 2 s and 4 s, ~6 s
+    -- in all, and answers nothing meanwhile; the bot asked again every 2-4 s, and each ask can restart that chain - unanswered bursts of
+    -- 30 s, median 27 s to the next reply). A goal whose last plan went unanswered is not asked again for NR.BACKOFF s; the walk is
+    -- reported handled and the guide asks again on its next tick. A combat walk never waits.
+    if mode ~= "combat" and mode ~= "elevator" and mode ~= "boat" then
+        local ne = NR.by[key_of(x, y)]
+        if ne and ne.n >= 1 and R.now() - ne.t < NR.BACKOFF then
+            stats.refused = stats.refused + 1
+            return true
         end
     end
     cur.id = cur.id + 1
