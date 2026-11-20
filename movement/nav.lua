@@ -575,6 +575,13 @@ N._ps_report = ps_report
 local UG = { seen = {}, under = {}, n = 0 }          -- 1.2.80: goals asked about / flagged underground
 function N.is_underground(x, y) return UG.under[key_of(x, y)] == true end
 local NR = { N = 3, TTL = 600, RADIUS = 20, by = {} }          -- 1.2.79c: unanswered plans per goal
+-- 1.2.90 SATURATED SERVER (log 18:40-18:55: 86 of 120 leg plans got no reply; the server runs query_pool_size 3, so each bot plan that
+-- fired two hedges on top of the first filled the pool and everything behind it waited). SAT counts plans in a row that got no reply
+-- (any goal); while SAT.n >= SAT.MIN and the last one is younger than SAT.TTL s, no HEDGE request is sent - the plan is asked once,
+-- and a reply of any plan clears the count.
+local SAT = { n = 0, t = -1e9, MIN = 2, TTL = 45, skipped = 0 }
+N._SAT = SAT
+local function sat_active() return SAT.n >= SAT.MIN and R.now() - SAT.t < SAT.TTL end
 N._NR = NR
 local LEG = { YD = 300, DIRECT = 380, HEDGE = { 150, 80 }, WAIT_S = 2.0, NEAR_LEG_MIN = 180 }
 N.LEG = LEG
@@ -787,6 +794,7 @@ local function pre_start(c, id, x, y, z, finished)
         end
         if cur.scanning == id then cur.scanning = nil end
         stats.pre_fallbacks = (stats.pre_fallbacks or 0) + 1
+        if st.sent_any and not st.winner then SAT.n, SAT.t = SAT.n + 1, R.now() end
         if st.sent_any and not st.winner then pcall(S.log_unanswered, c, tostring(why), x, y, st.sent_t and st.sent_t[1]) end
         -- 1.2.79c NEGATIVE MEMORY (log 17:16-17:22: the same goal got no answer in 5 asks, 60 s of awaiting_path each time): a goal whose
         -- plan has gone unanswered NR.N times within NR.TTL s is not handed to Sentinel again - it is given up at once (the area
@@ -1212,6 +1220,7 @@ local function pre_start(c, id, x, y, z, finished)
                     PS.n = PS.n + 1
                     st.winner = sn
                     NR.by[key_of(x, y)] = nil          -- 1.2.89: an answered goal is not an unanswered one
+                    SAT.n = 0
                     if sn > 1 then
                         PS.hedge_wins = PS.hedge_wins + 1
                         R.trail("nav", "hedged plan won: request %d answered in %.2f s (the first had no reply)", sn, lat)
@@ -1246,6 +1255,13 @@ local function pre_start(c, id, x, y, z, finished)
         --- A second / third request while the first has no reply (pre_watch asks for them at HEDGE_AT s).
         st.do_hedge = function(n)
             if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
+            if sat_active() then
+                SAT.skipped = SAT.skipped + 1
+                if SAT.skipped % 5 == 1 then
+                    R.trail("nav", "plan: %d plans in a row got no reply - no hedge request (the server is probably saturated); skipped %d", SAT.n, SAT.skipped)
+                end
+                return
+            end
             local dist = R.dist2(sx, sy, x, y)
             local start0 = { x = sx, y = sy, z = sz }
             PS.hedged = PS.hedged + 1
