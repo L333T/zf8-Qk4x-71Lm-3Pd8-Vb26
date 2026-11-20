@@ -3,6 +3,7 @@
 -- Identity - single source of truth for name / authors / version
 -- ============================================================================
 -- The product version is the `version` field of the table below.
+-- 1.2.92 (user: "totally rework the navigation"; scope chosen: simplify the planning layer, zygor_forever only, Sentinel stays the only travel system): ONE plan request in flight. Removed: the time-driven hedge requests (0.3 s / 0.8 s) and the 1.2.90 saturation gate - every extra request queued behind the library's own HTTP 422 retry chain (2 s + 4 s). A plan now waits 8 s (was 2 s; anchored 6 s); a FAILED reply asks the next shorter leg (150 yd, 80 yd) once each; no reply in 8 s = one short leg; 3 unanswered asks of a goal give it up; an unanswered goal is not asked again for 3 s. Kept: partial plans, spliced re-plans, prefetch, the walk-loop breaker, the 20 yd give-up blacklist, 25 s hold of a blocked goal, the plan logging of 1.2.89 / 1.2.91.
 -- 1.2.91 (user: "fix issues" after the 19:00-19:20 logs and the console log): the Sentinel library retries HTTP 422 "Position not on navmesh" at 2 s and 4 s and answers nothing meanwhile, and the bot asked again every 2-4 s. (1) a goal whose last plan went unanswered is not asked again for 7 s (the walk is reported handled, the guide asks on its next tick; combat, lift and boat walks never wait). (2) every plan logs its nodes ("plan #n nodes: ...") and every failed or 1 s+ reply ("plan #n reply: ..."), so the next log names the off-mesh point.
 -- 1.2.90 (user: client-side change after the 18:40-18:55 stalls): the Sentinel server answers 3 path queries at a time (query_pool_size 3), and every bot plan that got no reply fired two hedge requests on top, filling the pool. Plans in a row that get no reply are now counted across goals; from the 2nd on, for 45 s, no hedge request is sent (the plan is asked once, then the 1.2.89 give-up applies). Any answered plan clears the count. Log: "no hedge request (the server is probably saturated)".
 -- 1.2.89 (user: "could the path generation be performed quicker to keep the player from stalling"; log 18:40-18:45, 5 min standing at Ashenvale 26,38): plan latency was fine (0.05 s median) - ONE goal got no reply to plan_route or move_to at all, and it was retried for minutes. (1) an unanswered plan now counts BEFORE the short-leg fallback, so the goal is given up after 3 asks, not after 8 walks / 55 s; an answered plan clears the count. (2) the give-up blacklist radius is 20 yd (was 8): the guide's arrow and the snapped point were 14 yd apart, so a second goal on the same spot was not blocked. (3) a goal in a blacklisted area is held after 25 s (was 180 s), so the guide moves on. (4) log: every unanswered plan writes the server flag, Sentinel state, time since ANY reply, plans sent/replied and replies dropped by the adapter's guard.
@@ -235,6 +236,6 @@ return {
     description = "Zygor Forever - AFK questing on WoW Forever driven by Zygor Guides",
     authors = "BLIZZ - Anthonyk",
     author = "BLIZZ - Anthonyk",
-    version = "1.2.91",
+    version = "1.2.92",
     folder = "Zygor_Forever",
 }

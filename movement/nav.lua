@@ -468,7 +468,7 @@ N.PRECOMPUTE = true
 local SEG = { key = nil, last = nil, n = 0 }     -- audited-prefix segments walked toward one goal
 local SIDE_BATCH = 3                              -- 1.2.84: both sides of this many nearest offsets are asked together
 local SIDE_OFFSETS = { 15, 30, 55, 90, 140 }      -- 1.2.39: yd beside a steep span, nearest ring first
-local PRE = { MIN_PREFIX = 12, MAX_SEGMENTS = 80, MIN_YD = 15, WAIT_S = 2.0, END_YD = 6, TRIES = 2, REGEN_GAP = 1.5, MODES = { move = true, guide = true } }
+local PRE = { MIN_PREFIX = 12, MAX_SEGMENTS = 80, MIN_YD = 15, WAIT_S = 8.0, END_YD = 6, TRIES = 2, REGEN_GAP = 1.5, MODES = { move = true, guide = true } }
 N.PRE = PRE
 
 -- 1.2.19 THE SAME STEEP SPAN, AGAIN AND AGAIN. A route whose plan crosses ground this layer judges impassable was planned,
@@ -543,9 +543,13 @@ end
 --   another mesh floor of the goal. The first valid reply wins, later replies are ignored, a failed reply waits for the others.
 --   PREFETCH: while a leg runs, the path to the guide's NEXT waypoint (N.hint_next) is planned from this leg's end and kept; when
 --   the guide asks for that waypoint the path is already there (no wait at all at a waypoint change).
+-- 1.2.91 ONE REQUEST IN FLIGHT (user: "totally rework the navigation" - the planning layer simplified, Sentinel stays the only travel
+-- system). Console log: the library answers an HTTP 422 only after its own retries (2 s + 4 s, ~7 s in all) and queues requests behind
+-- it, so the 1.2.77 hedges (0.3 s / 0.8 s) and the 2 s timeout only piled requests onto a busy client. Now: a plan waits up to 8 s;
+-- a failed reply asks the next shorter leg (150 yd, 80 yd) once each; no reply in 8 s = the short-leg fallback; 3 unanswered asks of
+-- one goal give it up (NR); an unanswered goal is not asked again for NR.BACKOFF s.
 local PS = { n = 0, lat = {}, hedged = 0, hedge_wins = 0, prefetch_asked = 0, prefetch_used = 0, no_reply = 0, t0 = nil }
 N._PS = PS
-local HEDGE_AT = { 0.3, 0.8 }        -- 1.2.79: was { 0.5, 1.3 }
 local PF = { NEAR = 140, MAX_AGE = 120, plan = nil, asking = false, key = nil }
 N._PF = PF
 
@@ -574,19 +578,12 @@ N._ps_report = ps_report
 -- walked as a short leg (N.detour) instead of being handed to Sentinel's own long plan (10-66 s of awaiting_path in the logs).
 local UG = { seen = {}, under = {}, n = 0 }          -- 1.2.80: goals asked about / flagged underground
 function N.is_underground(x, y) return UG.under[key_of(x, y)] == true end
-local NR = { N = 3, TTL = 600, RADIUS = 20, BACKOFF = 7, by = {} }          -- 1.2.79c: unanswered plans per goal
--- 1.2.90 SATURATED SERVER (log 18:40-18:55: 86 of 120 leg plans got no reply; the server runs query_pool_size 3, so each bot plan that
--- fired two hedges on top of the first filled the pool and everything behind it waited). SAT counts plans in a row that got no reply
--- (any goal); while SAT.n >= SAT.MIN and the last one is younger than SAT.TTL s, no HEDGE request is sent - the plan is asked once,
--- and a reply of any plan clears the count.
-local SAT = { n = 0, t = -1e9, MIN = 2, TTL = 45, skipped = 0 }
-N._SAT = SAT
-local function sat_active() return SAT.n >= SAT.MIN and R.now() - SAT.t < SAT.TTL end
+local NR = { N = 3, TTL = 600, RADIUS = 20, BACKOFF = 3, by = {} }          -- 1.2.79c: unanswered plans per goal
 N._NR = NR
-local LEG = { YD = 300, DIRECT = 380, HEDGE = { 150, 80 }, WAIT_S = 2.0, NEAR_LEG_MIN = 180 }
+local LEG = { YD = 300, DIRECT = 380, HEDGE = { 150, 80 }, WAIT_S = 8.0, NEAR_LEG_MIN = 180 }
 N.LEG = LEG
 
-local LONG = { MIN_YD = 450, SEG_YD = 320, LAST_YD = 150, MAX_ANCHORS = 6, FLOOR_DZ = 60, PARTIAL_GAIN = 120, PARTIAL_SHORT = 80, WAIT_S = 6.0,
+local LONG = { MIN_YD = 450, SEG_YD = 320, LAST_YD = 150, MAX_ANCHORS = 6, FLOOR_DZ = 60, PARTIAL_GAIN = 120, PARTIAL_SHORT = 80, WAIT_S = 8.0,
     AHEAD_MIN = 25, AHEAD_MAX = 70, PARTIAL_H = 150 }
 N.LONG = LONG
 
@@ -794,7 +791,6 @@ local function pre_start(c, id, x, y, z, finished)
         end
         if cur.scanning == id then cur.scanning = nil end
         stats.pre_fallbacks = (stats.pre_fallbacks or 0) + 1
-        if st.sent_any and not st.winner then SAT.n, SAT.t = SAT.n + 1, R.now() end
         if st.sent_any and not st.winner then pcall(S.log_unanswered, c, tostring(why), x, y, st.sent_t and st.sent_t[1]) end
         -- 1.2.79c NEGATIVE MEMORY (log 17:16-17:22: the same goal got no answer in 5 asks, 60 s of awaiting_path each time): a goal whose
         -- plan has gone unanswered NR.N times within NR.TTL s is not handed to Sentinel again - it is given up at once (the area
@@ -1220,7 +1216,6 @@ local function pre_start(c, id, x, y, z, finished)
                     PS.n = PS.n + 1
                     st.winner = sn
                     NR.by[key_of(x, y)] = nil          -- 1.2.89: an answered goal is not an unanswered one
-                    SAT.n = 0
                     if sn > 1 then
                         PS.hedge_wins = PS.hedge_wins + 1
                         R.trail("nav", "hedged plan won: request %d answered in %.2f s (the first had no reply)", sn, lat)
@@ -1252,16 +1247,9 @@ local function pre_start(c, id, x, y, z, finished)
             end
             return true
         end
-        --- A second / third request while the first has no reply (pre_watch asks for them at HEDGE_AT s).
+        --- 1.2.91: the next shorter leg / another floor - asked only after a FAILED reply (race_cb), never on a clock.
         st.do_hedge = function(n)
             if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
-            if sat_active() then
-                SAT.skipped = SAT.skipped + 1
-                if SAT.skipped % 5 == 1 then
-                    R.trail("nav", "plan: %d plans in a row got no reply - no hedge request (the server is probably saturated); skipped %d", SAT.n, SAT.skipped)
-                end
-                return
-            end
             local dist = R.dist2(sx, sy, x, y)
             local start0 = { x = sx, y = sy, z = sz }
             PS.hedged = PS.hedged + 1
@@ -1270,7 +1258,7 @@ local function pre_start(c, id, x, y, z, finished)
                 local leg = LEG.HEDGE[n] or LEG.HEDGE[#LEG.HEDGE]
                 local f = leg / dist
                 local ax, ay, az0 = sx + (x - sx) * f, sy + (y - sy) * f, sz + ((z or sz) - sz) * f
-                R.trail("nav", "plan: no reply in %.1f s - a hedge request for the first %d yd of the way", HEDGE_AT[n], leg)
+                R.trail("nav", "plan: asking a shorter leg - the first %d yd of the way", leg)
                 floors_for(c, key_of(ax, ay), ax, ay, az0, function(fl)
                     if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
                     local best, bd = nil, nil
@@ -1286,7 +1274,7 @@ local function pre_start(c, id, x, y, z, finished)
                     end
                 end)
             else
-                R.trail("nav", "plan: no reply in %.1f s - a hedge request at another floor of the goal", HEDGE_AT[n])
+                R.trail("nav", "plan: asking another floor of the goal")
                 floors_for(c, key_of(x, y), x, y, z, function(fl)
                     if st.done or cur.id ~= id or cur.done or st.started or st.winner then return end
                     local alts = {}
@@ -1407,15 +1395,8 @@ end
 --- Called every pulse: a first plan with no reply after WAIT_S becomes a plain move_to.
 local function pre_watch()
     local st = cur.pre
-    -- 1.2.77: hedged requests while the first plan has no reply
-    if st and st.id == cur.id and st.planning and not st.started and not st.done and st.do_hedge and not st.winner and (st.inflight or 0) > 0 then
-        local n = (st.hedge_n or 0) + 1
-        local at = HEDGE_AT[n]
-        if at and (R.now() - (st.plan_t or R.now())) > at then
-            st.hedge_n = n
-            pcall(st.do_hedge, n)
-        end
-    end
+    -- 1.2.91: ONE plan in flight. No time-driven hedge requests any more (each extra request queued behind the library's own
+    -- HTTP 422 retry chain); a plan with no reply is waited for until its wait ends, a FAILED reply asks the next shorter leg.
     local wait = st and st.wait or PRE.WAIT_S                        -- 1.2.75: an anchored (long) plan gets longer
     if st and st.id == cur.id and st.planning and not st.started and not st.done
         and (R.now() - (st.plan_t or R.now())) > wait then
