@@ -3,6 +3,7 @@
 -- Identity - single source of truth for name / authors / version
 -- ============================================================================
 -- The product version is the `version` field of the table below.
+-- 1.2.93 (user: "watch logs"; log 19:23-19:30): THE PATROL PLAN WAS THE LOAD. follow_nodes asks plan_route for a 7-point patrol - a TSP the server answered ok=true after 25-193 s - and re-asked every 8 s, so 35 of them piled up (each answer later than the last) and the server stopped answering /health. A patrol plan is now waited for up to 60 s with ONE request in flight, given up after that (asked again 20 s later), and two asks are at least 20 s apart even across a stop. 1.2.91's reply logging is what showed it.
 -- 1.2.92 (user: "totally rework the navigation"; scope chosen: simplify the planning layer, zygor_forever only, Sentinel stays the only travel system): ONE plan request in flight. Removed: the time-driven hedge requests (0.3 s / 0.8 s) and the 1.2.90 saturation gate - every extra request queued behind the library's own HTTP 422 retry chain (2 s + 4 s). A plan now waits 8 s (was 2 s; anchored 6 s); a FAILED reply asks the next shorter leg (150 yd, 80 yd) once each; no reply in 8 s = one short leg; 3 unanswered asks of a goal give it up; an unanswered goal is not asked again for 3 s. Kept: partial plans, spliced re-plans, prefetch, the walk-loop breaker, the 20 yd give-up blacklist, 25 s hold of a blocked goal, the plan logging of 1.2.89 / 1.2.91.
 -- 1.2.91 (user: "fix issues" after the 19:00-19:20 logs and the console log): the Sentinel library retries HTTP 422 "Position not on navmesh" at 2 s and 4 s and answers nothing meanwhile, and the bot asked again every 2-4 s. (1) a goal whose last plan went unanswered is not asked again for 7 s (the walk is reported handled, the guide asks on its next tick; combat, lift and boat walks never wait). (2) every plan logs its nodes ("plan #n nodes: ...") and every failed or 1 s+ reply ("plan #n reply: ..."), so the next log names the off-mesh point.
 -- 1.2.90 (user: client-side change after the 18:40-18:55 stalls): the Sentinel server answers 3 path queries at a time (query_pool_size 3), and every bot plan that got no reply fired two hedge requests on top, filling the pool. Plans in a row that get no reply are now counted across goals; from the 2nd on, for 45 s, no hedge request is sent (the plan is asked once, then the 1.2.89 give-up applies). Any answered plan clears the count. Log: "no hedge request (the server is probably saturated)".
@@ -236,6 +237,6 @@ return {
     description = "Zygor Forever - AFK questing on WoW Forever driven by Zygor Guides",
     authors = "BLIZZ - Anthonyk",
     author = "BLIZZ - Anthonyk",
-    version = "1.2.92",
+    version = "1.2.93",
     folder = "Zygor_Forever",
 }

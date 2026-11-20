@@ -3185,6 +3185,12 @@ local node_job = { key = nil, pending = false }
 -- answered "already planning" - the engine patrolled nothing. A stop now clears the job, and a plan unanswered for NODE_WAIT s
 -- is given up (asked again).
 local NODE_WAIT = 8.0
+-- 1.2.93 PATROL PLANS: ONE IN FLIGHT (log 19:23-19:30: the 7-point patrol plan_route is a TSP - the server answered ok=true but after
+-- 25-193 s, and the bot asked again every 8 s, so 35 of them piled up, each answer later than the last (32 s ... 193 s) and the server
+-- stopped answering /health). A patrol plan is now waited for up to NODE_MAX s, never asked again meanwhile, and two asks are at least
+-- NODE_GAP s apart even across a stop.
+local NODE_MAX = 60.0
+local NODE_GAP = 20.0
 function N._node_reset() node_job.key, node_job.pending, node_job.retry_at = nil, false, nil end
 function N.follow_nodes(list)
     if type(list) ~= "table" or #list < 2 then return false end
@@ -3200,9 +3206,15 @@ function N.follow_nodes(list)
     local last = nodes[#nodes]
     local key = string.format("%d|%d|%d|%d", #nodes, math.floor(last.x), math.floor(last.y), math.floor(nodes[1].x))
     if node_job.key == key and node_job.retry_at and R.now() < node_job.retry_at then return false end
-    if node_job.pending and node_job.t and R.now() - node_job.t > NODE_WAIT then
+    if node_job.pending and node_job.t and R.now() - node_job.t > NODE_MAX then
         node_job.pending = false
-        R.trail("nav", "patrol plan: no reply in %.0f s - asking again", NODE_WAIT)
+        node_job.retry_at = R.now() + NODE_GAP
+        R.trail("nav", "patrol plan: no reply in %.0f s - given up, asking again in %.0f s", NODE_MAX, NODE_GAP)
+        return false
+    end
+    if node_job.pending and node_job.t and not node_job.said and R.now() - node_job.t > NODE_WAIT then
+        node_job.said = true
+        R.trail("nav", "patrol plan: no reply in %.0f s - still waiting (one request in flight)", NODE_WAIT)
     end
     if node_job.key == key and (node_job.pending or (cur.route and S.moving(c))) then
         return true
@@ -3212,7 +3224,9 @@ function N.follow_nodes(list)
         node_job.key, node_job.pending = key, false
         return true
     end
+    if node_job.sent_t and R.now() - node_job.sent_t < NODE_GAP then return false end
     node_job.key, node_job.pending, node_job.retry_at, node_job.t = key, true, nil, R.now()
+    node_job.sent_t, node_job.said = R.now(), false
     local ok = S.plan_route(c, nodes, function(okp, data)
         if node_job.key ~= key then return end
         node_job.pending = false
