@@ -580,7 +580,7 @@ local UG = { seen = {}, under = {}, n = 0 }          -- 1.2.80: goals asked abou
 function N.is_underground(x, y) return UG.under[key_of(x, y)] == true end
 local NR = { N = 3, TTL = 600, RADIUS = 20, BACKOFF = 3, by = {} }          -- 1.2.79c: unanswered plans per goal
 N._NR = NR
-local LEG = { YD = 300, DIRECT = 380, HEDGE = { 150, 80 }, WAIT_S = 8.0, NEAR_LEG_MIN = 180 }
+local LEG = { YD = 1000, DIRECT = 1500, HEDGE = { 150, 80 }, WAIT_S = 8.0, NEAR_LEG_MIN = 180 }
 N.LEG = LEG
 
 local LONG = { MIN_YD = 450, SEG_YD = 320, LAST_YD = 150, MAX_ANCHORS = 6, FLOOR_DZ = 60, PARTIAL_GAIN = 120, PARTIAL_SHORT = 80, WAIT_S = 8.0,
@@ -1322,7 +1322,12 @@ local function pre_start(c, id, x, y, z, finished)
         -- 1.2.78 / 1.2.79: the ESP's bypass points (hazards on the way), and for a far goal a LEG - never a query longer than LEG.YD
         local dist_goal = R.dist2(sx, sy, x, y)
         if not st.no_anchor and dist_goal > 60 and type(c.plan_route) == "function" then
-            local vias = LONG.hazard_vias(sx, sy, sz, x, y, z)
+            -- 1.2.94 THE CORPSE-RUN SHAPE (user: "send one plain 2-node start -> goal plan ... add vias only when a hazard actually
+            -- crosses the path"): measured on a fresh server a 2-node 1190 yd plan answers in 0.14 s, and the corpse run (1279 yd, one
+            -- plan) in 0.25 s; the 1.2.79 300 yd leg points, floor queries and pre-planned ESP vias were answers to "no reply" bursts
+            -- that were queue pile-ups. No vias are planned in advance: the audit of the reply (N.danger_at -> try_sides) asks for a
+            -- route round a hazard that really crosses the path. Only a goal beyond LEG.DIRECT is asked as a LEG.YD leg.
+            local vias = {}
             local far = dist_goal > LEG.DIRECT
             local leg = far and LEG.point(sx, sy, sz, x, y, z, LEG.YD) or nil
             if far and not leg then far = false end
@@ -1888,6 +1893,12 @@ function N.nav_to(dest, direct, mode)
         return true
     end
     if not direct and mode ~= "combat" and Z.blocked_xy(x, y) then
+        record_fail("blacklisted")
+        return false
+    end
+    -- 1.2.94: a guide goal whose plan FAILED within the last 10 minutes is not asked again (a slow or ended-short plan only marks it
+    -- for the patrol; a guide goal may be walked up to)
+    if not direct and mode == "guide" and S.is_bad(x, y, { failed = true }) then
         record_fail("blacklisted")
         return false
     end
@@ -3187,11 +3198,92 @@ local node_job = { key = nil, pending = false }
 local NODE_WAIT = 8.0
 -- 1.2.93 PATROL PLANS: ONE IN FLIGHT (log 19:23-19:30: the 7-point patrol plan_route is a TSP - the server answered ok=true but after
 -- 25-193 s, and the bot asked again every 8 s, so 35 of them piled up, each answer later than the last (32 s ... 193 s) and the server
--- stopped answering /health). A patrol plan is now waited for up to NODE_MAX s, never asked again meanwhile, and two asks are at least
--- NODE_GAP s apart even across a stop.
+-- stopped answering /health). A patrol plan is waited for up to NODE_MAX s, never asked again meanwhile, and an unanswered ask is not
+-- repeated for NODE_GAP s even across a stop.
+-- 1.2.94 SEQUENTIAL 2-NODE LEGS (user: "replace the 7-node TSP with sequential 2-node legs (the corpse-run shape), and snap ring points
+-- to real mesh floors first"). A ring is walked point by point: every point's mesh floors are asked once (points with no floor near
+-- their height, and remembered bad points, are dropped), then ONE 2-node plan (player -> next point) is asked, walked with
+-- follow_path, and the next point follows when it ends. A plan that fails or comes back slow marks its point (S.mark_bad).
 local NODE_MAX = 60.0
 local NODE_GAP = 20.0
-function N._node_reset() node_job.key, node_job.pending, node_job.retry_at = nil, false, nil end
+local NODE_ARRIVE = 12.0
+function N._node_reset()
+    node_job.key, node_job.pending, node_job.retry_at = nil, false, nil
+    node_job.snapped, node_job.snapping, node_job.idx = nil, false, nil
+end
+local function patrol_snap(c, nodes, key)
+    node_job.snapping = true
+    local anchors = {}
+    for i = 1, #nodes do anchors[i] = { x = nodes[i].x, y = nodes[i].y, z0 = nodes[i].z } end
+    LONG.resolve(c, anchors, function(list)
+        if node_job.key ~= key then return end
+        node_job.snapping = false
+        local out = {}
+        for _, p in ipairs(list) do
+            if not S.is_bad(p.x, p.y) then out[#out + 1] = p end
+        end
+        if #out < 2 then
+            node_job.retry_at = R.now() + 30
+            record_fail("no_planned_path")
+            R.trail("nav", "patrol: %d of %d ring points have a mesh floor near their height and are not bad points - no patrol (asked again in 30 s)",
+                #out, #nodes)
+            return
+        end
+        node_job.snapped, node_job.idx = out, nil
+        if #out < #nodes then R.trail("nav", "patrol: %d of %d ring points kept (the others have no mesh floor there or are bad points)", #out, #nodes) end
+    end)
+    return true
+end
+local function patrol_leg(c, key)
+    local list = node_job.snapped
+    local hx, hy, hz = R.here()
+    if not hx then return false end
+    local n = #list
+    local pick
+    for _ = 1, n do
+        local i
+        if not node_job.idx then
+            i, node_job.idx = 1, 0
+            local bd
+            for j = 1, n do
+                local d = R.dist2(hx, hy, list[j].x, list[j].y)
+                if not bd or d < bd then bd, i = d, j end
+            end
+            node_job.idx = i - 1
+        end
+        node_job.idx = node_job.idx % n + 1
+        local p = list[node_job.idx]
+        if not S.is_bad(p.x, p.y) and R.dist2(hx, hy, p.x, p.y) > NODE_ARRIVE then pick = p break end
+    end
+    if not pick then
+        node_job.retry_at = R.now() + 30
+        R.trail("nav", "patrol: no ring point left to walk to (bad points or already there) - asked again in 30 s")
+        return false
+    end
+    if node_job.sent_t and not node_job.replied and R.now() - node_job.sent_t < NODE_GAP then return false end
+    node_job.pending, node_job.retry_at, node_job.t = true, nil, R.now()
+    node_job.sent_t, node_job.replied, node_job.said = R.now(), false, false
+    local ok = S.plan_route(c, { { x = hx, y = hy, z = hz }, { x = pick.x, y = pick.y, z = pick.z } }, function(okp, data)
+        if node_job.key ~= key then return end
+        node_job.pending, node_job.replied = false, true
+        if not okp or type(data) ~= "table" or type(data.waypoints) ~= "table" or #data.waypoints < 2 then
+            node_job.retry_at = R.now() + 2
+            record_fail("no_planned_path")
+            R.trail("nav", "route refused: planning returned no walkable waypoints")
+            return
+        end
+        if not N.follow_route(data.waypoints, true) then
+            S.mark_bad(pick.x, pick.y, "failed")           -- an unsafe slope on the way there: skip this point
+            node_job.retry_at = R.now() + 2
+        end
+    end)
+    if not ok then
+        node_job.pending, node_job.retry_at = false, R.now() + 5
+        record_fail("no_planned_path")
+        return false
+    end
+    return true
+end
 function N.follow_nodes(list)
     if type(list) ~= "table" or #list < 2 then return false end
     if N.refusal() then return false end
@@ -3205,7 +3297,11 @@ function N.follow_nodes(list)
     end
     local last = nodes[#nodes]
     local key = string.format("%d|%d|%d|%d", #nodes, math.floor(last.x), math.floor(last.y), math.floor(nodes[1].x))
-    if node_job.key == key and node_job.retry_at and R.now() < node_job.retry_at then return false end
+    if node_job.key ~= key then
+        node_job.key, node_job.pending, node_job.snapping, node_job.snapped, node_job.idx = key, false, false, nil, nil
+        node_job.retry_at = nil
+    end
+    if node_job.retry_at and R.now() < node_job.retry_at then return false end
     if node_job.pending and node_job.t and R.now() - node_job.t > NODE_MAX then
         node_job.pending = false
         node_job.retry_at = R.now() + NODE_GAP
@@ -3216,35 +3312,14 @@ function N.follow_nodes(list)
         node_job.said = true
         R.trail("nav", "patrol plan: no reply in %.0f s - still waiting (one request in flight)", NODE_WAIT)
     end
-    if node_job.key == key and (node_job.pending or (cur.route and S.moving(c))) then
-        return true
-    end
+    if node_job.pending or node_job.snapping then return true end
+    if cur.route and cur.mode == "route" and S.moving(c) then return true end          -- a leg is walking
     if N.holding() then
         held.dest = { nodes = nodes }
-        node_job.key, node_job.pending = key, false
         return true
     end
-    if node_job.sent_t and R.now() - node_job.sent_t < NODE_GAP then return false end
-    node_job.key, node_job.pending, node_job.retry_at, node_job.t = key, true, nil, R.now()
-    node_job.sent_t, node_job.said = R.now(), false
-    local ok = S.plan_route(c, nodes, function(okp, data)
-        if node_job.key ~= key then return end
-        node_job.pending = false
-        if not okp or type(data) ~= "table" or type(data.waypoints) ~= "table"
-            or #data.waypoints < 2 then
-            node_job.retry_at = R.now() + 5
-            record_fail("no_planned_path")
-            R.trail("nav", "route refused: planning returned no walkable waypoints")
-            return
-        end
-        if not N.follow_route(data.waypoints, true) then node_job.retry_at = R.now() + 5 end
-    end)
-    if not ok then
-        node_job.pending, node_job.retry_at = false, R.now() + 5
-        record_fail("no_planned_path")
-        return false
-    end
-    return true
+    if not node_job.snapped then return patrol_snap(c, nodes, key) end
+    return patrol_leg(c, key)
 end
 N.plan_and_follow = N.follow_nodes
 

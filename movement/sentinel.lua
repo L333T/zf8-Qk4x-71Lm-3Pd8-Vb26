@@ -349,6 +349,7 @@ function S.validate(c, p, cb)
     return ok == true
 end
 
+local note_plan_reply       -- defined below (1.2.94)
 ---plan_route: cb(success, data) - data.visit_order on success (doc).
 --- plan_route(nodes, cb, opts?) - planning only. 1.2.77 (user: "best use of the in-game Sentinel settings"): the client's OWN path
 --- options (get_path_opts: the Pathfinding / Movement tabs - string pulling, partial paths, off-mesh snapping, wall clearance,
@@ -388,6 +389,7 @@ function S.plan_route(c, nodes, cb, extra)
         end
         S.plan_replied = S.plan_replied + 1
         if not accept() then return end
+        pcall(note_plan_reply, c, nodes, success, data, sent_t and ((package.loaded["movement/core"] or {now=function() return 0 end}).now() - sent_t) or 0)
         pcall(cb, success == true, data)
     end
     local opts = (not S.plan_opts_bad) and S.path_opts(c, extra) or (type(extra) == "table" and extra or nil)
@@ -413,6 +415,70 @@ function S.log_unanswered(c, tag, x, y, sent_t)
         tostring(tag), x or 0, y or 0, sent_t and string.format("%.1f s", now - sent_t) or "?", tostring(up),
         tostring(ok and state or "?"), S.last_reply_t and string.format("%.0f s", now - S.last_reply_t) or "never",
         S.plan_sent, S.plan_replied, S.drops.generation, S.drops.client, S.drops.world)
+end
+
+-- 1.2.94 BAD POINTS (user: "if a plan reply takes 3 s or more, or comes back failed or partial, remember those endpoints for about 10
+-- minutes and skip them"). Measured on a fresh server: a 2-node 1190 yd plan 0.14 s, a 25 yd plan between two patrol points that are
+-- not on the connected mesh 18 s (the server retries 16 start and 16 end cells, each a full search). A point like that is asked once.
+S.BAD_TTL, S.BAD_YD, S.BAD_SLOW_S, S.BAD_NEAR_YD = 600, 6, 3.0, 380
+local bad_points = {}
+function S.mark_bad(x, y, why)
+    local R = package.loaded["movement/core"]
+    if not R or not R.now or type(x) ~= "number" or type(y) ~= "number" then return end
+    local t = R.now()
+    for i = #bad_points, 1, -1 do
+        local b = bad_points[i]
+        if t - b.t > S.BAD_TTL then table.remove(bad_points, i)
+        elseif math.abs(b.x - x) <= S.BAD_YD and math.abs(b.y - y) <= S.BAD_YD then
+            b.t, b.why = t, why
+            return
+        end
+    end
+    if #bad_points >= 200 then table.remove(bad_points, 1) end
+    bad_points[#bad_points + 1] = { x = x, y = y, t = t, why = why }
+end
+--- The reason ("failed" | "slow" | "partial") when (x, y) is a remembered bad point; `kinds` (a set) narrows the reasons.
+function S.is_bad(x, y, kinds)
+    local R = package.loaded["movement/core"]
+    if not R or not R.now or type(x) ~= "number" or type(y) ~= "number" then return nil end
+    local t = R.now()
+    for i = #bad_points, 1, -1 do
+        local b = bad_points[i]
+        if t - b.t > S.BAD_TTL then table.remove(bad_points, i)
+        elseif math.abs(b.x - x) <= S.BAD_YD and math.abs(b.y - y) <= S.BAD_YD and (not kinds or kinds[b.why]) then
+            return b.why
+        end
+    end
+    return nil
+end
+function S.clear_bad() for i = #bad_points, 1, -1 do bad_points[i] = nil end end
+function S.bad_count() return #bad_points end
+---Called with every plan reply: failed, slow or (for a near goal) ended-short replies mark the plan's end points.
+note_plan_reply = function(c, nodes, success, data, dt)
+    if type(nodes) ~= "table" or #nodes < 2 then return end
+    local why
+    if success ~= true then why = "failed"
+    elseif dt >= S.BAD_SLOW_S then why = "slow"
+    else
+        local wp = type(data) == "table" and data.waypoints or nil
+        local a, g = nodes[1], nodes[#nodes]
+        if type(wp) == "table" and #wp >= 2 and a and g then
+            local last = wp[#wp]
+            local function d2(p, q) return math.sqrt((p.x - q.x) ^ 2 + (p.y - q.y) ^ 2) end
+            if type(last) == "table" and last.x and d2(a, g) <= S.BAD_NEAR_YD and d2(last, g) > 15 then why = "partial" end
+        end
+    end
+    -- a dead server fails and delays every plan: that says nothing about the points
+    if why == "failed" or why == "slow" then
+        if not S.server_up(c) then return end
+    end
+    if not why then return end
+    for i = 2, #nodes do S.mark_bad(nodes[i].x, nodes[i].y, why) end
+    local R = package.loaded["movement/core"]
+    if R and R.trail then
+        local g = nodes[#nodes]
+        R.trail("nav", "bad point (%s, %.1f s): (%.0f, %.0f) is skipped for %.0f min", why, dt, g.x, g.y, S.BAD_TTL / 60)
+    end
 end
 
 ---One path query, no movement (advanced: client.nav_client:find_path).
